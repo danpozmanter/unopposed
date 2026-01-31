@@ -59,7 +59,7 @@
 
 	async function loadElectionData(year: number) {
 		isLoading = true;
-		const newData = new SvelteMap<string, ElectionData | null>();
+		electionsByState.clear();
 
 		const fetchPromises = STATE_CODES.map(async (stateCode) => {
 			const filename = getFilename(stateCode);
@@ -67,18 +67,16 @@
 				const response = await fetch(`${baseUrl}election_data/${filename}_${year}.json`);
 				if (response.ok) {
 					const data = await response.json();
-					newData.set(stateCode, data);
+					electionsByState.set(stateCode, data);
 				} else {
-					newData.set(stateCode, null);
+					electionsByState.set(stateCode, null);
 				}
 			} catch {
-				newData.set(stateCode, null);
+				electionsByState.set(stateCode, null);
 			}
 		});
 
 		await Promise.all(fetchPromises);
-
-		electionsByState = newData;
 		isLoading = false;
 	}
 
