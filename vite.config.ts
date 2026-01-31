@@ -3,7 +3,8 @@ import { defineConfig } from 'vite';
 import { readFileSync, existsSync } from 'fs';
 import { join } from 'path';
 
-export default defineConfig({
+export default defineConfig(({ command }) => ({
+	base: command === 'build' ? '/unopposed/' : '/',
 	plugins: [
 		{
 			name: 'serve-election-data',
@@ -29,4 +30,4 @@ export default defineConfig({
 	build: {
 		outDir: 'dist'
 	}
-});
+}));

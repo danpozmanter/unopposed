@@ -2,6 +2,8 @@
 
 Tracks unopposed candidates in US elections (federal and state legislative races).
 
+[View (Hosted on Github Pages)](https://danpozmanter.github.io/unopposed/)
+
 ## Structure
 
 - `src/` - Svelte frontend

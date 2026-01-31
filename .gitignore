@@ -10,6 +10,9 @@ __pycache__/
 .venv/
 .ruff_cache/
 
+# Build output
+dist/
+
 # Logs
 *.log
 npm-debug.log*

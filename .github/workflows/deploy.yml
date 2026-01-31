@@ -41,7 +41,7 @@ jobs:
         id: pages
 
       - name: Build
-        run: pnpm build --base "${{ steps.pages.outputs.base_path }}/"
+        run: pnpm build
 
       - name: Copy election data to dist
         run: cp -rL election_data dist/ 2>/dev/null || true
