@@ -1,0 +1,145 @@
+name: Scrape Election Data
+
+on:
+  schedule:
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
+
+      - name: Install dependencies
+        run: |
+          cd scraper
+          uv sync
+
+      - name: Create output directory
+        run: mkdir -p election_data
+
+      - name: Determine years to scrape
+        id: years
+        run: |
+          CURRENT_YEAR=$(date +%Y)
+          echo "years=$CURRENT_YEAR" >> $GITHUB_OUTPUT
+          echo "Will scrape year: $CURRENT_YEAR"
+
+      - name: Scrape all states for all years
+        run: |
+          STATES="AL AK AZ AR CA CO CT DE FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY DC"
+          YEARS="${{ steps.years.outputs.years }}"
+
+          declare -A STATE_NAMES
+          STATE_NAMES["AL"]="alabama"
+          STATE_NAMES["AK"]="alaska"
+          STATE_NAMES["AZ"]="arizona"
+          STATE_NAMES["AR"]="arkansas"
+          STATE_NAMES["CA"]="california"
+          STATE_NAMES["CO"]="colorado"
+          STATE_NAMES["CT"]="connecticut"
+          STATE_NAMES["DE"]="delaware"
+          STATE_NAMES["FL"]="florida"
+          STATE_NAMES["GA"]="georgia"
+          STATE_NAMES["HI"]="hawaii"
+          STATE_NAMES["ID"]="idaho"
+          STATE_NAMES["IL"]="illinois"
+          STATE_NAMES["IN"]="indiana"
+          STATE_NAMES["IA"]="iowa"
+          STATE_NAMES["KS"]="kansas"
+          STATE_NAMES["KY"]="kentucky"
+          STATE_NAMES["LA"]="louisiana"
+          STATE_NAMES["ME"]="maine"
+          STATE_NAMES["MD"]="maryland"
+          STATE_NAMES["MA"]="massachusetts"
+          STATE_NAMES["MI"]="michigan"
+          STATE_NAMES["MN"]="minnesota"
+          STATE_NAMES["MS"]="mississippi"
+          STATE_NAMES["MO"]="missouri"
+          STATE_NAMES["MT"]="montana"
+          STATE_NAMES["NE"]="nebraska"
+          STATE_NAMES["NV"]="nevada"
+          STATE_NAMES["NH"]="new_hampshire"
+          STATE_NAMES["NJ"]="new_jersey"
+          STATE_NAMES["NM"]="new_mexico"
+          STATE_NAMES["NY"]="new_york"
+          STATE_NAMES["NC"]="north_carolina"
+          STATE_NAMES["ND"]="north_dakota"
+          STATE_NAMES["OH"]="ohio"
+          STATE_NAMES["OK"]="oklahoma"
+          STATE_NAMES["OR"]="oregon"
+          STATE_NAMES["PA"]="pennsylvania"
+          STATE_NAMES["RI"]="rhode_island"
+          STATE_NAMES["SC"]="south_carolina"
+          STATE_NAMES["SD"]="south_dakota"
+          STATE_NAMES["TN"]="tennessee"
+          STATE_NAMES["TX"]="texas"
+          STATE_NAMES["UT"]="utah"
+          STATE_NAMES["VT"]="vermont"
+          STATE_NAMES["VA"]="virginia"
+          STATE_NAMES["WA"]="washington"
+          STATE_NAMES["WV"]="west_virginia"
+          STATE_NAMES["WI"]="wisconsin"
+          STATE_NAMES["WY"]="wyoming"
+          STATE_NAMES["DC"]="district_of_columbia"
+
+          FIRST_YEAR=true
+          for YEAR in $YEARS; do
+            echo "=========================================="
+            echo "Scraping year: $YEAR"
+            echo "=========================================="
+
+            if [ "$FIRST_YEAR" = false ]; then
+              echo "Waiting 5 minutes before next year..."
+              sleep 300
+            fi
+            FIRST_YEAR=false
+
+            for STATE in $STATES; do
+              STATE_NAME="${STATE_NAMES[$STATE]}"
+              OUTPUT_FILE="election_data/${STATE_NAME}_${YEAR}.json"
+
+              echo "Scraping $STATE ($STATE_NAME) for $YEAR..."
+
+              cd scraper
+              uv run python main.py "$STATE" "$YEAR" --json > "../$OUTPUT_FILE" 2>/dev/null || true
+              cd ..
+
+              sleep 10
+            done
+          done
+
+          echo "Scraping complete!"
+
+      - name: Update manifest
+        run: |
+          YEARS_FOUND=$(ls election_data/*.json 2>/dev/null | grep -oE '_[0-9]{4}\.json' | grep -oE '[0-9]{4}' | sort -u | tr '\n' ',' | sed 's/,$//')
+          cat > election_data/manifest.json << EOF
+          {
+            "years": [$YEARS_FOUND],
+            "updated_at": "$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          }
+          EOF
+          echo "Manifest updated with years: $YEARS_FOUND"
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add election_data/
+          git diff --staged --quiet || git commit -m "Update election data $(date +%Y-%m-%d)"
+          git push

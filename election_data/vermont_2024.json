@@ -1,0 +1,45 @@
+{
+  "state": "VT",
+  "state_name": "Vermont",
+  "year": 2024,
+  "total": 4,
+  "scraped_at": "2026-01-30T23:13:57.775431+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "VT",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Bernie Sanders",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Gerald Malloy",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Phil Scott",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Submit photo",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

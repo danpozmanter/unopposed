@@ -1,0 +1,1413 @@
+{
+  "state": "VA",
+  "state_name": "Virginia",
+  "year": 2025,
+  "total": 156,
+  "scraped_at": "2026-01-30T22:49:15.283519+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Alfonso Lopez",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Charniele Herring",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Elizabeth Bennett-Parker",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Rozia Henson",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Luke Torian",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Briana Sewell",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 54",
+      "candidate": "Katrina Callsen",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 55",
+      "candidate": "Amy Laufer",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 80",
+      "candidate": "Destiny LeVere Bolling",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 81",
+      "candidate": "Delores McQuinn",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 85",
+      "candidate": "Marcia Price",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 88",
+      "candidate": "Don Scott",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 91",
+      "candidate": "Cliff Hayes",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 93",
+      "candidate": "Jackie Glass",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 95",
+      "candidate": "Alex Askew",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Bill Moher",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Adele McClure",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Wendy Sigley",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "R.C. Sullivan Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Kristin Hoffman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Karen Keys-Gamarra",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Cassandra Aucoin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Irene Shin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Karrie Delaney",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Nhan Huynh",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "Dan Helmer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "David Woodrow Guill",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "David Bulova",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Adam Wise",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Holly Seibold",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Nelson Figueroa-Velez",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Marcus Simon",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Sylwia Oleksy",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Vivian Watts",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Eric Johnson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Laura Jane Cohen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Saundra Davis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Paul Krizek",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Richard Hayden",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Mark Sickles",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Naomi Mesfin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Kathy Tran",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Ed McGovern",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Michelle Maldonado",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Christopher Stone",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Joshua Thomas",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Elizabeth Guzman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Ian Lovejoy",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "Candi King",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "James Tully",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Jas Singh",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Ommair Butt",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Atoosa Reaser",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Junaid Khan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "David Reid",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Janet Geisler",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 29",
+      "candidate": "Marty Martinez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 29",
+      "candidate": "Scott Thomas",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "John Chilton McAuliff",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "Geary Higgins",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "Shane Boswell",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "Delores Oates",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Bill Wiley",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Todd Gilbert",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Andrew Payton",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Tony Wilt",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "Jena Lisa Crisler",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "Chris Runion",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Makayla Venable",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Ellen Campbell",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Sharron Burgess",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Sam Rasoul",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Eric Klotz",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Will Davis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Joseph McNamara",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Lily Franklin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Chris Obenshain",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 42",
+      "candidate": "Biko Agozino",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 42",
+      "candidate": "Jason Ballard",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Mary Sumner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Will Morefield",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Israel O'Quinn",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 45",
+      "candidate": "Joshua Outsey",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 45",
+      "candidate": "Terry Kilgore",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "Jamie Ralston Hendry",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "Yvonne Rorrer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "Wren Williams",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Melody Cartwright",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Eric Phillips",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 50",
+      "candidate": "Earnadette Powell Farrar",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 50",
+      "candidate": "Tommy Wright",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 51",
+      "candidate": "Joy Powers",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 51",
+      "candidate": "Eric Zehr",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 52",
+      "candidate": "Rise Hayes",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 52",
+      "candidate": "Wendell Walker",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Sam Soghor",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Tim Griffin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 56",
+      "candidate": "Angela Chainer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 56",
+      "candidate": "Thomas Garrett",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 57",
+      "candidate": "David Owen",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 58",
+      "candidate": "Rodney Willett",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 58",
+      "candidate": "Milad Mikhail",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 59",
+      "candidate": "Buddy Fowler",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 60",
+      "candidate": "Scott Wyatt",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 61",
+      "candidate": "Michael Webert",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 62",
+      "candidate": "Sara Ratcliffe",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 63",
+      "candidate": "Phillip Scott",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 64",
+      "candidate": "Stacey Carroll",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 64",
+      "candidate": "Paul Milde III",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 65",
+      "candidate": "Joshua Cole",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 66",
+      "candidate": "Nicole Cole",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 66",
+      "candidate": "Bobby Orrock",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 67",
+      "candidate": "Mario Haggerty",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 67",
+      "candidate": "Hillary Pugh Kent",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 68",
+      "candidate": "Elaine Walters",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 68",
+      "candidate": "Keith Hodges",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 69",
+      "candidate": "Mark Downey",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 69",
+      "candidate": "Chad Green",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 70",
+      "candidate": "Shelly Simonds",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 71",
+      "candidate": "Jessica Anderson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 71",
+      "candidate": "Amanda Batten",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 72",
+      "candidate": "Lee Ware",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 73",
+      "candidate": "Mark Earley Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 74",
+      "candidate": "Jonas J. Eppert",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 74",
+      "candidate": "Mike Cherry",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 75",
+      "candidate": "Carrie Coyner",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 76",
+      "candidate": "Debra Gardner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 76",
+      "candidate": "John Thomas",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 77",
+      "candidate": "Michael Jones",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 77",
+      "candidate": "Richard Stonage Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 78",
+      "candidate": "Betsy Carr",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 78",
+      "candidate": "Richard Prado",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 79",
+      "candidate": "Rae Cousins",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 79",
+      "candidate": "Kelsey Linnehan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 82",
+      "candidate": "Kimberly Adams",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 82",
+      "candidate": "Kim Taylor",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 83",
+      "candidate": "Mary Person",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 83",
+      "candidate": "H. Otto Wachsmann Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 84",
+      "candidate": "Nadarius Clark",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 84",
+      "candidate": "Felisha Storm",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 86",
+      "candidate": "Virgil Thornton Sr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 86",
+      "candidate": "Aijalon Cordoza",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 87",
+      "candidate": "Jeion Ward",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 87",
+      "candidate": "John Chapman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 90",
+      "candidate": "Jay Leftwich",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 92",
+      "candidate": "Bonita Anthony",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 92",
+      "candidate": "W. Nash Bilisoly",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 94",
+      "candidate": "Phil Hernandez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 94",
+      "candidate": "Andrew Pittman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 96",
+      "candidate": "Kyle Pasquarella",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 97",
+      "candidate": "Michael Feggans",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 98",
+      "candidate": "Cheryl Smith",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 98",
+      "candidate": "Barry Knight",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 99",
+      "candidate": "Cathy Porterfield",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 99",
+      "candidate": "Anne Ferrell Tata",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "State House",
+      "district": "District 100",
+      "candidate": "Robert Bloxom",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

@@ -1,0 +1,729 @@
+{
+  "state": "WY",
+  "state_name": "Wyoming",
+  "year": 2024,
+  "total": 80,
+  "scraped_at": "2026-01-30T23:16:27.668025+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "WY",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Scott Morrow",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 2",
+      "candidate": "Brian Boner",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "Tara Nethercott",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Darin Smith",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Laura Taliaferro Pearson",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Dan Dockstader",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Tim French",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 20",
+      "candidate": "Ed Cooper",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Barry Crago",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 24",
+      "candidate": "Troy McKeown",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 26",
+      "candidate": "Tim Salazar",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 28",
+      "candidate": "James Anderson",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 30",
+      "candidate": "Charles Scott",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Marguerite Herman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Jared Olsen",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Mike Selmer Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Kenilynn Zanetti",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Chip Neiman",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "J.D. Williams",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Abby Angelos",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Scott Smith",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Tomi Strock",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Steve Johnson",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Landon Brown",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Pam Thayer",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Mike Yin",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "J.T. Larson",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Scott Heiner",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Joseph Webb",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Michael Schmid",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "McKay Erickson",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Andrew Byron",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "Liz Storer",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Nina Webber",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Paul Hoeft",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Dalton Banks",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Martha Lawley",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "Thomas Kelly",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "John Bear",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Ken Clouston",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Pepper Ottman",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "Tony Locke",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Art Washut",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Steve Harshman",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Jayme Lien",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Cody Wylie",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Marilyn Connolly",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Lee Filer",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Darin McCann",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 49",
+      "candidate": "Robert Wharff",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 50",
+      "candidate": "Rachel Rodriguez-Williams",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 52",
+      "candidate": "Reuben Tarver",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Christopher Knapp",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 54",
+      "candidate": "Lloyd Charles Larsen",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 55",
+      "candidate": "Joel Guggenmos",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 56",
+      "candidate": "Elissa Campbell",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 58",
+      "candidate": "Bill Allemand",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 59",
+      "candidate": "J.R. Riggins",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 61",
+      "candidate": "Daniel Singh",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 62",
+      "candidate": "Kevin Campbell",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Charles Randolph",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Jordan Evans",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Ken Chestek",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Shane Swett",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Trey Sherwood",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Joe Giustozzi",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Larry Alwin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 29",
+      "candidate": "Martha Wright",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 29",
+      "candidate": "Ken Pendergraft",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Ivan Posey",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Sarah Penn",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Jen Solis",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 42",
+      "candidate": "Bob Ray",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 45",
+      "candidate": "Karlee Provenza",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "Chris Lowry",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "Ocean Andrew",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "James Wilson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "Robert Davis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 51",
+      "candidate": "Laurie Bratten",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 60",
+      "candidate": "Carmen Whitehead",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

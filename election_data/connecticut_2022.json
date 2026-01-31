@@ -1,0 +1,2961 @@
+{
+  "state": "CT",
+  "state_name": "Connecticut",
+  "year": 2022,
+  "total": 328,
+  "scraped_at": "2026-01-30T23:42:29.436706+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "CT",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "John Larson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Larry Lazor",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Joe Courtney",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Mike France",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Rosa L. DeLauro",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Lesley DeNardis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Jim Himes",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "US House",
+      "district": "District 5",
+      "candidate": "Jahana Hayes",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "US House",
+      "district": "District 5",
+      "candidate": "George Logan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 2",
+      "candidate": "Douglas McCrory",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 5",
+      "candidate": "Derek Slap",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "John Fonfara",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Alex Colaiacovo",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "Saud Anwar",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "Matt Harper",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "MD Rahman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "Jacqueline Crespan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Rick Lopes",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Tremell Collins",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "Cynthia Mangini",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "John Kissel",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Paul Honig",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Lisa Seminara",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Matthew L. Lesser",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Lisa Marotta",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Gary Winfield",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "John Carlson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Martin Looney",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Steve Orosco",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Christine Cohen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Paul Crisci",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Joseph Vollano",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "James Maroney",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Kim-Marie Mullin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Christopher Robertson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Robert C. Sampson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Jorge Cabrera",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Kathy Hoyt",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Farouk Rajab",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Heather Somers",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Catherine Osten",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Pietro Camardella",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 20",
+      "candidate": "Jerry Labriola",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Kevin C. Kelly",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Marilyn Moore",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Michael Garrett",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 24",
+      "candidate": "Julie Kushner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 24",
+      "candidate": "Michelle Coelho",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 25",
+      "candidate": "Bob Duff",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 25",
+      "candidate": "Daniel Miressi",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 26",
+      "candidate": "Antonietta Boucher",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "Patricia Miller",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "Michael Battinelli",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 28",
+      "candidate": "Tim Gavin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 28",
+      "candidate": "Tony Hwang",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Mae Flexer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Susanne Witkowski",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 30",
+      "candidate": "Eva Zimmerman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 30",
+      "candidate": "Stephen Harding, Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 31",
+      "candidate": "Greg Hahn",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 31",
+      "candidate": "Henri Martin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 32",
+      "candidate": "Jeff Desmarais",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 32",
+      "candidate": "Eric Berthel",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 33",
+      "candidate": "Norm Needleman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 33",
+      "candidate": "Brandon Goff",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 34",
+      "candidate": "Alida Cella",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 34",
+      "candidate": "Paul Cicarella, Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 35",
+      "candidate": "Lisa Thomas",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 35",
+      "candidate": "Jeff Gordon",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 36",
+      "candidate": "Trevor Crow",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 36",
+      "candidate": "Ryan Fazio",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Matthew Ritter",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Minnie Gonzalez",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Julio Concepcion",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Joshua Malik Hall",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "Henry Genga",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Jeffrey Currey",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Bobby Gibson",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Tammy Exum",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 65",
+      "candidate": "Michelle Cook",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 69",
+      "candidate": "Cindy Harrison",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 71",
+      "candidate": "William Pizzuto",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 74",
+      "candidate": "Michael DiGiovancarlo",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 75",
+      "candidate": "Geraldo Reyes",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 78",
+      "candidate": "Joe Hoxha",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 80",
+      "candidate": "Gale Mastrofrancesco",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 84",
+      "candidate": "Hilda Santiago",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 86",
+      "candidate": "Vincent Candelora",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 91",
+      "candidate": "Michael D'Agostino",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 94",
+      "candidate": "Robyn Porter",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 95",
+      "candidate": "Juan Candelaria",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 99",
+      "candidate": "Joseph Zullo",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 105",
+      "candidate": "Nicole Klarides-Ditria",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 106",
+      "candidate": "Mitch Bolinsky",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 113",
+      "candidate": "Jason Perillo",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 115",
+      "candidate": "Dorinda Keenan Borer",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 131",
+      "candidate": "David Labriola",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 140",
+      "candidate": "Travis Simms",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Raghib Allie-Brennan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Jenn Lewis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Maryam Khan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Charles Jackson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Edwin Vargas",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Mary Ann Hansen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Tim Ackert",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Jason Rojas",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Matthew Lauf",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Geoff Luxenberg",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Jason Doucette",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Donna Meier",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Erica Evans",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Tom Delnicki",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Mike Paine",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Eleni Kavros DeGraw",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Heather Maguire",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Jillian Gilchrest",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "David deHaas",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Kate Farrar",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Anastasia Yopp",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Mike Demicco",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Joe Capodiferro",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Rebecca Martinez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Francis Rexford Cooley",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "J. Colin Heffernan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "Devin Carney",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Manny Sanchez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Paul Edwards",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Bobby Sanchez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Jerrell Hargraves",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Peter Tercyak",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Joel Moret",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Gary Turco",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Nancy Cappello",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Amy Morrin Bello",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Brianna Timbro",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 29",
+      "candidate": "Kerry Szeps Wood",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 29",
+      "candidate": "Pankaj Prakash",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "Donna Veach",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "Jill Barry",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "Gary Giannelli",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Rose Aletta",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Christie Carpino",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Brandon Chafee",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Jon Pulino",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Irene Haines",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "Christine Goupil",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "Chris Aniskovich",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Christine Palm",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Chris Turkington",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Nick Menapace",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Holly Cheeseman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Nick Gauthier",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Kathleen McCarty",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Anthony Nolan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Karen Paul",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Christine Conley",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Scott Westervelt",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Aundr\u00e9 Bumgardner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Robert Boris",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 42",
+      "candidate": "Keith Denning",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 42",
+      "candidate": "Kim Healy",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Ashley Gillece",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Greg Howard",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Christine Wendel Farrugia",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Anne Dauphinais",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 45",
+      "candidate": "Kayla Thompson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 45",
+      "candidate": "Brian Lanoue",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "Derell Wilson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "Robert Bell",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "Dave Nowakowski",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "Doug Dubitsky",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Christopher Rivers",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Mark DeCaprio",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 49",
+      "candidate": "Susan Johnson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 50",
+      "candidate": "Pat Boyd",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 50",
+      "candidate": "Aaron Soucy",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 51",
+      "candidate": "Christine Maine",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 51",
+      "candidate": "Ricky Hayes",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 52",
+      "candidate": "Gregg Dafoe",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 52",
+      "candidate": "Kurt Vail",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Kenneth Trice",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Tammy Nuccio",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 54",
+      "candidate": "Gregory Haddad",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 55",
+      "candidate": "Wes Skorski",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 55",
+      "candidate": "Steve Weir",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 56",
+      "candidate": "Kevin Brown",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 56",
+      "candidate": "Jim Tedford",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 57",
+      "candidate": "Jaime Foster",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 57",
+      "candidate": "David Stavens",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 58",
+      "candidate": "Tom Arnone",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 58",
+      "candidate": "Robert Hendrickson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 59",
+      "candidate": "Matt Despard",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 59",
+      "candidate": "Carol Hall",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 60",
+      "candidate": "Jane Garibay",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 60",
+      "candidate": "Len Walker",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 61",
+      "candidate": "Scott Nolan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 61",
+      "candidate": "Tami Zawistowski",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 62",
+      "candidate": "Kim Becker",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 62",
+      "candidate": "Mark Anderson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 63",
+      "candidate": "Althea Perez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 63",
+      "candidate": "Jay Case",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 64",
+      "candidate": "Maria Horn",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 64",
+      "candidate": "Christopher DuPont",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 66",
+      "candidate": "Matt Dyer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 67",
+      "candidate": "Alexandra Thomas",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 67",
+      "candidate": "William Buckbee",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 68",
+      "candidate": "Joe Polletta",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 70",
+      "candidate": "Jeff Litke",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 70",
+      "candidate": "Seth Bronko",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 72",
+      "candidate": "Larry Butler",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 72",
+      "candidate": "Vernon Matthews",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 73",
+      "candidate": "Ronald Napoli Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 73",
+      "candidate": "Abigail Diaz Pizarro",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 76",
+      "candidate": "Sharon Farmer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 76",
+      "candidate": "John Piscopo",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 77",
+      "candidate": "Andrew Rasmussen-Tuller",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 77",
+      "candidate": "Cara Pavalock-D'Amato",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 79",
+      "candidate": "Mary Fortier",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 79",
+      "candidate": "Jennifer Van Gorder",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 81",
+      "candidate": "Christopher Poulos",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 81",
+      "candidate": "Tony Morrison",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 82",
+      "candidate": "Michael Quinn",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 83",
+      "candidate": "Jonathan Fazzino",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 83",
+      "candidate": "Lou Arata",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 85",
+      "candidate": "Mary Mushinsky",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 85",
+      "candidate": "Kerry Lentz",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 87",
+      "candidate": "Dave Yaccarino Sr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 88",
+      "candidate": "Joshua Elliott",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 88",
+      "candidate": "Frank LaDore",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 89",
+      "candidate": "Kevin O'Leary",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 89",
+      "candidate": "Lezlye Zupkus",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 90",
+      "candidate": "Rebecca Hyland",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 90",
+      "candidate": "Craig Fishbein",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 92",
+      "candidate": "Patricia Dillon",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 93",
+      "candidate": "Toni Walker",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 93",
+      "candidate": "Percy Sanders",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 96",
+      "candidate": "Roland J. Lemar",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 96",
+      "candidate": "Eric Mastroianni",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 97",
+      "candidate": "Alphonse Paolillo",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 97",
+      "candidate": "Anthony Acri",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 98",
+      "candidate": "Gloria Nemczuk",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 100",
+      "candidate": "Quentin Williams",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 100",
+      "candidate": "Anthony Moran",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 101",
+      "candidate": "John-Michael Parker",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 101",
+      "candidate": "John Rasimas",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 102",
+      "candidate": "Robin Comey",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 102",
+      "candidate": "Ray Ingraham",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 103",
+      "candidate": "Liz Linehan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 103",
+      "candidate": "Christopher Bahadosingh",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 104",
+      "candidate": "Kara Rochelle",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 104",
+      "candidate": "Josh Shuart",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 107",
+      "candidate": "Phoebe Holmes",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 107",
+      "candidate": "Marty Foncello",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 108",
+      "candidate": "Jeff Ginsburg",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 108",
+      "candidate": "Pat Callahan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 109",
+      "candidate": "Farley Santos",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 109",
+      "candidate": "Jesy Fernandez",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 110",
+      "candidate": "Bob Godfrey",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 110",
+      "candidate": "Eric Gleissner",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 111",
+      "candidate": "Aimee Berger-Girvalo",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 111",
+      "candidate": "Bob Hebert",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 112",
+      "candidate": "Sheila Papps",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 112",
+      "candidate": "Tony Scott",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 114",
+      "candidate": "Mary Welander",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 114",
+      "candidate": "Daniel Cowan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 116",
+      "candidate": "Aaron M. Haley",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 117",
+      "candidate": "Charles Ferraro",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 118",
+      "candidate": "Frank Smith",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 118",
+      "candidate": "Jeffrey Parkin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 119",
+      "candidate": "Kathy Kennedy",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 120",
+      "candidate": "Philip Young",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 120",
+      "candidate": "Laura Dancho",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 121",
+      "candidate": "Joe Gresko",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 121",
+      "candidate": "Kerrigan Cotter",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 122",
+      "candidate": "Frank Donato",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 122",
+      "candidate": "Ben McGorty",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 123",
+      "candidate": "Sujata Gadkar-Wilcox",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 123",
+      "candidate": "David Rutigliano",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 124",
+      "candidate": "Andre Baker",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 124",
+      "candidate": "Jose Quiroga",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 125",
+      "candidate": "Victor Alvarez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 125",
+      "candidate": "Tom O'Dea",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 126",
+      "candidate": "Fred Gee Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 126",
+      "candidate": "Philip Flynn",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 127",
+      "candidate": "Anthony Puccio",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 128",
+      "candidate": "Christopher Rosario",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 128",
+      "candidate": "Ramona Marquez",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 129",
+      "candidate": "Steven Stafstrom",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 129",
+      "candidate": "Louis Savino",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 130",
+      "candidate": "Antonio Felipe",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 130",
+      "candidate": "Terry Sullivan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 132",
+      "candidate": "Jennifer Leeper",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 133",
+      "candidate": "Cristin Vahey",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 133",
+      "candidate": "Michael Grant",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 134",
+      "candidate": "Sarah Keitt",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 134",
+      "candidate": "Meghan McCloat",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 135",
+      "candidate": "Anne Hughes",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 135",
+      "candidate": "Alex Burns",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 136",
+      "candidate": "Jonathan Steinberg",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 136",
+      "candidate": "Thomas Lasersohn",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 137",
+      "candidate": "Kadeem Roberts",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 137",
+      "candidate": "Luis Estrella",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 138",
+      "candidate": "Kenneth Gucker",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 138",
+      "candidate": "Rachel Chaleski",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 139",
+      "candidate": "Kevin Ryan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 139",
+      "candidate": "John Marshall",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 141",
+      "candidate": "Theresa Vogt",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 141",
+      "candidate": "Tracy Marra",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 142",
+      "candidate": "Lucy Dathan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 142",
+      "candidate": "Donald Mastronardi",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 143",
+      "candidate": "Dominique Johnson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 143",
+      "candidate": "Nicole Hampton",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 144",
+      "candidate": "Hubert Delany",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 144",
+      "candidate": "Alexia Boccuzzi",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 145",
+      "candidate": "Corey Paris",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 145",
+      "candidate": "Fritz Blau",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 146",
+      "candidate": "David Michel",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 146",
+      "candidate": "Lynn Arnow",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 147",
+      "candidate": "Matt Blumenthal",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 147",
+      "candidate": "Abraham Viera",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 148",
+      "candidate": "Dan Fox",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 148",
+      "candidate": "Wilm Donath",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 149",
+      "candidate": "Rachel Khanna",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 149",
+      "candidate": "Kimberly Fiorello",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 150",
+      "candidate": "Steve Meskers",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 150",
+      "candidate": "Ed Lopez",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 151",
+      "candidate": "Hector Arzeno",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 151",
+      "candidate": "Peter Sherr",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

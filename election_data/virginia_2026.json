@@ -1,0 +1,27 @@
+{
+  "state": "VA",
+  "state_name": "Virginia",
+  "year": 2026,
+  "total": 2,
+  "scraped_at": "2026-01-30T22:33:30.444801+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "VA",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Jennifer McClellan",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "US House",
+      "district": "District 11",
+      "candidate": "Bree Fram",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

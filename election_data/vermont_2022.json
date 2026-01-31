@@ -1,0 +1,36 @@
+{
+  "state": "VT",
+  "state_name": "Vermont",
+  "year": 2022,
+  "total": 3,
+  "scraped_at": "2026-01-31T00:03:47.141031+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "VT",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Martha Abbott",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Brenda Siegel",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Susan Hatch Davis",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

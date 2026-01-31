@@ -1,0 +1,18 @@
+{
+  "state": "AK",
+  "state_name": "Alaska",
+  "year": 2026,
+  "total": 1,
+  "scraped_at": "2026-01-30T22:21:04.118029+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Cliff Groh",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    }
+  ]
+}

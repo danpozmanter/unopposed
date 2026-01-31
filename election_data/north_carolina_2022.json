@@ -1,0 +1,2340 @@
+{
+  "state": "NC",
+  "state_name": "North Carolina",
+  "year": 2022,
+  "total": 259,
+  "scraped_at": "2026-01-30T23:56:08.707938+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "NC",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Deborah Ross",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "US House",
+      "district": "District 5",
+      "candidate": "Kyle Parrish",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "US House",
+      "district": "District 6",
+      "candidate": "Kathy Manning",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "US House",
+      "district": "District 6",
+      "candidate": "Thomas Watercott",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "US House",
+      "district": "District 8",
+      "candidate": "Scott Huffman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "US House",
+      "district": "District 8",
+      "candidate": "Dan Bishop",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "US House",
+      "district": "District 9",
+      "candidate": "Ben Clark",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "US House",
+      "district": "District 11",
+      "candidate": "David Coatney",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Norman Sanderson",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 2",
+      "candidate": "Jim Perry",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Michael Lazzara",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "William Rabon",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Brent Jackson",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 31",
+      "candidate": "Joyce Krawiec",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 35",
+      "candidate": "Todd Johnson",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 36",
+      "candidate": "Eddie Settle",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 37",
+      "candidate": "Vickie Sawyer",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 38",
+      "candidate": "Mujtaba Mohammed",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 43",
+      "candidate": "Brad Overcash",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 44",
+      "candidate": "Ted Alexander",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 47",
+      "candidate": "Ralph Hise",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "Robert Hanig",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 5",
+      "candidate": "Karen Kozel",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "Jason Minnicozzi",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "Michael Lee",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Gettys Cohen Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Mark Speed",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Lisa Barnes",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Richard Chapman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Michael Munger",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Dan Blue",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Chris Baker",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Matthew Laszacs",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 15",
+      "candidate": "Jay Chaudhuri",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 15",
+      "candidate": "Emanuela Prister",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 15",
+      "candidate": "Sammie Brooks",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Gale Adcock",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "James Powers",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Dee Watson",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Sydney Batch",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Mark Cavaliero",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Patrick Bowersox",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Mary Wills Bode",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Ryan Brown",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 20",
+      "candidate": "Natalie Murdock",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 20",
+      "candidate": "Alvin Reed",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Frank McNeill",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Tom McInnis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Mike Woodard",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Ray Ubinger",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 24",
+      "candidate": "Darrel Gibson Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 24",
+      "candidate": "Danny Earl Britt",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 25",
+      "candidate": "Sean Ewing",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 25",
+      "candidate": "Amy Galey",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 26",
+      "candidate": "Phil Berger",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "Michael Garrett",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "Richard Sessoms",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 28",
+      "candidate": "Gladys Robinson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 28",
+      "candidate": "Paul Schumacher",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Brooke Crump",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Dave Craven",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 30",
+      "candidate": "Monique Johnson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 32",
+      "candidate": "Paul Lowe",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 32",
+      "candidate": "George K. Ware",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 33",
+      "candidate": "Tangela Morgan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 33",
+      "candidate": "Carl Ford",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 34",
+      "candidate": "Keshia Sandidge",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 34",
+      "candidate": "Paul Newton",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 39",
+      "candidate": "DeAndrea Salvador",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 39",
+      "candidate": "Mark Robeson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 40",
+      "candidate": "Joyce Waddell",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 40",
+      "candidate": "Bobbie Shields",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 41",
+      "candidate": "Natasha Marcus",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 41",
+      "candidate": "Bonni Leone",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 42",
+      "candidate": "Rachel Hunt",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 45",
+      "candidate": "Austen Gilbert",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 45",
+      "candidate": "H. Dean Proctor",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 46",
+      "candidate": "Billy Martin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 48",
+      "candidate": "Stephanie Justice",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 48",
+      "candidate": "Timothy Moffitt",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 49",
+      "candidate": "John Anderson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 50",
+      "candidate": "Karen McCracken",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 50",
+      "candidate": "Kevin Corbin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Ed Goodwin",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Steve Tyson",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Matthew Winslow",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "John Bell",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Allison Dahle",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Carson Smith Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Charles Miller",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "William Brisson",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 29",
+      "candidate": "Vernetta Alston",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Charles Smith",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "Brenden Jones",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 52",
+      "candidate": "Ben Moss",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 55",
+      "candidate": "Mark Brody",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 56",
+      "candidate": "Allen Buansi",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 61",
+      "candidate": "Mary Harrison",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 67",
+      "candidate": "Clayton Sasser",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 68",
+      "candidate": "David Willis",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 71",
+      "candidate": "Kanika Brown",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 75",
+      "candidate": "Donny C. Lambeth",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 76",
+      "candidate": "Harry Warren",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 77",
+      "candidate": "Julia Howard",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 79",
+      "candidate": "Keith Kidwell",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 83",
+      "candidate": "Kevin Crutchfield",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 86",
+      "candidate": "Hugh Blackwell",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 89",
+      "candidate": "Mitchell Setzer",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 90",
+      "candidate": "Sarah Stevens",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 91",
+      "candidate": "Kyle Hall",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 96",
+      "candidate": "Jay Adams",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 97",
+      "candidate": "Jason Saine",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 100",
+      "candidate": "John Autry",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 108",
+      "candidate": "John Torbett",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 110",
+      "candidate": "Kelly Hastings",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 111",
+      "candidate": "Timothy K. Moore",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 113",
+      "candidate": "Jake Johnson",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 120",
+      "candidate": "Karl Gillespie",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Ray Jeffers",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Larry Yarborough",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Gavin Bell",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Wesley Boykin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "James Dixon",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Howard Hunter III",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Kiara Johnson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Charles Vincent",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Brian Farkas",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Lillie Williams",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Chris Humphrey",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Katie Tomberlin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Christopher Schulte",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Phillip Shepard",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Frank Iler",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Deb Butler",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "John Hinnant",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Amy Block DeLoach",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Ted Davis Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Ya Liu",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Gerard Falzon",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Joshua Morris",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "Shelly Willingham",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "James Crowell Proctor",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Linda Cooper-Suggs",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Ken Fontenot",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "James Gailliard",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Nick Taylor",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Linda Bennett",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Wes Tripp",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Wendy May",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "Marcia Morey",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "William Antico",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "Guy Meilleur",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "Zack Hawkins",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "Sean Haugh",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Terry Garrison",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Frank Sossamon",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Stephanie Dingee",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Chris Costello",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Grier Martin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Kat McDonald",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "Terence Everitt",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "Joseph Serio",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Julie von Haefen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "John Harris",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Kyle Ward",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Erin Par\u00e9",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Christopher Robinson",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Abraham P. Jones",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Christopher Mizelle",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "James Roberson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Greg Jones",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Marilyn Avila",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Michael Nelson",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Maria Cervania",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Bruce Forster",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Travis Groo",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 42",
+      "candidate": "Gloria Carrasco",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 45",
+      "candidate": "Susan Chapman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Garland Pierce",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Melissa Swarbrick",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 49",
+      "candidate": "Cynthia Ball",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 49",
+      "candidate": "David Robertson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 49",
+      "candidate": "Michael Oakes",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 50",
+      "candidate": "Charles Lopez",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 51",
+      "candidate": "Malcolm Hall",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 51",
+      "candidate": "John Sauls",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Newanda Colvin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 54",
+      "candidate": "Robert Reives",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 57",
+      "candidate": "Ashton Clemmons",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 57",
+      "candidate": "Michelle Bardsley",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 58",
+      "candidate": "Amos Quick",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 58",
+      "candidate": "Chrissy Smith",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 59",
+      "candidate": "Jon Hardister",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 60",
+      "candidate": "Cecil Brockman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 60",
+      "candidate": "Bob Blasingame",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 62",
+      "candidate": "Brandon Gray-Hill",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 62",
+      "candidate": "John Faircloth Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 63",
+      "candidate": "Ricky Hurtado",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 64",
+      "candidate": "Ron Osborne",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 64",
+      "candidate": "Dennis Riddell",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 66",
+      "candidate": "Ives Brizuela de Sholar",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 66",
+      "candidate": "Micao Penaflor",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 69",
+      "candidate": "Leigh Coulter",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 69",
+      "candidate": "Dean Arp",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 70",
+      "candidate": "Susan Scott",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 72",
+      "candidate": "Amber Baker",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 72",
+      "candidate": "Shelton Stallworthy",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 73",
+      "candidate": "Diamond Staton-Williams",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 74",
+      "candidate": "Jeff Zenger",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 78",
+      "candidate": "Erik Davis",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 80",
+      "candidate": "Dennis S. Miller",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 80",
+      "candidate": "Sam Watford",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 81",
+      "candidate": "Joe Watkins",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 81",
+      "candidate": "Larry Potts",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 82",
+      "candidate": "Katherine Jeanes",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 82",
+      "candidate": "Kristin Baker",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 84",
+      "candidate": "September McCrady",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 84",
+      "candidate": "Jeffrey McNeely",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 85",
+      "candidate": "Robert Cordle",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 85",
+      "candidate": "Dudley Greene",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 87",
+      "candidate": "Barbara Kirby",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 87",
+      "candidate": "Destin Hall",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 88",
+      "candidate": "Mary Belk",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 88",
+      "candidate": "Anne Peacock",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 92",
+      "candidate": "Terry Brown Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 92",
+      "candidate": "Mario Robinson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 93",
+      "candidate": "Ben Massey",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 93",
+      "candidate": "Ray Pickett",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 94",
+      "candidate": "Chuck Hubbard",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 94",
+      "candidate": "Jeffrey Elmore",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 95",
+      "candidate": "Amanda Kotis",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 95",
+      "candidate": "Grey Mills Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 98",
+      "candidate": "Christy Clark",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 98",
+      "candidate": "John Bradford III",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 99",
+      "candidate": "Nasif Majeed",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 99",
+      "candidate": "Elsa Karman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 101",
+      "candidate": "Carolyn Logan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 101",
+      "candidate": "Steve Mauney",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 102",
+      "candidate": "Becky Carney",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 102",
+      "candidate": "Cynthia Clementi",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 103",
+      "candidate": "William Brawley",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 104",
+      "candidate": "Brandon Lofton",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 104",
+      "candidate": "Don Pomeroy",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 105",
+      "candidate": "Wesley Harris",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 105",
+      "candidate": "Joshua Niday",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 106",
+      "candidate": "Carla Cunningham",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 106",
+      "candidate": "Karen Henning",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 107",
+      "candidate": "Mark Cook",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 109",
+      "candidate": "Eric Hughes",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 112",
+      "candidate": "Tony Long",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 114",
+      "candidate": "Everett Pittillo",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 115",
+      "candidate": "Lindsey Prather",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 116",
+      "candidate": "Caleb Rudow",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 116",
+      "candidate": "Mollie Rose",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 117",
+      "candidate": "Michael O'Shea",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 118",
+      "candidate": "Josh Remillard",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 118",
+      "candidate": "Mark Pless",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 119",
+      "candidate": "Al Platt",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State House",
+      "district": "District 119",
+      "candidate": "Mike Clampitt",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

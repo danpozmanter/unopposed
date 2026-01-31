@@ -1,0 +1,72 @@
+{
+  "state": "AL",
+  "state_name": "Alabama",
+  "year": 2020,
+  "total": 7,
+  "scraped_at": "2026-01-31T00:27:04.452562+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "AL",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Adia Winfrey",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Mike Rogers",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Rick Neighbors",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Robert Aderholt",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "US House",
+      "district": "District 5",
+      "candidate": "Mo Brooks",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "US House",
+      "district": "District 6",
+      "candidate": "Gary Palmer",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "US House",
+      "district": "District 7",
+      "candidate": "Terri Sewell",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    }
+  ]
+}

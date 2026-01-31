@@ -1,0 +1,27 @@
+{
+  "state": "MD",
+  "state_name": "Maryland",
+  "year": 2024,
+  "total": 2,
+  "scraped_at": "2026-01-30T23:02:49.009609+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "MD",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "George McDermott",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "US House",
+      "district": "District 5",
+      "candidate": "Michelle Talkington",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

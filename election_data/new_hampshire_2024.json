@@ -1,0 +1,414 @@
+{
+  "state": "NH",
+  "state_name": "New Hampshire",
+  "year": 2024,
+  "total": 45,
+  "scraped_at": "2026-01-30T23:07:02.180483+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Rusty Talbot",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "David Rochefort",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 2",
+      "candidate": "Carlos Cardona",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 2",
+      "candidate": "Timothy Lang Sr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "William Marsh",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "Mark McConkey",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "David Watters",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "Shawn Mickelonis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 5",
+      "candidate": "Suzanne Prentiss",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 5",
+      "candidate": "John McIntyre",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "John Ceskavich",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "James Gray",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "Stu Green",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "Dan Innis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "David Trumble",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Ruth Ward",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Matthew McLaughlin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Denise Ricciardi",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Donovan Fenton",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Richard Merkt",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Shannon Chandley",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Tim McGough",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Ben Ming",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Kevin Avard",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Lucinda Rosenwald",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Stephen Scaer",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Kara Roy",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Sharon Carson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 15",
+      "candidate": "Pamela Ean",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Mike York",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Keith Murphy",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Kelly Roberts",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Howard Pearl",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Donna Soucy",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Victoria Sullivan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Michelle Moge",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Regina Birdsell",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 20",
+      "candidate": "Brittany LeClear-Ping",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Rebecca Perkins Kwoka",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Don Cardinale",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Wayne Haubner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Daryl Abbas",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Brenda Oldak",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 24",
+      "candidate": "Debra Altschiller",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NH",
+      "office": "State Senate",
+      "district": "District 24",
+      "candidate": "Patrick Abrami",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

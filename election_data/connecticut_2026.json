@@ -1,0 +1,81 @@
+{
+  "state": "CT",
+  "state_name": "Connecticut",
+  "year": 2026,
+  "total": 8,
+  "scraped_at": "2026-01-30T22:21:57.595652+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "Saud Anwar",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Jonathan Fazzino",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 33",
+      "candidate": "Charles Ferraro",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Tiffani McGinnis",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Melissa Ziobron",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 58",
+      "candidate": "John Santanella",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 102",
+      "candidate": "Ray Ingraham",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 117",
+      "candidate": "Raymond Collins III",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    }
+  ]
+}

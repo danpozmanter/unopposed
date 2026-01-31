@@ -1,0 +1,90 @@
+{
+  "state": "LA",
+  "state_name": "Louisiana",
+  "year": 2022,
+  "total": 9,
+  "scraped_at": "2026-01-30T23:48:34.876056+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "LA",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Steve Scalise",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Katie Darling",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Howard Kearney",
+      "party": "Libertarian",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Troy Carter",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Dan Lux",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Guy McLendon",
+      "party": "Libertarian",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Gloria Wiggins",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Mike Johnson",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "US House",
+      "district": "District 6",
+      "candidate": "Rufus Craig",
+      "party": "Libertarian",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

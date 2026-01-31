@@ -1,0 +1,36 @@
+{
+  "state": "SC",
+  "state_name": "South Carolina",
+  "year": 2026,
+  "total": 3,
+  "scraped_at": "2026-01-30T22:31:39.037195+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "SC",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Nancy Lacore",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Sheri Biggs",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "US House",
+      "district": "District 6",
+      "candidate": "James Clyburn",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "state": "NV",
+  "state_name": "Nevada",
+  "year": 2026,
+  "total": 8,
+  "scraped_at": "2026-01-30T22:27:53.020005+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "NV",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Samuel White",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Ira Hansen",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Lisa Krasner",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Drew Teitelbaum",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 29",
+      "candidate": "Christian Bishop",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Alexis Hansen",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Bert Gurr",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 42",
+      "candidate": "Dayton Vasquez",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    }
+  ]
+}

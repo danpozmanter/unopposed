@@ -1,0 +1,81 @@
+{
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "year": 2024,
+  "total": 8,
+  "scraped_at": "2026-01-30T23:07:25.488048+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "NJ",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Donald Norcross",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Jeff Van Drew",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Matthew Jenkins",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "US House",
+      "district": "District 5",
+      "candidate": "Josh Gottheimer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "US House",
+      "district": "District 7",
+      "candidate": "Susan Altman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "US House",
+      "district": "District 8",
+      "candidate": "Anthony Valdes",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "US House",
+      "district": "District 10",
+      "candidate": "Donald Payne Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "US House",
+      "district": "District 10",
+      "candidate": "Carmen Bucco",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

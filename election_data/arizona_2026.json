@@ -1,0 +1,243 @@
+{
+  "state": "AZ",
+  "state_name": "Arizona",
+  "year": 2026,
+  "total": 26,
+  "scraped_at": "2026-01-30T22:21:14.810811+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "AZ",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Christopher Ajluni",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Eli Crane",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Andromeda Crum",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Greg Stanton",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "US House",
+      "district": "District 5",
+      "candidate": "Richard Grayson",
+      "party": "Green/Rainbow",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "US House",
+      "district": "District 6",
+      "candidate": "Juan Ciscomani",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "US House",
+      "district": "District 7",
+      "candidate": "Adelita Grijalva",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "US House",
+      "district": "District 7",
+      "candidate": "Daniel Butierez",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Christine Dargon",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Mark Finchem",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 5",
+      "candidate": "Christine Marsh",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "Wendy Rogers",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Eva Burch",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Hunter Holt",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Rosanna Gabald\u00f3n",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Nick Fierro",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Selina Bliss",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "George Khalaf",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Pamela Carter",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Lela Alston",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Aiden Swallow",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Stephanie Stahl Hamilton",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State House",
+      "district": "District 29",
+      "candidate": "James Taylor",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "David Rose",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Blase Henry",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Cheryl Caswell",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    }
+  ]
+}

@@ -1,0 +1,1251 @@
+{
+  "state": "UT",
+  "state_name": "Utah",
+  "year": 2024,
+  "total": 138,
+  "scraped_at": "2026-01-30T23:13:30.619216+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "UT",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Bill Campbell",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Daniel Cottam",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Nathaniel Woodward",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Cassie Easley",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Glenn J. Wright",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Katrina Fallick-Wang",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Burgess Owens",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Vaughn R. Cook",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "Calvin Musselman",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Heidi Balderree",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "Derrin Owens",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State Senate",
+      "district": "District 2",
+      "candidate": "Nancy Huntly",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State Senate",
+      "district": "District 2",
+      "candidate": "Chris Wilson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "Stacy Bernal",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "John Johnson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Aaron Wiley",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Larry Livingston",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Luz Escamilla",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Kyle W. Erb",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State Senate",
+      "district": "District 15",
+      "candidate": "Kathleen Riebe",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Lincoln Fillmore",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State Senate",
+      "district": "District 24",
+      "candidate": "David Hinckley",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State Senate",
+      "district": "District 25",
+      "candidate": "Alan Hansen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State Senate",
+      "district": "District 26",
+      "candidate": "Corbin David Frost",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State Senate",
+      "district": "District 26",
+      "candidate": "David Hinkins",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Deidra Ritchhart",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Casey Snider",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Ryan Wilcox",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Jason Kyle",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Katy Hall",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Karianne Lisonbee",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Grant Amjad Miller",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Jim Dunnigan",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "Cal Roberts",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 50",
+      "candidate": "Stephanie Gricius",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 51",
+      "candidate": "Jefferson Moss",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 54",
+      "candidate": "Brady Brammer",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 55",
+      "candidate": "Jon Hawkins",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 56",
+      "candidate": "Val Peterson",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 60",
+      "candidate": "Tyler Clancy",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 61",
+      "candidate": "Lisa Shepherd",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 66",
+      "candidate": "Troy Shelley",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 68",
+      "candidate": "Scott H. Chew",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 72",
+      "candidate": "Joseph Elison",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 73",
+      "candidate": "Colin Jack",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 74",
+      "candidate": "Neil Walter",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Claudia Bigler",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Thomas Peterson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Tom Liljegren",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Jason Thompson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Kris Campbell",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Kera Birkeland",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Amber Hardy",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Angela Choberka",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Jake Sawyer",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Jacob Johnson",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "Rosemary Lesser",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "Jill Koford",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Sharon Hilton",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Mike Schultz",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Lorri Rogers",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Karen Peterson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Ariel Defay",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Josh Smith",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Zeaid Hasan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Adam Feller",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Steve Hartwick",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Paul Cutler",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Nick Wadsworth",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Cameron Dransfield",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Lew Jeppson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Melissa Ballard",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Sandra Hollins",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Jen Dailey-Provost",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Steve Harmsen",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "Scott Romney",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "Cabot Nelson",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Angela Romero",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Richard Nowak",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Jeanetta Williams",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Matt MacPherson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Dawn Stevenson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Anthony Loubet",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Fred Baker",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 29",
+      "candidate": "Bridger Bolinder",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "Jake Fitisemanu",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "Verona Mauga",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Sahara Hayes",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Adam Bean",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Doug Owens",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Carol Moss",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Karl Jurek",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Dennis Roach",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "Rosalba Dominguez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Ashlee Matthews",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Paul Johnson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Steven Laude, Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Kate Staples",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Andrew Stoddard",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Tyler Glaittli",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "John Jackson",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Gay Lynn Bennion",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Roy Piskadlo",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 42",
+      "candidate": "Travis Smith",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Jason Barber",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Steven Eliason",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Greg Green",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Jordan Teuscher",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 45",
+      "candidate": "Sara Cimmers",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "Mark Strong",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "David Lundgren",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Stephen Middleton",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Doug Fiefia",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 49",
+      "candidate": "Samuel Winkler",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 52",
+      "candidate": "Michael Keller",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 52",
+      "candidate": "Cory Maloy",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Kay Christofferson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Alex Day",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 57",
+      "candidate": "Alan Keele",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 58",
+      "candidate": "Joshua Sorensen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 59",
+      "candidate": "Julie Monahan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 59",
+      "candidate": "Mike Kohler",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 62",
+      "candidate": "Kevin Slater",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 62",
+      "candidate": "Norman Thurston",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 63",
+      "candidate": "Mark Youngquist",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 63",
+      "candidate": "Stephen Whyte",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 64",
+      "candidate": "Rick Dougan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 64",
+      "candidate": "Jefferson Burton",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 65",
+      "candidate": "Joseph Hansen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 65",
+      "candidate": "Doug Welton",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 67",
+      "candidate": "Joe Christman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 69",
+      "candidate": "Davina Smith",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 70",
+      "candidate": "Carl R. Albrecht",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 70",
+      "candidate": "Zeno Parry",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 71",
+      "candidate": "Steve Merrill",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 71",
+      "candidate": "Rex Shipp",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 75",
+      "candidate": "Joshua Dutson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State House",
+      "district": "District 75",
+      "candidate": "Walt Brooks",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

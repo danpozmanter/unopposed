@@ -1,0 +1,405 @@
+{
+  "state": "AK",
+  "state_name": "Alaska",
+  "year": 2022,
+  "total": 44,
+  "scraped_at": "2026-01-30T23:39:20.203038+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Andi Story",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Ben Carpenter",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Glenn Prax",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Bryce Edgmon",
+      "party": "Other",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Josiah Patkotak",
+      "party": "Other",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Jeremy Bynum",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Kenny Karl Skaflestad",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Rebecca Himschoot",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Sara Hannan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Darrell Harmon",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Sarah Vance",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "David Schaff",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "Craig Johnson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "Mikel Insalaco",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Forrest McDonald",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Calvin Schrage",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Kathy Henslee",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Timothy Huit",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "James Wright",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Nick Danger",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Alyse Galvin",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Denny Wells",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Jennifer Armstrong",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Richard Beckes",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Andrew Gray",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Scott Kohlhaas",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Donna Mears",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Forrest Wolfe",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Ted Eischeid",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Daryl Nelson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Daniel Stokes",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 29",
+      "candidate": "George Rauscher",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 29",
+      "candidate": "Elijah Haase",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "Joy Mindiola",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "Maxine Dibert",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "Shellie Wyatt",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Van Lawrence",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Grier Hopkins",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "Ashley Carrick",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Angela Fowler",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Mike Cronk",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Conrad McCormick",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Neal Foster",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Tyler Ivanoff",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

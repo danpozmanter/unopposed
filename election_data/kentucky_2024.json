@@ -1,0 +1,1341 @@
+{
+  "state": "KY",
+  "state_name": "Kentucky",
+  "year": 2024,
+  "total": 148,
+  "scraped_at": "2026-01-30T23:02:03.167611+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "KY",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Erin Marshall",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "James Comer Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Brett Guthrie",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "US House",
+      "district": "District 5",
+      "candidate": "Hal Rogers",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Jason Howell",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "Craig Richardson",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Steve Rawlings",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Reggie Thomas",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State Senate",
+      "district": "District 15",
+      "candidate": "Rick Girdler",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Cassie Chambers Armstrong",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Brandon Storm",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State Senate",
+      "district": "District 25",
+      "candidate": "Robert Stivers",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State Senate",
+      "district": "District 31",
+      "candidate": "Phillip Wheeler",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State Senate",
+      "district": "District 33",
+      "candidate": "Gerald Neal",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State Senate",
+      "district": "District 35",
+      "candidate": "Keturah Herron",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State Senate",
+      "district": "District 5",
+      "candidate": "Jamie Skudlarek",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "Rhonda Davis",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Karen Pennington",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "David Givens",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Kiana Fields",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Jennifer Sierra",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Chris McDaniel",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "Molly Crain",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "Steve West",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State Senate",
+      "district": "District 37",
+      "candidate": "David Yates",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State Senate",
+      "district": "District 37",
+      "candidate": "Calvin Leach",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Kimberly Holloway",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Suzanne Miles",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Walker Thomas",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "J.T. Payne",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "D.J. Johnson",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Rebecca Raymer",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Jason Petrie",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Robert Duvall",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Samara Heavrin",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Michael Meredith",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Kevin Jackson",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Shawn McPherson",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "Steve Riley",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Peyton Griffee",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "Daniel Grossberg",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Tina Bojanowski",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Sarah Stalker",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "Lisa Willner",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Nima Kulkarni",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 42",
+      "candidate": "Joshua Watkins",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Pamela Stevenson",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Beverly Chester-Burton",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 49",
+      "candidate": "Thomas Huff",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 50",
+      "candidate": "Candy Massaroni",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 51",
+      "candidate": "Michael Pollock",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 52",
+      "candidate": "Ken Upchurch",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "James A. Tipton",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 54",
+      "candidate": "Daniel Elliott",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 59",
+      "candidate": "David Osborne",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 61",
+      "candidate": "Savannah Maddox",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 63",
+      "candidate": "Kimberly Banta",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 70",
+      "candidate": "William Lawrence",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 72",
+      "candidate": "Matthew Koch",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 74",
+      "candidate": "David Hale",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 75",
+      "candidate": "Lindsey Burke",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 76",
+      "candidate": "Anne Donworth",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 79",
+      "candidate": "Chad Aull",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 80",
+      "candidate": "David Meade",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 81",
+      "candidate": "Deanna Frazier Gordon",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 82",
+      "candidate": "Nick Wilson",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 83",
+      "candidate": "Joshua Branscum",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 85",
+      "candidate": "Shane Baker",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 86",
+      "candidate": "Tom Smith",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 87",
+      "candidate": "Adam Bowling",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 89",
+      "candidate": "Timmy Truett",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 90",
+      "candidate": "Derek Lewis",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 91",
+      "candidate": "Billy Wesley",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 92",
+      "candidate": "John Blanton",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 93",
+      "candidate": "Adrielle Camuel",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 94",
+      "candidate": "Mitchum Whitaker",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 96",
+      "candidate": "Patrick Flannery",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 97",
+      "candidate": "Bobby McCool",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 99",
+      "candidate": "Richard White",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 100",
+      "candidate": "Scott Sharp",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Fredrick Fountain",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Steven Rudy",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Carrie Singler",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Randy Bridges",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Lloyd Smith",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "D. Wade Williams",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Lauren Hines",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Mary Imes",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Linda Edwards",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Chris Freeland",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Twyla Dillard",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Myron Dossett",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "John Whipple",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Alton Ayer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Jim Gooch Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Chanda Garner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Scott Lewis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Jeffery Humble",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Amy Neighbors",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Johnny Pennington",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Cherlyn Smith",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Steve Bratcher",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Tyler Chapman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Nancy Tate",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Almaria Baker",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Jared Bauman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "Susan Tyler Witten",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Taylor Jolly",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Jason Michael Nemes",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "John Hodgson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "John Stovall",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Emily Callaway",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Rachel Roarx",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Carrie Sanders McKeehan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Ryan Stanford",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Matt Lockett",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Sara-Elizabeth Cottrell",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 45",
+      "candidate": "Adam Moore",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "Alan Gentry",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "Bob DeVore",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "Robb Adams",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Ken Fleming",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 55",
+      "candidate": "Katrina Sexton",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 56",
+      "candidate": "Daniel Fister",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 57",
+      "candidate": "Kyle Thompson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 58",
+      "candidate": "Richard Henderson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 58",
+      "candidate": "Jennifer Decker",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 60",
+      "candidate": "Deborah Flowers",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 62",
+      "candidate": "Kevin Kidwell",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 64",
+      "candidate": "Heather Crabbe",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 65",
+      "candidate": "Aaron Currin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 65",
+      "candidate": "Stephanie A. Dietz",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 66",
+      "candidate": "Peggy Houston-Nienaber",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 68",
+      "candidate": "Brandon Long",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 68",
+      "candidate": "Mike Clines",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 69",
+      "candidate": "Wilanne Stangel",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 71",
+      "candidate": "Rachelle Riddle",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 71",
+      "candidate": "Josh Bray",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 73",
+      "candidate": "Rory Houlihan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 73",
+      "candidate": "Ryan Dotson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 77",
+      "candidate": "Jason Griffith",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 78",
+      "candidate": "Mark Hart",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 84",
+      "candidate": "Zackary Hall",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 84",
+      "candidate": "Chris Fugate",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 88",
+      "candidate": "Cherlynn Stevenson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 88",
+      "candidate": "Vanessa Grossl",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 95",
+      "candidate": "Ashley Laferty",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State House",
+      "district": "District 98",
+      "candidate": "Aaron Thompson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "state": "DE",
+  "state_name": "Delaware",
+  "year": 2024,
+  "total": 62,
+  "scraped_at": "2026-01-30T22:58:21.797643+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "DE",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "S. Elizabeth Lockman",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "Laura Sturgeon",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Stephanie Hansen",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Bryan Townsend",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Trey Charles Paradee",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "David Wilson",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Bryant Richardson",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State Senate",
+      "district": "District 2",
+      "candidate": "Darius Brown",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Russ Huxtable",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Kim Hoey Stevenson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Eric Buckson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Nnamdi Chukwuocha",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Stephanie Bolden",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Josue Ortega",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Kendra Johnson",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Jeffrey Spiegelman",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Kamela Smith",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Franklin Cooke Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Melissa Minor-Brown",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Sophie Phillips",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "Mara Gorman",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Madinah Wilson-Anton",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "William Carson Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "Shannon Morris",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "Sean Lynn",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Charles Postles",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "Jesse Vanderwende",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Valerie Jones Giltner",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Ronald Gray",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Daniel Short",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Timothy Dukes",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Gregg Lindner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Jeff Hilovsky",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Debra Heffernan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Michael Krawczuk",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Larry Lambert",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Shane Stoneman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Chris Beronio",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Terrell Williams",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Kevin Hensley",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "Brent Burdge",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Krista Griffith",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Steve Pickering",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Mike Simpler",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Kimberly Williams",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Alexander Homich",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Nikki Miller",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Brenda Mennella",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Monica Beard",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Michael Smith",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Edward S. Osienski",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Joan Godwin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Cyndie Romer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "David Hansberger",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Kristina Griffing",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 29",
+      "candidate": "Anthony Egipciaco Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Kerri Evelyn Harris",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Amy Spampinato",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Lyndon Dean Yearick",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Rony Baltazar-Lopez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Tom Brett",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Richard Collins",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

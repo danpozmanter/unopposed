@@ -1,0 +1,378 @@
+{
+  "state": "ND",
+  "state_name": "North Dakota",
+  "year": 2020,
+  "total": 41,
+  "scraped_at": "2026-01-31T00:38:16.850470+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 2",
+      "candidate": "David Rust",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Howard C. Anderson Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 28",
+      "candidate": "Robert Erbele",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 30",
+      "candidate": "Diane Larson",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 36",
+      "candidate": "Jay Elkin",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 38",
+      "candidate": "David Hogue",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 40",
+      "candidate": "Karen Krebsbach",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "Lisa Finley-DeVille",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "Jordan Kannianen",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Morris Holen, Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Shawn Vedaa",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Charlie Hart",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Janne Myrdal",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "John Grabinger",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Jenna Vanhorne",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Jerry Klein",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Kari Breker",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "David Clemens",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Kyle Thorson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Scott Meyer",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 20",
+      "candidate": "Paul Hanson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 20",
+      "candidate": "Randy Lemm",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Laetitia Hellerud",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Mark Weber",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 24",
+      "candidate": "Larry Robinson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 24",
+      "candidate": "Mike Wobbema",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 26",
+      "candidate": "Jim Dotzenrod",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 26",
+      "candidate": "Jason Heitkamp",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 32",
+      "candidate": "Amelia Doll",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 32",
+      "candidate": "Dick Dever",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 32",
+      "candidate": "Jody Vetter",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 34",
+      "candidate": "Adam Michal",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 42",
+      "candidate": "Melissa Gjellstad",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 42",
+      "candidate": "Curt Kreun",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 44",
+      "candidate": "Merrill Piepkorn",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 44",
+      "candidate": "Tim Flakoll",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 46",
+      "candidate": "Terri Hedman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 46",
+      "candidate": "Jim Roers",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Mattie Richardson",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Rebecca Phillips",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Scott Wagner",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

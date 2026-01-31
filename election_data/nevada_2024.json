@@ -1,0 +1,549 @@
+{
+  "state": "NV",
+  "state_name": "Nevada",
+  "year": 2024,
+  "total": 60,
+  "scraped_at": "2026-01-30T23:06:20.651448+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "NV",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Dina Titus",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "Dina Neal",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "John Ellison",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Patricia Brinkley",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "Brent Howard",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Nicole Cannizzaro",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "Roberta Lange",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "Leo Henderson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Tanya Flanagan",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Erica Mosca",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Thaddeus Yurek",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Melissa Hardy",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "Danielle Gallant",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Reuben D'Silva",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Gregory Koenig",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Daniele Monroe-Moreno",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Garland Brinkley",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Ron Nelsen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Heidi Kasama",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Selena Torres",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Michele Rizza",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Ryan Hampton",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Lisa Cole",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Brittney Miller",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Duy Nguyen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Kelly Chapman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Erica Neely",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Max Carter II",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Daniel Andrews",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Brian Hibbetts",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Howard Watts III",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Melissa Lynn Spence",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Robert Olson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Venicia Considine",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Antario Brown",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "David Orentlicher",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Stan Vaughan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Elaine Marzola",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Terisia Kolesnick",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Selena La Rue Hatch",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Diana Sande",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Rich DeLong",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Carmen Ortiz",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 29",
+      "candidate": "Joe Dalia",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "Natha Anderson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "Stuart MacKie",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "Jill Dickman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Arnold Thomas",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Bert Gurr",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Hanadi Nadeem",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "Sharifa Wahab",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "Rebecca Edgeworth",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Marlene Drake",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Gregory Hafen",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Shea Backus",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "David Brog",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Erich Obermayr",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Ken Gray",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Katherine Ramsey",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Sandra Jauregui",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "state": "WY",
+  "state_name": "Wyoming",
+  "year": 2026,
+  "total": 1,
+  "scraped_at": "2026-01-30T22:34:56.302779+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 57",
+      "candidate": "Julie Jarvis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

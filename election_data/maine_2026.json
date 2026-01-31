@@ -1,0 +1,468 @@
+{
+  "state": "ME",
+  "state_name": "Maine",
+  "year": 2026,
+  "total": 51,
+  "scraped_at": "2026-01-30T22:25:09.032751+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "ME",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Mana Abdi",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Vaughn McLaughlin",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State Senate",
+      "district": "District 2",
+      "candidate": "Harold Stewart",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Kenneth Davis",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "Nicole Grohoski",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Amy Roeder",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "David G. Haggan",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Craig Hickman",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State Senate",
+      "district": "District 15",
+      "candidate": "Kati McCormick",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Scott Cyrway",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Shanna Cox",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State Senate",
+      "district": "District 24",
+      "candidate": "Denise Tepler",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State Senate",
+      "district": "District 25",
+      "candidate": "Teresa Pierce",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "Jill Duson",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State Senate",
+      "district": "District 33",
+      "candidate": "Matthew Harrington",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Mark Babin",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Timothy Guerrette",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Douglas Carlisle",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Jantzen Craine",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Gary Runnells",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Steven Bishop",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Mathew McIntyre",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "David Giles",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "James White",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "Andrew Torbett",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Shawn Lancaster",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Kenneth Fredette",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Stacey Guerin",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "James Thorne",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Michael Nicholson",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Joshua Gerritsen",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Peter Jenks",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 49",
+      "candidate": "Nicolas Hamlin",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 61",
+      "candidate": "Alicia Collins",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 62",
+      "candidate": "Katrina Smith",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 63",
+      "candidate": "Paul Flynn",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 64",
+      "candidate": "Shawn Packard",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 72",
+      "candidate": "Douglas Thomas",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 75",
+      "candidate": "Randall Gauvin",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 79",
+      "candidate": "Michael Lance",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 85",
+      "candidate": "Adrienne Paul",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 87",
+      "candidate": "David Boyer",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 89",
+      "candidate": "Adam Lee",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 107",
+      "candidate": "Mark Cooper",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 132",
+      "candidate": "Ryan Fecteau",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 133",
+      "candidate": "Marc Malon",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 134",
+      "candidate": "Allen Daggett",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 137",
+      "candidate": "Charles Tilburg",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 139",
+      "candidate": "Jamie Newton",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 140",
+      "candidate": "Wayne Parry",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 143",
+      "candidate": "Eric Small",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    }
+  ]
+}

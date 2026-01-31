@@ -1,0 +1,1521 @@
+{
+  "state": "IA",
+  "state_name": "Iowa",
+  "year": 2022,
+  "total": 168,
+  "scraped_at": "2026-01-30T23:47:06.220385+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "IA",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Christina Bohannan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Mariannette Miller-Meeks",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Liz Mathis",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Ashley Hinson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Cindy Axne",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Ryan Melton",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Deidre DeJear",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Kim Reynolds",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "K. Lynn Evans",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "Tim Kraayenbrink",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 5",
+      "candidate": "Dave Rowley",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "Kevin Alons",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 15",
+      "candidate": "Tony Bisignano",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 31",
+      "candidate": "William Dotzler",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 43",
+      "candidate": "Zach Wahls",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 49",
+      "candidate": "Cindy Winckler",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Jackie Smith",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Rocky De Witt",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Jason Schultz",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Tom Shipley",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Lisa Fleishman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Julian B. Garrett",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Matt Greiner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Cherielynn Westrich",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Sarah Trone Garriott",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Jake Chapman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Claire Celsi",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Tyler Stewart",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Todd Brady",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Mike Bousselot",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Matt Pries",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Jack Whitver",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 25",
+      "candidate": "Herman Quirmbach",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "Sam Cox",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "Annette Sweeney",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Jenn Wolff",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Sandy Salmon",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 30",
+      "candidate": "Whitney Mixdorf",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 30",
+      "candidate": "Waylon Brown",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 33",
+      "candidate": "Carrie Koelker",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 35",
+      "candidate": "Joe Brown",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 35",
+      "candidate": "Chris Cournoyer",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 39",
+      "candidate": "Bernie Hayes",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 40",
+      "candidate": "Todd Taylor",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 40",
+      "candidate": "Kris Gulick",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 44",
+      "candidate": "Adrian Dickey",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 46",
+      "candidate": "Kevin Kinney",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 46",
+      "candidate": "Dawn Driscoll",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 47",
+      "candidate": "Mary Kathleen Figaro",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "J.D. Scholten",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Thomas Jeneary",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Skyler Wheeler",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Zach Dieken",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Mike Sexton",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Ann Meyer",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Brian Best",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Steven Holt",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Jacob Bossman",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "David Sieck",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Tom Moore",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Stan Gustafson",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "Ray Sorensen",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Joel Fry",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Austin Harris",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 29",
+      "candidate": "Brian Meyer",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Ruth Ann Gaines",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Austin Baeth",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "John Forbes",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 49",
+      "candidate": "Beth Wessel-Kroeschell",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 50",
+      "candidate": "Ross Wilburn",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 52",
+      "candidate": "Sue Cahill",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 54",
+      "candidate": "Joshua Meggers",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 55",
+      "candidate": "Shannon Latham",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 60",
+      "candidate": "Jane Bloomingdale",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 62",
+      "candidate": "Jerome Amos Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 65",
+      "candidate": "Shannon Lundgren",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 68",
+      "candidate": "Chad Ingels",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 74",
+      "candidate": "Eric Gjerde",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 75",
+      "candidate": "Bob Kressig",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 77",
+      "candidate": "Jeff Cooling",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 79",
+      "candidate": "Tracy Ehlert",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 86",
+      "candidate": "David Jacoby",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 90",
+      "candidate": "Adam Zabner",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 95",
+      "candidate": "Taylor Collins",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 98",
+      "candidate": "Monica Hosch Kurth",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Steve Hansen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Robert Henderson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "James Eliason",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Megan Jones",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Joseph Tillman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Henry Stone",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "John Wills",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Brent Siegrist",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Josh Turek",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Joseph Kerner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Brooke Boden",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Diana Swartz",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Kenan Judge",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Kristen Stiffler",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "David Young",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "Jerry Cheevers",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "Justin Pearson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Jennifer Konfrst",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Mark Brown",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Ako Abdul-Samad",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "Sean Bagniewski",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Mike Overman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Erick Zehr",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Jon Dunwell",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Rick Olson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Mark Weatherly",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "MacKenzie Bills",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Bill Gustoff",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Molly Buck",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Marvis Landon",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 42",
+      "candidate": "Heather Matson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 42",
+      "candidate": "Garrett Gobble",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 45",
+      "candidate": "Brian Lohse",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "Bridget Carberry Montgomery",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "Gary Clayton Overla",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "Carter Nordman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Penny Vossler",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Phil Thompson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 51",
+      "candidate": "Dave Deyoe",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Sarah Smith",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 57",
+      "candidate": "Pat Grassley",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 59",
+      "candidate": "Sharon Steckman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 59",
+      "candidate": "Doug Campbell",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 61",
+      "candidate": "Timi Brown-Powers",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 63",
+      "candidate": "Tim Lecander",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 63",
+      "candidate": "Michael Bergan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 64",
+      "candidate": "Anne Osmundson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 67",
+      "candidate": "Terry McGovern",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 67",
+      "candidate": "Craig Johnson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 69",
+      "candidate": "Jennifer Hansen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 69",
+      "candidate": "Tom Determann",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 70",
+      "candidate": "Kay Pence",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 70",
+      "candidate": "Norlin Mommsen",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 71",
+      "candidate": "Lindsay James",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 72",
+      "candidate": "Charles Isenhart",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 73",
+      "candidate": "Elizabeth Wilson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 73",
+      "candidate": "Susie Weinacht",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 76",
+      "candidate": "Kate Wyatt",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 78",
+      "candidate": "Sami Scheetz",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 80",
+      "candidate": "Art Staed",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 80",
+      "candidate": "Barrett Hubbard",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 81",
+      "candidate": "Craig Lynn Cooper",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 82",
+      "candidate": "Bobby Kaufmann",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 83",
+      "candidate": "Kris Nall",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 83",
+      "candidate": "Cindy Golding",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 84",
+      "candidate": "Sara Yedlik",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 84",
+      "candidate": "Thomas Gerhold",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 85",
+      "candidate": "Amy Nielsen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 86",
+      "candidate": "Jacob Onken",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 87",
+      "candidate": "Mike Heaton",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 88",
+      "candidate": "Lisa Ossian",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 91",
+      "candidate": "Elle Wyant",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 92",
+      "candidate": "Ty Bopp",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 93",
+      "candidate": "Ryan Carstensen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 93",
+      "candidate": "Gary Mohr",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 94",
+      "candidate": "Phyllis Thede",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 94",
+      "candidate": "Mike Vondran",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 96",
+      "candidate": "Michelle Servadio Elias",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 96",
+      "candidate": "Mark Cisneros",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 97",
+      "candidate": "Ken Croken",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 99",
+      "candidate": "Dennis Cohoon",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 100",
+      "candidate": "Rebecca Bowker",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 100",
+      "candidate": "Martin Graber",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

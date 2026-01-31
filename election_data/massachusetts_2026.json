@@ -1,0 +1,90 @@
+{
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "year": 2026,
+  "total": 9,
+  "scraped_at": "2026-01-30T22:25:46.844283+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "MA",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Nadia Milleron",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Jim McGovern",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Lori Trahan",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Matthew Cook",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "US House",
+      "district": "District 6",
+      "candidate": "John Field",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "US House",
+      "district": "District 7",
+      "candidate": "Kelechi Linardon",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "US House",
+      "district": "District 7",
+      "candidate": "Ayanna Pressley",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "US House",
+      "district": "District 8",
+      "candidate": "Walter Grochowski",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "US House",
+      "district": "District 9",
+      "candidate": "Bill Keating",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

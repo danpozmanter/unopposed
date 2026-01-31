@@ -1,0 +1,81 @@
+{
+  "state": "ND",
+  "state_name": "North Dakota",
+  "year": 2026,
+  "total": 8,
+  "scraped_at": "2026-01-30T22:29:35.759459+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Tim Mathern",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Judy Lee",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 31",
+      "candidate": "Donald Schaible",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 35",
+      "candidate": "Sean Cleary",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 45",
+      "candidate": "Ronald Sorvaag",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Austen Schauer",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "James Schmidt",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Jim Jonas",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    }
+  ]
+}

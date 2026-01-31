@@ -1,0 +1,90 @@
+{
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "year": 2020,
+  "total": 9,
+  "scraped_at": "2026-01-31T00:36:53.662992+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "NJ",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Donald Norcross",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Claire Gustafson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Andrew Kim",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "US House",
+      "district": "District 7",
+      "candidate": "Tom Malinowski",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "US House",
+      "district": "District 8",
+      "candidate": "Jason Mushnick",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "US House",
+      "district": "District 10",
+      "candidate": "Jennifer Zinone",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "US House",
+      "district": "District 11",
+      "candidate": "Mikie Sherrill",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "US House",
+      "district": "District 11",
+      "candidate": "Rosemary Becchi",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "US House",
+      "district": "District 12",
+      "candidate": "Mark Razzoli",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+{
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "year": 2021,
+  "total": 67,
+  "scraped_at": "2026-01-31T00:17:15.756882+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 20",
+      "candidate": "Joseph Cryan",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Teresa Ruiz",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Yolanda Garcia Balicki",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Mike Testa Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 2",
+      "candidate": "Vincent Mazzeo",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "Stephen Sweeney",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "Edward R. Durr",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "Fred Madden",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "Stephen Pakradooni Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 5",
+      "candidate": "Nilsa Cruz-Perez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "James Beach",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "John Foley",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "Troy Singleton",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "Michelle Arnold",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Dawn Addiego",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Jean Stanfield",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "David Wright",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Christopher Connors",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Emma Mammano",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "James Holzapfel",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Vin Gopal",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Lori Annetta",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Joseph Altomonte",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Samuel Thompson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Vincent Solomeno",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Declan O'Scanlon Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Linda Greenstein",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Adam J. Elias",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 15",
+      "candidate": "Shirley Turner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 15",
+      "candidate": "Susan Gaul",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Andrew Zwicker",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Bob Smith",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "James Abate",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Vihal Patel",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Joseph Vitale",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Christian Onuoha",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Jon Bramnick",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Nicholas Scutari",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "William Michelson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Denise King",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Michael Doherty",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 24",
+      "candidate": "Frederick Cook",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 25",
+      "candidate": "Anthony M. Bucco",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 26",
+      "candidate": "Christine Clarke",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 26",
+      "candidate": "Joseph Pennacchio",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "Richard Codey",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "Adam Kraemer",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 28",
+      "candidate": "Frank Contella",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 30",
+      "candidate": "Dan Stinger",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 30",
+      "candidate": "Robert Singer",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 31",
+      "candidate": "Sandra Cunningham",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 31",
+      "candidate": "Neil Schulman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 32",
+      "candidate": "Nicholas Sacco",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 32",
+      "candidate": "Juan Barbadillo",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 33",
+      "candidate": "Brian Stack",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 33",
+      "candidate": "Agha Khan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 34",
+      "candidate": "Nia Gill",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 34",
+      "candidate": "Scott Pollack",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 35",
+      "candidate": "Nellie Pou",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 35",
+      "candidate": "Ken Pengitore",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 36",
+      "candidate": "Paul Sarlo",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 37",
+      "candidate": "Michael Koontz",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 38",
+      "candidate": "Richard Garcia",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 39",
+      "candidate": "Ruth Dugan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 40",
+      "candidate": "Michael Sedon",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State Senate",
+      "district": "District 40",
+      "candidate": "Kristin Corrado",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Patricia Johnson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

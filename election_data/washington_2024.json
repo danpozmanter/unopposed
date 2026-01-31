@@ -1,0 +1,1656 @@
+{
+  "state": "WA",
+  "state_name": "Washington",
+  "year": 2024,
+  "total": 183,
+  "scraped_at": "2026-01-30T23:14:56.426128+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "WA",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Henry Dennison",
+      "party": "Socialist Workers",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Suzan DelBene",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Derek Chartrand",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Matthew Heines",
+      "party": "Trump Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Jason Call",
+      "party": "Green/Rainbow",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Cody Hart",
+      "party": "MAGA Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Marie Gluesenkamp P\u00e9rez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "John Saulie-Rohman",
+      "party": "Independent",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Benny Garcia",
+      "party": "Independent",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "John Malan",
+      "party": "MAGA Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "US House",
+      "district": "District 6",
+      "candidate": "J. Graham Ralston",
+      "party": "Independent",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "US House",
+      "district": "District 8",
+      "candidate": "Carmen Goers",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "US House",
+      "district": "District 9",
+      "candidate": "David Ishii",
+      "party": "Bipartisan",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "US House",
+      "district": "District 10",
+      "candidate": "Richard Boyce",
+      "party": "Congress Sucks",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "US House",
+      "district": "District 10",
+      "candidate": "Kurtis Engle",
+      "party": "Union",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Leon Lawson",
+      "party": "Trump Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Rosetta Marshall-Williams",
+      "party": "Independence",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Alan Makayev",
+      "party": "Nonsense Busters",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Derek Stanford",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Mark Schoesler",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Bob Hasegawa",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 20",
+      "candidate": "John Braun",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 2",
+      "candidate": "Erasmo Ruiz Gonzalez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "Marcus Riccelli",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 5",
+      "candidate": "Bill Ramos",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 5",
+      "candidate": "Chad Magendanz",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Ron Muzzall",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Jim Mayhew",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Maria Beltran",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Curtis King",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Kari Isaacson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Perry Dozier",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Marla Keethler",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Paul Harris",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Adrian Cortes",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Andi Day",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Jeff Wilson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Drew Hansen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 24",
+      "candidate": "Marcia Kelbon",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 25",
+      "candidate": "Kenneth King",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 25",
+      "candidate": "Chris Gildon",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "Yasmin Trudeau",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "Carole Braaten",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 28",
+      "candidate": "T'wina Nobles",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 28",
+      "candidate": "Maia Espinoza",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 39",
+      "candidate": "Keith Wagoner",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 40",
+      "candidate": "Liz Lovelett",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 40",
+      "candidate": "Charles Carrell",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 41",
+      "candidate": "Lisa Wellman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 41",
+      "candidate": "Jaskaran Sarao",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 49",
+      "candidate": "Annette Cleveland",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 49",
+      "candidate": "Lucia Worthington",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Shelley Kloba",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Andrew Barkis",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Timm Ormsby",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Stephanie Barnard",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "David Hackney",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Tom Dent",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Alex Ybarra",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Kevin Waters",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Ed Orcutt",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 29",
+      "candidate": "Sharlett Mena",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "Dan Griffey",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Julia Reed",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Sharon Tomiko Santos",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Debra Lekanoff",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Alex Ramel",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Nicole Macri",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Brandy Donaghy",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 45",
+      "candidate": "Roger Goodman",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Amy Walen",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Davina Duerr",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Mark Davies",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Tony Kiepe",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Suzanne Schmidt",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Lisa Callan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Patrick Peacock",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Steven McCray",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Mike Volz",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Michaela Kelso",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Jenny Graham",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Paul Dean",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "John Christenson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "April Connors",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Patrick Miller",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Mary Dye",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Joe Schmick",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "Clyde Shavers",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "Dave Paul",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "Gary Wray",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Steve Bergquist",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Justin Greywolf",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Heather Koellen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Tanya Lavoy",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Chelsea Dimas",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Ana Ruiz Kennedy",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Deb Manjarrez",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Eddie Perez",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Chris Corry",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Chase Foster",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Anna Saenz",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Linda Gunshefski",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Mark Klicker",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Craig Woodard",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Skyler Rude",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Terri Niles",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Deken Letinich",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Stephanie McClintock",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "John Zingale",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Mike Coverdale",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Jim Walsh",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Terry Carlson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Joel McEntire",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Justin Franks",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Peter Abbarno",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Melvin Apana",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Riaz Khan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Lillian Ortiz-Self",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Beth Doglio",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Steve Owens",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "Tarra Simmons",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "Kurt Robertson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "Tiffany Attrill",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "Jamie Miles",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Steve Tharinger",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Cameron Severns",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Michael Keaton",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Shellie Willis",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Cyndy Jacobsen",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Adison Richards",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Josh Smith",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Laurie Jinkins",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Ken Paulson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Mari Leavitt",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Gabe Sachwitz",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Dan Bronoske",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Mark Herr",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "Jamila Taylor",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "Melissa Hamilton",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "Kristine Reeves",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "Quentin Morris",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "Sara Sutterfield",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "Drew Stokesbary",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Cindy Ryu",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Lisa Rezac",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Lori Theis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Tina Orwall",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "George Richter",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Mia Gregerson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Casey Esmond",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Emily Alvarado",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Kimberly Cloud",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Joe Fitzgibbon",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Jolie Lansdowne",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "James DeHart",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Liz Berry",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Victoria Palmer",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Chipalo Street",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Matt McCally",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Mary Fosse",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Marnie Claywell",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Zephaniah Borynack",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Kathryn Lewandowsky",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Tana Senn",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Emily Tadlock",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Stan Lippmann",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "My-Linh Thai",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 42",
+      "candidate": "Raymond Pelletti",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 42",
+      "candidate": "Joe Timmons",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 42",
+      "candidate": "Kamal Bhachu",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "April Berg",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Sam Sim",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "Beth Daranciang",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "Darya Farivar",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "Simone Barron",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "Debra Entenman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "Kyle Lyebyedyev",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "Chris Stearns",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Vandana Slatter",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Lynn Trinh",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 49",
+      "candidate": "Sharon Wylie",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 49",
+      "candidate": "Brett Graham",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 49",
+      "candidate": "Monica Jurado Stonier",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

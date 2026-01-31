@@ -1,0 +1,1332 @@
+{
+  "state": "AL",
+  "state_name": "Alabama",
+  "year": 2026,
+  "total": 147,
+  "scraped_at": "2026-01-30T22:20:53.415325+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "AL",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Clyde Jones",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Shomari Figures",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Hampton Harris",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Lee McInnis",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "US House",
+      "district": "District 7",
+      "candidate": "Terri Sewell",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Tim Melson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "John Dickey",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "Arthur Orr",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 5",
+      "candidate": "Matt Woods",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Bobby Martin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Larry Stutts",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "Jared Sluss",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "Sam Givhan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Katie Kramer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Steve Livingston",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Wes Kitchens",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Donald Mottern",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Lance Bell",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Keith Kelley",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Jamie Forsyth",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Mandie Ledkins",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "April Weaver",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Spencer Stone",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Shay Shelnutt",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Rodger Smitherman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Merika Coleman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 20",
+      "candidate": "Linda Coleman-Madison",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Jodie Minor",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Gerald Allen",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Ashley Sharpe",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Robert Stewart",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Thayer Spencer",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 24",
+      "candidate": "Bobby Singleton",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 24",
+      "candidate": "Richard Benderson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 25",
+      "candidate": "Russell Taylor",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 26",
+      "candidate": "Will Barfoot",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 28",
+      "candidate": "Billy Beasley",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 28",
+      "candidate": "Brent Comer",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Jimmy McCray",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 30",
+      "candidate": "Clyde Chambliss Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 31",
+      "candidate": "Josh Carnley",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 32",
+      "candidate": "Janet Appleby",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 33",
+      "candidate": "Vivian Figures",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 35",
+      "candidate": "David Sessions",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Rick Pressnell",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Ben Harrison",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Kerry Underwood",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Hanu Karlapalem",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Parker Moore",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Jessie Barcala",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Danny Crawford",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Andy Whitt",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Scott Stadthagen",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "Marilyn Lands",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "Aaron Thomas",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Heath Allbright",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Cindy Myrex",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Tim Wadsworth",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Nell Brown",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Leigh Hulsey",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Bryan Brinyark",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Jamie Kiel",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Laura Hall",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Donald Barnes",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "James Linderholm",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Rex Reynolds",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Ritchie Whorton",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "Mike Kirkland",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Nathaniel Ledbetter",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Damon Eubanks",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Phillip Rigsby",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Brock Colvin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Jeana Ross",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Robert Hunter",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Mack Butler",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 29",
+      "candidate": "Mark Gidley",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "B. Craig Lipscomb",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "Troy Stubbs",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Ben Robbins",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "David Standridge",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "Steve Hurst",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Randy Wood",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Michelle French",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Ginny Shaver",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Pam Howard",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "David Morgan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Corley Ellis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 42",
+      "candidate": "Ivan Smith",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Taylor Cook",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Arnold Mooney",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Danny Garrett",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 45",
+      "candidate": "Toni Vaughn",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "David Faulkner",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "Jim Toomey",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "Mike Shaw",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 49",
+      "candidate": "Russell Bedsole",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 50",
+      "candidate": "Alan Thomas",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 51",
+      "candidate": "Allen Treadaway",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Anthony Daniels",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 55",
+      "candidate": "Travis Hendrix",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 56",
+      "candidate": "Ontario Tillman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 58",
+      "candidate": "Rolanda Hollis",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 59",
+      "candidate": "Mary Moore",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 61",
+      "candidate": "Ron Bolton",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 62",
+      "candidate": "Bill Lamb",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 63",
+      "candidate": "Judith Taylor",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 63",
+      "candidate": "Norman Crow",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 64",
+      "candidate": "Donna Givens",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 66",
+      "candidate": "Alan Baker",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 67",
+      "candidate": "Prince Chestnut",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 68",
+      "candidate": "Thomas Jackson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 68",
+      "candidate": "Fred Kelley",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 69",
+      "candidate": "Josh Pendergrass",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 70",
+      "candidate": "Christopher J. England",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 70",
+      "candidate": "Ian Chwatuk",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 71",
+      "candidate": "Artis J. McCampbell",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 73",
+      "candidate": "Kenneth Paschal",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 74",
+      "candidate": "Alva Lambert",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 75",
+      "candidate": "Tisha Dickson Nickson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 75",
+      "candidate": "Reed Ingram",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 76",
+      "candidate": "Patrice McClammy",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 77",
+      "candidate": "TaShina Morris",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 78",
+      "candidate": "Kenyatt\u00e9 Hassell",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 79",
+      "candidate": "Joe Lovvorn",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 80",
+      "candidate": "Manfred Malone",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 80",
+      "candidate": "Chris Blackshear",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 81",
+      "candidate": "Ed Oliver",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 82",
+      "candidate": "Kinsley Hammons",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 83",
+      "candidate": "Jeremy Gray",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 85",
+      "candidate": "Aristotle Kirkland",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 86",
+      "candidate": "Paul Lee",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 87",
+      "candidate": "Jeff Sorrells",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 88",
+      "candidate": "Jerry Starnes",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 89",
+      "candidate": "Marcus Paramore",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 90",
+      "candidate": "Chris Sells",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 92",
+      "candidate": "Matthew Hammett",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 93",
+      "candidate": "Steve Clouse",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 94",
+      "candidate": "Jennifer Fidler",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 96",
+      "candidate": "Terri Osborne",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 98",
+      "candidate": "Napoleon Bracy Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 99",
+      "candidate": "Charlie Watts",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 100",
+      "candidate": "Mark Shirey",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 101",
+      "candidate": "Joan Friedlander",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 102",
+      "candidate": "Shane Stringer",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 103",
+      "candidate": "Barbara Drummond",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 104",
+      "candidate": "Margie Wilcox",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 105",
+      "candidate": "Chip Brown",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

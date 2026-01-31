@@ -1,0 +1,612 @@
+{
+  "state": "AZ",
+  "state_name": "Arizona",
+  "year": 2020,
+  "total": 67,
+  "scraped_at": "2026-01-31T00:27:45.918582+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "AZ",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Ra\u00fal Grijalva",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "US House",
+      "district": "District 6",
+      "candidate": "David Schweikert",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "US House",
+      "district": "District 7",
+      "candidate": "Ruben Gallego",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "US House",
+      "district": "District 7",
+      "candidate": "Josh Barnett",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "US House",
+      "district": "District 8",
+      "candidate": "Debbie Lesko",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "US House",
+      "district": "District 9",
+      "candidate": "Greg Stanton",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "Sally Ann Gonzales",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "Jamescita Peshlakai",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Victoria Steele",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Lupe Contreras",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 30",
+      "candidate": "Tony Navarrete",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Gilbert Carillo",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Karen Fann",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 2",
+      "candidate": "Rosanna Gabald\u00f3n",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 2",
+      "candidate": "Mark Workman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "Lisa Otondo",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "Travis Angry",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 5",
+      "candidate": "Sonny Borrelli",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Felicia French",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Barbara McGuire",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Thomas Shope",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Justine Wadsack",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Vince Leach",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Lynsey Robinson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Warren Petersen",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Sine Kerr",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Bob Karp",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "David Gowan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Kelly Townsend",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Ajlan Kurdoglu",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Javan Daniel Mesnard",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Sean Bowie",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Suzanne Sharer",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Steven Robinson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 20",
+      "candidate": "Douglas Ervin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 20",
+      "candidate": "Paul Boyer",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Brian Whitman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Sarah Tyree",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 24",
+      "candidate": "Ray Michaels",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 25",
+      "candidate": "Paul Weigel",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 25",
+      "candidate": "Tyler Pace",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 26",
+      "candidate": "Jae Chin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "Rebecca Rios",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "Garland Shreves",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 28",
+      "candidate": "Christine Marsh",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 28",
+      "candidate": "Kate Brophy McGee",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Martin Quezada",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "John Wilson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 30",
+      "candidate": "C. Curtis Porter",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Judy Stahl",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Deborah McEwen",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Joel John",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Coral Evans",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Sharon Girard",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Brendan Lyons",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Felipe Perez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Mariana Sandoval",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Kristin Dybvig-Pawelko",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Helen Hunter",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Jennifer Pawlik",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Shelby Busch",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Judy Schwiebert",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Kathy Knecht",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "Eric Kurland",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Suzanne Hug",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Tatiana Pe\u00f1a",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "Gary Spears",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

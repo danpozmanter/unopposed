@@ -1,0 +1,1584 @@
+{
+  "state": "NM",
+  "state_name": "New Mexico",
+  "year": 2020,
+  "total": 175,
+  "scraped_at": "2026-01-31T00:37:09.763620+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "NM",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Ben Ray Luj\u00e1n",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Bob Walsh",
+      "party": "Libertarian",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Debra Haaland",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Xochitl Torres Small",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "William Sharer",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 2",
+      "candidate": "Steven Neville",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Roberto Gonzales",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "Pat Woods",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "Stuart Ingle",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 32",
+      "candidate": "Cliff R. Pirtle",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 40",
+      "candidate": "Craig W. Brandt",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 41",
+      "candidate": "David M. Gallegos",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 42",
+      "candidate": "Gay Kernan",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "Arthur Allison",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 5",
+      "candidate": "Diamantina Storment",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 5",
+      "candidate": "Lee Weinland",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Melissa Fryzel",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Candace Thompson Gould",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Linda Lopez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Marylinda Price",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Jerry Ortiz y Pino",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Lisa Meyer-Hagen",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "William O'Neill",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Michaela Chavez",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Frederick Snoy II",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Michael Padilla",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Mary Ingham",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 15",
+      "candidate": "Daniel Ivey-Soto",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 15",
+      "candidate": "Sandra Rausch",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Antoinette Sedillo Lopez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Chelsea Flanders",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Rodney Deskin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Bill Tallman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Ryan Chavez",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Michael Cordova",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Claudia Risner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "John McDivitt",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Athena Christodoulou",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Mark Moores",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Benny Shendo",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Susan Aguayo",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Harold Pope Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Sander Rue",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 24",
+      "candidate": "Nancy Rodriguez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 24",
+      "candidate": "Leighton Cornish",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 24",
+      "candidate": "Scott Milenski",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 25",
+      "candidate": "Peter Wirth",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 25",
+      "candidate": "Ricardo Vargas",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 26",
+      "candidate": "Jacob Candelaria",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 26",
+      "candidate": "Manuel Lardizabal",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 28",
+      "candidate": "James Williams",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Paul Baca",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Gregory Baca",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 31",
+      "candidate": "John Roberts",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 33",
+      "candidate": "Denise Lang-Browne",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 34",
+      "candidate": "Darren Murray Kugler",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 34",
+      "candidate": "Ron Griggs",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 35",
+      "candidate": "Crystal Diamond Brantley",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 36",
+      "candidate": "Jeff Steinborn",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 37",
+      "candidate": "William P. Soules",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 37",
+      "candidate": "Dave Gallus",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 38",
+      "candidate": "Charles Wendler",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State Senate",
+      "district": "District 39",
+      "candidate": "Liz Stefanics",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Rodney Montoya",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "James R.J. Strickler",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "T. Ryan Lane",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Doreen Wonda Johnson",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Patricia Lundstrom",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Miguel Garcia",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Gail Chasey",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Georgene Louis",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Susan Herrera",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 49",
+      "candidate": "Gail Armstrong",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 54",
+      "candidate": "James G. Townsend",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 55",
+      "candidate": "Cathrynn Brown",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 58",
+      "candidate": "Candy Spence Ezzell",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 61",
+      "candidate": "Randall Pettigrew",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 62",
+      "candidate": "Larry R. Scott",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 64",
+      "candidate": "Randal Crowder",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 66",
+      "candidate": "Phelps Anderson",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 67",
+      "candidate": "Jack Chatfield",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Anthony Allison",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "P. Mark Duncan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Eliseo Alcon",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Karen Vanessa Chavez",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Santos Griego",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Kelly K. Fajardo",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Paul Matthew Kinzelman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Alonzo Baldonado",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "G. Andres Romero",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "Dinah Glenda Vargas",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Javier Mart\u00ednez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Kayla Marshall",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Dayan Hochman-Vigil",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Ali Ennenga",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Ranota Banks",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Antonio Maestas",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Antoinette Taft",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Kimberly Kaehr-MacMillan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Scott Goodman",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Sheryl Williams Stapleton",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Stephen Cecco",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Mark Curtis",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Michael Hendricks",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Debra Sari\u00f1ana",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Paul McKenney",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Jessica Velasquez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Stefani Lord",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "Daymon Ely",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Elizabeth Thomson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Amy Smith Maloy",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Christine Trujillo",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Sarah Rich-Jackson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Jocelynn Paden",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Melanie Ann Stansbury",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Thomas Ray Stull",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Robert Vaillancourt",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 29",
+      "candidate": "Joy Garratt",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 29",
+      "candidate": "Adelious Stith",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "Natalie Figueroa",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "John Jones",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "Randall Sobien",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "Julie Brenning",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "William Rehm",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "Steven Penhall",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Candie Sweetser",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Scott Chandler",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Micaela Lara Cadena",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Beth Miller",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Dawn Ladd",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "Angelica Rubio",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "Richelle Ponder",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Nathan Small",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Brandi Polanco",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Joanne Ferrary",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Isabella Solis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Karen Whitlock",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Rebecca Dow",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "William Parrish Kinney",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Rodolpho Martinez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Luis Terrazas",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Justin Salazar-Torrez",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Christine Chandler",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "David Hampton",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Gary Tripp",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Jane Powdrell-Culbert",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Jeremy Myers",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 45",
+      "candidate": "Helen Milenski",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "Andrea Romero",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "Jay Groseclose",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "Brian Egolf Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "Glen Berlin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Linda M. Trujillo",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 50",
+      "candidate": "Christina Estrada",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 50",
+      "candidate": "Jerry Gage",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 51",
+      "candidate": "Jeff Swanson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 51",
+      "candidate": "Rachel Black",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 52",
+      "candidate": "Doreen Y. Gallegos",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 52",
+      "candidate": "John Foreman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Willie Madrid",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Ricky Little",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 56",
+      "candidate": "Laura Childress",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 56",
+      "candidate": "Zachary Cook",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 57",
+      "candidate": "Billie Helean",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 57",
+      "candidate": "Jason Harper",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 59",
+      "candidate": "Kimble Kearns",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 59",
+      "candidate": "Greg Nibert",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 60",
+      "candidate": "Timothy Lewis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 63",
+      "candidate": "Randal Brown",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 63",
+      "candidate": "Martin Ruben Zamora",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 65",
+      "candidate": "Phillip Salazar",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 68",
+      "candidate": "Karen Bash",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 68",
+      "candidate": "Giovanni Coppola",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 69",
+      "candidate": "Roy Ryan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 70",
+      "candidate": "Nathan Dial",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

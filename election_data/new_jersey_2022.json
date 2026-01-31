@@ -1,0 +1,81 @@
+{
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "year": 2022,
+  "total": 8,
+  "scraped_at": "2026-01-30T23:54:22.591069+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "NJ",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Matthew Jenkins",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "US House",
+      "district": "District 5",
+      "candidate": "Josh Gottheimer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "US House",
+      "district": "District 6",
+      "candidate": "Frank Pallone Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "US House",
+      "district": "District 9",
+      "candidate": "Bill Pascrell",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "US House",
+      "district": "District 9",
+      "candidate": "Billy Prempeh",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "US House",
+      "district": "District 11",
+      "candidate": "Mikie Sherrill",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "US House",
+      "district": "District 12",
+      "candidate": "Bonnie Watson Coleman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "US House",
+      "district": "District 12",
+      "candidate": "Darius Mayfield",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

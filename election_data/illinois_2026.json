@@ -1,0 +1,1908 @@
+{
+  "state": "IL",
+  "state_name": "Illinois",
+  "year": 2026,
+  "total": 211,
+  "scraped_at": "2026-01-30T22:23:34.741663+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "IL",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Ashley Banks",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Mike Noack",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Delia Ramirez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Angel Oakley",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Ed Hershey",
+      "party": "Working Class",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Patty Garcia",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Lupe Castillo",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "US House",
+      "district": "District 9",
+      "candidate": "Delila Barrera",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "US House",
+      "district": "District 10",
+      "candidate": "Carl Lambrecht",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "US House",
+      "district": "District 11",
+      "candidate": "Bill Foster",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "US House",
+      "district": "District 12",
+      "candidate": "Julie Fortier",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "US House",
+      "district": "District 12",
+      "candidate": "Mike Bost",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "US House",
+      "district": "District 14",
+      "candidate": "Lauren Underwood",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "US House",
+      "district": "District 16",
+      "candidate": "Paul Nolley",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "US House",
+      "district": "District 16",
+      "candidate": "Darin LaHood",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "US House",
+      "district": "District 17",
+      "candidate": "Eric Sorensen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 2",
+      "candidate": "Omar Aquino",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "Mattie Hunter",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Ram Villivalam",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Vince Romano",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Tom Lally",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Mike Porfirio",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Celina Villanueva",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Brian Skala",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 15",
+      "candidate": "Napoleon Harris",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Elgie R. Sims, Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Frederick L. Walls",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Frances Ann Hurley",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Christine McGovern",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 20",
+      "candidate": "Graciela Guzman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Laura Ellman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Julie Berkowicz",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Suzanne Glowiak Hilton",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Linda Polacek",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 24",
+      "candidate": "Ben McAdams",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 24",
+      "candidate": "Seth Lewis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 26",
+      "candidate": "Nabeela Syed",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 26",
+      "candidate": "Darby Hills",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "Carina Santa Maria",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "David Mathis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Julie Morrison",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Kate McGrath",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 30",
+      "candidate": "Adriane Johnson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 32",
+      "candidate": "Karen Battaglia",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 32",
+      "candidate": "Craig Wilcox",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 35",
+      "candidate": "Sarah Mertens",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 35",
+      "candidate": "Dave Syverson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 36",
+      "candidate": "Michael Halpin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 38",
+      "candidate": "Ernie Marcelain",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 38",
+      "candidate": "Sue Rezin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 39",
+      "candidate": "Don Harmon",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 41",
+      "candidate": "John Curran",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 42",
+      "candidate": "Edgardo Perez",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 44",
+      "candidate": "Sally Turner",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 45",
+      "candidate": "Joe Berning",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 47",
+      "candidate": "Neil Anderson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 48",
+      "candidate": "Doris Turner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 48",
+      "candidate": "Frank Lesko",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 50",
+      "candidate": "Jil Tracy",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 51",
+      "candidate": "Chapin Rose",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 53",
+      "candidate": "Chris Balkema",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 54",
+      "candidate": "Steve McClure",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 56",
+      "candidate": "Erica Harriss",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 57",
+      "candidate": "Christopher Belt",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 57",
+      "candidate": "Daniel Rhyne",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State Senate",
+      "district": "District 59",
+      "candidate": "Tamiko Mueller",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Elizabeth Hernandez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Laura Hruska",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Eva-Dina Delgado",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Kimberly du Buclet",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Sonya Harper",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Emanuel Welch",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Yolonda Morris",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "Jawaharial Williams",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Ann M. Williams",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Justin Kumar",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Terry Le",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Kelly Cassidy",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Michael Kelly",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Jennifer Gong-Gershowitz",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Jim Geldermann",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Robyn Gabel",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Pete Donaghue",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Lindsey LaPointe",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "John Zimmers",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Brad Stephens",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Abdelnasser Rashid",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Eric Su",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Angelica Guerrero-Cuellar",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "Edgar Gonzalez Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Theresa Mah",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Curtis Tarver II",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Antoinette Simmons",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Justin Slaughter",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 29",
+      "candidate": "Thaddeus Jones",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "William Davis",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "Michael Crawford",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Lisa Davis",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Marcus Evans",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "Mary Gill",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Rick Ryan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "David Sheppard",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Patrick Sheehan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Debbie Meyers-Martin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Will Guzzardi",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Cesar Guillen",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Janet Yang Rohr",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Ajay Gupta",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 42",
+      "candidate": "Stephanie Trussell",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Anna Moeller",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Fred Crespo",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Ralph Black",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 45",
+      "candidate": "Martha Deuter",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 45",
+      "candidate": "Gina Parrilli",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "Diane Blair-Sherlock",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "Erica Bray-Parker",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "Robert Vrankovich",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Amanda Zahorak",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Jennifer Sanalitro",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 49",
+      "candidate": "Maura Hirschauer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 49",
+      "candidate": "John Paul Augustynowicz",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 50",
+      "candidate": "Barbara Hernandez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 51",
+      "candidate": "Jenny Levin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 52",
+      "candidate": "Martin McLaughlin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Nicolle Grasse",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Elizabeth Bauer",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 54",
+      "candidate": "Mary Beth Canty",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 54",
+      "candidate": "Wayne Keen",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 55",
+      "candidate": "Joseph Johnson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 56",
+      "candidate": "Michelle Mussman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 57",
+      "candidate": "Tracy Katz Muhl",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 57",
+      "candidate": "Daniel Behr",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 58",
+      "candidate": "Bob Morgan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 59",
+      "candidate": "Daniel Didech",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 60",
+      "candidate": "Rita Mayfield",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 61",
+      "candidate": "Joyce Mason",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 61",
+      "candidate": "Tina Durrant",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 62",
+      "candidate": "Laura Dias",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 63",
+      "candidate": "Steven Reick",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 64",
+      "candidate": "AJ Johnson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 64",
+      "candidate": "Tom Weber",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 65",
+      "candidate": "Ricky Rivard",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 65",
+      "candidate": "Dan Ugaste",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 66",
+      "candidate": "Suzanne Ness",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 66",
+      "candidate": "Laurie Parman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 67",
+      "candidate": "Maurice West II",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 68",
+      "candidate": "Dave Vella",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 68",
+      "candidate": "Kathy Easton",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 69",
+      "candidate": "Peter Janko",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 69",
+      "candidate": "Joe Sosnowski",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 70",
+      "candidate": "Veronica Garcia-Martinez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 70",
+      "candidate": "Jeff Keicher",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 71",
+      "candidate": "Kermit Thomas",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 71",
+      "candidate": "Daniel Swanson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 72",
+      "candidate": "Gregg Johnson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 73",
+      "candidate": "Nicole Dopler",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 73",
+      "candidate": "Ryan Spain",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 74",
+      "candidate": "Nolan Kemp",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 74",
+      "candidate": "Brad Fritts",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 75",
+      "candidate": "Caroline McCree",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 75",
+      "candidate": "Jed Davis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 76",
+      "candidate": "Amy Murri Briel",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 77",
+      "candidate": "Norma Hernandez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 77",
+      "candidate": "Anthony Airdo",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 78",
+      "candidate": "Camille Y. Lilly",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 78",
+      "candidate": "Julian-Jahleel Jemison",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 79",
+      "candidate": "Robert Ellington-Snipes",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 79",
+      "candidate": "Jackie Haas",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 80",
+      "candidate": "Anthony DeLuca",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 80",
+      "candidate": "Adam Beaty",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 81",
+      "candidate": "Anne Stava",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 81",
+      "candidate": "Laura Hois",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 82",
+      "candidate": "Nicole La Ha",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 83",
+      "candidate": "Matt Hanson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 83",
+      "candidate": "Jesse Rodriguez",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 84",
+      "candidate": "Brian Scopa",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 85",
+      "candidate": "Dagmara Avelar",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 85",
+      "candidate": "Chris Metcalfe",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 86",
+      "candidate": "Lawrence Walsh, Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 87",
+      "candidate": "Bill Hauter",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 88",
+      "candidate": "Regan Deering",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 90",
+      "candidate": "John Ping",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 91",
+      "candidate": "Sharon Chung",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 92",
+      "candidate": "Jehan Gordon-Booth",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 93",
+      "candidate": "Travis Weaver",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 95",
+      "candidate": "Mike Coffey",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 96",
+      "candidate": "Sue Scherer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 97",
+      "candidate": "Harry Benton",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 97",
+      "candidate": "Gabby Shanahan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 98",
+      "candidate": "Natalie Manley",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 98",
+      "candidate": "Nona Parker",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 99",
+      "candidate": "Kyle Moore",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 100",
+      "candidate": "C.D. Davidsmeyer",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 101",
+      "candidate": "Douglas Fagan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 101",
+      "candidate": "Chris Miller",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 102",
+      "candidate": "Adam Niemerg",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 103",
+      "candidate": "Carol Ammons",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 104",
+      "candidate": "Mary Catherine Roberson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 104",
+      "candidate": "Brandun Schweizer",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 105",
+      "candidate": "Tim Ruestman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 106",
+      "candidate": "Jason Bunting",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 108",
+      "candidate": "Wayne Arthur Rosenthal",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 110",
+      "candidate": "Blaine Wilhour",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 111",
+      "candidate": "Rosetta Brown",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 111",
+      "candidate": "Amy Elik",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 112",
+      "candidate": "Jimmy Ford",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 114",
+      "candidate": "George McClellan Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 114",
+      "candidate": "Kevin Schmidt",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 115",
+      "candidate": "David Friess",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 117",
+      "candidate": "Patrick Windhorst",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 118",
+      "candidate": "Homer Markel",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "state": "LA",
+  "state_name": "Louisiana",
+  "year": 2023,
+  "total": 50,
+  "scraped_at": "2026-01-30T23:25:19.100026+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "LA",
+      "office": "State Senate",
+      "district": "District 2",
+      "candidate": "Ed Price",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State Senate",
+      "district": "District 2",
+      "candidate": "Chris Delpit",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Mary Anne Mushatt",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "R.A. Galan",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Beth Mizell",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Peter Williams",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Marilyn Bellock",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Gregory Miller",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Dexter Lathan",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State Senate",
+      "district": "District 25",
+      "candidate": "Joshua Lewis",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State Senate",
+      "district": "District 25",
+      "candidate": "Mark Abraham",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State Senate",
+      "district": "District 34",
+      "candidate": "Katrina Jackson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State Senate",
+      "district": "District 34",
+      "candidate": "James Smith",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State Senate",
+      "district": "District 37",
+      "candidate": "Ivan Scioneaux",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State Senate",
+      "district": "District 39",
+      "candidate": "James Slagle",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Robert Darrow",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Michael Melerine",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Evan McMichael",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Ray Ivory Sr.",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Shanda Paul",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Francis Thompson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Norm Davis",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Ramondo Ramos",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Daryl Deshotel",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "Charles Owen",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "William Jones",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "McKinley James Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Julie Emerson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Ludwig Gelobter",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Josh Carlson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 45",
+      "candidate": "Paul LeBleu",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 45",
+      "candidate": "Brach Myers",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 45",
+      "candidate": "Jupiter Leblanc",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "David Levy",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Beau Beaullieu",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 50",
+      "candidate": "Gloria Robertson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 50",
+      "candidate": "Vincent St. Blanc III",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 57",
+      "candidate": "Shondrell Perrilloux",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 57",
+      "candidate": "Russ Wise",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 63",
+      "candidate": "Christopher Lemoine",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 68",
+      "candidate": "Parry Thomas",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 70",
+      "candidate": "Steve Myers",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 75",
+      "candidate": "Kelvin May",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 77",
+      "candidate": "Jim Harlan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 83",
+      "candidate": "Kyle Green Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 83",
+      "candidate": "Reginald Jasmin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 85",
+      "candidate": "Andrea Manuel",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 85",
+      "candidate": "Vincent Cox III",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 85",
+      "candidate": "Andrew Bennett",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "LA",
+      "office": "State House",
+      "district": "District 90",
+      "candidate": "Heide Alejandro-Smith",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

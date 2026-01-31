@@ -1,0 +1,54 @@
+{
+  "state": "AL",
+  "state_name": "Alabama",
+  "year": 2024,
+  "total": 5,
+  "scraped_at": "2026-01-30T22:55:23.168919+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "AL",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Tom Holmes",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Mike Rogers",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Robert Aderholt",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "US House",
+      "district": "District 5",
+      "candidate": "Dale Strong",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "US House",
+      "district": "District 6",
+      "candidate": "Elizabeth Anderson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

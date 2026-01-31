@@ -1,0 +1,657 @@
+{
+  "state": "HI",
+  "state_name": "Hawaii",
+  "year": 2024,
+  "total": 72,
+  "scraped_at": "2026-01-30T22:59:40.241720+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "HI",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Emma Pohlman",
+      "party": "Green/Rainbow",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Patrick Largey",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Calvin Griffin",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Jill Tokuda",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Steven Bond",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "Dru Kanuha",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "Kurt Sullivan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "Tim Richards",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Sheila Walker",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "Lynn DeCoite",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "Gabby Macaraeg",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Sharon Moriwaki",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Shotaro Dabbs",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Brandon Elefante",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Patricia Beekman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Michelle Kidani",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Emil Svrcina",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Henry Aquino",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Brenton Awa",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State Senate",
+      "district": "District 24",
+      "candidate": "Jarrett Keohokalole",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Mark Nakashima",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Kanoa Wilson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Austin Martin",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Greggor Ilagan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Keikilani Ho",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Ashley Oyama",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Fred Fogel",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Nicole Lowen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Monique CobbAdams Perreira",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Justin Woodson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Terez Amato",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Aileen Acain",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Dan Johnson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Rita Ryan",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Kelly Armstrong",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Nadine Nakamura",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "David Moranz",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Luke Evslin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Steve Yoder",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Dee Morikawa",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Michael Jauch",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Gene Ward",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Mark Hashem",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Corinne Solomon",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Joelle Seashell",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Andrew Takuya Garrett",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Jeffrey Imamura",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Jillian Anderson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Della Au Belatti",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Jenna Takenouchi",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 29",
+      "candidate": "Carole K. Kaapu",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "Nancy Valdez",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Micah Pookela Kim Aiu",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Garner Musashi Shimizu",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Gregg Takayama",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Rachele Fernandez Lamosao",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Taylor Kaaumoana",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Alexander Ozawa",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Elijah Pierick",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Rose Martinez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Christian Ulufanua",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "John Clark III",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "David Alcos",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 42",
+      "candidate": "Diamond Garcia",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Darius Kila",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "Daniel Gabriel",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "Sean Quinlan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "John Aguirre",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Lisa Kitagawa",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Asheemo Daily",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 49",
+      "candidate": "Josiah Ubando",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State House",
+      "district": "District 50",
+      "candidate": "Timothy Connelly",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

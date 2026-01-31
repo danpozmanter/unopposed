@@ -1,0 +1,36 @@
+{
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "year": 2026,
+  "total": 3,
+  "scraped_at": "2026-01-30T22:30:50.012754+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 38",
+      "candidate": "Thomas West",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Marci Mustello",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 106",
+      "candidate": "Thomas Mehaffie",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    }
+  ]
+}

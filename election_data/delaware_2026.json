@@ -1,0 +1,36 @@
+{
+  "state": "DE",
+  "state_name": "Delaware",
+  "year": 2026,
+  "total": 3,
+  "scraped_at": "2026-01-30T22:22:10.222125+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "DE",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Mara Gorman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Ruby Schaeffer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Matt Bucher",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

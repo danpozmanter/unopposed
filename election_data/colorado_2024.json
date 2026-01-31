@@ -1,0 +1,1224 @@
+{
+  "state": "CO",
+  "state_name": "Colorado",
+  "year": 2024,
+  "total": 135,
+  "scraped_at": "2026-01-30T22:57:23.401205+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "CO",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Valdamar Archuleta",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Joe Neguse",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Marshall Dawson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Adam Frisch",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "US House",
+      "district": "District 6",
+      "candidate": "Jason Crow",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "US House",
+      "district": "District 6",
+      "candidate": "John Fabbricatore",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "US House",
+      "district": "District 7",
+      "candidate": "Brittany Pettersen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "US House",
+      "district": "District 7",
+      "candidate": "Sergei Matveyuk",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "US House",
+      "district": "District 8",
+      "candidate": "Yadira Caraveo",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State Senate",
+      "district": "District 2",
+      "candidate": "Jennifer Brady",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State Senate",
+      "district": "District 5",
+      "candidate": "Marc Catlin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Vivian Smotherman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Cleave Simpson Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Marc Snyder",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Matt Johnston",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Scott Bright",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Cathy Kipp",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Phoebe McWilliams",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Chris Kolker",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Robyn Carnes",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Sonya Jaquez Lewis",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Tom Van Lone",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Sam Bandimere",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Dafna Michaelson Jenet",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Frederick Alfred Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State Senate",
+      "district": "District 26",
+      "candidate": "Jeff Bridges",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State Senate",
+      "district": "District 26",
+      "candidate": "Bob Lane",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Janet Buckner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Robert Tate",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State Senate",
+      "district": "District 31",
+      "candidate": "Chris Hansen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State Senate",
+      "district": "District 33",
+      "candidate": "James Coleman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State Senate",
+      "district": "District 33",
+      "candidate": "Max Minnig",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Manny Rutinel",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 42",
+      "candidate": "Mandy Lindsay",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Carlos Barron",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 54",
+      "candidate": "Matt Soper",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 55",
+      "candidate": "Rick Taggart",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 63",
+      "candidate": "Dusty Johnson",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Javier Mabrey",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Barbara DeHaan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Steven Woodrow",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Michael DiManna",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Meg Froelich",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Michaela Neal",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Jack Daus",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Alex Valdez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Johnnie Johnson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Kyle Witter",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Jennifer Bacon",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Tom Swift",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Philip Borrelli",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Emily Sirota",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Tom Cowhick",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "William DeOreo",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Karen McCormick",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Kyle Brown",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Julie McCluskie",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Dave Williams",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Katherine Gayle",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Rose Pugliese",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Jeff Livingston",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Scott Bottoms",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Stephanie Vigil",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Rebecca Keltie",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Regina English",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Elizabeth Riggs",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Amy Paschal",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "James Boelens",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Jennifer Parenti",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Dan Woog",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Arik Dougherty",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Liz Rosenbaum",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Michael Pierson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Kenneth DeGraaf",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "Monica Duran",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Lisa Feret",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Gwen Henderson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Tammy Story",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "George Mumma",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Meghan Lukens",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Nathan Butler",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Brianna Titone",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Ed Cox",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Sheila Lieder",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Peter Boddie",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 29",
+      "candidate": "Shannon Bird",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 29",
+      "candidate": "Evan Hunt",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "Ramey Johnson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "Heidi Pitchforth",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "William Lindstedt",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Michael Martinez",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Jenny Willford",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Craig Sullivan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "Lorena Garcia",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "Lee Knoll",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Chad Clifford",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Danny Moore",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Gretchen Rydin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Jeffrey Patty",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Eric Brody",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Brandi Bradley",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Naquetta Ricks",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Darryl Gibbs",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Iman Jodeh",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Rob McKenna",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Robert Marshall",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Alyssa Nilemo",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Anthony Hartsook",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 45",
+      "candidate": "Chad Cox",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "Tisha Mauro",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "Elizabeth Bulthuis",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "Ty Winter",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 49",
+      "candidate": "Steve Ferrante",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 50",
+      "candidate": "Mary Young",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 50",
+      "candidate": "Ryan Gonzalez",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 51",
+      "candidate": "Sarah McKeen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 51",
+      "candidate": "Ron Weinberg",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Andrew Boesenecker",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Donna Walter",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 56",
+      "candidate": "Alessandra Navetta",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 56",
+      "candidate": "Chris Richardson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 57",
+      "candidate": "Elizabeth Velasco",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 57",
+      "candidate": "Caleb Waller",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 58",
+      "candidate": "Kathleen Curry",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 59",
+      "candidate": "Katie Stewart",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 59",
+      "candidate": "Clark Craig",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 60",
+      "candidate": "Kathryn Green",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 60",
+      "candidate": "Stephanie Luck",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 61",
+      "candidate": "Eliza Hamrick",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 61",
+      "candidate": "Luis Moy",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 62",
+      "candidate": "Matthew Martinez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 62",
+      "candidate": "Carol Riggenbach",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 63",
+      "candidate": "Charles Alvarado",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 64",
+      "candidate": "Mark Matthews",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 64",
+      "candidate": "Ryan Armagost",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

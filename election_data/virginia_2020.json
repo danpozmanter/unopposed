@@ -1,0 +1,81 @@
+{
+  "state": "VA",
+  "state_name": "Virginia",
+  "year": 2020,
+  "total": 8,
+  "scraped_at": "2026-01-31T00:42:24.598354+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "VA",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Robert J. Wittman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Elaine Luria",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Robert C. Scott",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "US House",
+      "district": "District 6",
+      "candidate": "Benjamin Lee Cline",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "US House",
+      "district": "District 7",
+      "candidate": "Abigail Spanberger",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "US House",
+      "district": "District 8",
+      "candidate": "Donald Sternoff Beyer Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "US House",
+      "district": "District 9",
+      "candidate": "H. Morgan Griffith",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "US House",
+      "district": "District 10",
+      "candidate": "Jennifer Wexton",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
+}

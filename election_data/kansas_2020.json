@@ -1,0 +1,2151 @@
+{
+  "state": "KS",
+  "state_name": "Kansas",
+  "year": 2020,
+  "total": 238,
+  "scraped_at": "2026-01-31T00:32:20.950177+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "KS",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Sharice Davids",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Laura Lombard",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Ron Estes",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 2",
+      "candidate": "Marci Francisco",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Michael Fagg",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 15",
+      "candidate": "Virgil Peck, Jr.",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 24",
+      "candidate": "J.R. Claeys",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 26",
+      "candidate": "Dan Kerschen",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 31",
+      "candidate": "Carolyn McGinn",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 32",
+      "candidate": "Larry Alley",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 33",
+      "candidate": "Alicia Straub",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 35",
+      "candidate": "Rick Wilborn",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 36",
+      "candidate": "Elaine Bowers",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 39",
+      "candidate": "John Doll",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Kirk Miller",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Dennis Pyle",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "Tom Holland",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "Willie Dove",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "David Haley",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "Sam Stillwell",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 5",
+      "candidate": "Jeff Pittman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 5",
+      "candidate": "Kevin Braun",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Pat Pettey",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Diana Whittington",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "Ethan Corson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "Laura McConwell",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Cindy Holscher",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "James Todd",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Stacey Knoell",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Julia Lynn",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Lindsey Constance",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Joy Koesten",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Mike Bruner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Caryn Tyson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Nancy Ingle",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Richard Hilderbrand",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Timothy Fry II",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Ty Masterson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Stephen Vecchione",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Jeff Longbine",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Kristen O'Shea",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Anthony Hensley",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Rick Kloos",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 20",
+      "candidate": "Rachel Willis",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Dinah Sykes",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Tom Bickimer",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Tom Hawk",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Wendy Budetti",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 25",
+      "candidate": "Mary Ware",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 25",
+      "candidate": "Vail Fruechting",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "Mike McCorkle",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "Gene Suellentrop",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 28",
+      "candidate": "Jim Ward",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 28",
+      "candidate": "Mike Petersen",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Oletha Faust-Goudeau",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Myron Ackerman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 30",
+      "candidate": "Renee Erickson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 34",
+      "candidate": "Shanna Henry",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 37",
+      "candidate": "Becca Peck",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 37",
+      "candidate": "Molly Baumgardner",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 38",
+      "candidate": "Edgar Pando",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 38",
+      "candidate": "Bud Estes",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 40",
+      "candidate": "Larry Dreiling",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State Senate",
+      "district": "District 40",
+      "candidate": "Rick Billinger",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Lynn Grant",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Kenneth Collins",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Monica Murnan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Chuck Smith",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Bill Meyer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Roger Sims",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Richard Proehl",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Alana Cloutier",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Jim Kelly",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Doug Blex",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Mark Pringle",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Joe Newland",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Angela Justus Schweller",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Charlotte Esau",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Cole Fine",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "John Toplikar",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Linda Featherston",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Rashard Young",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Jo Ella Hoye",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Kristine Sapp",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Cindy Neighbor",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Stephanie Clayton",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Mari-Lynn Poskin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Jerry Stogsdill",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Bob Reese",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "Susan Ruiz",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "Jeff Shull",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Jarrod Ousley",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Rui Xu",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "W. Michael Shimeall",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Adam Thomas",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Sona Patel",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Sean Tarwater Sr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Sally Jercha",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 29",
+      "candidate": "Brett Parker",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 29",
+      "candidate": "Jerry Clinton",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "Brandon Woodard",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "Louis Ruiz",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "Landon Griffith",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Greg Conchola",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Tom Burroughs",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Jordan Michael Mackey",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Valdenia Winn",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "Mark David Snelson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Kathy Wolfe Moore",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Mark Gilstrap",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Sherri Grogan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Owen Donohoe",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Joana Scholtz",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "David French",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Pat Proctor",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Pamela Finley",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Bill Sutton",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Barbara Ballard",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 45",
+      "candidate": "Mike Amyx",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "Dennis Highberger",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "Michael Caddell",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "Ronald Ellis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Jennifer Day",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Terry Frederick",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 49",
+      "candidate": "Megan Lynn",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 50",
+      "candidate": "Timothy Reed",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 50",
+      "candidate": "Fred Patton",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Jim Gartner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Jeff Coen",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 54",
+      "candidate": "John Brosz",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 54",
+      "candidate": "Ken Corbet",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 55",
+      "candidate": "Annie Kuether",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 55",
+      "candidate": "Janlyn Nesbett Tucker",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 56",
+      "candidate": "Tim Clothier",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 57",
+      "candidate": "John Alcala",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 57",
+      "candidate": "Michael Martin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 58",
+      "candidate": "Vic Miller",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 58",
+      "candidate": "Geoffrey Gawdun",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 59",
+      "candidate": "Caren Rugg",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 60",
+      "candidate": "Todd Maddox",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 60",
+      "candidate": "Mark Schreiber",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 61",
+      "candidate": "Francis Awerkamp",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 62",
+      "candidate": "Randy Garber",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 63",
+      "candidate": "John Eplee",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 64",
+      "candidate": "Jim Vathauer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 64",
+      "candidate": "Susan Carlson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 65",
+      "candidate": "Lonnie Clark",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 66",
+      "candidate": "Sydney Carlin",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 67",
+      "candidate": "Cheryl Arthur",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 67",
+      "candidate": "Mike Dodson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 68",
+      "candidate": "Scott Dawson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 68",
+      "candidate": "Dave Baker",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 70",
+      "candidate": "Jo Schwartz",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 71",
+      "candidate": "Jeffrey Zamrzla",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 72",
+      "candidate": "Tim Hodge",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 73",
+      "candidate": "Les Mason",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 74",
+      "candidate": "Stephen Owens",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 75",
+      "candidate": "Ethan Caylor",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 75",
+      "candidate": "Will Carpenter",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 77",
+      "candidate": "Kristey Williams",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 78",
+      "candidate": "Kathy Meyer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 78",
+      "candidate": "Ron Ryckman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 79",
+      "candidate": "Cheryl Helmer",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 80",
+      "candidate": "Bill Rhiley",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 81",
+      "candidate": "Matthew Joyce",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 81",
+      "candidate": "Blake Carpenter",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 82",
+      "candidate": "Edward Hackerott",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 83",
+      "candidate": "Henry Helgerson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 83",
+      "candidate": "Crystal Dozier",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 84",
+      "candidate": "Gail Finney",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 84",
+      "candidate": "Janet Sue Rine",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 85",
+      "candidate": "Marcey Gregory",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 86",
+      "candidate": "Stephanie Byers",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 86",
+      "candidate": "Cyndi Howerton",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 87",
+      "candidate": "Matt Fox",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 87",
+      "candidate": "Susan Estes",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 88",
+      "candidate": "Elizabeth Bishop",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 89",
+      "candidate": "KC Ohaebosim",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 90",
+      "candidate": "Steve Huebert",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 91",
+      "candidate": "Emil Bergquist",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 92",
+      "candidate": "John Carmichael",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 92",
+      "candidate": "Patrick McCormack",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 94",
+      "candidate": "Derek Milligan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 94",
+      "candidate": "Leo Delperdang",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 95",
+      "candidate": "Tom Sawyer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 95",
+      "candidate": "Christopher Parisho",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 96",
+      "candidate": "Stephanie Yeager",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 96",
+      "candidate": "Tom Kessler",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 97",
+      "candidate": "Kim Webb",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 98",
+      "candidate": "Ron Howard",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 99",
+      "candidate": "Phil Hodson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 99",
+      "candidate": "Susan Humphries",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 100",
+      "candidate": "Chad Smith",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 100",
+      "candidate": "Daniel Hawkins",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 101",
+      "candidate": "Elliott Adams",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 101",
+      "candidate": "Joe Seiwert",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 102",
+      "candidate": "Jason Probst",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 102",
+      "candidate": "John Whitesel",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 103",
+      "candidate": "Ponka-We Victors",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 103",
+      "candidate": "Susanne Haynes",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 104",
+      "candidate": "Garth Strand",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 104",
+      "candidate": "Paul Waggoner",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 105",
+      "candidate": "Michelle Snyder",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 105",
+      "candidate": "Brenda Landwehr",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 106",
+      "candidate": "James Swim",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 107",
+      "candidate": "Susan L. Concannon",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 108",
+      "candidate": "Steven C. Johnson",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 109",
+      "candidate": "Troy L. Waymaster",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 110",
+      "candidate": "Ken Rahjes",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 111",
+      "candidate": "Eber Phelps",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 111",
+      "candidate": "Barbara Wasinger",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 112",
+      "candidate": "Tory Marie Blew",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 114",
+      "candidate": "Jeff Stroberg",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 116",
+      "candidate": "Rick Roitman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 116",
+      "candidate": "Kyle Hoffman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 117",
+      "candidate": "Leonard Mastroni",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 118",
+      "candidate": "Jim Minnix",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 119",
+      "candidate": "Jan Scoggins",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 119",
+      "candidate": "Bradley Ralph",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 120",
+      "candidate": "Adam Smith",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 121",
+      "candidate": "James Rexford",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 121",
+      "candidate": "John Resman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 122",
+      "candidate": "Russ Jennings",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 123",
+      "candidate": "John Wheeler Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 125",
+      "candidate": "Shannon Francis",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Michael Houser",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Samantha Poetter",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Chris Croft",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "Christina Haswood",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Lindsay Vaughn",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Aaron Coleman",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 42",
+      "candidate": "Lance Neelly",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 51",
+      "candidate": "Ron Highland",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 76",
+      "candidate": "Eric Smith",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 93",
+      "candidate": "Brian Bergkamp",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 113",
+      "candidate": "Brett Fairchild",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 115",
+      "candidate": "Boyd Orr",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 124",
+      "candidate": "Martin Long",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    }
+  ]
+}
