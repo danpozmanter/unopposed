@@ -664,5 +664,15 @@
 		.year-btn {
 			padding: 0.5rem 1rem;
 		}
+
+		.state-details {
+			grid-template-columns: 1fr;
+			padding: 1rem;
+		}
+
+		.candidates-table {
+			display: block;
+			overflow-x: auto;
+		}
 	}
 </style>
