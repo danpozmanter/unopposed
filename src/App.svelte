@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { SvelteMap, SvelteSet } from 'svelte/reactivity';
 	import {
 		STATE_NAMES,
 		STATE_CODES,
@@ -9,140 +10,134 @@
 		type Manifest
 	} from '$lib/types';
 
-	const base = import.meta.env.BASE_URL;
+	const baseUrl = import.meta.env.BASE_URL;
 
-	let years = $state<number[]>([]);
+	let availableYears = $state<number[]>([]);
 	let selectedYear = $state(getDefaultYear());
-	let stateData = $state(new Map<string, ElectionData | null>());
-	let loading = $state(true);
-	let expandedStates = $state(new Set<string>());
+	let electionsByState = new SvelteMap<string, ElectionData | null>();
+	let isLoading = $state(true);
+	let expandedStates = new SvelteSet<string>();
 
-	const officeOrder = ['US Senate', 'US House', 'Governor', 'State Senate', 'State House'];
+	const OFFICE_PRIORITY = ['US Senate', 'US House', 'Governor', 'State Senate', 'State House'] as const;
+
+	const PARTY_INFO: Record<string, { abbrev: string; class: string }> = {
+		democrat: { abbrev: 'D', class: 'party-d' },
+		republican: { abbrev: 'R', class: 'party-r' },
+		libertarian: { abbrev: 'L', class: 'party-l' },
+		green: { abbrev: 'G', class: 'party-g' },
+		independent: { abbrev: 'I', class: 'party-i' },
+		unknown: { abbrev: 'U', class: 'party-o' }
+	};
+
+	function getPartyInfo(party: string): { abbrev: string; class: string } {
+		const partyLower = party.toLowerCase();
+		for (const [key, info] of Object.entries(PARTY_INFO)) {
+			if (partyLower.includes(key)) return info;
+		}
+		return { abbrev: 'O', class: 'party-o' };
+	}
 
 	async function loadManifest() {
 		try {
-			const response = await fetch(`${base}election_data/manifest.json`);
+			const response = await fetch(`${baseUrl}election_data/manifest.json`);
 			if (response.ok) {
 				const manifest: Manifest = await response.json();
-				years = manifest.years.sort((a, b) => b - a);
+				availableYears = manifest.years.sort((a, b) => b - a);
 				const currentYear = getDefaultYear();
-				if (years.includes(currentYear)) {
+				if (availableYears.includes(currentYear)) {
 					selectedYear = currentYear;
-				} else if (years.length > 0) {
-					selectedYear = years[0];
+				} else if (availableYears.length > 0) {
+					selectedYear = availableYears[0];
 				}
 			} else {
-				years = [getDefaultYear()];
+				availableYears = [getDefaultYear()];
 			}
 		} catch {
-			years = [getDefaultYear()];
+			availableYears = [getDefaultYear()];
 		}
 	}
 
-	async function loadData(year: number) {
-		loading = true;
-		const newData = new Map<string, ElectionData | null>();
+	async function loadElectionData(year: number) {
+		isLoading = true;
+		const newData = new SvelteMap<string, ElectionData | null>();
 
-		const statePromises = STATE_CODES.map(async (code) => {
-			const filename = getFilename(code);
+		const fetchPromises = STATE_CODES.map(async (stateCode) => {
+			const filename = getFilename(stateCode);
 			try {
-				const response = await fetch(`${base}election_data/${filename}_${year}.json`);
+				const response = await fetch(`${baseUrl}election_data/${filename}_${year}.json`);
 				if (response.ok) {
 					const data = await response.json();
-					newData.set(code, data);
+					newData.set(stateCode, data);
 				} else {
-					newData.set(code, null);
+					newData.set(stateCode, null);
 				}
 			} catch {
-				newData.set(code, null);
+				newData.set(stateCode, null);
 			}
 		});
 
-		await Promise.all(statePromises);
+		await Promise.all(fetchPromises);
 
-		stateData = newData;
-		loading = false;
+		electionsByState = newData;
+		isLoading = false;
 	}
 
-	function getPartyClass(party: string): string {
-		const p = party.toLowerCase();
-		if (p.includes('democrat')) return 'party-d';
-		if (p.includes('republican')) return 'party-r';
-		if (p.includes('libertarian')) return 'party-l';
-		if (p.includes('green')) return 'party-g';
-		if (p.includes('independent')) return 'party-i';
-		return 'party-o';
-	}
-
-	function getPartyAbbreviation(party: string): string {
-		const p = party.toLowerCase();
-		if (p.includes('democrat')) return 'D';
-		if (p.includes('republican')) return 'R';
-		if (p.includes('libertarian')) return 'L';
-		if (p.includes('green')) return 'G';
-		if (p.includes('independent')) return 'I';
-		if (p.includes('unknown') || p === 'unknown') return 'U';
-		return 'O';
-	}
-
-	function groupByOffice(candidates: Candidate[]): Map<string, Candidate[]> {
+	function groupCandidatesByOffice(candidates: Candidate[]): Map<string, Candidate[]> {
+		// eslint-disable-next-line svelte/prefer-svelte-reactivity -- pure utility, not reactive state
 		const grouped = new Map<string, Candidate[]>();
-		for (const c of candidates) {
-			if (!grouped.has(c.office)) {
-				grouped.set(c.office, []);
+		for (const candidate of candidates) {
+			if (!grouped.has(candidate.office)) {
+				grouped.set(candidate.office, []);
 			}
-			grouped.get(c.office)!.push(c);
+			grouped.get(candidate.office)!.push(candidate);
 		}
 		return new Map(
 			[...grouped.entries()].sort(
-				(a, b) => officeOrder.indexOf(a[0]) - officeOrder.indexOf(b[0])
+				(a, b) => OFFICE_PRIORITY.indexOf(a[0] as typeof OFFICE_PRIORITY[number]) - OFFICE_PRIORITY.indexOf(b[0] as typeof OFFICE_PRIORITY[number])
 			)
 		);
 	}
 
-	function toggleState(code: string) {
-		const newSet = new Set(expandedStates);
-		if (newSet.has(code)) {
-			newSet.delete(code);
+	function toggleStateExpansion(stateCode: string) {
+		if (expandedStates.has(stateCode)) {
+			expandedStates.delete(stateCode);
 		} else {
-			newSet.add(code);
+			expandedStates.add(stateCode);
 		}
-		expandedStates = newSet;
 	}
 
-	function formatTimestamp(iso: string): string {
-		const date = new Date(iso);
-		return date.toLocaleDateString(undefined, {
+	function formatDate(isoString: string): string {
+		return new Date(isoString).toLocaleDateString(undefined, {
 			year: 'numeric',
 			month: 'short',
 			day: 'numeric'
 		});
 	}
 
-	function getSummary(): { total: number; byParty: Record<string, number> } {
-		let total = 0;
-		const byParty: Record<string, number> = {};
+	const summary = $derived.by(() => {
+		let totalUnopposed = 0;
+		const countByParty: Record<string, number> = {};
 
-		for (const data of stateData.values()) {
-			if (data?.unopposed_candidates) {
-				total += data.total || 0;
-				for (const c of data.unopposed_candidates) {
-					const abbrev = getPartyAbbreviation(c.party);
-					byParty[abbrev] = (byParty[abbrev] || 0) + 1;
+		for (const electionData of electionsByState.values()) {
+			if (electionData?.unopposed_candidates) {
+				totalUnopposed += electionData.total || 0;
+				for (const candidate of electionData.unopposed_candidates) {
+					const { abbrev } = getPartyInfo(candidate.party);
+					countByParty[abbrev] = (countByParty[abbrev] || 0) + 1;
 				}
 			}
 		}
 
-		return { total, byParty };
-	}
+		return { totalUnopposed, countByParty };
+	});
 
 	$effect(() => {
 		loadManifest();
 	});
 
 	$effect(() => {
-		if (years.length > 0) {
-			loadData(selectedYear);
+		if (availableYears.length > 0) {
+			loadElectionData(selectedYear);
 		}
 	});
 
@@ -158,7 +153,7 @@
 	</header>
 
 	<nav class="year-selector">
-		{#each years as year (year)}
+		{#each availableYears as year (year)}
 			<button
 				class="year-btn"
 				class:active={selectedYear === year}
@@ -169,22 +164,21 @@
 		{/each}
 	</nav>
 
-	{#if loading}
+	{#if isLoading}
 		<div class="loading">
 			<div class="spinner"></div>
 			<p>Loading election data...</p>
 		</div>
 	{:else}
-		{@const summary = getSummary()}
 		<section class="summary">
 			<div class="summary-card">
-				<span class="summary-number">{summary.total}</span>
+				<span class="summary-number">{summary.totalUnopposed}</span>
 				<span class="summary-label">Unopposed Races</span>
 			</div>
 			<div class="summary-parties">
-				{#each Object.entries(summary.byParty).sort((a, b) => b[1] - a[1]) as [party, count] (party)}
+				{#each Object.entries(summary.countByParty).sort((a, b) => b[1] - a[1]) as [partyAbbrev, count] (partyAbbrev)}
 					<div class="party-stat">
-						<span class="party-badge party-{party.toLowerCase()}">{party}</span>
+						<span class="party-badge party-{partyAbbrev.toLowerCase()}">{partyAbbrev}</span>
 						<span class="party-count">{count}</span>
 					</div>
 				{/each}
@@ -201,29 +195,29 @@
 		</div>
 
 		<section class="states-grid">
-			{#each STATE_CODES.filter(code => {
-				const d = stateData.get(code);
-				return d && d.total > 0;
-			}) as code (code)}
-				{@const data = stateData.get(code)}
-				<article class="state-card" class:expanded={expandedStates.has(code)}>
-					<button class="state-header" onclick={() => toggleState(code)}>
+			{#each STATE_CODES.filter((stateCode) => {
+				const electionData = electionsByState.get(stateCode);
+				return electionData && electionData.total > 0;
+			}) as stateCode (stateCode)}
+				{@const electionData = electionsByState.get(stateCode)}
+				<article class="state-card" class:expanded={expandedStates.has(stateCode)}>
+					<button class="state-header" onclick={() => toggleStateExpansion(stateCode)}>
 						<div class="state-info">
-							<span class="state-code">{code}</span>
-							<span class="state-name">{STATE_NAMES[code]}</span>
+							<span class="state-code">{stateCode}</span>
+							<span class="state-name">{STATE_NAMES[stateCode]}</span>
 						</div>
 						<div class="state-count">
-							<span class="count-badge">{data?.total || 0}</span>
+							<span class="count-badge">{electionData?.total || 0}</span>
 						</div>
 					</button>
 
-					{#if expandedStates.has(code) && data?.unopposed_candidates && data.total > 0}
-						{@const grouped = groupByOffice(data.unopposed_candidates)}
+					{#if expandedStates.has(stateCode) && electionData?.unopposed_candidates && electionData.total > 0}
+						{@const candidatesByOffice = groupCandidatesByOffice(electionData.unopposed_candidates)}
 						<div class="state-details">
-							{#if data.scraped_at}
-								<p class="scraped-at">As of {formatTimestamp(data.scraped_at)}</p>
+							{#if electionData.scraped_at}
+								<p class="scraped-at">As of {formatDate(electionData.scraped_at)}</p>
 							{/if}
-							{#each [...grouped.entries()] as [office, candidates] (office)}
+							{#each [...candidatesByOffice.entries()] as [office, candidates] (office)}
 								<div class="office-group">
 									<h3 class="office-title">{office}</h3>
 									<table class="candidates-table">
@@ -236,16 +230,17 @@
 											</tr>
 										</thead>
 										<tbody>
-											{#each candidates as c (c.candidate + c.district)}
+											{#each candidates as candidate (candidate.candidate + candidate.district)}
+												{@const partyInfo = getPartyInfo(candidate.party)}
 												<tr>
-													<td class="district">{c.district}</td>
-													<td class="candidate-name">{c.candidate}</td>
+													<td class="district">{candidate.district}</td>
+													<td class="candidate-name">{candidate.candidate}</td>
 													<td>
-														<span class="party-pill {getPartyClass(c.party)}">
-															{getPartyAbbreviation(c.party)}
+														<span class="party-pill {partyInfo.class}">
+															{partyInfo.abbrev}
 														</span>
 													</td>
-													<td class="unopposed-in">{c.unopposed_in}</td>
+													<td class="unopposed-in">{candidate.unopposed_in}</td>
 												</tr>
 											{/each}
 										</tbody>
