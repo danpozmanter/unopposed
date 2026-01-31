@@ -3,7 +3,12 @@
   "state_name": "Louisiana",
   "year": 2026,
   "total": 7,
-  "scraped_at": "2026-01-31T05:33:40.434917+00:00",
+  "total_races": 6,
+  "total_races_by_party": {
+    "Democrat": 6,
+    "Republican": 5
+  },
+  "scraped_at": "2026-01-31T21:08:33.813964+00:00",
   "unopposed_candidates": [
     {
       "state": "LA",

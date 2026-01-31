@@ -3,7 +3,14 @@
   "state_name": "Kentucky",
   "year": 2022,
   "total": 136,
-  "scraped_at": "2026-01-30T23:48:17.690065+00:00",
+  "total_races": 126,
+  "total_races_by_party": {
+    "Republican": 114,
+    "Unknown": 5,
+    "Democrat": 83,
+    "Other": 6
+  },
+  "scraped_at": "2026-01-31T22:18:47.332733+00:00",
   "unopposed_candidates": [
     {
       "state": "KY",

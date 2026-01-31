@@ -2,36 +2,19 @@
   "state": "HI",
   "state_name": "Hawaii",
   "year": 2022,
-  "total": 96,
-  "scraped_at": "2026-01-30T23:44:48.974543+00:00",
+  "total": 93,
+  "total_races": 80,
+  "total_races_by_party": {
+    "Democrat": 69,
+    "Libertarian": 2,
+    "Aloha Aina": 1,
+    "Republican": 65,
+    "Unknown": 4,
+    "Green/Rainbow": 1,
+    "Other": 11
+  },
+  "scraped_at": "2026-01-31T22:15:17.550938+00:00",
   "unopposed_candidates": [
-    {
-      "state": "HI",
-      "office": "US Senate",
-      "district": "Statewide",
-      "candidate": "Dan Decker",
-      "party": "Unknown",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "HI",
-      "office": "US Senate",
-      "district": "Statewide",
-      "candidate": "Emma Pohlman",
-      "party": "Green/Rainbow",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "HI",
-      "office": "US Senate",
-      "district": "Statewide",
-      "candidate": "Feena Bonoan",
-      "party": "Libertarian",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
     {
       "state": "HI",
       "office": "State Senate",

@@ -3,7 +3,13 @@
   "state_name": "Mississippi",
   "year": 2023,
   "total": 127,
-  "scraped_at": "2026-01-30T23:27:02.865446+00:00",
+  "total_races": 122,
+  "total_races_by_party": {
+    "Republican": 85,
+    "Democrat": 53,
+    "Other": 18
+  },
+  "scraped_at": "2026-01-31T22:01:38.808919+00:00",
   "unopposed_candidates": [
     {
       "state": "MS",

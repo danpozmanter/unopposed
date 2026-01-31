@@ -3,7 +3,13 @@
   "state_name": "Nevada",
   "year": 2026,
   "total": 8,
-  "scraped_at": "2026-01-31T05:37:04.737407+00:00",
+  "total_races": 58,
+  "total_races_by_party": {
+    "Unknown": 2,
+    "Republican": 9,
+    "Democrat": 7
+  },
+  "scraped_at": "2026-01-31T21:11:14.471323+00:00",
   "unopposed_candidates": [
     {
       "state": "NV",

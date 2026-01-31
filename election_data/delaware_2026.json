@@ -3,7 +3,13 @@
   "state_name": "Delaware",
   "year": 2026,
   "total": 3,
-  "scraped_at": "2026-01-31T05:30:09.298773+00:00",
+  "total_races": 53,
+  "total_races_by_party": {
+    "Democrat": 1,
+    "Republican": 1,
+    "Unknown": 1
+  },
+  "scraped_at": "2026-01-31T21:05:44.870135+00:00",
   "unopposed_candidates": [
     {
       "state": "DE",

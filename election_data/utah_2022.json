@@ -3,7 +3,17 @@
   "state_name": "Utah",
   "year": 2022,
   "total": 145,
-  "scraped_at": "2026-01-31T00:02:58.128221+00:00",
+  "total_races": 95,
+  "total_races_by_party": {
+    "Republican": 92,
+    "Libertarian": 2,
+    "Unknown": 4,
+    "Democrat": 56,
+    "Constitution": 2,
+    "United Utah": 2,
+    "Other": 27
+  },
+  "scraped_at": "2026-01-31T22:33:06.896847+00:00",
   "unopposed_candidates": [
     {
       "state": "UT",

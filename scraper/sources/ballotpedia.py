@@ -4,6 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 from data import (
     Race,
+    RaceStats,
     STATE_NAMES,
     LOWER_CHAMBERS,
     UPPER_CHAMBERS,
@@ -25,16 +26,19 @@ _PARTY_IN_TEXT_RE = re.compile(r"\((\w+(?:\s+\w+)?)\s+Party\)")
 def scrape(state_code, year):
     state = STATE_NAMES.get(state_code)
     if not state:
-        return []
+        return [], RaceStats()
     session = requests.Session()
     session.headers["User-Agent"] = UA
     results = []
+    stats = RaceStats()
     for office, url in _urls(state, state_code, year).items():
         print(f"  Fetching {office} from Ballotpedia...", file=sys.stderr)
         html = _fetch(session, url)
         if html:
-            results.extend(_parse(html, office, state_code))
-    return results
+            unopposed, office_stats = _parse(html, office, state_code)
+            results.extend(unopposed)
+            stats.merge(office_stats)
+    return results, stats
 
 
 def _urls(state, sc, year):
@@ -73,9 +77,16 @@ def _parse(html, office, state_code):
         tag.decompose()
     content = soup.find("div", class_="mw-parser-output") or soup
     results = []
-    results.extend(_parse_partisan_tables(content, office, state_code))
-    results.extend(_parse_district_sections(content, office, state_code))
-    return results
+    stats = RaceStats()
+    table_results, table_stats = _parse_partisan_tables(content, office, state_code)
+    results.extend(table_results)
+    stats.merge(table_stats)
+    section_results, section_stats = _parse_district_sections(
+        content, office, state_code
+    )
+    results.extend(section_results)
+    stats.merge(section_stats)
+    return results, stats
 
 
 # --- Strategy 1: candidateListTablePartisan tables (state legislature pages) ---
@@ -83,22 +94,26 @@ def _parse(html, office, state_code):
 
 def _parse_partisan_tables(content, office, state_code):
     results = []
+    stats = RaceStats()
     for table in content.find_all("table", class_="candidateListTablePartisan"):
-        results.extend(_process_table(table, office, state_code))
-    return results
+        table_results, table_stats = _process_table(table, office, state_code)
+        results.extend(table_results)
+        stats.merge(table_stats)
+    return results, stats
 
 
 def _process_table(table, office, state_code):
     rows = table.find_all("tr")
     header_idx, party_cols = _find_header_row(rows)
     if header_idx is None or not party_cols:
-        return []
+        return [], RaceStats()
 
     title = rows[0].get_text(" ", strip=True).lower() if rows else ""
     is_general = "general" in title
     is_primary = "primary" in title and "runoff" not in title
 
     results = []
+    stats = RaceStats()
     for row in rows[header_idx + 1 :]:
         cells = row.find_all(["td", "th"])
         if len(cells) < 2:
@@ -106,12 +121,12 @@ def _process_table(table, office, state_code):
         district = _extract_district(cells[0].get_text(strip=True), office)
         if not district:
             continue
-        results.extend(
-            _analyze_table_row(
-                cells, party_cols, district, office, state_code, is_general, is_primary
-            )
+        row_results, row_stats = _analyze_table_row(
+            cells, party_cols, district, office, state_code, is_general, is_primary
         )
-    return results
+        results.extend(row_results)
+        stats.merge(row_stats)
+    return results, stats
 
 
 def _find_header_row(rows):
@@ -139,6 +154,7 @@ def _analyze_table_row(
     cells, party_cols, district, office, state_code, is_general, is_primary
 ):
     results = []
+    stats = RaceStats()
     candidates_by_party = {}
 
     for party, col_idx in party_cols.items():
@@ -154,9 +170,13 @@ def _analyze_table_row(
 
     all_candidates = [(n, p) for p, ns in candidates_by_party.items() for n in ns]
 
-    if is_general and len(all_candidates) == 1:
-        name, party = all_candidates[0]
-        results.append(_new_race(state_code, office, district, name, party, "General"))
+    if is_general:
+        stats.add_race(list(candidates_by_party.keys()) if candidates_by_party else [])
+        if len(all_candidates) == 1:
+            name, party = all_candidates[0]
+            results.append(
+                _new_race(state_code, office, district, name, party, "General")
+            )
 
     if is_primary:
         for party, names in candidates_by_party.items():
@@ -164,7 +184,7 @@ def _analyze_table_row(
                 results.append(
                     _new_race(state_code, office, district, names[0], party, "Primary")
                 )
-    return results
+    return results, stats
 
 
 def _extract_names_from_cell(cell):
@@ -201,6 +221,7 @@ def _extract_names_from_cell(cell):
 
 def _parse_district_sections(content, office, state_code):
     results = []
+    stats = RaceStats()
     sections = _collect_district_sections(content, office)
 
     for district, elements in sections:
@@ -236,15 +257,24 @@ def _parse_district_sections(content, office, state_code):
                     primary_candidates_by_party,
                 )
 
+        all_primary = [
+            (n, p) for p, ns in primary_candidates_by_party.items() for n in ns
+        ]
+
+        all_parties = set()
+        for _, party in general_candidates:
+            all_parties.add(party)
+        for party in primary_candidates_by_party.keys():
+            all_parties.add(party)
+
+        if all_parties:
+            stats.add_race(list(all_parties))
+
         if len(general_candidates) == 1:
             name, party = general_candidates[0]
             results.append(
                 _new_race(state_code, office, district, name, party, "General")
             )
-
-        all_primary = [
-            (n, p) for p, ns in primary_candidates_by_party.items() for n in ns
-        ]
 
         for party, names in primary_candidates_by_party.items():
             if len(names) == 1:
@@ -258,7 +288,7 @@ def _parse_district_sections(content, office, state_code):
                 _new_race(state_code, office, district, name, party, "General")
             )
 
-    return results
+    return results, stats
 
 
 def _detect_section(elem, lower_text, text):
@@ -304,12 +334,7 @@ def _collect_votebox_candidates(div, section, general_candidates, primary_by_par
         if "candidate" in row_text and "%" in row_text and "votes" in row_text:
             continue
         cells = row.find_all("td")
-        if len(cells) < 3:
-            continue
-        has_percentage = any(
-            re.match(r"^\d+\.?\d*$", c.get_text(strip=True)) for c in cells
-        )
-        if not has_percentage:
+        if len(cells) < 1:
             continue
         link = row.find("a")
         if not link:
@@ -405,6 +430,11 @@ def _extract_district(text, office):
         return "At-Large"
     if re.match(r"^\d+$", text.strip()):
         return f"District {text.strip()}"
+    m = re.match(r"^(\d+)(?:st|nd|rd|th)\s+", text, re.I)
+    if m:
+        return text.strip()
+    if "district" in text.lower():
+        return text.strip()
     return None
 
 

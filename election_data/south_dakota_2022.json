@@ -3,7 +3,14 @@
   "state_name": "South Dakota",
   "year": 2022,
   "total": 55,
-  "scraped_at": "2026-01-31T00:01:16.434151+00:00",
+  "total_races": 74,
+  "total_races_by_party": {
+    "Republican": 74,
+    "Unknown": 2,
+    "Other": 8,
+    "Democrat": 37
+  },
+  "scraped_at": "2026-01-31T22:31:41.817971+00:00",
   "unopposed_candidates": [
     {
       "state": "SD",

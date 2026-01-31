@@ -3,7 +3,16 @@
   "state_name": "Montana",
   "year": 2024,
   "total": 176,
-  "scraped_at": "2026-01-30T23:05:25.454751+00:00",
+  "total_races": 128,
+  "total_races_by_party": {
+    "Unknown": 3,
+    "Democrat": 111,
+    "Green/Rainbow": 1,
+    "Republican": 128,
+    "Libertarian": 1,
+    "Other": 5
+  },
+  "scraped_at": "2026-01-31T21:44:12.193849+00:00",
   "unopposed_candidates": [
     {
       "state": "MT",

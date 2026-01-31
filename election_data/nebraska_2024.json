@@ -3,7 +3,13 @@
   "state_name": "Nebraska",
   "year": 2024,
   "total": 2,
-  "scraped_at": "2026-01-30T23:05:49.069227+00:00",
+  "total_races": 4,
+  "total_races_by_party": {
+    "Unknown": 1,
+    "Republican": 4,
+    "Democrat": 6
+  },
+  "scraped_at": "2026-01-31T21:44:35.588020+00:00",
   "unopposed_candidates": [
     {
       "state": "NE",

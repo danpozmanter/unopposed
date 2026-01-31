@@ -3,7 +3,15 @@
   "state_name": "North Dakota",
   "year": 2020,
   "total": 41,
-  "scraped_at": "2026-01-31T00:38:16.850470+00:00",
+  "total_races": 47,
+  "total_races_by_party": {
+    "Unknown": 1,
+    "Republican": 47,
+    "Libertarian": 1,
+    "Democrat": 37,
+    "Other": 1
+  },
+  "scraped_at": "2026-01-31T22:59:52.528615+00:00",
   "unopposed_candidates": [
     {
       "state": "ND",

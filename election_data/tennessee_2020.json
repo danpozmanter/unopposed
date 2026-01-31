@@ -3,7 +3,14 @@
   "state_name": "Tennessee",
   "year": 2020,
   "total": 151,
-  "scraped_at": "2026-01-31T00:40:59.197875+00:00",
+  "total_races": 125,
+  "total_races_by_party": {
+    "Unknown": 9,
+    "Democrat": 88,
+    "Republican": 103,
+    "Other": 13
+  },
+  "scraped_at": "2026-01-31T23:02:35.199121+00:00",
   "unopposed_candidates": [
     {
       "state": "TN",

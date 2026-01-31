@@ -2,8 +2,18 @@
   "state": "CO",
   "state_name": "Colorado",
   "year": 2026,
-  "total": 73,
-  "scraped_at": "2026-01-31T05:29:30.932751+00:00",
+  "total": 72,
+  "total_races": 93,
+  "total_races_by_party": {
+    "Republican": 9,
+    "Democrat": 10,
+    "Unknown": 6,
+    "Libertarian": 1,
+    "No Labels": 1,
+    "American Constitution": 1,
+    "Other": 4
+  },
+  "scraped_at": "2026-01-31T21:05:02.993067+00:00",
   "unopposed_candidates": [
     {
       "state": "CO",
@@ -332,15 +342,6 @@
     {
       "state": "CO",
       "office": "State House",
-      "district": "District 21",
-      "candidate": "Mary Bradfield",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CO",
-      "office": "State House",
       "district": "District 22",
       "candidate": "Michael Pierson",
       "party": "Democrat",
@@ -451,15 +452,6 @@
       "office": "State House",
       "district": "District 38",
       "candidate": "Gretchen Rydin",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CO",
-      "office": "State House",
-      "district": "District 39",
-      "candidate": "Christian Schilder",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -596,6 +588,15 @@
       "district": "District 59",
       "candidate": "Naomi Riess",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 60",
+      "candidate": "Kathryn Green",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

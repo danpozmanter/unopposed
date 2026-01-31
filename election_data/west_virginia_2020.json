@@ -3,7 +3,15 @@
   "state_name": "West Virginia",
   "year": 2020,
   "total": 91,
-  "scraped_at": "2026-01-31T00:43:07.924038+00:00",
+  "total_races": 89,
+  "total_races_by_party": {
+    "Republican": 88,
+    "Unknown": 4,
+    "Democrat": 78,
+    "Mountain": 1,
+    "Other": 13
+  },
+  "scraped_at": "2026-01-31T23:04:36.643708+00:00",
   "unopposed_candidates": [
     {
       "state": "WV",

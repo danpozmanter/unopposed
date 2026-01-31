@@ -3,7 +3,13 @@
   "state_name": "Arkansas",
   "year": 2026,
   "total": 129,
-  "scraped_at": "2026-01-31T05:28:52.298547+00:00",
+  "total_races": 123,
+  "total_races_by_party": {
+    "Democrat": 54,
+    "Republican": 84,
+    "Unknown": 2
+  },
+  "scraped_at": "2026-01-31T21:04:27.710053+00:00",
   "unopposed_candidates": [
     {
       "state": "AR",

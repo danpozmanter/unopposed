@@ -7,19 +7,21 @@ from data import STATE_NAMES
 OFFICES = ["US Senate", "US House", "Governor", "State Senate", "State House"]
 
 
-def render(results, state, year, as_json):
+def render(results, stats, state, year, as_json):
     if as_json:
-        _json_output(results, state, year)
+        _json_output(results, stats, state, year)
     else:
-        _text_output(results, state, year)
+        _text_output(results, stats, state, year)
 
 
-def _json_output(results, state, year):
+def _json_output(results, stats, state, year):
     data = {
         "state": state,
         "state_name": STATE_NAMES.get(state, state),
         "year": year,
         "total": len(results),
+        "total_races": stats.total_races,
+        "total_races_by_party": stats.races_by_party,
         "scraped_at": datetime.now(timezone.utc).isoformat(),
         "unopposed_candidates": [r.to_dict() for r in results],
     }
@@ -27,10 +29,13 @@ def _json_output(results, state, year):
     print()
 
 
-def _text_output(results, state, year):
+def _text_output(results, stats, state, year):
     name = STATE_NAMES.get(state, state)
     print(f"\nUnopposed Candidates — {name} ({year})")
     print("=" * 50)
+    if stats.total_races > 0:
+        pct = len(results) / stats.total_races * 100
+        print(f"\n{len(results)} of {stats.total_races} races unopposed ({pct:.1f}%)")
 
     if not results:
         print("\nNo unopposed candidates found.")

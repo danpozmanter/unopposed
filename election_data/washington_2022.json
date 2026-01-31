@@ -3,7 +3,23 @@
   "state_name": "Washington",
   "year": 2022,
   "total": 174,
-  "scraped_at": "2026-01-31T00:04:39.166271+00:00",
+  "total_races": 133,
+  "total_races_by_party": {
+    "JFK Republican": 1,
+    "Socialist Workers": 1,
+    "Unknown": 8,
+    "Trump Republican": 1,
+    "Democrat": 106,
+    "Republican": 111,
+    "Conservative": 1,
+    "MAGA Republican": 1,
+    "American Solidarity": 1,
+    "Libertarian": 1,
+    "Concordia": 1,
+    "Congress Sucks": 1,
+    "Other": 7
+  },
+  "scraped_at": "2026-01-31T22:34:45.749155+00:00",
   "unopposed_candidates": [
     {
       "state": "WA",

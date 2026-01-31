@@ -3,7 +3,14 @@
   "state_name": "Georgia",
   "year": 2024,
   "total": 325,
-  "scraped_at": "2026-01-30T22:59:18.415755+00:00",
+  "total_races": 250,
+  "total_races_by_party": {
+    "Republican": 192,
+    "Democrat": 199,
+    "Unknown": 1,
+    "Other": 1
+  },
+  "scraped_at": "2026-01-31T21:38:08.031227+00:00",
   "unopposed_candidates": [
     {
       "state": "GA",

@@ -2,18 +2,19 @@
   "state": "CO",
   "state_name": "Colorado",
   "year": 2020,
-  "total": 128,
-  "scraped_at": "2026-01-31T00:28:53.940872+00:00",
+  "total": 127,
+  "total_races": 91,
+  "total_races_by_party": {
+    "Approval Voting": 2,
+    "Republican": 82,
+    "Democrat": 97,
+    "Unity": 8,
+    "Unknown": 2,
+    "Libertarian": 8,
+    "Other": 43
+  },
+  "scraped_at": "2026-01-31T22:50:37.386973+00:00",
   "unopposed_candidates": [
-    {
-      "state": "CO",
-      "office": "US Senate",
-      "district": "Statewide",
-      "candidate": "Cory Gardner",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
     {
       "state": "CO",
       "office": "US House",

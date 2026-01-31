@@ -2,8 +2,17 @@
   "state": "MO",
   "state_name": "Missouri",
   "year": 2020,
-  "total": 255,
-  "scraped_at": "2026-01-31T00:35:22.080029+00:00",
+  "total": 253,
+  "total_races": 189,
+  "total_races_by_party": {
+    "Democrat": 140,
+    "Libertarian": 9,
+    "Republican": 156,
+    "Unknown": 7,
+    "Green/Rainbow": 2,
+    "Other": 14
+  },
+  "scraped_at": "2026-01-31T22:56:51.956447+00:00",
   "unopposed_candidates": [
     {
       "state": "MO",
@@ -65,24 +74,6 @@
       "district": "District 8",
       "candidate": "Jason Smith",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MO",
-      "office": "Governor",
-      "district": "Statewide",
-      "candidate": "Jerome H. Bauer",
-      "party": "Green/Rainbow",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MO",
-      "office": "Governor",
-      "district": "Statewide",
-      "candidate": "Rik Combs",
-      "party": "Libertarian",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

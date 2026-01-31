@@ -3,7 +3,16 @@
   "state_name": "Florida",
   "year": 2026,
   "total": 151,
-  "scraped_at": "2026-01-31T05:30:30.973412+00:00",
+  "total_races": 169,
+  "total_races_by_party": {
+    "Democrat": 30,
+    "Republican": 28,
+    "Unknown": 12,
+    "Libertarian": 2,
+    "Constitution": 1,
+    "Other": 8
+  },
+  "scraped_at": "2026-01-31T21:06:01.594642+00:00",
   "unopposed_candidates": [
     {
       "state": "FL",
@@ -74,6 +83,15 @@
       "district": "District 11",
       "candidate": "Ralph Groves",
       "party": "Libertarian",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "FL",
+      "office": "US House",
+      "district": "District 12",
+      "candidate": "Branden Scrivener",
+      "party": "Unknown",
       "unopposed_in": "General",
       "source": "Ballotpedia"
     },
@@ -237,15 +255,6 @@
       "candidate": "Phil Ehr",
       "party": "Democrat",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "Governor",
-      "district": "Statewide",
-      "candidate": "Rodney Glover",
-      "party": "Republican",
-      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {

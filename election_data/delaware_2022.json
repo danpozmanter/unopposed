@@ -3,7 +3,13 @@
   "state_name": "Delaware",
   "year": 2022,
   "total": 76,
-  "scraped_at": "2026-01-30T23:42:55.505050+00:00",
+  "total_races": 62,
+  "total_races_by_party": {
+    "Democrat": 47,
+    "Republican": 50,
+    "Other": 8
+  },
+  "scraped_at": "2026-01-31T22:13:30.587034+00:00",
   "unopposed_candidates": [
     {
       "state": "DE",

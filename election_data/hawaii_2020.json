@@ -3,7 +3,17 @@
   "state_name": "Hawaii",
   "year": 2020,
   "total": 83,
-  "scraped_at": "2026-01-31T00:30:39.735108+00:00",
+  "total_races": 66,
+  "total_races_by_party": {
+    "Democrat": 45,
+    "Republican": 35,
+    "Unknown": 1,
+    "Aloha Aina": 1,
+    "Libertarian": 1,
+    "American Shopping": 1,
+    "Other": 16
+  },
+  "scraped_at": "2026-01-31T22:52:16.482401+00:00",
   "unopposed_candidates": [
     {
       "state": "HI",

@@ -15,10 +15,10 @@ def main():
 
     print(f"Checking {STATE_NAMES[state]} ({args.year})...", file=sys.stderr)
 
-    results = ballotpedia.scrape(state, args.year)
+    results, stats = ballotpedia.scrape(state, args.year)
     results = deduplicate(results)
 
-    render(results, state, args.year, args.json)
+    render(results, stats, state, args.year, args.json)
 
 
 def _parse_args():

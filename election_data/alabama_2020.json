@@ -3,7 +3,14 @@
   "state_name": "Alabama",
   "year": 2020,
   "total": 7,
-  "scraped_at": "2026-01-31T00:27:04.452562+00:00",
+  "total_races": 8,
+  "total_races_by_party": {
+    "Unknown": 4,
+    "Republican": 7,
+    "Democrat": 10,
+    "Libertarian": 1
+  },
+  "scraped_at": "2026-01-31T22:48:51.595586+00:00",
   "unopposed_candidates": [
     {
       "state": "AL",

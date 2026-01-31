@@ -3,7 +3,16 @@
   "state_name": "Nevada",
   "year": 2022,
   "total": 51,
-  "scraped_at": "2026-01-30T23:53:18.948083+00:00",
+  "total_races": 59,
+  "total_races_by_party": {
+    "Democrat": 54,
+    "Republican": 59,
+    "Unknown": 2,
+    "Independent American": 3,
+    "Libertarian": 2,
+    "Other": 19
+  },
+  "scraped_at": "2026-01-31T22:23:48.956660+00:00",
   "unopposed_candidates": [
     {
       "state": "NV",

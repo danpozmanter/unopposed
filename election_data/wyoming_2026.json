@@ -3,7 +3,11 @@
   "state_name": "Wyoming",
   "year": 2026,
   "total": 1,
-  "scraped_at": "2026-01-31T05:45:21.369497+00:00",
+  "total_races": 80,
+  "total_races_by_party": {
+    "Republican": 2
+  },
+  "scraped_at": "2026-01-31T21:19:31.979720+00:00",
   "unopposed_candidates": [
     {
       "state": "WY",

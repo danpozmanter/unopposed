@@ -3,7 +3,15 @@
   "state_name": "Delaware",
   "year": 2020,
   "total": 67,
-  "scraped_at": "2026-01-31T00:29:32.693278+00:00",
+  "total_races": 54,
+  "total_races_by_party": {
+    "Democrat": 45,
+    "Independent": 2,
+    "Unknown": 2,
+    "Republican": 37,
+    "Other": 5
+  },
+  "scraped_at": "2026-01-31T22:51:15.370716+00:00",
   "unopposed_candidates": [
     {
       "state": "DE",

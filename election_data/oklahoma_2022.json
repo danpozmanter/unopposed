@@ -3,7 +3,14 @@
   "state_name": "Oklahoma",
   "year": 2022,
   "total": 64,
-  "scraped_at": "2026-01-30T23:57:54.544536+00:00",
+  "total_races": 132,
+  "total_races_by_party": {
+    "Democrat": 49,
+    "Unknown": 5,
+    "Republican": 48,
+    "Other": 3
+  },
+  "scraped_at": "2026-01-31T22:28:24.014869+00:00",
   "unopposed_candidates": [
     {
       "state": "OK",

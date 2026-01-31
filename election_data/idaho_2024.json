@@ -3,7 +3,16 @@
   "state_name": "Idaho",
   "year": 2024,
   "total": 144,
-  "scraped_at": "2026-01-30T22:59:58.070426+00:00",
+  "total_races": 107,
+  "total_races_by_party": {
+    "Constitution": 2,
+    "Libertarian": 2,
+    "Democrat": 85,
+    "Republican": 101,
+    "Unknown": 2,
+    "Other": 12
+  },
+  "scraped_at": "2026-01-31T21:38:47.064920+00:00",
   "unopposed_candidates": [
     {
       "state": "ID",

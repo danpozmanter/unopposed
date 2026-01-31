@@ -3,7 +3,19 @@
   "state_name": "New York",
   "year": 2020,
   "total": 335,
-  "scraped_at": "2026-01-31T00:37:35.039728+00:00",
+  "total_races": 240,
+  "total_races_by_party": {
+    "Unknown": 27,
+    "Democrat": 233,
+    "Republican": 178,
+    "Green/Rainbow": 4,
+    "Libertarian": 10,
+    "Conservative": 3,
+    "ECL": 1,
+    "Working Families": 1,
+    "Other": 182
+  },
+  "scraped_at": "2026-01-31T22:59:09.806693+00:00",
   "unopposed_candidates": [
     {
       "state": "NY",

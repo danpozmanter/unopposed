@@ -3,6 +3,12 @@
   "state_name": "New Jersey",
   "year": 2025,
   "total": 0,
-  "scraped_at": "2026-01-30T22:46:04.003197+00:00",
+  "total_races": 80,
+  "total_races_by_party": {
+    "Democrat": 80,
+    "Republican": 77,
+    "Other": 6
+  },
+  "scraped_at": "2026-01-31T21:29:13.307531+00:00",
   "unopposed_candidates": []
 }

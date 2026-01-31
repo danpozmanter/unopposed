@@ -3,7 +3,13 @@
   "state_name": "Iowa",
   "year": 2026,
   "total": 32,
-  "scraped_at": "2026-01-31T05:32:49.425136+00:00",
+  "total_races": 131,
+  "total_races_by_party": {
+    "Republican": 6,
+    "Democrat": 6,
+    "Unknown": 2
+  },
+  "scraped_at": "2026-01-31T21:07:44.565359+00:00",
   "unopposed_candidates": [
     {
       "state": "IA",

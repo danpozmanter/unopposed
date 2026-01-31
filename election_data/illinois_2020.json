@@ -2,18 +2,19 @@
   "state": "IL",
   "state_name": "Illinois",
   "year": 2020,
-  "total": 181,
-  "scraped_at": "2026-01-31T00:31:18.416275+00:00",
+  "total": 180,
+  "total_races": 157,
+  "total_races_by_party": {
+    "Democrat": 160,
+    "Unknown": 9,
+    "Willie Wilson": 1,
+    "Republican": 97,
+    "Green/Rainbow": 1,
+    "Libertarian": 2,
+    "Other": 26
+  },
+  "scraped_at": "2026-01-31T22:52:56.751525+00:00",
   "unopposed_candidates": [
-    {
-      "state": "IL",
-      "office": "US Senate",
-      "district": "Statewide",
-      "candidate": "Dick Durbin",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
     {
       "state": "IL",
       "office": "US House",

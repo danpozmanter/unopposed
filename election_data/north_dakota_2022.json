@@ -3,7 +3,14 @@
   "state_name": "North Dakota",
   "year": 2022,
   "total": 52,
-  "scraped_at": "2026-01-30T23:56:44.910955+00:00",
+  "total_races": 68,
+  "total_races_by_party": {
+    "Unknown": 1,
+    "Democrat": 34,
+    "Republican": 66,
+    "Other": 6
+  },
+  "scraped_at": "2026-01-31T22:26:59.142457+00:00",
   "unopposed_candidates": [
     {
       "state": "ND",

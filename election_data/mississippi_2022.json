@@ -3,7 +3,14 @@
   "state_name": "Mississippi",
   "year": 2022,
   "total": 1,
-  "scraped_at": "2026-01-30T23:51:26.260886+00:00",
+  "total_races": 4,
+  "total_races_by_party": {
+    "Democrat": 8,
+    "Republican": 4,
+    "Unknown": 3,
+    "Libertarian": 1
+  },
+  "scraped_at": "2026-01-31T22:21:53.593757+00:00",
   "unopposed_candidates": [
     {
       "state": "MS",

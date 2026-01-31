@@ -3,7 +3,17 @@
   "state_name": "North Carolina",
   "year": 2024,
   "total": 312,
-  "scraped_at": "2026-01-30T23:08:34.239667+00:00",
+  "total_races": 185,
+  "total_races_by_party": {
+    "Unknown": 7,
+    "Libertarian": 5,
+    "Democrat": 193,
+    "Republican": 153,
+    "Green/Rainbow": 1,
+    "Constitution": 3,
+    "Other": 35
+  },
+  "scraped_at": "2026-01-31T21:47:26.170728+00:00",
   "unopposed_candidates": [
     {
       "state": "NC",

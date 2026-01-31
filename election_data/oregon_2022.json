@@ -3,7 +3,17 @@
   "state_name": "Oregon",
   "year": 2022,
   "total": 106,
-  "scraped_at": "2026-01-30T23:58:35.783844+00:00",
+  "total_races": 83,
+  "total_races_by_party": {
+    "Democrat": 85,
+    "Pacific Green": 1,
+    "Progressive": 1,
+    "Republican": 83,
+    "Unknown": 7,
+    "Constitution": 3,
+    "Other": 66
+  },
+  "scraped_at": "2026-01-31T22:29:06.125913+00:00",
   "unopposed_candidates": [
     {
       "state": "OR",

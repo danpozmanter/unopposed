@@ -3,7 +3,14 @@
   "state_name": "Maine",
   "year": 2026,
   "total": 51,
-  "scraped_at": "2026-01-31T05:34:04.940017+00:00",
+  "total_races": 190,
+  "total_races_by_party": {
+    "Unknown": 2,
+    "Republican": 57,
+    "Democrat": 36,
+    "Other": 9
+  },
+  "scraped_at": "2026-01-31T21:08:47.129727+00:00",
   "unopposed_candidates": [
     {
       "state": "ME",

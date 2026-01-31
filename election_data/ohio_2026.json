@@ -2,8 +2,15 @@
   "state": "OH",
   "state_name": "Ohio",
   "year": 2026,
-  "total": 25,
-  "scraped_at": "2026-01-31T05:39:49.986120+00:00",
+  "total": 24,
+  "total_races": 131,
+  "total_races_by_party": {
+    "Libertarian": 2,
+    "Democrat": 14,
+    "Republican": 13,
+    "Unknown": 1
+  },
+  "scraped_at": "2026-01-31T21:13:17.545639+00:00",
   "unopposed_candidates": [
     {
       "state": "OH",
@@ -127,15 +134,6 @@
       "office": "US House",
       "district": "District 13",
       "candidate": "Emilia Sykes",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OH",
-      "office": "US House",
-      "district": "District 14",
-      "candidate": "Bill O'Neill",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

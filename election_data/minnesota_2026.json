@@ -3,7 +3,13 @@
   "state_name": "Minnesota",
   "year": 2026,
   "total": 57,
-  "scraped_at": "2026-01-31T05:35:31.746178+00:00",
+  "total_races": 210,
+  "total_races_by_party": {
+    "Republican": 8,
+    "Democrat": 9,
+    "Unknown": 3
+  },
+  "scraped_at": "2026-01-31T21:09:51.599572+00:00",
   "unopposed_candidates": [
     {
       "state": "MN",

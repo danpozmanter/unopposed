@@ -3,7 +3,13 @@
   "state_name": "New Jersey",
   "year": 2023,
   "total": 68,
-  "scraped_at": "2026-01-30T23:28:16.440171+00:00",
+  "total_races": 120,
+  "total_races_by_party": {
+    "Democrat": 120,
+    "Republican": 114,
+    "Other": 17
+  },
+  "scraped_at": "2026-01-31T22:02:52.739546+00:00",
   "unopposed_candidates": [
     {
       "state": "NJ",

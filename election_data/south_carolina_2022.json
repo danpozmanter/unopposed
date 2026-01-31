@@ -3,7 +3,16 @@
   "state_name": "South Carolina",
   "year": 2022,
   "total": 155,
-  "scraped_at": "2026-01-31T00:00:31.910905+00:00",
+  "total_races": 133,
+  "total_races_by_party": {
+    "Democrat": 82,
+    "Unknown": 3,
+    "Alliance": 1,
+    "Republican": 114,
+    "Green/Rainbow": 1,
+    "Other": 8
+  },
+  "scraped_at": "2026-01-31T22:30:52.116495+00:00",
   "unopposed_candidates": [
     {
       "state": "SC",

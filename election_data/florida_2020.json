@@ -3,7 +3,14 @@
   "state_name": "Florida",
   "year": 2020,
   "total": 175,
-  "scraped_at": "2026-01-31T00:29:58.529948+00:00",
+  "total_races": 167,
+  "total_races_by_party": {
+    "Unknown": 9,
+    "Republican": 140,
+    "Democrat": 189,
+    "Other": 32
+  },
+  "scraped_at": "2026-01-31T22:51:36.540921+00:00",
   "unopposed_candidates": [
     {
       "state": "FL",

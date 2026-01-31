@@ -3,7 +3,15 @@
   "state_name": "Minnesota",
   "year": 2024,
   "total": 241,
-  "scraped_at": "2026-01-30T23:04:06.240272+00:00",
+  "total_races": 143,
+  "total_races_by_party": {
+    "Democrat": 150,
+    "Unknown": 1,
+    "Republican": 137,
+    "Conservative": 1,
+    "Other": 5
+  },
+  "scraped_at": "2026-01-31T21:42:56.649088+00:00",
   "unopposed_candidates": [
     {
       "state": "MN",

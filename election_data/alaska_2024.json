@@ -2,9 +2,123 @@
   "state": "AK",
   "state_name": "Alaska",
   "year": 2024,
-  "total": 50,
-  "scraped_at": "2026-01-30T22:56:01.089406+00:00",
+  "total": 62,
+  "total_races": 50,
+  "total_races_by_party": {
+    "Democrat": 28,
+    "Republican": 36,
+    "Other": 19
+  },
+  "scraped_at": "2026-01-31T21:34:49.067347+00:00",
   "unopposed_candidates": [
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District B",
+      "candidate": "Jesse Kiehl",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District T",
+      "candidate": "Donald Olson",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District D",
+      "candidate": "Tina Wegener",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District D",
+      "candidate": "Andy Cizek",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District F",
+      "candidate": "Janice Park",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District H",
+      "candidate": "Matt Claman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District J",
+      "candidate": "Forrest Dunbar",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District J",
+      "candidate": "Cheronda Smith",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District L",
+      "candidate": "Lee Hammermeister",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District P",
+      "candidate": "Scott Kawasaki",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District P",
+      "candidate": "Leslie Hajdukovich",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District R",
+      "candidate": "Jason Avery",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "AK",
       "office": "State House",

@@ -3,7 +3,24 @@
   "state_name": "Washington",
   "year": 2020,
   "total": 215,
-  "scraped_at": "2026-01-31T00:42:48.522308+00:00",
+  "total_races": 134,
+  "total_races_by_party": {
+    "Libertarian": 3,
+    "Unknown": 8,
+    "Democrat": 121,
+    "Republican": 114,
+    "Trump Republican": 3,
+    "Congress Sucks": 1,
+    "Essential Workers": 1,
+    "New Liberty": 1,
+    "Socialist Workers": 1,
+    "Fifth Republic": 1,
+    "Cascadia Labour": 1,
+    "American Patriot": 1,
+    "Propertarianist": 1,
+    "Other": 9
+  },
+  "scraped_at": "2026-01-31T23:04:18.172913+00:00",
   "unopposed_candidates": [
     {
       "state": "WA",

@@ -3,7 +3,15 @@
   "state_name": "Texas",
   "year": 2026,
   "total": 241,
-  "scraped_at": "2026-01-31T05:42:45.645867+00:00",
+  "total_races": 206,
+  "total_races_by_party": {
+    "Republican": 40,
+    "Unknown": 14,
+    "Democrat": 40,
+    "American Independent": 1,
+    "Other": 2
+  },
+  "scraped_at": "2026-01-31T21:16:15.766236+00:00",
   "unopposed_candidates": [
     {
       "state": "TX",

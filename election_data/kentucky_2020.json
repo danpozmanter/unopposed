@@ -3,7 +3,16 @@
   "state_name": "Kentucky",
   "year": 2020,
   "total": 164,
-  "scraped_at": "2026-01-31T00:32:53.223113+00:00",
+  "total_races": 126,
+  "total_races_by_party": {
+    "Democrat": 102,
+    "Unknown": 2,
+    "Republican": 105,
+    "Libertarian": 2,
+    "Populist": 1,
+    "Other": 20
+  },
+  "scraped_at": "2026-01-31T22:54:22.816541+00:00",
   "unopposed_candidates": [
     {
       "state": "KY",

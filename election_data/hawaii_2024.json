@@ -2,18 +2,18 @@
   "state": "HI",
   "state_name": "Hawaii",
   "year": 2024,
-  "total": 72,
-  "scraped_at": "2026-01-30T22:59:40.241720+00:00",
+  "total": 71,
+  "total_races": 66,
+  "total_races_by_party": {
+    "Green/Rainbow": 1,
+    "Democrat": 48,
+    "Unknown": 3,
+    "Republican": 45,
+    "Libertarian": 1,
+    "Other": 5
+  },
+  "scraped_at": "2026-01-31T21:38:29.720156+00:00",
   "unopposed_candidates": [
-    {
-      "state": "HI",
-      "office": "US Senate",
-      "district": "Statewide",
-      "candidate": "Emma Pohlman",
-      "party": "Green/Rainbow",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
     {
       "state": "HI",
       "office": "US House",

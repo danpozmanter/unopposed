@@ -2,8 +2,17 @@
   "state": "CA",
   "state_name": "California",
   "year": 2026,
-  "total": 30,
-  "scraped_at": "2026-01-31T05:29:04.098695+00:00",
+  "total": 33,
+  "total_races": 153,
+  "total_races_by_party": {
+    "Democrat": 70,
+    "Republican": 49,
+    "Unknown": 17,
+    "Green/Rainbow": 1,
+    "American Independent": 1,
+    "Libertarian": 1
+  },
+  "scraped_at": "2026-01-31T21:04:39.271784+00:00",
   "unopposed_candidates": [
     {
       "state": "CA",
@@ -11,6 +20,24 @@
       "district": "District 14",
       "candidate": "Rakhi Israni",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 16",
+      "candidate": "Kevin Johnson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 19",
+      "candidate": "Sean Dougherty",
+      "party": "Green/Rainbow",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -83,6 +110,15 @@
       "district": "District 6",
       "candidate": "Roger Niello",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Scott Sakakihara",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

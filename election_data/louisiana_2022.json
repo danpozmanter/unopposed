@@ -3,7 +3,14 @@
   "state_name": "Louisiana",
   "year": 2022,
   "total": 9,
-  "scraped_at": "2026-01-30T23:48:34.876056+00:00",
+  "total_races": 7,
+  "total_races_by_party": {
+    "Unknown": 2,
+    "Libertarian": 3,
+    "Republican": 6,
+    "Democrat": 4
+  },
+  "scraped_at": "2026-01-31T22:19:04.679080+00:00",
   "unopposed_candidates": [
     {
       "state": "LA",

@@ -3,7 +3,16 @@
   "state_name": "California",
   "year": 2022,
   "total": 174,
-  "scraped_at": "2026-01-30T23:41:02.497673+00:00",
+  "total_races": 154,
+  "total_races_by_party": {
+    "Unknown": 23,
+    "Republican": 131,
+    "Democrat": 146,
+    "Green/Rainbow": 4,
+    "Libertarian": 1,
+    "Other": 3
+  },
+  "scraped_at": "2026-01-31T22:11:32.229374+00:00",
   "unopposed_candidates": [
     {
       "state": "CA",

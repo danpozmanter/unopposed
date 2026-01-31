@@ -3,7 +3,14 @@
   "state_name": "Maryland",
   "year": 2024,
   "total": 2,
-  "scraped_at": "2026-01-30T23:02:49.009609+00:00",
+  "total_races": 8,
+  "total_races_by_party": {
+    "Republican": 8,
+    "Democrat": 16,
+    "Libertarian": 4,
+    "Green/Rainbow": 1
+  },
+  "scraped_at": "2026-01-31T21:41:42.461157+00:00",
   "unopposed_candidates": [
     {
       "state": "MD",

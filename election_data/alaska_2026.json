@@ -3,7 +3,12 @@
   "state_name": "Alaska",
   "year": 2026,
   "total": 1,
-  "scraped_at": "2026-01-31T05:28:04.928108+00:00",
+  "total_races": 51,
+  "total_races_by_party": {
+    "Unknown": 1,
+    "Democrat": 1
+  },
+  "scraped_at": "2026-01-31T21:03:52.601351+00:00",
   "unopposed_candidates": [
     {
       "state": "AK",

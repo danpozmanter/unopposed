@@ -2,9 +2,188 @@
   "state": "AK",
   "state_name": "Alaska",
   "year": 2022,
-  "total": 44,
-  "scraped_at": "2026-01-30T23:39:20.203038+00:00",
+  "total": 63,
+  "total_races": 61,
+  "total_races_by_party": {
+    "Alaskan Independence": 2,
+    "Unknown": 2,
+    "Republican": 48,
+    "Democrat": 33,
+    "Other": 24
+  },
+  "scraped_at": "2026-01-31T22:09:51.383803+00:00",
   "unopposed_candidates": [
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District B",
+      "candidate": "Jesse Kiehl",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District D",
+      "candidate": "Andy Cizek",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District E",
+      "candidate": "Roselynn Cacy",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District F",
+      "candidate": "Janice Park",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District F",
+      "candidate": "James Kaufman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District G",
+      "candidate": "Elvi Gray-Jackson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District H",
+      "candidate": "Matt Claman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District H",
+      "candidate": "Mia Costello",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District I",
+      "candidate": "Heather Herndon",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District J",
+      "candidate": "Andrew Satterfield",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District K",
+      "candidate": "Bill Wielechowski",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District K",
+      "candidate": "John W. Cunningham",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District M",
+      "candidate": "Jim Cooper",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District M",
+      "candidate": "Shelley Hughes",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District P",
+      "candidate": "Scott Kawasaki",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District Q",
+      "candidate": "Robert Myers Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District R",
+      "candidate": "Robert Williams",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District S",
+      "candidate": "Lyman Hoffman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District S",
+      "candidate": "Willy Keppel",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "AK",
       "office": "State House",

@@ -2,8 +2,15 @@
   "state": "MA",
   "state_name": "Massachusetts",
   "year": 2026,
-  "total": 9,
-  "scraped_at": "2026-01-31T05:34:52.791798+00:00",
+  "total": 22,
+  "total_races": 211,
+  "total_races_by_party": {
+    "Unknown": 5,
+    "American Independent": 1,
+    "Democrat": 19,
+    "Republican": 7
+  },
+  "scraped_at": "2026-01-31T21:09:15.332280+00:00",
   "unopposed_candidates": [
     {
       "state": "MA",
@@ -84,6 +91,123 @@
       "candidate": "Bill Keating",
       "party": "Democrat",
       "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "1st Bristol and Plymouth District",
+      "candidate": "Michael Rodrigues",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Plymouth and Barnstable District",
+      "candidate": "Kari MacRae",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "1st Barnstable District",
+      "candidate": "Steven Leibowitz",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "2nd Plymouth District",
+      "candidate": "Sarah Hewins",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "2nd Plymouth District",
+      "candidate": "John Gaskey",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "7th Worcester District",
+      "candidate": "Nick Lazzaro",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "9th Essex District",
+      "candidate": "Zosia VanMeter",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "12th Hampden District",
+      "candidate": "Michael Lachenmeyer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "1st Barnstable District",
+      "candidate": "Chris Lambton",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "2nd Middlesex District",
+      "candidate": "Matt McLaughlin",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "3rd Berkshire District",
+      "candidate": "Leigh Davis",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "7th Worcester District",
+      "candidate": "Paul Frost",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "11th Hampden District",
+      "candidate": "Johnnie McKnight",
+      "party": "Democrat",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     }
   ]

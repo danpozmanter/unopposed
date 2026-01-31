@@ -3,7 +3,15 @@
   "state_name": "New Mexico",
   "year": 2022,
   "total": 93,
-  "scraped_at": "2026-01-30T23:54:47.638453+00:00",
+  "total_races": 74,
+  "total_races_by_party": {
+    "Democrat": 61,
+    "Republican": 56,
+    "Unknown": 2,
+    "Libertarian": 1,
+    "Other": 6
+  },
+  "scraped_at": "2026-01-31T22:25:13.388440+00:00",
   "unopposed_candidates": [
     {
       "state": "NM",

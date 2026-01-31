@@ -3,7 +3,18 @@
   "state_name": "Michigan",
   "year": 2024,
   "total": 158,
-  "scraped_at": "2026-01-30T23:03:39.284420+00:00",
+  "total_races": 124,
+  "total_races_by_party": {
+    "Republican": 123,
+    "Natural Law": 1,
+    "Unknown": 5,
+    "Democrat": 137,
+    "Libertarian": 9,
+    "Working Class": 7,
+    "Green/Rainbow": 5,
+    "Other": 15
+  },
+  "scraped_at": "2026-01-31T21:42:35.188413+00:00",
   "unopposed_candidates": [
     {
       "state": "MI",

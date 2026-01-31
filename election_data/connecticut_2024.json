@@ -3,7 +3,16 @@
   "state_name": "Connecticut",
   "year": 2024,
   "total": 317,
-  "scraped_at": "2026-01-30T22:57:47.769908+00:00",
+  "total_races": 193,
+  "total_races_by_party": {
+    "Unknown": 4,
+    "Republican": 161,
+    "Green/Rainbow": 1,
+    "Democrat": 181,
+    "Independent": 1,
+    "Other": 117
+  },
+  "scraped_at": "2026-01-31T21:36:44.753786+00:00",
   "unopposed_candidates": [
     {
       "state": "CT",

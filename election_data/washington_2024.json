@@ -3,7 +3,25 @@
   "state_name": "Washington",
   "year": 2024,
   "total": 183,
-  "scraped_at": "2026-01-30T23:14:56.426128+00:00",
+  "total_races": 135,
+  "total_races_by_party": {
+    "Socialist Workers": 1,
+    "Unknown": 3,
+    "Independent": 5,
+    "Trump Republican": 2,
+    "Republican": 107,
+    "Democrat": 115,
+    "MAGA Republican": 1,
+    "Green/Rainbow": 1,
+    "MAGA Democrat": 1,
+    "Bipartisan": 1,
+    "Congress Sucks": 1,
+    "Union": 1,
+    "Nonsense Busters": 1,
+    "Independence": 1,
+    "Other": 8
+  },
+  "scraped_at": "2026-01-31T21:53:43.613918+00:00",
   "unopposed_candidates": [
     {
       "state": "WA",

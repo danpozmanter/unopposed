@@ -2,18 +2,15 @@
   "state": "VA",
   "state_name": "Virginia",
   "year": 2026,
-  "total": 2,
-  "scraped_at": "2026-01-31T05:44:00.320692+00:00",
+  "total": 1,
+  "total_races": 12,
+  "total_races_by_party": {
+    "Republican": 10,
+    "Unknown": 5,
+    "Democrat": 12
+  },
+  "scraped_at": "2026-01-31T21:17:59.204748+00:00",
   "unopposed_candidates": [
-    {
-      "state": "VA",
-      "office": "US House",
-      "district": "District 4",
-      "candidate": "Jennifer McClellan",
-      "party": "Democrat",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
     {
       "state": "VA",
       "office": "US House",

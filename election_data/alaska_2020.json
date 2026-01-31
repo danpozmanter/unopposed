@@ -2,17 +2,14 @@
   "state": "AK",
   "state_name": "Alaska",
   "year": 2020,
-  "total": 1,
-  "scraped_at": "2026-01-31T00:27:28.042028+00:00",
-  "unopposed_candidates": [
-    {
-      "state": "AK",
-      "office": "US Senate",
-      "district": "Statewide",
-      "candidate": "Daniel S. Sullivan",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    }
-  ]
+  "total": 0,
+  "total_races": 1,
+  "total_races_by_party": {
+    "Democrat": 1,
+    "Alaskan Independence": 1,
+    "Unknown": 1,
+    "Republican": 1
+  },
+  "scraped_at": "2026-01-31T22:49:15.056292+00:00",
+  "unopposed_candidates": []
 }

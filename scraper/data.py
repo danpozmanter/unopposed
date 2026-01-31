@@ -1,4 +1,4 @@
-from dataclasses import dataclass, asdict
+from dataclasses import dataclass, asdict, field
 
 STATE_NAMES = {
     "AL": "Alabama",
@@ -84,6 +84,23 @@ class Race:
 
     def to_dict(self):
         return asdict(self)
+
+
+@dataclass
+class RaceStats:
+    total_races: int = 0
+    races_by_party: dict = field(default_factory=dict)
+
+    def add_race(self, parties: list[str]):
+        self.total_races += 1
+        for party in parties:
+            normalized = normalize_party(party) if party else "Unknown"
+            self.races_by_party[normalized] = self.races_by_party.get(normalized, 0) + 1
+
+    def merge(self, other: "RaceStats"):
+        self.total_races += other.total_races
+        for party, count in other.races_by_party.items():
+            self.races_by_party[party] = self.races_by_party.get(party, 0) + count
 
 
 _PARTY_MAP = {

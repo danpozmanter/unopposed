@@ -3,7 +3,14 @@
   "state_name": "Michigan",
   "year": 2026,
   "total": 33,
-  "scraped_at": "2026-01-31T05:35:14.100258+00:00",
+  "total_races": 163,
+  "total_races_by_party": {
+    "Unknown": 5,
+    "Democrat": 13,
+    "Republican": 11,
+    "Other": 1
+  },
+  "scraped_at": "2026-01-31T21:09:30.884243+00:00",
   "unopposed_candidates": [
     {
       "state": "MI",

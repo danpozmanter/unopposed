@@ -44,8 +44,8 @@ FIRST_YEAR=true
 for YEAR in $YEARS; do
     if [ "$FIRST_YEAR" = false ]; then
         echo ""
-        echo "Waiting 5 minutes before next year..."
-        sleep 300
+        echo "Waiting 1 minute before next year..."
+        sleep 60
     fi
     FIRST_YEAR=false
 

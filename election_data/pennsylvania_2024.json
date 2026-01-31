@@ -3,7 +3,13 @@
   "state_name": "Pennsylvania",
   "year": 2024,
   "total": 346,
-  "scraped_at": "2026-01-30T23:10:33.415496+00:00",
+  "total_races": 245,
+  "total_races_by_party": {
+    "Republican": 191,
+    "Democrat": 213,
+    "Other": 7
+  },
+  "scraped_at": "2026-01-31T21:49:30.034055+00:00",
   "unopposed_candidates": [
     {
       "state": "PA",

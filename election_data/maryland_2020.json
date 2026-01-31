@@ -3,6 +3,13 @@
   "state_name": "Maryland",
   "year": 2020,
   "total": 0,
-  "scraped_at": "2026-01-31T00:33:43.734639+00:00",
+  "total_races": 8,
+  "total_races_by_party": {
+    "Democrat": 16,
+    "Republican": 8,
+    "Unknown": 1,
+    "Green/Rainbow": 1
+  },
+  "scraped_at": "2026-01-31T22:55:12.170785+00:00",
   "unopposed_candidates": []
 }

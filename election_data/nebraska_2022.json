@@ -2,17 +2,14 @@
   "state": "NE",
   "state_name": "Nebraska",
   "year": 2022,
-  "total": 1,
-  "scraped_at": "2026-01-30T23:52:38.442258+00:00",
-  "unopposed_candidates": [
-    {
-      "state": "NE",
-      "office": "Governor",
-      "district": "Statewide",
-      "candidate": "Scott Zimmerman",
-      "party": "Libertarian",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    }
-  ]
+  "total": 0,
+  "total_races": 4,
+  "total_races_by_party": {
+    "Republican": 4,
+    "Democrat": 7,
+    "Unknown": 2,
+    "Libertarian": 1
+  },
+  "scraped_at": "2026-01-31T22:23:08.145621+00:00",
+  "unopposed_candidates": []
 }

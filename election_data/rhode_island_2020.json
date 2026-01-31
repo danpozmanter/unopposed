@@ -2,27 +2,16 @@
   "state": "RI",
   "state_name": "Rhode Island",
   "year": 2020,
-  "total": 129,
-  "scraped_at": "2026-01-31T00:39:58.840123+00:00",
+  "total": 127,
+  "total_races": 116,
+  "total_races_by_party": {
+    "Republican": 44,
+    "Unknown": 2,
+    "Democrat": 112,
+    "Other": 26
+  },
+  "scraped_at": "2026-01-31T23:01:36.668186+00:00",
   "unopposed_candidates": [
-    {
-      "state": "RI",
-      "office": "US Senate",
-      "district": "Statewide",
-      "candidate": "Jack Reed",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "RI",
-      "office": "US Senate",
-      "district": "Statewide",
-      "candidate": "Allen Waters",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
     {
       "state": "RI",
       "office": "US House",

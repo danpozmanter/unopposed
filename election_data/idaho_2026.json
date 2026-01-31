@@ -2,8 +2,15 @@
   "state": "ID",
   "state_name": "Idaho",
   "year": 2026,
-  "total": 107,
-  "scraped_at": "2026-01-31T05:31:48.372084+00:00",
+  "total": 106,
+  "total_races": 109,
+  "total_races_by_party": {
+    "Democrat": 4,
+    "Republican": 5,
+    "Unknown": 4,
+    "Other": 9
+  },
+  "scraped_at": "2026-01-31T21:06:51.642487+00:00",
   "unopposed_candidates": [
     {
       "state": "ID",
@@ -83,15 +90,6 @@
       "district": "District 5",
       "candidate": "Carl Bjerke",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ID",
-      "office": "State Senate",
-      "district": "District 6",
-      "candidate": "Robin Weldy",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -287,15 +285,6 @@
     {
       "state": "ID",
       "office": "State Senate",
-      "district": "District 28",
-      "candidate": "Jim Guthrie",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ID",
-      "office": "State Senate",
       "district": "District 29",
       "candidate": "James Ruchti",
       "party": "Democrat",
@@ -354,6 +343,15 @@
       "candidate": "Doug Ricks",
       "party": "Republican",
       "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Paul Smith",
+      "party": "Other",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {

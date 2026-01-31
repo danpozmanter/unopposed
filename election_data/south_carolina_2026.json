@@ -3,7 +3,14 @@
   "state_name": "South Carolina",
   "year": 2026,
   "total": 3,
-  "scraped_at": "2026-01-31T05:41:40.059757+00:00",
+  "total_races": 133,
+  "total_races_by_party": {
+    "Unknown": 2,
+    "Libertarian": 1,
+    "Democrat": 7,
+    "Republican": 6
+  },
+  "scraped_at": "2026-01-31T21:15:03.962286+00:00",
   "unopposed_candidates": [
     {
       "state": "SC",

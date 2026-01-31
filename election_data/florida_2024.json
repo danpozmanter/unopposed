@@ -3,7 +3,15 @@
   "state_name": "Florida",
   "year": 2024,
   "total": 221,
-  "scraped_at": "2026-01-30T22:58:54.538874+00:00",
+  "total_races": 170,
+  "total_races_by_party": {
+    "Democrat": 197,
+    "Republican": 147,
+    "Unknown": 12,
+    "Libertarian": 1,
+    "Other": 21
+  },
+  "scraped_at": "2026-01-31T21:37:54.382378+00:00",
   "unopposed_candidates": [
     {
       "state": "FL",

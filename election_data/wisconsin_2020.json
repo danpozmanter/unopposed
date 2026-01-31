@@ -3,7 +3,14 @@
   "state_name": "Wisconsin",
   "year": 2020,
   "total": 163,
-  "scraped_at": "2026-01-31T00:43:27.870948+00:00",
+  "total_races": 123,
+  "total_races_by_party": {
+    "Democrat": 118,
+    "Republican": 113,
+    "Unknown": 1,
+    "Other": 25
+  },
+  "scraped_at": "2026-01-31T23:04:54.890582+00:00",
   "unopposed_candidates": [
     {
       "state": "WI",

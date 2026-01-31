@@ -3,7 +3,15 @@
   "state_name": "Kansas",
   "year": 2022,
   "total": 162,
-  "scraped_at": "2026-01-30T23:47:45.197163+00:00",
+  "total_races": 131,
+  "total_races_by_party": {
+    "Unknown": 2,
+    "Democrat": 89,
+    "Republican": 112,
+    "Libertarian": 1,
+    "Other": 6
+  },
+  "scraped_at": "2026-01-31T22:18:20.206877+00:00",
   "unopposed_candidates": [
     {
       "state": "KS",

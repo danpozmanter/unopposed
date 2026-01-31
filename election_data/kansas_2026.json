@@ -3,7 +3,12 @@
   "state_name": "Kansas",
   "year": 2026,
   "total": 55,
-  "scraped_at": "2026-01-31T05:33:07.035389+00:00",
+  "total_races": 130,
+  "total_races_by_party": {
+    "Democrat": 5,
+    "Republican": 5
+  },
+  "scraped_at": "2026-01-31T21:08:00.428377+00:00",
   "unopposed_candidates": [
     {
       "state": "KS",

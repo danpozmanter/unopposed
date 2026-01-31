@@ -3,6 +3,12 @@
   "state_name": "New Hampshire",
   "year": 2026,
   "total": 0,
-  "scraped_at": "2026-01-31T05:37:33.790300+00:00",
+  "total_races": 28,
+  "total_races_by_party": {
+    "Republican": 3,
+    "Unknown": 1,
+    "Democrat": 4
+  },
+  "scraped_at": "2026-01-31T21:11:42.933628+00:00",
   "unopposed_candidates": []
 }

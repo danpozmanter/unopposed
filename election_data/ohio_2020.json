@@ -3,7 +3,16 @@
   "state_name": "Ohio",
   "year": 2020,
   "total": 188,
-  "scraped_at": "2026-01-31T00:38:35.928986+00:00",
+  "total_races": 131,
+  "total_races_by_party": {
+    "Democrat": 135,
+    "Libertarian": 5,
+    "Unknown": 5,
+    "Republican": 125,
+    "American Solidarity": 1,
+    "Other": 17
+  },
+  "scraped_at": "2026-01-31T23:00:11.633331+00:00",
   "unopposed_candidates": [
     {
       "state": "OH",

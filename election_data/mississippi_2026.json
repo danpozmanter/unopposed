@@ -3,7 +3,13 @@
   "state_name": "Mississippi",
   "year": 2026,
   "total": 6,
-  "scraped_at": "2026-01-31T05:35:44.024583+00:00",
+  "total_races": 5,
+  "total_races_by_party": {
+    "Republican": 5,
+    "Unknown": 4,
+    "Democrat": 5
+  },
+  "scraped_at": "2026-01-31T21:10:04.611618+00:00",
   "unopposed_candidates": [
     {
       "state": "MS",

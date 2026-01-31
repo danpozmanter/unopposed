@@ -3,7 +3,15 @@
   "state_name": "Texas",
   "year": 2022,
   "total": 229,
-  "scraped_at": "2026-01-31T00:02:28.150855+00:00",
+  "total_races": 220,
+  "total_races_by_party": {
+    "Democrat": 197,
+    "Republican": 189,
+    "Unknown": 16,
+    "Libertarian": 12,
+    "Other": 38
+  },
+  "scraped_at": "2026-01-31T22:32:39.211705+00:00",
   "unopposed_candidates": [
     {
       "state": "TX",

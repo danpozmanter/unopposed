@@ -3,7 +3,16 @@
   "state_name": "Maryland",
   "year": 2022,
   "total": 95,
-  "scraped_at": "2026-01-30T23:49:47.032593+00:00",
+  "total_races": 128,
+  "total_races_by_party": {
+    "Republican": 100,
+    "Unknown": 2,
+    "Democrat": 118,
+    "Libertarian": 2,
+    "Working Class": 1,
+    "Other": 10
+  },
+  "scraped_at": "2026-01-31T22:20:13.772042+00:00",
   "unopposed_candidates": [
     {
       "state": "MD",

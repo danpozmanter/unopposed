@@ -3,7 +3,12 @@
   "state_name": "Hawaii",
   "year": 2026,
   "total": 2,
-  "scraped_at": "2026-01-31T05:31:26.281048+00:00",
+  "total_races": 66,
+  "total_races_by_party": {
+    "Republican": 2,
+    "Democrat": 2
+  },
+  "scraped_at": "2026-01-31T21:06:34.385094+00:00",
   "unopposed_candidates": [
     {
       "state": "HI",

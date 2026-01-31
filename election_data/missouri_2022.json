@@ -2,27 +2,18 @@
   "state": "MO",
   "state_name": "Missouri",
   "year": 2022,
-  "total": 235,
-  "scraped_at": "2026-01-30T23:51:58.331937+00:00",
+  "total": 233,
+  "total_races": 189,
+  "total_races_by_party": {
+    "Libertarian": 8,
+    "Unknown": 9,
+    "Constitution": 1,
+    "Republican": 160,
+    "Democrat": 126,
+    "Other": 16
+  },
+  "scraped_at": "2026-01-31T22:22:24.686566+00:00",
   "unopposed_candidates": [
-    {
-      "state": "MO",
-      "office": "US Senate",
-      "district": "Statewide",
-      "candidate": "Paul Venable",
-      "party": "Unknown",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MO",
-      "office": "US Senate",
-      "district": "Statewide",
-      "candidate": "Jonathan Dine",
-      "party": "Libertarian",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
     {
       "state": "MO",
       "office": "US House",

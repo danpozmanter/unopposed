@@ -2,27 +2,17 @@
   "state": "NM",
   "state_name": "New Mexico",
   "year": 2020,
-  "total": 175,
-  "scraped_at": "2026-01-31T00:37:09.763620+00:00",
+  "total": 173,
+  "total_races": 116,
+  "total_races_by_party": {
+    "Unknown": 2,
+    "Libertarian": 1,
+    "Democrat": 98,
+    "Republican": 105,
+    "Other": 19
+  },
+  "scraped_at": "2026-01-31T22:58:45.383843+00:00",
   "unopposed_candidates": [
-    {
-      "state": "NM",
-      "office": "US Senate",
-      "district": "Statewide",
-      "candidate": "Ben Ray Luj\u00e1n",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NM",
-      "office": "US Senate",
-      "district": "Statewide",
-      "candidate": "Bob Walsh",
-      "party": "Libertarian",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
     {
       "state": "NM",
       "office": "US House",

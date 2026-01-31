@@ -2,8 +2,15 @@
   "state": "TN",
   "state_name": "Tennessee",
   "year": 2022,
-  "total": 140,
-  "scraped_at": "2026-01-31T00:01:48.881710+00:00",
+  "total": 139,
+  "total_races": 126,
+  "total_races_by_party": {
+    "Democrat": 83,
+    "Unknown": 8,
+    "Republican": 106,
+    "Other": 16
+  },
+  "scraped_at": "2026-01-31T22:32:01.005798+00:00",
   "unopposed_candidates": [
     {
       "state": "TN",
@@ -91,15 +98,6 @@
       "office": "US House",
       "district": "District 7",
       "candidate": "Mark Green",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TN",
-      "office": "Governor",
-      "district": "Statewide",
-      "candidate": "Bill Lee",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

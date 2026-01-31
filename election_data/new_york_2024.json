@@ -3,7 +3,18 @@
   "state_name": "New York",
   "year": 2024,
   "total": 372,
-  "scraped_at": "2026-01-30T23:08:00.786655+00:00",
+  "total_races": 240,
+  "total_races_by_party": {
+    "Unknown": 27,
+    "LaRouche": 2,
+    "Democrat": 230,
+    "Republican": 185,
+    "Truth": 1,
+    "Conservative": 1,
+    "Working Families": 1,
+    "Other": 186
+  },
+  "scraped_at": "2026-01-31T21:46:54.636857+00:00",
   "unopposed_candidates": [
     {
       "state": "NY",

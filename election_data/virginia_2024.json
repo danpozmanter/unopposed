@@ -3,7 +3,13 @@
   "state_name": "Virginia",
   "year": 2024,
   "total": 12,
-  "scraped_at": "2026-01-30T23:14:18.860136+00:00",
+  "total_races": 12,
+  "total_races_by_party": {
+    "Unknown": 4,
+    "Republican": 12,
+    "Democrat": 22
+  },
+  "scraped_at": "2026-01-31T21:53:08.407779+00:00",
   "unopposed_candidates": [
     {
       "state": "VA",

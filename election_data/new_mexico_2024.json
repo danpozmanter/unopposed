@@ -2,27 +2,16 @@
   "state": "NM",
   "state_name": "New Mexico",
   "year": 2024,
-  "total": 144,
-  "scraped_at": "2026-01-30T23:07:41.746573+00:00",
+  "total": 142,
+  "total_races": 116,
+  "total_races_by_party": {
+    "Republican": 76,
+    "Unknown": 1,
+    "Democrat": 93,
+    "Other": 3
+  },
+  "scraped_at": "2026-01-31T21:46:34.694299+00:00",
   "unopposed_candidates": [
-    {
-      "state": "NM",
-      "office": "US Senate",
-      "district": "Statewide",
-      "candidate": "Martin Heinrich",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NM",
-      "office": "US Senate",
-      "district": "Statewide",
-      "candidate": "Nella Domenici",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
     {
       "state": "NM",
       "office": "US House",

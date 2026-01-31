@@ -3,7 +3,13 @@
   "state_name": "Alabama",
   "year": 2024,
   "total": 5,
-  "scraped_at": "2026-01-30T22:55:23.168919+00:00",
+  "total_races": 7,
+  "total_races_by_party": {
+    "Republican": 7,
+    "Democrat": 8,
+    "Unknown": 1
+  },
+  "scraped_at": "2026-01-31T21:34:38.390213+00:00",
   "unopposed_candidates": [
     {
       "state": "AL",

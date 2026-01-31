@@ -2,8 +2,14 @@
   "state": "NH",
   "state_name": "New Hampshire",
   "year": 2022,
-  "total": 37,
-  "scraped_at": "2026-01-30T23:54:07.912059+00:00",
+  "total": 36,
+  "total_races": 28,
+  "total_races_by_party": {
+    "Democrat": 29,
+    "Unknown": 2,
+    "Republican": 27
+  },
+  "scraped_at": "2026-01-31T22:24:33.822052+00:00",
   "unopposed_candidates": [
     {
       "state": "NH",
@@ -19,15 +25,6 @@
       "office": "US House",
       "district": "District 2",
       "candidate": "Annie Kuster",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NH",
-      "office": "Governor",
-      "district": "Statewide",
-      "candidate": "Tom Sherman",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

@@ -3,7 +3,13 @@
   "state_name": "Indiana",
   "year": 2026,
   "total": 31,
-  "scraped_at": "2026-01-31T05:32:27.205646+00:00",
+  "total_races": 134,
+  "total_races_by_party": {
+    "Democrat": 9,
+    "Republican": 9,
+    "Unknown": 3
+  },
+  "scraped_at": "2026-01-31T21:07:16.970491+00:00",
   "unopposed_candidates": [
     {
       "state": "IN",

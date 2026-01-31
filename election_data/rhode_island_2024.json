@@ -3,7 +3,14 @@
   "state_name": "Rhode Island",
   "year": 2024,
   "total": 142,
-  "scraped_at": "2026-01-30T23:11:14.089647+00:00",
+  "total_races": 116,
+  "total_races_by_party": {
+    "Republican": 43,
+    "Democrat": 114,
+    "Unknown": 2,
+    "Other": 7
+  },
+  "scraped_at": "2026-01-31T21:49:53.401638+00:00",
   "unopposed_candidates": [
     {
       "state": "RI",

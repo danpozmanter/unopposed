@@ -3,7 +3,15 @@
   "state_name": "Alabama",
   "year": 2022,
   "total": 140,
-  "scraped_at": "2026-01-30T23:38:30.419836+00:00",
+  "total_races": 149,
+  "total_races_by_party": {
+    "Unknown": 4,
+    "Democrat": 73,
+    "Republican": 121,
+    "Libertarian": 7,
+    "Other": 44
+  },
+  "scraped_at": "2026-01-31T22:09:02.715163+00:00",
   "unopposed_candidates": [
     {
       "state": "AL",

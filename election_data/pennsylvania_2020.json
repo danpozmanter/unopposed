@@ -3,7 +3,15 @@
   "state_name": "Pennsylvania",
   "year": 2020,
   "total": 347,
-  "scraped_at": "2026-01-31T00:39:40.007042+00:00",
+  "total_races": 246,
+  "total_races_by_party": {
+    "Democrat": 225,
+    "Republican": 205,
+    "Libertarian": 2,
+    "Unknown": 4,
+    "Other": 16
+  },
+  "scraped_at": "2026-01-31T23:01:18.143421+00:00",
   "unopposed_candidates": [
     {
       "state": "PA",

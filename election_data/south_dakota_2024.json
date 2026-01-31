@@ -3,7 +3,13 @@
   "state_name": "South Dakota",
   "year": 2024,
   "total": 58,
-  "scraped_at": "2026-01-30T23:11:58.443176+00:00",
+  "total_races": 72,
+  "total_races_by_party": {
+    "Republican": 71,
+    "Democrat": 39,
+    "Other": 8
+  },
+  "scraped_at": "2026-01-31T21:50:35.529729+00:00",
   "unopposed_candidates": [
     {
       "state": "SD",

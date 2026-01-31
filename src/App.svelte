@@ -112,21 +112,36 @@
 		});
 	}
 
+	function countGeneralUnopposed(candidates: Candidate[]): number {
+		return candidates.filter((c) => c.unopposed_in.includes('General')).length;
+	}
+
 	const summary = $derived.by(() => {
 		let totalUnopposed = 0;
+		let totalRaces = 0;
 		const countByParty: Record<string, number> = {};
+		const totalByParty: Record<string, number> = {};
 
 		for (const electionData of electionsByState.values()) {
 			if (electionData?.unopposed_candidates) {
-				totalUnopposed += electionData.total || 0;
+				totalRaces += electionData.total_races || 0;
 				for (const candidate of electionData.unopposed_candidates) {
-					const { abbrev } = getPartyInfo(candidate.party);
-					countByParty[abbrev] = (countByParty[abbrev] || 0) + 1;
+					if (candidate.unopposed_in.includes('General')) {
+						totalUnopposed += 1;
+						const { abbrev } = getPartyInfo(candidate.party);
+						countByParty[abbrev] = (countByParty[abbrev] || 0) + 1;
+					}
+				}
+				if (electionData.total_races_by_party) {
+					for (const [party, count] of Object.entries(electionData.total_races_by_party)) {
+						const { abbrev } = getPartyInfo(party);
+						totalByParty[abbrev] = (totalByParty[abbrev] || 0) + count;
+					}
 				}
 			}
 		}
 
-		return { totalUnopposed, countByParty };
+		return { totalUnopposed, totalRaces, countByParty, totalByParty };
 	});
 
 	$effect(() => {
@@ -170,14 +185,15 @@
 	{:else}
 		<section class="summary">
 			<div class="summary-card">
-				<span class="summary-number">{summary.totalUnopposed}</span>
-				<span class="summary-label">Unopposed Races</span>
+				<span class="summary-number">{summary.totalUnopposed}<span class="summary-total">/{summary.totalRaces}</span></span>
+				<span class="summary-label">Unopposed Races{#if summary.totalRaces > 0} ({(summary.totalUnopposed / summary.totalRaces * 100).toFixed(1)}%){/if}</span>
 			</div>
 			<div class="summary-parties">
 				{#each Object.entries(summary.countByParty).sort((a, b) => b[1] - a[1]) as [partyAbbrev, count] (partyAbbrev)}
+					{@const total = summary.totalByParty[partyAbbrev] || 0}
 					<div class="party-stat">
 						<span class="party-badge party-{partyAbbrev.toLowerCase()}">{partyAbbrev}</span>
-						<span class="party-count">{count}</span>
+						<span class="party-count">{count}{#if total > 0}<span class="party-total">/{total}</span>{/if}</span>
 					</div>
 				{/each}
 			</div>
@@ -195,9 +211,10 @@
 		<section class="states-grid">
 			{#each STATE_CODES.filter((stateCode) => {
 				const electionData = electionsByState.get(stateCode);
-				return electionData && electionData.total > 0;
+				return electionData && electionData.total_races > 0;
 			}) as stateCode (stateCode)}
 				{@const electionData = electionsByState.get(stateCode)}
+				{@const generalUnopposed = electionData?.unopposed_candidates ? countGeneralUnopposed(electionData.unopposed_candidates) : 0}
 				<article class="state-card" class:expanded={expandedStates.has(stateCode)}>
 					<button class="state-header" onclick={() => toggleStateExpansion(stateCode)}>
 						<div class="state-info">
@@ -205,7 +222,7 @@
 							<span class="state-name">{STATE_NAMES[stateCode]}</span>
 						</div>
 						<div class="state-count">
-							<span class="count-badge">{electionData?.total || 0}</span>
+							<span class="count-badge">{generalUnopposed}{#if electionData?.total_races}<span class="count-total">/{electionData.total_races}</span>{/if}</span>
 						</div>
 					</button>
 
@@ -378,6 +395,18 @@
 		letter-spacing: 0.05em;
 	}
 
+	.summary-total {
+		font-size: 1.5rem;
+		font-weight: 400;
+		color: #999;
+	}
+
+	.party-total {
+		font-size: 0.9rem;
+		font-weight: 400;
+		color: #999;
+	}
+
 	.summary-parties {
 		display: flex;
 		gap: 1rem;
@@ -515,6 +544,11 @@
 		border-radius: 1rem;
 		font-weight: 600;
 		font-size: 0.9rem;
+	}
+
+	.count-total {
+		font-weight: 400;
+		opacity: 0.7;
 	}
 
 	.no-data-message {

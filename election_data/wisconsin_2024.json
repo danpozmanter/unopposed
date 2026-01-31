@@ -2,18 +2,18 @@
   "state": "WI",
   "state_name": "Wisconsin",
   "year": 2024,
-  "total": 168,
-  "scraped_at": "2026-01-30T23:15:57.245372+00:00",
+  "total": 167,
+  "total_races": 124,
+  "total_races_by_party": {
+    "Republican": 104,
+    "Democrat": 130,
+    "America First": 1,
+    "Unknown": 3,
+    "Green/Rainbow": 1,
+    "Other": 8
+  },
+  "scraped_at": "2026-01-31T21:54:44.548132+00:00",
   "unopposed_candidates": [
-    {
-      "state": "WI",
-      "office": "US Senate",
-      "district": "Statewide",
-      "candidate": "Tammy Baldwin",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
     {
       "state": "WI",
       "office": "US House",

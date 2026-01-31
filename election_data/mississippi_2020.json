@@ -2,18 +2,15 @@
   "state": "MS",
   "state_name": "Mississippi",
   "year": 2020,
-  "total": 4,
-  "scraped_at": "2026-01-31T00:35:01.715295+00:00",
+  "total": 3,
+  "total_races": 5,
+  "total_races_by_party": {
+    "Republican": 5,
+    "Democrat": 7,
+    "Unknown": 2
+  },
+  "scraped_at": "2026-01-31T22:56:31.343669+00:00",
   "unopposed_candidates": [
-    {
-      "state": "MS",
-      "office": "US Senate",
-      "district": "Statewide",
-      "candidate": "Cindy Hyde-Smith",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
     {
       "state": "MS",
       "office": "US House",

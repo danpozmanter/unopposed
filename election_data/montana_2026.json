@@ -3,7 +3,13 @@
   "state_name": "Montana",
   "year": 2026,
   "total": 84,
-  "scraped_at": "2026-01-31T05:36:17.116996+00:00",
+  "total_races": 128,
+  "total_races_by_party": {
+    "Democrat": 3,
+    "Unknown": 2,
+    "Republican": 3
+  },
+  "scraped_at": "2026-01-31T21:10:38.062595+00:00",
   "unopposed_candidates": [
     {
       "state": "MT",

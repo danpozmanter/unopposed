@@ -2,8 +2,17 @@
   "state": "OR",
   "state_name": "Oregon",
   "year": 2026,
-  "total": 31,
-  "scraped_at": "2026-01-31T05:40:31.064693+00:00",
+  "total": 35,
+  "total_races": 83,
+  "total_races_by_party": {
+    "Unknown": 2,
+    "Democrat": 30,
+    "Republican": 25,
+    "Libertarian": 1,
+    "Independent": 1,
+    "Other": 2
+  },
+  "scraped_at": "2026-01-31T21:14:32.488365+00:00",
   "unopposed_candidates": [
     {
       "state": "OR",
@@ -75,6 +84,42 @@
       "candidate": "Rob Wagner",
       "party": "Democrat",
       "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Bret Cecil",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Seth Benham",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Julie Fahey",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Chad Parker",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {

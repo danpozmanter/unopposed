@@ -13,6 +13,8 @@ export interface ElectionData {
 	state_name: string;
 	year: number;
 	total: number;
+	total_races: number;
+	total_races_by_party: Record<string, number>;
 	scraped_at: string;
 	unopposed_candidates: Candidate[];
 }

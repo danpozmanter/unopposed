@@ -2,8 +2,13 @@
   "state": "MO",
   "state_name": "Missouri",
   "year": 2026,
-  "total": 138,
-  "scraped_at": "2026-01-31T05:35:58.505446+00:00",
+  "total": 137,
+  "total_races": 188,
+  "total_races_by_party": {
+    "Democrat": 8,
+    "Republican": 7
+  },
+  "scraped_at": "2026-01-31T21:10:20.898174+00:00",
   "unopposed_candidates": [
     {
       "state": "MO",
@@ -1018,15 +1023,6 @@
       "office": "State House",
       "district": "District 125",
       "candidate": "Dane Diehl",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MO",
-      "office": "State House",
-      "district": "District 127",
-      "candidate": "Brenden Kelley",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

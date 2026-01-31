@@ -2,27 +2,16 @@
   "state": "ND",
   "state_name": "North Dakota",
   "year": 2024,
-  "total": 42,
-  "scraped_at": "2026-01-30T23:09:02.992190+00:00",
+  "total": 40,
+  "total_races": 48,
+  "total_races_by_party": {
+    "Unknown": 1,
+    "Democrat": 30,
+    "Republican": 46,
+    "Other": 1
+  },
+  "scraped_at": "2026-01-31T21:47:55.715989+00:00",
   "unopposed_candidates": [
-    {
-      "state": "ND",
-      "office": "US Senate",
-      "district": "Statewide",
-      "candidate": "Katrina Christiansen",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ND",
-      "office": "US Senate",
-      "district": "Statewide",
-      "candidate": "Kevin Cramer",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
     {
       "state": "ND",
       "office": "State Senate",

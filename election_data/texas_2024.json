@@ -3,7 +3,15 @@
   "state_name": "Texas",
   "year": 2024,
   "total": 220,
-  "scraped_at": "2026-01-30T23:12:59.813363+00:00",
+  "total_races": 204,
+  "total_races_by_party": {
+    "Unknown": 10,
+    "Republican": 158,
+    "Democrat": 209,
+    "Libertarian": 7,
+    "Other": 18
+  },
+  "scraped_at": "2026-01-31T21:51:36.533760+00:00",
   "unopposed_candidates": [
     {
       "state": "TX",
