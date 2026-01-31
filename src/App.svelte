@@ -1,5 +1,4 @@
 <script lang="ts">
-	import { SvelteMap, SvelteSet } from 'svelte/reactivity';
 	import {
 		STATE_NAMES,
 		STATE_CODES,
@@ -10,19 +9,19 @@
 		type Manifest
 	} from '$lib/types';
 
-	const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+	const base = import.meta.env.BASE_URL;
 
 	let years = $state<number[]>([]);
 	let selectedYear = $state(getDefaultYear());
-	let stateData = new SvelteMap<string, ElectionData | null>();
+	let stateData = $state(new Map<string, ElectionData | null>());
 	let loading = $state(true);
-	let expandedStates = new SvelteSet<string>();
+	let expandedStates = $state(new Set<string>());
 
 	const officeOrder = ['US Senate', 'US House', 'Governor', 'State Senate', 'State House'];
 
 	async function loadManifest() {
 		try {
-			const response = await fetch(`${base}/election_data/manifest.json`);
+			const response = await fetch(`${base}election_data/manifest.json`);
 			if (response.ok) {
 				const manifest: Manifest = await response.json();
 				years = manifest.years.sort((a, b) => b - a);
@@ -30,8 +29,10 @@
 				if (years.includes(currentYear)) {
 					selectedYear = currentYear;
 				} else if (years.length > 0) {
-					selectedYear = years[years.length - 1];
+					selectedYear = years[0];
 				}
+			} else {
+				years = [getDefaultYear()];
 			}
 		} catch {
 			years = [getDefaultYear()];
@@ -40,12 +41,12 @@
 
 	async function loadData(year: number) {
 		loading = true;
-		const newData = new SvelteMap<string, ElectionData | null>();
+		const newData = new Map<string, ElectionData | null>();
 
 		const statePromises = STATE_CODES.map(async (code) => {
 			const filename = getFilename(code);
 			try {
-				const response = await fetch(`${base}/election_data/${filename}_${year}.json`);
+				const response = await fetch(`${base}election_data/${filename}_${year}.json`);
 				if (response.ok) {
 					const data = await response.json();
 					newData.set(code, data);
@@ -85,7 +86,6 @@
 	}
 
 	function groupByOffice(candidates: Candidate[]): Map<string, Candidate[]> {
-		// eslint-disable-next-line svelte/prefer-svelte-reactivity -- pure utility function, not reactive state
 		const grouped = new Map<string, Candidate[]>();
 		for (const c of candidates) {
 			if (!grouped.has(c.office)) {
@@ -101,11 +101,13 @@
 	}
 
 	function toggleState(code: string) {
-		if (expandedStates.has(code)) {
-			expandedStates.delete(code);
+		const newSet = new Set(expandedStates);
+		if (newSet.has(code)) {
+			newSet.delete(code);
 		} else {
-			expandedStates.add(code);
+			newSet.add(code);
 		}
+		expandedStates = newSet;
 	}
 
 	function formatTimestamp(iso: string): string {
