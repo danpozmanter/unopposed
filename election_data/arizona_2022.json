@@ -2,17 +2,35 @@
   "state": "AZ",
   "state_name": "Arizona",
   "year": 2022,
-  "total": 50,
+  "total": 51,
   "total_races": 71,
   "total_races_by_party": {
-    "Unknown": 6,
+    "Libertarian": 1,
     "Democrat": 70,
     "Republican": 65,
-    "Libertarian": 2,
+    "Unknown": 6,
     "Other": 6
   },
-  "scraped_at": "2026-01-31T22:10:21.474522+00:00",
+  "scraped_at": "2026-02-01T04:05:25.592710+00:00",
   "unopposed_candidates": [
+    {
+      "state": "AZ",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Mark Kelly",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Marc Victor",
+      "party": "Libertarian",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "AZ",
       "office": "US House",
@@ -73,15 +91,6 @@
       "district": "District 8",
       "candidate": "Debbie Lesko",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AZ",
-      "office": "Governor",
-      "district": "Statewide",
-      "candidate": "Contact our sales team.",
-      "party": "Libertarian",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

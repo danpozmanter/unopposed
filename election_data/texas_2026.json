@@ -2,16 +2,16 @@
   "state": "TX",
   "state_name": "Texas",
   "year": 2026,
-  "total": 241,
+  "total": 242,
   "total_races": 206,
   "total_races_by_party": {
-    "Republican": 40,
-    "Unknown": 14,
     "Democrat": 40,
+    "Unknown": 14,
+    "Republican": 40,
     "American Independent": 1,
     "Other": 2
   },
-  "scraped_at": "2026-01-31T21:16:15.766236+00:00",
+  "scraped_at": "2026-02-01T04:15:02.053536+00:00",
   "unopposed_candidates": [
     {
       "state": "TX",
@@ -270,6 +270,15 @@
       "office": "US House",
       "district": "District 38",
       "candidate": "William Taggart",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Jenn Mack Raphoon",
       "party": "Unknown",
       "unopposed_in": "General",
       "source": "Ballotpedia"

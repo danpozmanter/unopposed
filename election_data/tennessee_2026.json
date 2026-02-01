@@ -2,16 +2,34 @@
   "state": "TN",
   "state_name": "Tennessee",
   "year": 2026,
-  "total": 125,
+  "total": 127,
   "total_races": 127,
   "total_races_by_party": {
-    "Republican": 11,
-    "Democrat": 11,
     "Federalist": 1,
-    "Unknown": 6
+    "Democrat": 11,
+    "Unknown": 6,
+    "Republican": 11
   },
-  "scraped_at": "2026-01-31T21:16:05.097846+00:00",
+  "scraped_at": "2026-02-01T04:14:51.319429+00:00",
   "unopposed_candidates": [
+    {
+      "state": "TN",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Diana Onyejiaka",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Bill Hagerty",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "TN",
       "office": "US House",

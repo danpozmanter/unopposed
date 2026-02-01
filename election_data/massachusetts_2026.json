@@ -2,15 +2,15 @@
   "state": "MA",
   "state_name": "Massachusetts",
   "year": 2026,
-  "total": 22,
+  "total": 20,
   "total_races": 211,
   "total_races_by_party": {
     "Unknown": 5,
+    "Democrat": 18,
     "American Independent": 1,
-    "Democrat": 19,
     "Republican": 7
   },
-  "scraped_at": "2026-01-31T21:09:15.332280+00:00",
+  "scraped_at": "2026-02-01T04:07:56.310783+00:00",
   "unopposed_candidates": [
     {
       "state": "MA",
@@ -114,15 +114,6 @@
     {
       "state": "MA",
       "office": "State House",
-      "district": "1st Barnstable District",
-      "candidate": "Steven Leibowitz",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MA",
-      "office": "State House",
       "district": "2nd Plymouth District",
       "candidate": "Sarah Hewins",
       "party": "Democrat",
@@ -163,15 +154,6 @@
       "candidate": "Michael Lachenmeyer",
       "party": "Democrat",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MA",
-      "office": "State House",
-      "district": "1st Barnstable District",
-      "candidate": "Chris Lambton",
-      "party": "Democrat",
-      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {

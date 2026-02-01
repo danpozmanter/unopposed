@@ -2,15 +2,33 @@
   "state": "VT",
   "state_name": "Vermont",
   "year": 2026,
-  "total": 39,
+  "total": 41,
   "total_races": 126,
   "total_races_by_party": {
     "Republican": 1,
     "Democrat": 1,
     "Other": 5
   },
-  "scraped_at": "2026-01-31T21:17:42.768822+00:00",
+  "scraped_at": "2026-02-01T04:15:47.243017+00:00",
   "unopposed_candidates": [
+    {
+      "state": "VT",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Esther Charlestin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Phil Scott",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "VT",
       "office": "State Senate",

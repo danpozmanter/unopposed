@@ -2,15 +2,24 @@
   "state": "MN",
   "state_name": "Minnesota",
   "year": 2026,
-  "total": 57,
+  "total": 58,
   "total_races": 210,
   "total_races_by_party": {
+    "Unknown": 3,
     "Republican": 8,
-    "Democrat": 9,
-    "Unknown": 3
+    "Democrat": 9
   },
-  "scraped_at": "2026-01-31T21:09:51.599572+00:00",
+  "scraped_at": "2026-02-01T04:08:26.266737+00:00",
   "unopposed_candidates": [
+    {
+      "state": "MN",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Marisa Simonetti",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
     {
       "state": "MN",
       "office": "US House",

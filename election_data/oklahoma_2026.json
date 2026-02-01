@@ -2,14 +2,15 @@
   "state": "OK",
   "state_name": "Oklahoma",
   "year": 2026,
-  "total": 11,
-  "total_races": 31,
+  "total": 26,
+  "total_races": 132,
   "total_races_by_party": {
     "Unknown": 4,
-    "Republican": 17,
-    "Democrat": 9
+    "Democrat": 18,
+    "Republican": 41,
+    "Other": 1
   },
-  "scraped_at": "2026-01-31T21:14:21.730139+00:00",
+  "scraped_at": "2026-02-01T04:12:51.801041+00:00",
   "unopposed_candidates": [
     {
       "state": "OK",
@@ -107,6 +108,141 @@
       "district": "District 40",
       "candidate": "Carri Hicks",
       "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Josh West",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Rusty Cornwell",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Steve Bashore",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Sandra Hodges",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Shelton Foster",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Cody Maynard",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "Karmin Grider",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Trish Ranson",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Torry Turnbow",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Mike Bockus",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State House",
+      "district": "District 54",
+      "candidate": "Alexander Torvi",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State House",
+      "district": "District 79",
+      "candidate": "Paul Hassink",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State House",
+      "district": "District 83",
+      "candidate": "Eric Roberts",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State House",
+      "district": "District 88",
+      "candidate": "Ellen Pogemiller",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State House",
+      "district": "District 96",
+      "candidate": "John Bachman",
+      "party": "Republican",
       "unopposed_in": "General",
       "source": "Ballotpedia"
     }

@@ -5,15 +5,15 @@
   "total": 328,
   "total_races": 194,
   "total_races_by_party": {
-    "Republican": 166,
     "Unknown": 5,
-    "Democrat": 182,
+    "Republican": 166,
     "Green/Rainbow": 3,
+    "Democrat": 182,
     "Libertarian": 1,
     "Independent": 2,
     "Other": 127
   },
-  "scraped_at": "2026-01-31T22:12:53.253535+00:00",
+  "scraped_at": "2026-02-01T04:07:59.756512+00:00",
   "unopposed_candidates": [
     {
       "state": "CT",

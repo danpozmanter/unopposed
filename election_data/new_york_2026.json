@@ -5,13 +5,13 @@
   "total": 19,
   "total_races": 240,
   "total_races_by_party": {
+    "Unknown": 7,
     "Democrat": 39,
     "Republican": 23,
-    "Unknown": 7,
     "Conservative": 1,
     "American Independent": 1
   },
-  "scraped_at": "2026-01-31T21:12:31.038523+00:00",
+  "scraped_at": "2026-02-01T04:11:39.385607+00:00",
   "unopposed_candidates": [
     {
       "state": "NY",

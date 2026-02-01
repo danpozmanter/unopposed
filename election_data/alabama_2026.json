@@ -2,14 +2,13 @@
   "state": "AL",
   "state_name": "Alabama",
   "year": 2026,
-  "total": 147,
+  "total": 146,
   "total_races": 149,
   "total_races_by_party": {
     "Democrat": 9,
-    "Republican": 9,
-    "Unknown": 1
+    "Republican": 9
   },
-  "scraped_at": "2026-01-31T21:03:25.812356+00:00",
+  "scraped_at": "2026-02-01T04:01:34.737742+00:00",
   "unopposed_candidates": [
     {
       "state": "AL",
@@ -45,15 +44,6 @@
       "candidate": "Terri Sewell",
       "party": "Democrat",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AL",
-      "office": "Governor",
-      "district": "Statewide",
-      "candidate": "Contact our sales team.",
-      "party": "Unknown",
-      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {

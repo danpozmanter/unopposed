@@ -2,18 +2,36 @@
   "state": "ID",
   "state_name": "Idaho",
   "year": 2022,
-  "total": 126,
+  "total": 130,
   "total_races": 109,
   "total_races_by_party": {
+    "Republican": 109,
     "Democrat": 52,
     "Libertarian": 3,
     "Constitution": 2,
-    "Republican": 109,
     "Unknown": 3,
     "Other": 20
   },
-  "scraped_at": "2026-01-31T22:15:54.825760+00:00",
+  "scraped_at": "2026-02-01T04:11:09.022968+00:00",
   "unopposed_candidates": [
+    {
+      "state": "ID",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Ray Writz",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Idaho Law",
+      "party": "Libertarian",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "ID",
       "office": "US House",
@@ -47,6 +65,24 @@
       "district": "District 2",
       "candidate": "Wendy Norman",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Stephen Heidt",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Chantyrose Davison",
+      "party": "Unknown",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

@@ -2,11 +2,33 @@
   "state": "SD",
   "state_name": "South Dakota",
   "year": 2026,
-  "total": 19,
-  "total_races": 72,
-  "total_races_by_party": {},
-  "scraped_at": "2026-01-31T21:15:54.502472+00:00",
+  "total": 21,
+  "total_races": 73,
+  "total_races_by_party": {
+    "Unknown": 1,
+    "Democrat": 1,
+    "Republican": 1
+  },
+  "scraped_at": "2026-02-01T04:14:36.138371+00:00",
   "unopposed_candidates": [
+    {
+      "state": "SD",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Brian Bengs",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SD",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Julian Beaudion",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "SD",
       "office": "State Senate",

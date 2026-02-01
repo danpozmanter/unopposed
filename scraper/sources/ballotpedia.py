@@ -340,6 +340,8 @@ def _collect_votebox_candidates(div, section, general_candidates, primary_by_par
         if not link:
             continue
         href = link.get("href", "")
+        if href.startswith("mailto:"):
+            continue
         if "ballotpedia.org" not in href and "/wiki/" not in href:
             continue
         name = _NAME_CLEAN_RE.sub("", link.get_text(strip=True)).strip()

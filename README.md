@@ -38,8 +38,8 @@ cd scraper && uv sync
 ./scripts/run_tests.sh
 
 # Scrape data locally (single or multiple years)
-./scripts/run_scrape_locally.sh 2026
-./scripts/run_scrape_locally.sh 2025 2026
+./scripts/run_scraper_locally.sh 2026
+./scripts/run_scraper_locally.sh 2025 2026
 ```
 
 ### Manual Commands

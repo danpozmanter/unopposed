@@ -2,15 +2,24 @@
   "state": "PA",
   "state_name": "Pennsylvania",
   "year": 2026,
-  "total": 3,
+  "total": 4,
   "total_races": 246,
   "total_races_by_party": {
-    "Unknown": 6,
     "Republican": 20,
+    "Unknown": 6,
     "Democrat": 18
   },
-  "scraped_at": "2026-01-31T21:14:43.016050+00:00",
+  "scraped_at": "2026-02-01T04:13:33.046899+00:00",
   "unopposed_candidates": [
+    {
+      "state": "PA",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Austin Davis",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "PA",
       "office": "State Senate",

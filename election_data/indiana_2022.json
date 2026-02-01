@@ -2,18 +2,36 @@
   "state": "IN",
   "state_name": "Indiana",
   "year": 2022,
-  "total": 138,
+  "total": 140,
   "total_races": 135,
   "total_races_by_party": {
-    "Republican": 121,
-    "Democrat": 104,
     "Unknown": 4,
+    "Democrat": 104,
+    "Republican": 121,
     "Libertarian": 4,
     "Green/Rainbow": 1,
     "Other": 10
   },
-  "scraped_at": "2026-01-31T22:17:10.033310+00:00",
+  "scraped_at": "2026-02-01T04:12:25.957059+00:00",
   "unopposed_candidates": [
+    {
+      "state": "IN",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Thomas McDermott Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Todd C. Young",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "IN",
       "office": "US House",

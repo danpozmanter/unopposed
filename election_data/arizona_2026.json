@@ -2,17 +2,17 @@
   "state": "AZ",
   "state_name": "Arizona",
   "year": 2026,
-  "total": 26,
+  "total": 27,
   "total_races": 70,
   "total_races_by_party": {
     "Unknown": 4,
-    "Democrat": 10,
     "Republican": 9,
+    "Democrat": 10,
     "Green/Rainbow": 2,
     "Arizona Independent": 1,
     "Other": 3
   },
-  "scraped_at": "2026-01-31T21:04:12.289913+00:00",
+  "scraped_at": "2026-02-01T04:02:21.313291+00:00",
   "unopposed_candidates": [
     {
       "state": "AZ",
@@ -83,6 +83,15 @@
       "district": "District 7",
       "candidate": "Daniel Butierez",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Katie Hobbs",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

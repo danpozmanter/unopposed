@@ -2,15 +2,33 @@
   "state": "NJ",
   "state_name": "New Jersey",
   "year": 2026,
-  "total": 11,
+  "total": 13,
   "total_races": 12,
   "total_races_by_party": {
+    "Democrat": 12,
     "Unknown": 5,
-    "Republican": 10,
-    "Democrat": 12
+    "Republican": 10
   },
-  "scraped_at": "2026-01-31T21:11:54.381971+00:00",
+  "scraped_at": "2026-02-01T04:10:57.367255+00:00",
   "unopposed_candidates": [
+    {
+      "state": "NJ",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Submit photo",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Justin Murphy",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "NJ",
       "office": "US House",

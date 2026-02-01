@@ -3,15 +3,25 @@ set -e
 cd "$(dirname "$0")/.."
 
 if [ -z "$1" ]; then
-    echo "Usage: ./run_scrape_locally.sh <year> [year2] [year3] ..."
-    echo "Example: ./run_scrape_locally.sh 2026"
-    echo "Example: ./run_scrape_locally.sh 2025 2026"
+    echo "Usage: ./run_scraper_locally.sh <year> [year2] [year3] ..."
+    echo "       ./run_scraper_locally.sh <state> <year>"
+    echo "Example: ./run_scraper_locally.sh 2026"
+    echo "Example: ./run_scraper_locally.sh 2025 2026"
+    echo "Example: ./run_scraper_locally.sh MA 2026"
     exit 1
 fi
 
-YEARS="$@"
+ALL_STATES="AL AK AZ AR CA CO CT DE FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY DC"
 
-STATES="AL AK AZ AR CA CO CT DE FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY DC"
+if [[ "$1" =~ ^[A-Z]{2}$ ]] && [[ " $ALL_STATES " == *" $1 "* ]]; then
+    STATES="$1"
+    YEARS="$2"
+    SINGLE_STATE=true
+else
+    STATES="$ALL_STATES"
+    YEARS="$@"
+    SINGLE_STATE=false
+fi
 
 declare -A STATE_NAMES=(
     ["AL"]="alabama" ["AK"]="alaska" ["AZ"]="arizona" ["AR"]="arkansas"
@@ -33,16 +43,22 @@ echo "=========================================="
 echo "Local Election Data Scraper"
 echo "=========================================="
 echo "Years: $YEARS"
-echo "States: 51 (all US states + DC)"
+if [ "$SINGLE_STATE" = true ]; then
+    echo "State: $STATES"
+else
+    echo "States: 51 (all US states + DC)"
+fi
 echo "=========================================="
 echo ""
 
 (cd scraper && uv sync)
 mkdir -p election_data
 
+TOTAL_STATES=$(echo $STATES | wc -w)
+
 FIRST_YEAR=true
 for YEAR in $YEARS; do
-    if [ "$FIRST_YEAR" = false ]; then
+    if [ "$FIRST_YEAR" = false ] && [ "$SINGLE_STATE" = false ]; then
         echo ""
         echo "Waiting 1 minute before next year..."
         sleep 60
@@ -57,7 +73,11 @@ for YEAR in $YEARS; do
         STATE_NAME="${STATE_NAMES[$STATE]}"
         OUTPUT_FILE="election_data/${STATE_NAME}_${YEAR}.json"
 
-        echo "[$STATE_COUNT/51] $STATE ($STATE_NAME) $YEAR..."
+        if [ "$SINGLE_STATE" = true ]; then
+            echo "$STATE ($STATE_NAME) $YEAR..."
+        else
+            echo "[$STATE_COUNT/$TOTAL_STATES] $STATE ($STATE_NAME) $YEAR..."
+        fi
 
         TEMP_FILE=$(mktemp)
         if (cd scraper && uv run python main.py "$STATE" "$YEAR" --json) > "$TEMP_FILE" 2>/dev/null; then
@@ -74,7 +94,7 @@ for YEAR in $YEARS; do
             rm -f "$TEMP_FILE"
         fi
 
-        [ $STATE_COUNT -lt 51 ] && sleep 10
+        [ $STATE_COUNT -lt $TOTAL_STATES ] && sleep 10
     done
 done
 

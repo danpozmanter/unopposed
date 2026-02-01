@@ -2,26 +2,16 @@
   "state": "MA",
   "state_name": "Massachusetts",
   "year": 2020,
-  "total": 242,
+  "total": 241,
   "total_races": 210,
   "total_races_by_party": {
-    "Libertarian": 1,
-    "Republican": 69,
     "Democrat": 203,
+    "Republican": 69,
     "Unknown": 6,
     "Other": 15
   },
-  "scraped_at": "2026-01-31T22:55:32.775153+00:00",
+  "scraped_at": "2026-02-01T04:32:49.537644+00:00",
   "unopposed_candidates": [
-    {
-      "state": "MA",
-      "office": "US Senate",
-      "district": "Statewide",
-      "candidate": "Contact our sales team.",
-      "party": "Libertarian",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
     {
       "state": "MA",
       "office": "US House",

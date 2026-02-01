@@ -2,15 +2,24 @@
   "state": "RI",
   "state_name": "Rhode Island",
   "year": 2026,
-  "total": 6,
+  "total": 7,
   "total_races": 117,
   "total_races_by_party": {
-    "Unknown": 3,
+    "Democrat": 3,
     "Republican": 3,
-    "Democrat": 3
+    "Unknown": 3
   },
-  "scraped_at": "2026-01-31T21:14:53.543283+00:00",
+  "scraped_at": "2026-02-01T04:13:54.152420+00:00",
   "unopposed_candidates": [
+    {
+      "state": "RI",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Submit photo",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
     {
       "state": "RI",
       "office": "US House",

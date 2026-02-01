@@ -5,15 +5,15 @@
   "total": 8,
   "total_races": 12,
   "total_races_by_party": {
-    "Unknown": 8,
     "Democrat": 24,
-    "Republican": 12,
     "Libertarian": 11,
+    "Unknown": 8,
+    "Republican": 12,
     "Labour": 1,
     "Socialist Workers": 2,
     "The Mahali": 1
   },
-  "scraped_at": "2026-01-31T22:24:48.379672+00:00",
+  "scraped_at": "2026-02-01T04:20:02.274137+00:00",
   "unopposed_candidates": [
     {
       "state": "NJ",

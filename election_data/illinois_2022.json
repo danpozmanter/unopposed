@@ -2,17 +2,26 @@
   "state": "IL",
   "state_name": "Illinois",
   "year": 2022,
-  "total": 217,
+  "total": 218,
   "total_races": 196,
   "total_races_by_party": {
-    "Republican": 170,
     "Unknown": 9,
     "Democrat": 172,
+    "Republican": 170,
     "Working Class": 1,
     "Other": 4
   },
-  "scraped_at": "2026-01-31T22:16:43.376502+00:00",
+  "scraped_at": "2026-02-01T04:11:51.448497+00:00",
   "unopposed_candidates": [
+    {
+      "state": "IL",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Tammy Duckworth",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "IL",
       "office": "US House",

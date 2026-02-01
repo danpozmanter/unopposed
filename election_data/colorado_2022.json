@@ -2,22 +2,31 @@
   "state": "CO",
   "state_name": "Colorado",
   "year": 2022,
-  "total": 142,
+  "total": 144,
   "total_races": 92,
   "total_races_by_party": {
     "Unknown": 5,
-    "Democrat": 97,
-    "Approval Voting": 1,
-    "Republican": 90,
     "Unity": 4,
+    "Republican": 90,
+    "Approval Voting": 1,
+    "Democrat": 97,
     "Libertarian": 5,
     "Green/Rainbow": 1,
-    "Colorado Center": 2,
     "American Constitution": 4,
+    "Colorado Center": 2,
     "Other": 38
   },
-  "scraped_at": "2026-01-31T22:12:14.340157+00:00",
+  "scraped_at": "2026-02-01T04:07:21.771934+00:00",
   "unopposed_candidates": [
+    {
+      "state": "CO",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Michael Bennet",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "CO",
       "office": "US House",
@@ -86,6 +95,15 @@
       "office": "US House",
       "district": "District 8",
       "candidate": "Yadira Caraveo",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Jared Polis",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
