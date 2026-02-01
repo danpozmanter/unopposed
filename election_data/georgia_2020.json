@@ -2,18 +2,27 @@
   "state": "GA",
   "state_name": "Georgia",
   "year": 2020,
-  "total": 317,
+  "total": 318,
   "total_races": 251,
   "total_races_by_party": {
-    "Democrat": 212,
+    "Republican": 349,
+    "Democrat": 396,
     "Unknown": 5,
-    "Republican": 182,
     "Green/Rainbow": 1,
     "Libertarian": 1,
     "Other": 8
   },
-  "scraped_at": "2026-01-31T22:51:55.197416+00:00",
+  "scraped_at": "2026-02-01T07:14:15.881564+00:00",
   "unopposed_candidates": [
+    {
+      "state": "GA",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "David Perdue",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "GA",
       "office": "US House",

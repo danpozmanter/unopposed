@@ -5,16 +5,16 @@
   "total": 158,
   "total_races": 124,
   "total_races_by_party": {
-    "Republican": 123,
+    "Democrat": 247,
     "Natural Law": 1,
     "Unknown": 5,
-    "Democrat": 137,
-    "Libertarian": 9,
+    "Republican": 233,
     "Working Class": 7,
+    "Libertarian": 9,
     "Green/Rainbow": 5,
     "Other": 15
   },
-  "scraped_at": "2026-01-31T21:42:35.188413+00:00",
+  "scraped_at": "2026-02-01T06:04:22.903391+00:00",
   "unopposed_candidates": [
     {
       "state": "MI",

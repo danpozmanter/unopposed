@@ -2,16 +2,25 @@
   "state": "MA",
   "state_name": "Massachusetts",
   "year": 2024,
-  "total": 238,
+  "total": 239,
   "total_races": 210,
   "total_races_by_party": {
+    "Republican": 128,
     "Unknown": 3,
-    "Republican": 63,
-    "Democrat": 200,
+    "Democrat": 381,
     "Other": 21
   },
-  "scraped_at": "2026-01-31T21:42:08.616141+00:00",
+  "scraped_at": "2026-02-01T06:03:59.415635+00:00",
   "unopposed_candidates": [
+    {
+      "state": "MA",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Elizabeth Warren",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "MA",
       "office": "US House",

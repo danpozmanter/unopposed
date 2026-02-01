@@ -2,18 +2,27 @@
   "state": "OR",
   "state_name": "Oregon",
   "year": 2020,
-  "total": 103,
+  "total": 104,
   "total_races": 81,
   "total_races_by_party": {
-    "Republican": 72,
-    "Democrat": 83,
+    "Democrat": 158,
     "Unknown": 4,
+    "Republican": 138,
     "Libertarian": 3,
     "Pacific Green": 2,
     "Other": 60
   },
-  "scraped_at": "2026-01-31T23:00:56.353522+00:00",
+  "scraped_at": "2026-02-01T07:22:52.766167+00:00",
   "unopposed_candidates": [
+    {
+      "state": "OR",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Jeff Merkley",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "OR",
       "office": "State Senate",

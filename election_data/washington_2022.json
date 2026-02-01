@@ -5,21 +5,21 @@
   "total": 174,
   "total_races": 133,
   "total_races_by_party": {
-    "JFK Republican": 1,
-    "Socialist Workers": 1,
-    "Trump Republican": 1,
     "Unknown": 8,
-    "Democrat": 106,
-    "Republican": 111,
+    "Socialist Workers": 1,
+    "JFK Republican": 1,
+    "Trump Republican": 1,
+    "Republican": 213,
+    "Democrat": 204,
     "Conservative": 1,
     "MAGA Republican": 1,
     "American Solidarity": 1,
     "Libertarian": 1,
     "Concordia": 1,
     "Congress Sucks": 1,
-    "Other": 7
+    "Other": 30
   },
-  "scraped_at": "2026-02-01T04:30:00.405978+00:00",
+  "scraped_at": "2026-02-01T06:57:05.537707+00:00",
   "unopposed_candidates": [
     {
       "state": "WA",

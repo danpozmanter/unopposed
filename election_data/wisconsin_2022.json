@@ -5,13 +5,13 @@
   "total": 175,
   "total_races": 125,
   "total_races_by_party": {
-    "Democrat": 114,
-    "Republican": 115,
+    "Democrat": 213,
+    "Republican": 221,
     "Unknown": 6,
     "Libertarian": 1,
     "Other": 7
   },
-  "scraped_at": "2026-02-01T04:30:58.720304+00:00",
+  "scraped_at": "2026-02-01T06:58:03.588633+00:00",
   "unopposed_candidates": [
     {
       "state": "WI",

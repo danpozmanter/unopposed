@@ -179,6 +179,7 @@ def _analyze_table_row(
             )
 
     if is_primary:
+        stats.add_parties(list(candidates_by_party.keys()))
         for party, names in candidates_by_party.items():
             if len(names) == 1:
                 results.append(

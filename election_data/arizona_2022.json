@@ -5,13 +5,13 @@
   "total": 51,
   "total_races": 71,
   "total_races_by_party": {
-    "Libertarian": 1,
-    "Democrat": 70,
-    "Republican": 65,
     "Unknown": 6,
-    "Other": 6
+    "Republican": 117,
+    "Democrat": 120,
+    "Libertarian": 1,
+    "Other": 7
   },
-  "scraped_at": "2026-02-01T04:05:25.592710+00:00",
+  "scraped_at": "2026-02-01T06:32:38.905152+00:00",
   "unopposed_candidates": [
     {
       "state": "AZ",

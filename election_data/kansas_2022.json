@@ -5,13 +5,13 @@
   "total": 162,
   "total_races": 131,
   "total_races_by_party": {
-    "Republican": 112,
-    "Democrat": 89,
+    "Republican": 218,
     "Unknown": 2,
+    "Democrat": 168,
     "Libertarian": 1,
     "Other": 6
   },
-  "scraped_at": "2026-02-01T04:13:43.876859+00:00",
+  "scraped_at": "2026-02-01T06:40:52.209523+00:00",
   "unopposed_candidates": [
     {
       "state": "KS",

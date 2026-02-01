@@ -5,13 +5,13 @@
   "total": 63,
   "total_races": 61,
   "total_races_by_party": {
-    "Alaskan Independence": 2,
     "Unknown": 2,
-    "Republican": 48,
-    "Democrat": 33,
-    "Other": 24
+    "Alaskan Independence": 2,
+    "Republican": 96,
+    "Democrat": 67,
+    "Other": 48
   },
-  "scraped_at": "2026-02-01T04:04:45.605287+00:00",
+  "scraped_at": "2026-02-01T06:31:59.682804+00:00",
   "unopposed_candidates": [
     {
       "state": "AK",

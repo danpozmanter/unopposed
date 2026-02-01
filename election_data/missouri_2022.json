@@ -6,13 +6,13 @@
   "total_races": 189,
   "total_races_by_party": {
     "Constitution": 1,
-    "Libertarian": 8,
-    "Democrat": 126,
-    "Republican": 160,
+    "Democrat": 235,
     "Unknown": 9,
-    "Other": 16
+    "Republican": 312,
+    "Libertarian": 8,
+    "Other": 28
   },
-  "scraped_at": "2026-02-01T04:17:34.793208+00:00",
+  "scraped_at": "2026-02-01T06:44:58.795570+00:00",
   "unopposed_candidates": [
     {
       "state": "MO",

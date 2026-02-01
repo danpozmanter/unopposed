@@ -2,16 +2,25 @@
   "state": "WY",
   "state_name": "Wyoming",
   "year": 2024,
-  "total": 79,
+  "total": 80,
   "total_races": 78,
   "total_races_by_party": {
     "Unknown": 1,
-    "Republican": 76,
-    "Democrat": 20,
+    "Democrat": 39,
+    "Republican": 151,
     "Other": 5
   },
-  "scraped_at": "2026-01-31T21:55:17.176458+00:00",
+  "scraped_at": "2026-02-01T06:17:17.164706+00:00",
   "unopposed_candidates": [
+    {
+      "state": "WY",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Scott Morrow",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "WY",
       "office": "State Senate",

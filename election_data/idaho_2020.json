@@ -2,18 +2,27 @@
   "state": "ID",
   "state_name": "Idaho",
   "year": 2020,
-  "total": 128,
+  "total": 129,
   "total_races": 108,
   "total_races_by_party": {
-    "Unknown": 1,
-    "Republican": 104,
+    "Democrat": 117,
+    "Republican": 205,
     "Constitution": 1,
-    "Democrat": 61,
+    "Unknown": 1,
     "Libertarian": 2,
     "Other": 18
   },
-  "scraped_at": "2026-01-31T22:52:35.593213+00:00",
+  "scraped_at": "2026-02-01T07:14:50.340177+00:00",
   "unopposed_candidates": [
+    {
+      "state": "ID",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Jim Risch",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "ID",
       "office": "US House",

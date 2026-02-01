@@ -2,19 +2,37 @@
   "state": "MO",
   "state_name": "Missouri",
   "year": 2024,
-  "total": 268,
+  "total": 271,
   "total_races": 190,
   "total_races_by_party": {
-    "Democrat": 166,
-    "Better": 2,
-    "Libertarian": 10,
+    "Democrat": 314,
+    "Republican": 324,
     "Unknown": 10,
-    "Republican": 167,
+    "Libertarian": 10,
+    "Better": 2,
     "Green/Rainbow": 5,
-    "Other": 12
+    "Other": 21
   },
-  "scraped_at": "2026-01-31T21:43:54.112752+00:00",
+  "scraped_at": "2026-02-01T06:05:34.696709+00:00",
   "unopposed_candidates": [
+    {
+      "state": "MO",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Josh Hawley",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Submit photo",
+      "party": "Libertarian",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "MO",
       "office": "US House",
@@ -111,6 +129,15 @@
       "district": "District 7",
       "candidate": "Kevin Craig",
       "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Bill Slantz",
+      "party": "Libertarian",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

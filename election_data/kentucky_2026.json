@@ -5,12 +5,12 @@
   "total": 140,
   "total_races": 126,
   "total_races_by_party": {
-    "Republican": 7,
+    "Democrat": 75,
+    "Republican": 117,
     "Unknown": 4,
-    "Democrat": 7,
     "Other": 1
   },
-  "scraped_at": "2026-02-01T04:06:43.160175+00:00",
+  "scraped_at": "2026-02-01T05:32:05.176009+00:00",
   "unopposed_candidates": [
     {
       "state": "KY",

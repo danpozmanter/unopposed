@@ -6,14 +6,14 @@
   "total_races": 80,
   "total_races_by_party": {
     "Unknown": 4,
-    "Green/Rainbow": 1,
-    "Aloha Aina": 1,
     "Libertarian": 2,
-    "Democrat": 69,
-    "Republican": 65,
-    "Other": 11
+    "Green/Rainbow": 1,
+    "Republican": 128,
+    "Democrat": 143,
+    "Aloha Aina": 1,
+    "Other": 24
   },
-  "scraped_at": "2026-02-01T04:10:33.488350+00:00",
+  "scraped_at": "2026-02-01T06:37:34.701177+00:00",
   "unopposed_candidates": [
     {
       "state": "HI",

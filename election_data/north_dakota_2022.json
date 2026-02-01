@@ -5,12 +5,12 @@
   "total": 52,
   "total_races": 68,
   "total_races_by_party": {
-    "Republican": 66,
+    "Republican": 131,
+    "Democrat": 67,
     "Unknown": 1,
-    "Democrat": 34,
     "Other": 6
   },
-  "scraped_at": "2026-02-01T04:22:20.123474+00:00",
+  "scraped_at": "2026-02-01T06:49:28.196921+00:00",
   "unopposed_candidates": [
     {
       "state": "ND",

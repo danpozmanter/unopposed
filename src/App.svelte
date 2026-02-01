@@ -114,29 +114,44 @@
 
 
 	const summary = $derived.by(() => {
-		let totalUnopposed = 0;
 		let totalRaces = 0;
-		const countByParty: Record<string, number> = {};
-		const totalByParty: Record<string, number> = {};
+		const unopposedRacesByParty: Record<string, Set<string>> = {};
+		const totalRacesByParty: Record<string, number> = {};
 
 		for (const electionData of electionsByState.values()) {
 			if (electionData?.unopposed_candidates) {
 				totalRaces += electionData.total_races || 0;
-				totalUnopposed += electionData.total || 0;
 				for (const candidate of electionData.unopposed_candidates) {
 					const { abbrev } = getPartyInfo(candidate.party);
-					countByParty[abbrev] = (countByParty[abbrev] || 0) + 1;
+					const raceKey = `${electionData.state}:${candidate.office}:${candidate.district}`;
+					if (!unopposedRacesByParty[abbrev]) {
+						unopposedRacesByParty[abbrev] = new Set();
+					}
+					unopposedRacesByParty[abbrev].add(raceKey);
 				}
 				if (electionData.total_races_by_party) {
 					for (const [party, count] of Object.entries(electionData.total_races_by_party)) {
 						const { abbrev } = getPartyInfo(party);
-						totalByParty[abbrev] = (totalByParty[abbrev] || 0) + count;
+						totalRacesByParty[abbrev] = (totalRacesByParty[abbrev] || 0) + count;
 					}
 				}
 			}
 		}
 
-		return { totalUnopposed, totalRaces, countByParty, totalByParty };
+		const unopposedCountByParty: Record<string, number> = {};
+		for (const [abbrev, races] of Object.entries(unopposedRacesByParty)) {
+			unopposedCountByParty[abbrev] = races.size;
+		}
+
+		const allUnopposedRaces = new Set<string>();
+		for (const races of Object.values(unopposedRacesByParty)) {
+			for (const race of races) {
+				allUnopposedRaces.add(race);
+			}
+		}
+		const totalUnopposed = allUnopposedRaces.size;
+
+		return { totalUnopposed, totalRaces, unopposedCountByParty, totalRacesByParty };
 	});
 
 	$effect(() => {
@@ -184,11 +199,11 @@
 				<span class="summary-label">Unopposed Races{#if summary.totalRaces > 0} ({(summary.totalUnopposed / summary.totalRaces * 100).toFixed(1)}%){/if}</span>
 			</div>
 			<div class="summary-parties">
-				{#each Object.entries(summary.countByParty).sort((a, b) => b[1] - a[1]) as [partyAbbrev, count] (partyAbbrev)}
-					{@const total = summary.totalByParty[partyAbbrev] || 0}
+				{#each Object.entries(summary.unopposedCountByParty).sort((a, b) => b[1] - a[1]) as [partyAbbrev, count] (partyAbbrev)}
+					{@const totalForParty = summary.totalRacesByParty[partyAbbrev] || 0}
 					<div class="party-stat">
 						<span class="party-badge party-{partyAbbrev.toLowerCase()}">{partyAbbrev}</span>
-						<span class="party-count">{count}{#if total > 0}<span class="party-total">/{total}</span>{/if}</span>
+						<span class="party-count">{count}{#if totalForParty > 0}<span class="party-total">/{totalForParty}</span>{/if}</span>
 					</div>
 				{/each}
 			</div>

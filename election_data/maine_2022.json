@@ -5,12 +5,12 @@
   "total": 322,
   "total_races": 189,
   "total_races_by_party": {
-    "Republican": 181,
-    "Democrat": 176,
+    "Democrat": 347,
     "Unknown": 3,
-    "Other": 18
+    "Republican": 359,
+    "Other": 19
   },
-  "scraped_at": "2026-02-01T04:14:57.727365+00:00",
+  "scraped_at": "2026-02-01T06:42:03.254662+00:00",
   "unopposed_candidates": [
     {
       "state": "ME",

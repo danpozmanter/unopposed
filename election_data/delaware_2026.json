@@ -5,11 +5,11 @@
   "total": 4,
   "total_races": 53,
   "total_races_by_party": {
-    "Democrat": 1,
     "Unknown": 1,
-    "Republican": 1
+    "Republican": 2,
+    "Democrat": 3
   },
-  "scraped_at": "2026-02-01T04:04:01.663551+00:00",
+  "scraped_at": "2026-02-01T05:29:07.327834+00:00",
   "unopposed_candidates": [
     {
       "state": "DE",

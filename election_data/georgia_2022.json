@@ -6,11 +6,11 @@
   "total_races": 252,
   "total_races_by_party": {
     "Unknown": 6,
-    "Democrat": 198,
-    "Republican": 198,
+    "Republican": 380,
+    "Democrat": 366,
     "Other": 7
   },
-  "scraped_at": "2026-02-01T04:09:53.457302+00:00",
+  "scraped_at": "2026-02-01T06:36:57.496418+00:00",
   "unopposed_candidates": [
     {
       "state": "GA",

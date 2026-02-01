@@ -5,13 +5,13 @@
   "total": 91,
   "total_races": 89,
   "total_races_by_party": {
-    "Republican": 88,
     "Unknown": 4,
-    "Democrat": 78,
+    "Republican": 170,
+    "Democrat": 147,
     "Mountain": 1,
-    "Other": 13
+    "Other": 14
   },
-  "scraped_at": "2026-01-31T23:04:36.643708+00:00",
+  "scraped_at": "2026-02-01T07:26:49.798942+00:00",
   "unopposed_candidates": [
     {
       "state": "WV",

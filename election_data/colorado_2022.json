@@ -5,18 +5,18 @@
   "total": 144,
   "total_races": 92,
   "total_races_by_party": {
-    "Unknown": 5,
-    "Unity": 4,
-    "Republican": 90,
     "Approval Voting": 1,
-    "Democrat": 97,
-    "Libertarian": 5,
+    "Democrat": 176,
+    "Unity": 4,
+    "Unknown": 5,
+    "Republican": 170,
     "Green/Rainbow": 1,
-    "American Constitution": 4,
+    "Libertarian": 5,
     "Colorado Center": 2,
+    "American Constitution": 4,
     "Other": 38
   },
-  "scraped_at": "2026-02-01T04:07:21.771934+00:00",
+  "scraped_at": "2026-02-01T06:34:36.136698+00:00",
   "unopposed_candidates": [
     {
       "state": "CO",

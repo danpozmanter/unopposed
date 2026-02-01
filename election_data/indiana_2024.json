@@ -2,17 +2,26 @@
   "state": "IN",
   "state_name": "Indiana",
   "year": 2024,
-  "total": 148,
+  "total": 150,
   "total_races": 136,
   "total_races_by_party": {
-    "Republican": 117,
+    "Democrat": 193,
     "Unknown": 4,
-    "Democrat": 111,
+    "Republican": 218,
     "Libertarian": 9,
     "Other": 10
   },
-  "scraped_at": "2026-01-31T21:39:44.517126+00:00",
+  "scraped_at": "2026-02-01T06:01:30.817370+00:00",
   "unopposed_candidates": [
+    {
+      "state": "IN",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Jim Banks",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "IN",
       "office": "US House",
@@ -45,6 +54,15 @@
       "office": "US House",
       "district": "District 6",
       "candidate": "Cynthia Wirth",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Jennifer McCormick",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

@@ -5,15 +5,15 @@
   "total": 9,
   "total_races": 13,
   "total_races_by_party": {
-    "Republican": 13,
     "Unknown": 7,
+    "Republican": 13,
     "Democrat": 25,
     "Libertarian": 4,
     "Independent Constitution": 1,
     "Common Sense": 1,
     "American Values": 1
   },
-  "scraped_at": "2026-01-31T22:58:26.778582+00:00",
+  "scraped_at": "2026-02-01T07:20:31.198274+00:00",
   "unopposed_candidates": [
     {
       "state": "NJ",

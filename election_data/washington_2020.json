@@ -5,22 +5,22 @@
   "total": 215,
   "total_races": 134,
   "total_races_by_party": {
-    "Libertarian": 3,
     "Unknown": 8,
-    "Democrat": 121,
-    "Republican": 114,
+    "Republican": 220,
+    "Libertarian": 3,
+    "Democrat": 232,
     "Trump Republican": 3,
     "Congress Sucks": 1,
     "Essential Workers": 1,
-    "New Liberty": 1,
-    "Socialist Workers": 1,
     "Fifth Republic": 1,
-    "Cascadia Labour": 1,
-    "American Patriot": 1,
     "Propertarianist": 1,
-    "Other": 9
+    "New Liberty": 1,
+    "Cascadia Labour": 1,
+    "Socialist Workers": 1,
+    "American Patriot": 1,
+    "Other": 38
   },
-  "scraped_at": "2026-01-31T23:04:18.172913+00:00",
+  "scraped_at": "2026-02-01T07:26:28.764350+00:00",
   "unopposed_candidates": [
     {
       "state": "WA",

@@ -2,18 +2,17 @@
   "state": "MI",
   "state_name": "Michigan",
   "year": 2022,
-  "total": 140,
-  "total_races": 162,
+  "total": 139,
+  "total_races": 161,
   "total_races_by_party": {
-    "Democrat": 175,
-    "Republican": 160,
     "Libertarian": 9,
+    "Democrat": 322,
     "Working Class": 7,
-    "Unknown": 4,
-    "Natural Law": 1,
+    "Republican": 305,
+    "Unknown": 3,
     "Other": 24
   },
-  "scraped_at": "2026-02-01T04:16:22.099554+00:00",
+  "scraped_at": "2026-02-01T06:43:52.392635+00:00",
   "unopposed_candidates": [
     {
       "state": "MI",
@@ -120,15 +119,6 @@
       "district": "District 13",
       "candidate": "Martell Bivings",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MI",
-      "office": "Governor",
-      "district": "Statewide",
-      "candidate": "Gretchen Whitmer",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

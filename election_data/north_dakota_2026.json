@@ -5,9 +5,10 @@
   "total": 8,
   "total_races": 47,
   "total_races_by_party": {
-    "Republican": 1
+    "Democrat": 1,
+    "Republican": 8
   },
-  "scraped_at": "2026-02-01T04:12:22.198332+00:00",
+  "scraped_at": "2026-02-01T05:37:43.577530+00:00",
   "unopposed_candidates": [
     {
       "state": "ND",

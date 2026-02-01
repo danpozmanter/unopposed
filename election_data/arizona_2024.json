@@ -2,17 +2,26 @@
   "state": "AZ",
   "state_name": "Arizona",
   "year": 2024,
-  "total": 72,
+  "total": 73,
   "total_races": 70,
   "total_races_by_party": {
-    "Green/Rainbow": 4,
-    "Republican": 63,
     "Unknown": 5,
-    "Democrat": 75,
-    "Other": 7
+    "Democrat": 132,
+    "Republican": 116,
+    "Green/Rainbow": 4,
+    "Other": 11
   },
-  "scraped_at": "2026-01-31T21:34:59.949759+00:00",
+  "scraped_at": "2026-02-01T05:57:12.057449+00:00",
   "unopposed_candidates": [
+    {
+      "state": "AZ",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Ruben Gallego",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "AZ",
       "office": "US House",

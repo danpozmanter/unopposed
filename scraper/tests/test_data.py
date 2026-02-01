@@ -1,4 +1,4 @@
-from data import Race, normalize_party, deduplicate, _merge_unopposed, STATE_NAMES
+from data import Race, RaceStats, normalize_party, deduplicate, _merge_unopposed, STATE_NAMES
 
 
 def test_state_names_has_all_states():
@@ -139,3 +139,41 @@ def test_deduplicate_keeps_different_candidates():
     ]
     result = deduplicate(races)
     assert len(result) == 2
+
+
+def test_race_stats_add_race():
+    stats = RaceStats()
+    stats.add_race(["Democrat", "Republican"])
+    assert stats.total_races == 1
+    assert stats.races_by_party["Democrat"] == 1
+    assert stats.races_by_party["Republican"] == 1
+
+
+def test_race_stats_add_parties_without_incrementing_total():
+    stats = RaceStats()
+    stats.add_race(["Democrat"])
+    stats.add_parties(["Republican"])
+    assert stats.total_races == 1
+    assert stats.races_by_party["Democrat"] == 1
+    assert stats.races_by_party["Republican"] == 1
+
+
+def test_race_stats_merge():
+    stats1 = RaceStats()
+    stats1.add_race(["Democrat"])
+    stats2 = RaceStats()
+    stats2.add_race(["Republican"])
+    stats1.merge(stats2)
+    assert stats1.total_races == 2
+    assert stats1.races_by_party["Democrat"] == 1
+    assert stats1.races_by_party["Republican"] == 1
+
+
+def test_race_stats_accumulates_party_counts():
+    stats = RaceStats()
+    stats.add_race(["Democrat"])
+    stats.add_race(["Democrat", "Republican"])
+    stats.add_parties(["Democrat"])
+    assert stats.total_races == 2
+    assert stats.races_by_party["Democrat"] == 3
+    assert stats.races_by_party["Republican"] == 1

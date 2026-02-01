@@ -5,15 +5,15 @@
   "total": 145,
   "total_races": 95,
   "total_races_by_party": {
-    "Republican": 92,
-    "Libertarian": 2,
     "Unknown": 4,
-    "Democrat": 56,
+    "Republican": 179,
+    "Libertarian": 2,
+    "Democrat": 105,
     "United Utah": 2,
     "Constitution": 2,
-    "Other": 27
+    "Other": 51
   },
-  "scraped_at": "2026-02-01T04:28:35.476213+00:00",
+  "scraped_at": "2026-02-01T06:55:36.040963+00:00",
   "unopposed_candidates": [
     {
       "state": "UT",

@@ -6,11 +6,11 @@
   "total_races": 145,
   "total_races_by_party": {
     "Unknown": 1,
-    "Republican": 14,
-    "Democrat": 10,
-    "Other": 1
+    "Republican": 78,
+    "Democrat": 49,
+    "Other": 13
   },
-  "scraped_at": "2026-01-31T21:59:56.154846+00:00",
+  "scraped_at": "2026-02-01T06:21:59.335417+00:00",
   "unopposed_candidates": [
     {
       "state": "LA",

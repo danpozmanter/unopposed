@@ -5,11 +5,11 @@
   "total": 37,
   "total_races": 28,
   "total_races_by_party": {
-    "Republican": 27,
-    "Democrat": 29,
+    "Democrat": 52,
+    "Republican": 50,
     "Unknown": 2
   },
-  "scraped_at": "2026-02-01T04:19:46.492449+00:00",
+  "scraped_at": "2026-02-01T06:46:54.424342+00:00",
   "unopposed_candidates": [
     {
       "state": "NH",

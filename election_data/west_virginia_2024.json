@@ -2,17 +2,17 @@
   "state": "WV",
   "state_name": "West Virginia",
   "year": 2024,
-  "total": 148,
+  "total": 150,
   "total_races": 121,
   "total_races_by_party": {
-    "Republican": 119,
+    "Republican": 234,
+    "Democrat": 141,
     "Unknown": 3,
-    "Democrat": 74,
-    "Mountain": 1,
     "Constitution": 1,
-    "Other": 8
+    "Mountain": 1,
+    "Other": 10
   },
-  "scraped_at": "2026-01-31T21:54:14.698929+00:00",
+  "scraped_at": "2026-02-01T06:16:09.391902+00:00",
   "unopposed_candidates": [
     {
       "state": "WV",
@@ -20,6 +20,24 @@
       "district": "District 2",
       "candidate": "Steven Wendelin",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WV",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Steve Williams",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WV",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Chase Linko-Looper",
+      "party": "Unknown",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

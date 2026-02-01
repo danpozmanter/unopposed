@@ -5,12 +5,12 @@
   "total": 183,
   "total_races": 135,
   "total_races_by_party": {
+    "Independent": 5,
     "Socialist Workers": 1,
     "Unknown": 3,
-    "Independent": 5,
+    "Democrat": 224,
     "Trump Republican": 2,
-    "Republican": 107,
-    "Democrat": 115,
+    "Republican": 204,
     "MAGA Republican": 1,
     "Green/Rainbow": 1,
     "MAGA Democrat": 1,
@@ -19,9 +19,9 @@
     "Union": 1,
     "Nonsense Busters": 1,
     "Independence": 1,
-    "Other": 8
+    "Other": 22
   },
-  "scraped_at": "2026-01-31T21:53:43.613918+00:00",
+  "scraped_at": "2026-02-01T06:15:41.541714+00:00",
   "unopposed_candidates": [
     {
       "state": "WA",

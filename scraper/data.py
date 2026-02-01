@@ -93,6 +93,9 @@ class RaceStats:
 
     def add_race(self, parties: list[str]):
         self.total_races += 1
+        self.add_parties(parties)
+
+    def add_parties(self, parties: list[str]):
         for party in parties:
             normalized = normalize_party(party) if party else "Unknown"
             self.races_by_party[normalized] = self.races_by_party.get(normalized, 0) + 1

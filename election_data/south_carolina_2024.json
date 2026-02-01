@@ -5,8 +5,8 @@
   "total": 193,
   "total_races": 177,
   "total_races_by_party": {
-    "Democrat": 115,
-    "Republican": 146,
+    "Democrat": 216,
+    "Republican": 285,
     "Alliance": 2,
     "Unknown": 1,
     "Constitution": 1,
@@ -14,7 +14,7 @@
     "Libertarian": 1,
     "Other": 15
   },
-  "scraped_at": "2026-01-31T21:50:12.630120+00:00",
+  "scraped_at": "2026-02-01T06:12:12.523303+00:00",
   "unopposed_candidates": [
     {
       "state": "SC",

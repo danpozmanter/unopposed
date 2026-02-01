@@ -5,18 +5,18 @@
   "total": 8,
   "total_races": 13,
   "total_races_by_party": {
-    "Republican": 13,
-    "Unknown": 7,
-    "Democrat": 25,
     "Vote Better": 1,
     "Socialist Workers": 2,
+    "Republican": 13,
+    "Democrat": 25,
+    "Unknown": 7,
     "Green/Rainbow": 12,
     "Libertarian": 7,
     "Labour": 1,
     "C4C 2024": 1,
     "Social Activist": 1
   },
-  "scraped_at": "2026-01-31T21:46:16.318805+00:00",
+  "scraped_at": "2026-02-01T06:07:56.221418+00:00",
   "unopposed_candidates": [
     {
       "state": "NJ",

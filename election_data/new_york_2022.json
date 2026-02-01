@@ -5,15 +5,15 @@
   "total": 320,
   "total_races": 241,
   "total_races_by_party": {
-    "LaRouche": 1,
     "Unknown": 27,
-    "Democrat": 229,
-    "Republican": 189,
+    "LaRouche": 1,
+    "Republican": 352,
+    "Democrat": 420,
     "Conservative": 2,
     "Medical Freedom": 1,
-    "Other": 187
+    "Other": 363
   },
-  "scraped_at": "2026-02-01T04:21:10.803581+00:00",
+  "scraped_at": "2026-02-01T06:48:19.607602+00:00",
   "unopposed_candidates": [
     {
       "state": "NY",

@@ -2,17 +2,26 @@
   "state": "IA",
   "state_name": "Iowa",
   "year": 2020,
-  "total": 189,
+  "total": 190,
   "total_races": 130,
   "total_races_by_party": {
     "Unknown": 1,
-    "Democrat": 122,
-    "Republican": 107,
+    "Democrat": 230,
+    "Republican": 208,
     "Libertarian": 1,
     "Other": 10
   },
-  "scraped_at": "2026-01-31T22:53:36.627391+00:00",
+  "scraped_at": "2026-02-01T07:15:58.669584+00:00",
   "unopposed_candidates": [
+    {
+      "state": "IA",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Joni Ernst",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "IA",
       "office": "US House",
