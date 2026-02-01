@@ -112,9 +112,6 @@
 		});
 	}
 
-	function countGeneralUnopposed(candidates: Candidate[]): number {
-		return candidates.filter((c) => c.unopposed_in.includes('General')).length;
-	}
 
 	const summary = $derived.by(() => {
 		let totalUnopposed = 0;
@@ -125,12 +122,10 @@
 		for (const electionData of electionsByState.values()) {
 			if (electionData?.unopposed_candidates) {
 				totalRaces += electionData.total_races || 0;
+				totalUnopposed += electionData.total || 0;
 				for (const candidate of electionData.unopposed_candidates) {
-					if (candidate.unopposed_in.includes('General')) {
-						totalUnopposed += 1;
-						const { abbrev } = getPartyInfo(candidate.party);
-						countByParty[abbrev] = (countByParty[abbrev] || 0) + 1;
-					}
+					const { abbrev } = getPartyInfo(candidate.party);
+					countByParty[abbrev] = (countByParty[abbrev] || 0) + 1;
 				}
 				if (electionData.total_races_by_party) {
 					for (const [party, count] of Object.entries(electionData.total_races_by_party)) {
@@ -214,7 +209,6 @@
 				return electionData && electionData.total_races > 0;
 			}) as stateCode (stateCode)}
 				{@const electionData = electionsByState.get(stateCode)}
-				{@const generalUnopposed = electionData?.unopposed_candidates ? countGeneralUnopposed(electionData.unopposed_candidates) : 0}
 				<article class="state-card" class:expanded={expandedStates.has(stateCode)}>
 					<button class="state-header" onclick={() => toggleStateExpansion(stateCode)}>
 						<div class="state-info">
@@ -222,7 +216,7 @@
 							<span class="state-name">{STATE_NAMES[stateCode]}</span>
 						</div>
 						<div class="state-count">
-							<span class="count-badge">{generalUnopposed}{#if electionData?.total_races}<span class="count-total">/{electionData.total_races}</span>{/if}</span>
+							<span class="count-badge">{electionData?.total || 0}{#if electionData?.total_races}<span class="count-total">/{electionData.total_races}</span>{/if}</span>
 						</div>
 					</button>
 

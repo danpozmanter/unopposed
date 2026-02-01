@@ -1,10 +1,13 @@
 import argparse
+import json
 import sys
-from datetime import datetime
+from datetime import datetime, timezone
 
 from data import STATE_NAMES, deduplicate
 from sources import ballotpedia
 from output import render
+
+MIN_EXPECTED_RACES = 10
 
 
 def main():
@@ -16,8 +19,26 @@ def main():
     print(f"Checking {STATE_NAMES[state]} ({args.year})...", file=sys.stderr)
 
     results, stats = ballotpedia.scrape(state, args.year)
-    results = deduplicate(results)
 
+    if stats.total_races < MIN_EXPECTED_RACES:
+        print(
+            f"ERROR: Only found {stats.total_races} races for {state}, expected at least {MIN_EXPECTED_RACES}",
+            file=sys.stderr,
+        )
+        if args.json:
+            error_data = {
+                "error": True,
+                "message": f"Scraping failed: only found {stats.total_races} races",
+                "state": state,
+                "state_name": STATE_NAMES.get(state, state),
+                "year": args.year,
+                "scraped_at": datetime.now(timezone.utc).isoformat(),
+            }
+            json.dump(error_data, sys.stdout, indent=2)
+            print()
+        sys.exit(1)
+
+    results = deduplicate(results)
     render(results, stats, state, args.year, args.json)
 
 

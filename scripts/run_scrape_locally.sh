@@ -59,11 +59,19 @@ for YEAR in $YEARS; do
 
         echo "[$STATE_COUNT/51] $STATE ($STATE_NAME) $YEAR..."
 
-        if (cd scraper && uv run python main.py "$STATE" "$YEAR" --json) > "$OUTPUT_FILE" 2>/dev/null; then
-            echo "  -> $OUTPUT_FILE"
+        TEMP_FILE=$(mktemp)
+        if (cd scraper && uv run python main.py "$STATE" "$YEAR" --json) > "$TEMP_FILE" 2>/dev/null; then
+            if grep -q '"error"' "$TEMP_FILE" 2>/dev/null; then
+                echo "  -> Scrape error, keeping existing data"
+                mkdir -p election_data/errors
+                mv "$TEMP_FILE" "election_data/errors/${STATE_NAME}_${YEAR}_error.json"
+            else
+                mv "$TEMP_FILE" "$OUTPUT_FILE"
+                echo "  -> $OUTPUT_FILE"
+            fi
         else
-            echo "  -> Failed"
-            rm -f "$OUTPUT_FILE"
+            echo "  -> Failed, keeping existing data"
+            rm -f "$TEMP_FILE"
         fi
 
         [ $STATE_COUNT -lt 51 ] && sleep 10

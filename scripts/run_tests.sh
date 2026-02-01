@@ -1,5 +1,10 @@
 #!/usr/bin/env bash
 set -e
-cd "$(dirname "$0")/../scraper"
+cd "$(dirname "$0")/.."
 
-uv run pytest "$@"
+echo "=== Python tests ==="
+(cd scraper && uv run pytest "$@")
+
+echo ""
+echo "=== TypeScript tests ==="
+pnpm test
