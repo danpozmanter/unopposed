@@ -1,0 +1,65 @@
+{
+  "general": {
+    "total_unopposed": 1619,
+    "total_races": 6133,
+    "unopposed_by_party": {
+      "Republican": 1028,
+      "Democrat": 613,
+      "Other": 3
+    }
+  },
+  "primary": {
+    "total_unopposed": 6528,
+    "total_races_by_party": {
+      "Democrat": 9180,
+      "Republican": 9927,
+      "Unknown": 255,
+      "Libertarian": 92,
+      "Other": 1437,
+      "Alaskan Independence": 2,
+      "Green/Rainbow": 12,
+      "Socialist Workers": 5,
+      "LaRouche": 1,
+      "Conservative": 3,
+      "Medical Freedom": 1,
+      "Unity": 4,
+      "Approval Voting": 1,
+      "Colorado Center": 2,
+      "American Constitution": 4,
+      "Aloha Aina": 1,
+      "JFK Republican": 1,
+      "Trump Republican": 1,
+      "MAGA Republican": 1,
+      "American Solidarity": 1,
+      "Concordia": 1,
+      "Congress Sucks": 1,
+      "Working Class": 9,
+      "Constitution": 8,
+      "United Utah": 2,
+      "Independent American": 3,
+      "Pacific Green": 1,
+      "Progressive": 1,
+      "Natural Law": 1,
+      "Labour": 1,
+      "The Mahali": 1,
+      "Independent": 2,
+      "Alliance": 1
+    },
+    "unopposed_by_party": {
+      "Republican": 3172,
+      "Democrat": 3263,
+      "Unknown": 48,
+      "Other": 182,
+      "Libertarian": 9,
+      "Green/Rainbow": 5,
+      "Trump Republican": 1,
+      "JFK Republican": 1,
+      "Socialist Workers": 1,
+      "MAGA Republican": 1,
+      "Conservative": 1,
+      "American Solidarity": 1,
+      "Concordia": 1,
+      "Congress Sucks": 1
+    }
+  }
+}

@@ -47,7 +47,6 @@ export interface NationwideStats {
 export interface Manifest {
 	years: number[];
 	updated_at: string;
-	nationwide?: Record<string, NationwideStats>;
 }
 
 export const STATE_NAMES: Record<string, string> = {

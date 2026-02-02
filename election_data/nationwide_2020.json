@@ -1,0 +1,69 @@
+{
+  "general": {
+    "total_unopposed": 1276,
+    "total_races": 5515,
+    "unopposed_by_party": {
+      "Republican": 621,
+      "Democrat": 664,
+      "Other": 2
+    }
+  },
+  "primary": {
+    "total_unopposed": 6811,
+    "total_races_by_party": {
+      "Unknown": 219,
+      "Republican": 8824,
+      "Democrat": 9301,
+      "Libertarian": 129,
+      "Constitution": 9,
+      "United Utah": 2,
+      "Other": 1398,
+      "Green/Rainbow": 27,
+      "Alaskan Independence": 1,
+      "Independent": 4,
+      "Pacific Green": 2,
+      "Conservative": 3,
+      "ECL": 1,
+      "Working Families": 1,
+      "Aloha Aina": 1,
+      "American Shopping": 1,
+      "Truth Matters": 1,
+      "Populist": 1,
+      "Natural Law": 1,
+      "Working Class": 5,
+      "Mountain": 1,
+      "Trump Republican": 3,
+      "Congress Sucks": 1,
+      "Essential Workers": 1,
+      "Socialist Workers": 1,
+      "Propertarianist": 1,
+      "Cascadia Labour": 1,
+      "Fifth Republic": 1,
+      "American Patriot": 1,
+      "New Liberty": 1,
+      "Independent Constitution": 1,
+      "Common Sense": 1,
+      "American Values": 1,
+      "Willie Wilson": 1,
+      "Independent American": 4,
+      "Approval Voting": 2,
+      "Unity": 8,
+      "American Solidarity": 1
+    },
+    "unopposed_by_party": {
+      "Republican": 3344,
+      "Democrat": 3358,
+      "Other": 222,
+      "Unknown": 31,
+      "Libertarian": 19,
+      "Green/Rainbow": 5,
+      "Trump Republican": 2,
+      "Congress Sucks": 1,
+      "Essential Workers": 1,
+      "Socialist Workers": 1,
+      "New Liberty": 1,
+      "American Patriot": 1,
+      "Fifth Republic": 1
+    }
+  }
+}

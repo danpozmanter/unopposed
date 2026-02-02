@@ -7,7 +7,8 @@
 		getDefaultYear,
 		type ElectionData,
 		type Candidate,
-		type Manifest
+		type Manifest,
+		type NationwideStats
 	} from '$lib/types';
 
 	const baseUrl = import.meta.env.BASE_URL;
@@ -16,6 +17,7 @@
 	let availableYears = $state<number[]>([]);
 	let selectedYear = $state(getDefaultYear());
 	let electionsByState = new SvelteMap<string, ElectionData | null>();
+	let nationwideStats = $state<NationwideStats | null>(null);
 	let isLoading = $state(true);
 	let expandedStates = new SvelteSet<string>();
 
@@ -55,6 +57,19 @@
 			}
 		} catch {
 			availableYears = [getDefaultYear()];
+		}
+	}
+
+	async function loadNationwideStats(year: number) {
+		try {
+			const response = await fetch(`${baseUrl}election_data/nationwide_${year}.json`);
+			if (response.ok) {
+				nationwideStats = await response.json();
+			} else {
+				nationwideStats = null;
+			}
+		} catch {
+			nationwideStats = null;
 		}
 	}
 
@@ -162,8 +177,6 @@
 		};
 	}
 
-	const nationwideStats = $derived(manifest?.nationwide?.[String(selectedYear)] ?? null);
-
 	const generalSummary = $derived.by(() => {
 		const stats = nationwideStats;
 		if (!stats?.general) return null;
@@ -215,6 +228,7 @@
 	$effect(() => {
 		if (availableYears.length > 0) {
 			loadElectionData(selectedYear);
+			loadNationwideStats(selectedYear);
 		}
 	});
 

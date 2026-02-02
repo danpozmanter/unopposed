@@ -1,0 +1,48 @@
+{
+  "general": {
+    "total_unopposed": 457,
+    "total_races": 5811,
+    "unopposed_by_party": {
+      "Republican": 168,
+      "Democrat": 167,
+      "Unknown": 72,
+      "Other": 42,
+      "Working Class": 1,
+      "Libertarian": 4,
+      "Green/Rainbow": 1,
+      "Socialist Labor": 1,
+      "Communist": 1,
+      "American Independent": 1
+    }
+  },
+  "primary": {
+    "total_unopposed": 2596,
+    "total_races_by_party": {
+      "Republican": 2451,
+      "Democrat": 2214,
+      "Unknown": 176,
+      "Other": 107,
+      "Federalist": 1,
+      "Working Class": 1,
+      "Libertarian": 17,
+      "American Constitution": 1,
+      "No Labels": 1,
+      "American Independent": 4,
+      "Green/Rainbow": 4,
+      "Arizona Independent": 1,
+      "Independent": 1,
+      "Socialist Labor": 1,
+      "Communist": 1,
+      "Constitution": 1,
+      "Conservative": 1
+    },
+    "unopposed_by_party": {
+      "Democrat": 1226,
+      "Republican": 1374,
+      "Unknown": 12,
+      "Other": 36,
+      "Green/Rainbow": 1,
+      "Libertarian": 1
+    }
+  }
+}
