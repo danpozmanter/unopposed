@@ -5,15 +5,31 @@
   "total": 181,
   "total_races": 157,
   "total_races_by_party": {
+    "Republican": 174,
     "Willie Wilson": 1,
     "Unknown": 9,
     "Democrat": 279,
-    "Republican": 174,
     "Green/Rainbow": 1,
     "Libertarian": 2,
     "Other": 26
   },
-  "scraped_at": "2026-02-01T07:15:20.888810+00:00",
+  "general": {
+    "total_unopposed": 55,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Democrat": 48,
+      "Republican": 7
+    }
+  },
+  "primary": {
+    "total_unopposed": 164,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Democrat": 93,
+      "Republican": 71
+    }
+  },
+  "scraped_at": "2026-02-01T22:38:50.896648+00:00",
   "unopposed_candidates": [
     {
       "state": "IL",

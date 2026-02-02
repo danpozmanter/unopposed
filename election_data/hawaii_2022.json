@@ -5,15 +5,32 @@
   "total": 96,
   "total_races": 80,
   "total_races_by_party": {
-    "Unknown": 4,
     "Libertarian": 2,
-    "Green/Rainbow": 1,
-    "Republican": 128,
-    "Democrat": 143,
     "Aloha Aina": 1,
+    "Democrat": 143,
+    "Republican": 128,
+    "Unknown": 4,
+    "Green/Rainbow": 1,
     "Other": 24
   },
-  "scraped_at": "2026-02-01T06:37:34.701177+00:00",
+  "general": {
+    "total_unopposed": 0,
+    "total_races": 0,
+    "unopposed_by_party": {}
+  },
+  "primary": {
+    "total_unopposed": 96,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Unknown": 1,
+      "Green/Rainbow": 1,
+      "Libertarian": 1,
+      "Republican": 44,
+      "Democrat": 38,
+      "Other": 11
+    }
+  },
+  "scraped_at": "2026-02-01T22:02:11.198776+00:00",
   "unopposed_candidates": [
     {
       "state": "HI",

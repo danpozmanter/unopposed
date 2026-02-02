@@ -5,15 +5,29 @@
   "total": 83,
   "total_races": 66,
   "total_races_by_party": {
-    "Democrat": 109,
     "Republican": 68,
-    "American Shopping": 1,
-    "Unknown": 1,
+    "Democrat": 109,
     "Aloha Aina": 1,
+    "Unknown": 1,
+    "American Shopping": 1,
     "Libertarian": 1,
     "Other": 35
   },
-  "scraped_at": "2026-02-01T07:14:32.396964+00:00",
+  "general": {
+    "total_unopposed": 0,
+    "total_races": 0,
+    "unopposed_by_party": {}
+  },
+  "primary": {
+    "total_unopposed": 83,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Democrat": 36,
+      "Other": 16,
+      "Republican": 31
+    }
+  },
+  "scraped_at": "2026-02-01T22:38:15.054637+00:00",
   "unopposed_candidates": [
     {
       "state": "HI",

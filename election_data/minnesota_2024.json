@@ -5,13 +5,28 @@
   "total": 241,
   "total_races": 143,
   "total_races_by_party": {
-    "Republican": 265,
     "Democrat": 283,
+    "Republican": 265,
     "Unknown": 1,
     "Conservative": 1,
     "Other": 5
   },
-  "scraped_at": "2026-02-01T06:04:47.467402+00:00",
+  "general": {
+    "total_unopposed": 5,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Democrat": 5
+    }
+  },
+  "primary": {
+    "total_unopposed": 137,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Democrat": 130,
+      "Republican": 111
+    }
+  },
+  "scraped_at": "2026-02-01T21:30:31.672624+00:00",
   "unopposed_candidates": [
     {
       "state": "MN",

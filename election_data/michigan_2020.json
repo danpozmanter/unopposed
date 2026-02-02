@@ -5,16 +5,31 @@
   "total": 136,
   "total_races": 125,
   "total_races_by_party": {
+    "Unknown": 6,
     "Republican": 233,
     "Natural Law": 1,
-    "Unknown": 6,
     "Democrat": 249,
     "Libertarian": 9,
     "Green/Rainbow": 5,
     "Working Class": 5,
     "Other": 24
   },
-  "scraped_at": "2026-02-01T07:18:02.693293+00:00",
+  "general": {
+    "total_unopposed": 1,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Democrat": 1
+    }
+  },
+  "primary": {
+    "total_unopposed": 135,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Democrat": 66,
+      "Republican": 69
+    }
+  },
+  "scraped_at": "2026-02-01T22:41:39.500515+00:00",
   "unopposed_candidates": [
     {
       "state": "MI",

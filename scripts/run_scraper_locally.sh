@@ -99,14 +99,8 @@ for YEAR in $YEARS; do
 done
 
 echo ""
-echo "Updating manifest..."
-YEARS_FOUND=$(ls election_data/*.json 2>/dev/null | grep -oE '_[0-9]{4}\.json' | grep -oE '[0-9]{4}' | sort -u | tr '\n' ',' | sed 's/,$//')
-cat > election_data/manifest.json << EOF
-{
-  "years": [$YEARS_FOUND],
-  "updated_at": "$(date -u +%Y-%m-%dT%H:%M:%SZ)"
-}
-EOF
+echo "Generating manifest with nationwide stats..."
+(cd scraper && uv run python nationwide_stats.py)
 
 echo ""
 echo "=========================================="

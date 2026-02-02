@@ -5,12 +5,29 @@
   "total": 20,
   "total_races": 211,
   "total_races_by_party": {
-    "American Independent": 1,
-    "Unknown": 5,
     "Democrat": 25,
+    "Unknown": 5,
+    "American Independent": 1,
     "Republican": 8
   },
-  "scraped_at": "2026-02-01T05:33:32.498974+00:00",
+  "general": {
+    "total_unopposed": 11,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Unknown": 3,
+      "Democrat": 6,
+      "Republican": 2
+    }
+  },
+  "primary": {
+    "total_unopposed": 11,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Democrat": 8,
+      "Republican": 3
+    }
+  },
+  "scraped_at": "2026-02-01T21:00:50.344479+00:00",
   "unopposed_candidates": [
     {
       "state": "MA",

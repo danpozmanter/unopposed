@@ -5,13 +5,29 @@
   "total": 229,
   "total_races": 220,
   "total_races_by_party": {
-    "Democrat": 329,
     "Republican": 339,
+    "Democrat": 329,
     "Unknown": 16,
     "Libertarian": 12,
     "Other": 38
   },
-  "scraped_at": "2026-02-01T06:55:06.744042+00:00",
+  "general": {
+    "total_unopposed": 67,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Republican": 46,
+      "Democrat": 21
+    }
+  },
+  "primary": {
+    "total_unopposed": 205,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Democrat": 110,
+      "Republican": 95
+    }
+  },
+  "scraped_at": "2026-02-01T22:19:05.230544+00:00",
   "unopposed_candidates": [
     {
       "state": "TX",

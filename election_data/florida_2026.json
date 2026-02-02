@@ -5,14 +5,31 @@
   "total": 151,
   "total_races": 169,
   "total_races_by_party": {
-    "Republican": 120,
     "Democrat": 93,
-    "Libertarian": 2,
+    "Republican": 120,
     "Unknown": 12,
+    "Libertarian": 2,
     "Constitution": 1,
     "Other": 8
   },
-  "scraped_at": "2026-02-01T05:29:30.645328+00:00",
+  "general": {
+    "total_unopposed": 16,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Unknown": 8,
+      "Libertarian": 1,
+      "Other": 7
+    }
+  },
+  "primary": {
+    "total_unopposed": 135,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Democrat": 55,
+      "Republican": 80
+    }
+  },
+  "scraped_at": "2026-02-01T20:57:30.549416+00:00",
   "unopposed_candidates": [
     {
       "state": "FL",

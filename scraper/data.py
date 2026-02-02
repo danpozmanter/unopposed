@@ -88,8 +88,15 @@ class Race:
 
 @dataclass
 class RaceStats:
+    # Legacy fields (kept for backward compat)
     total_races: int = 0
     races_by_party: dict = field(default_factory=dict)
+
+    # New separated stats
+    general_total_races: int = 0
+    general_unopposed_by_party: dict = field(default_factory=dict)
+    primary_races_by_party: dict = field(default_factory=dict)
+    primary_unopposed_by_party: dict = field(default_factory=dict)
 
     def add_race(self, parties: list[str]):
         self.total_races += 1
@@ -100,10 +107,39 @@ class RaceStats:
             normalized = normalize_party(party) if party else "Unknown"
             self.races_by_party[normalized] = self.races_by_party.get(normalized, 0) + 1
 
+    def add_general_race(self, parties: list[str]):
+        """Track a general election race and its parties."""
+        self.general_total_races += 1
+        for party in parties:
+            normalized = normalize_party(party) if party else "Unknown"
+            self.primary_races_by_party[normalized] = (
+                self.primary_races_by_party.get(normalized, 0) + 1
+            )
+
+    def add_primary_race(self, party: str):
+        """Track a primary election race for a specific party."""
+        normalized = normalize_party(party) if party else "Unknown"
+        self.primary_races_by_party[normalized] = (
+            self.primary_races_by_party.get(normalized, 0) + 1
+        )
+
     def merge(self, other: "RaceStats"):
         self.total_races += other.total_races
         for party, count in other.races_by_party.items():
             self.races_by_party[party] = self.races_by_party.get(party, 0) + count
+        self.general_total_races += other.general_total_races
+        for party, count in other.general_unopposed_by_party.items():
+            self.general_unopposed_by_party[party] = (
+                self.general_unopposed_by_party.get(party, 0) + count
+            )
+        for party, count in other.primary_races_by_party.items():
+            self.primary_races_by_party[party] = (
+                self.primary_races_by_party.get(party, 0) + count
+            )
+        for party, count in other.primary_unopposed_by_party.items():
+            self.primary_unopposed_by_party[party] = (
+                self.primary_unopposed_by_party.get(party, 0) + count
+            )
 
 
 _PARTY_MAP = {

@@ -5,12 +5,28 @@
   "total": 52,
   "total_races": 68,
   "total_races_by_party": {
-    "Republican": 131,
-    "Democrat": 67,
     "Unknown": 1,
+    "Democrat": 67,
+    "Republican": 131,
     "Other": 6
   },
-  "scraped_at": "2026-02-01T06:49:28.196921+00:00",
+  "general": {
+    "total_unopposed": 17,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Republican": 16,
+      "Democrat": 1
+    }
+  },
+  "primary": {
+    "total_unopposed": 48,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Republican": 28,
+      "Democrat": 21
+    }
+  },
+  "scraped_at": "2026-02-01T22:14:15.982444+00:00",
   "unopposed_candidates": [
     {
       "state": "ND",

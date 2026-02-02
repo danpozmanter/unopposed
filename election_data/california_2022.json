@@ -6,13 +6,33 @@
   "total_races": 154,
   "total_races_by_party": {
     "Unknown": 23,
-    "Republican": 225,
     "Democrat": 242,
+    "Republican": 225,
     "Green/Rainbow": 4,
     "Libertarian": 1,
     "Other": 15
   },
-  "scraped_at": "2026-02-01T06:33:57.855582+00:00",
+  "general": {
+    "total_unopposed": 2,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Republican": 1,
+      "Democrat": 1
+    }
+  },
+  "primary": {
+    "total_unopposed": 174,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Democrat": 61,
+      "Unknown": 16,
+      "Green/Rainbow": 4,
+      "Republican": 82,
+      "Libertarian": 1,
+      "Other": 10
+    }
+  },
+  "scraped_at": "2026-02-01T21:58:30.791673+00:00",
   "unopposed_candidates": [
     {
       "state": "CA",

@@ -14,7 +14,50 @@ def render(results, stats, state, year, as_json):
         _text_output(results, stats, state, year)
 
 
+def _compute_separated_stats(results):
+    """Compute general and primary stats from results based on unopposed_in field."""
+    general_unopposed_by_party = {}
+    primary_unopposed_by_party = {}
+
+    # Track unique races to avoid double-counting
+    general_races = set()
+    primary_races_by_party = {}
+
+    for r in results:
+        party = r.party
+        race_key = (r.office, r.district)
+
+        if "General" in r.unopposed_in:
+            general_races.add(race_key)
+            general_unopposed_by_party[party] = (
+                general_unopposed_by_party.get(party, 0) + 1
+            )
+
+        if "Primary" in r.unopposed_in:
+            if party not in primary_races_by_party:
+                primary_races_by_party[party] = set()
+            primary_races_by_party[party].add(race_key)
+            primary_unopposed_by_party[party] = (
+                primary_unopposed_by_party.get(party, 0) + 1
+            )
+
+    return {
+        "general": {
+            "total_unopposed": len(general_races),
+            "unopposed_by_party": general_unopposed_by_party,
+        },
+        "primary": {
+            "total_unopposed": sum(
+                len(races) for races in primary_races_by_party.values()
+            ),
+            "unopposed_by_party": primary_unopposed_by_party,
+        },
+    }
+
+
 def _json_output(results, stats, state, year):
+    separated = _compute_separated_stats(results)
+
     data = {
         "state": state,
         "state_name": STATE_NAMES.get(state, state),
@@ -22,6 +65,16 @@ def _json_output(results, stats, state, year):
         "total": len(results),
         "total_races": stats.total_races,
         "total_races_by_party": stats.races_by_party,
+        "general": {
+            "total_unopposed": separated["general"]["total_unopposed"],
+            "total_races": stats.general_total_races,
+            "unopposed_by_party": separated["general"]["unopposed_by_party"],
+        },
+        "primary": {
+            "total_unopposed": separated["primary"]["total_unopposed"],
+            "total_races_by_party": stats.primary_races_by_party,
+            "unopposed_by_party": separated["primary"]["unopposed_by_party"],
+        },
         "scraped_at": datetime.now(timezone.utc).isoformat(),
         "unopposed_candidates": [r.to_dict() for r in results],
     }

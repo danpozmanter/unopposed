@@ -10,7 +10,23 @@
     "Democrat": 53,
     "Other": 18
   },
-  "scraped_at": "2026-02-01T06:58:38.829106+00:00",
+  "general": {
+    "total_unopposed": 37,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Republican": 36,
+      "Democrat": 1
+    }
+  },
+  "primary": {
+    "total_unopposed": 54,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Republican": 30,
+      "Democrat": 24
+    }
+  },
+  "scraped_at": "2026-02-01T22:22:33.557245+00:00",
   "unopposed_candidates": [
     {
       "state": "WY",

@@ -6,13 +6,28 @@
   "total_races": 81,
   "total_races_by_party": {
     "Democrat": 158,
-    "Unknown": 4,
     "Republican": 138,
+    "Unknown": 4,
     "Libertarian": 3,
     "Pacific Green": 2,
     "Other": 60
   },
-  "scraped_at": "2026-02-01T07:22:52.766167+00:00",
+  "general": {
+    "total_unopposed": 2,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Democrat": 2
+    }
+  },
+  "primary": {
+    "total_unopposed": 103,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Democrat": 55,
+      "Republican": 48
+    }
+  },
+  "scraped_at": "2026-02-01T22:46:41.664521+00:00",
   "unopposed_candidates": [
     {
       "state": "OR",

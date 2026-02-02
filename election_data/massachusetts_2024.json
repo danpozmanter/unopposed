@@ -10,7 +10,23 @@
     "Democrat": 381,
     "Other": 21
   },
-  "scraped_at": "2026-02-01T06:03:59.415635+00:00",
+  "general": {
+    "total_unopposed": 149,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Democrat": 134,
+      "Republican": 15
+    }
+  },
+  "primary": {
+    "total_unopposed": 220,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Democrat": 162,
+      "Republican": 58
+    }
+  },
+  "scraped_at": "2026-02-01T21:29:42.789691+00:00",
   "unopposed_candidates": [
     {
       "state": "MA",

@@ -1,7 +1,10 @@
 import { describe, it, expect } from 'vitest';
 import { readFileSync, readdirSync } from 'fs';
-import { join } from 'path';
+import { join, dirname } from 'path';
+import { fileURLToPath } from 'url';
 import type { ElectionData } from './types';
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
 
 function loadElectionData(filename: string): ElectionData | null {
 	try {
@@ -16,7 +19,7 @@ function loadElectionData(filename: string): ElectionData | null {
 
 function getAllElectionFiles(): string[] {
 	const dir = join(__dirname, '../../election_data');
-	return readdirSync(dir).filter((f) => f.endsWith('.json') && f !== 'manifest.json');
+	return readdirSync(dir).filter((f: string) => f.endsWith('.json') && f !== 'manifest.json');
 }
 
 function countUniqueRacesByParty(data: ElectionData): Record<string, number> {
@@ -68,4 +71,33 @@ describe('Data integrity: basic checks', () => {
 		if (!va) return;
 		expect(va.total).toBe(va.unopposed_candidates.length);
 	});
+});
+
+describe('Data integrity: general/primary stats (when present)', () => {
+	const files = getAllElectionFiles();
+
+	for (const file of files) {
+		it(`${file}: general.total_unopposed <= general.total_races`, () => {
+			const data = loadElectionData(file);
+			if (!data?.general) return;
+
+			expect(
+				data.general.total_unopposed,
+				`${file}: general unopposed (${data.general.total_unopposed}) exceeds total races (${data.general.total_races})`
+			).toBeLessThanOrEqual(data.general.total_races);
+		});
+
+		it(`${file}: primary unopposed by party <= primary total races by party`, () => {
+			const data = loadElectionData(file);
+			if (!data?.primary) return;
+
+			for (const [party, unopposedCount] of Object.entries(data.primary.unopposed_by_party)) {
+				const totalForParty = data.primary.total_races_by_party?.[party] || 0;
+				expect(
+					unopposedCount,
+					`${file}: ${party} primary has ${unopposedCount} unopposed but only ${totalForParty} total races`
+				).toBeLessThanOrEqual(totalForParty);
+			}
+		});
+	}
 });

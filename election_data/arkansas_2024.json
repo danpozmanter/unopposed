@@ -10,7 +10,23 @@
     "Republican": 208,
     "Other": 12
   },
-  "scraped_at": "2026-02-01T05:57:30.719218+00:00",
+  "general": {
+    "total_unopposed": 53,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Republican": 38,
+      "Democrat": 15
+    }
+  },
+  "primary": {
+    "total_unopposed": 154,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Democrat": 65,
+      "Republican": 89
+    }
+  },
+  "scraped_at": "2026-02-01T21:23:39.828389+00:00",
   "unopposed_candidates": [
     {
       "state": "AR",

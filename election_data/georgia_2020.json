@@ -5,14 +5,30 @@
   "total": 318,
   "total_races": 251,
   "total_races_by_party": {
-    "Republican": 349,
-    "Democrat": 396,
     "Unknown": 5,
+    "Democrat": 396,
+    "Republican": 349,
     "Green/Rainbow": 1,
     "Libertarian": 1,
     "Other": 8
   },
-  "scraped_at": "2026-02-01T07:14:15.881564+00:00",
+  "general": {
+    "total_unopposed": 114,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Democrat": 65,
+      "Republican": 49
+    }
+  },
+  "primary": {
+    "total_unopposed": 282,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Republican": 143,
+      "Democrat": 139
+    }
+  },
+  "scraped_at": "2026-02-01T22:37:58.257436+00:00",
   "unopposed_candidates": [
     {
       "state": "GA",

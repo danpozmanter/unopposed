@@ -10,7 +10,22 @@
     "Other": 8,
     "Democrat": 74
   },
-  "scraped_at": "2026-02-01T06:54:05.277226+00:00",
+  "general": {
+    "total_unopposed": 19,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Republican": 19
+    }
+  },
+  "primary": {
+    "total_unopposed": 43,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Republican": 21,
+      "Democrat": 22
+    }
+  },
+  "scraped_at": "2026-02-01T22:18:15.224536+00:00",
   "unopposed_candidates": [
     {
       "state": "SD",

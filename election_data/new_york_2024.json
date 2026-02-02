@@ -7,14 +7,31 @@
   "total_races_by_party": {
     "LaRouche": 2,
     "Unknown": 27,
-    "Democrat": 420,
     "Republican": 344,
+    "Democrat": 420,
     "Truth": 1,
     "Conservative": 1,
     "Working Families": 1,
     "Other": 364
   },
-  "scraped_at": "2026-02-01T06:08:51.628907+00:00",
+  "general": {
+    "total_unopposed": 23,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Democrat": 23
+    }
+  },
+  "primary": {
+    "total_unopposed": 369,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Republican": 175,
+      "Democrat": 174,
+      "Unknown": 3,
+      "Other": 17
+    }
+  },
+  "scraped_at": "2026-02-01T21:34:18.349757+00:00",
   "unopposed_candidates": [
     {
       "state": "NY",

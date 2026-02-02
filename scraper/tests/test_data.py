@@ -1,4 +1,11 @@
-from data import Race, RaceStats, normalize_party, deduplicate, _merge_unopposed, STATE_NAMES
+from data import (
+    Race,
+    RaceStats,
+    normalize_party,
+    deduplicate,
+    _merge_unopposed,
+    STATE_NAMES,
+)
 
 
 def test_state_names_has_all_states():
@@ -177,3 +184,44 @@ def test_race_stats_accumulates_party_counts():
     assert stats.total_races == 2
     assert stats.races_by_party["Democrat"] == 3
     assert stats.races_by_party["Republican"] == 1
+
+
+def test_race_stats_add_general_race():
+    stats = RaceStats()
+    stats.add_general_race(["Democrat", "Republican"])
+    assert stats.general_total_races == 1
+    assert stats.primary_races_by_party["Democrat"] == 1
+    assert stats.primary_races_by_party["Republican"] == 1
+
+
+def test_race_stats_add_primary_race():
+    stats = RaceStats()
+    stats.add_primary_race("Democrat")
+    stats.add_primary_race("Democrat")
+    stats.add_primary_race("Republican")
+    assert stats.primary_races_by_party["Democrat"] == 2
+    assert stats.primary_races_by_party["Republican"] == 1
+
+
+def test_race_stats_merge_new_fields():
+    stats1 = RaceStats()
+    stats1.general_total_races = 5
+    stats1.general_unopposed_by_party = {"Democrat": 3}
+    stats1.primary_races_by_party = {"Democrat": 10}
+    stats1.primary_unopposed_by_party = {"Democrat": 2}
+
+    stats2 = RaceStats()
+    stats2.general_total_races = 3
+    stats2.general_unopposed_by_party = {"Democrat": 1, "Republican": 2}
+    stats2.primary_races_by_party = {"Republican": 8}
+    stats2.primary_unopposed_by_party = {"Republican": 1}
+
+    stats1.merge(stats2)
+
+    assert stats1.general_total_races == 8
+    assert stats1.general_unopposed_by_party["Democrat"] == 4
+    assert stats1.general_unopposed_by_party["Republican"] == 2
+    assert stats1.primary_races_by_party["Democrat"] == 10
+    assert stats1.primary_races_by_party["Republican"] == 8
+    assert stats1.primary_unopposed_by_party["Democrat"] == 2
+    assert stats1.primary_unopposed_by_party["Republican"] == 1

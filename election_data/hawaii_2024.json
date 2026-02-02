@@ -5,14 +5,30 @@
   "total": 72,
   "total_races": 66,
   "total_races_by_party": {
+    "Unknown": 3,
     "Democrat": 109,
     "Green/Rainbow": 1,
-    "Unknown": 3,
     "Republican": 89,
     "Libertarian": 1,
     "Other": 10
   },
-  "scraped_at": "2026-02-01T06:00:22.786060+00:00",
+  "general": {
+    "total_unopposed": 0,
+    "total_races": 0,
+    "unopposed_by_party": {}
+  },
+  "primary": {
+    "total_unopposed": 72,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Green/Rainbow": 1,
+      "Republican": 35,
+      "Unknown": 1,
+      "Democrat": 30,
+      "Other": 5
+    }
+  },
+  "scraped_at": "2026-02-01T21:26:11.926893+00:00",
   "unopposed_candidates": [
     {
       "state": "HI",

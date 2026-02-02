@@ -5,15 +5,34 @@
   "total": 271,
   "total_races": 190,
   "total_races_by_party": {
-    "Democrat": 314,
     "Republican": 324,
+    "Better": 2,
     "Unknown": 10,
     "Libertarian": 10,
-    "Better": 2,
+    "Democrat": 314,
     "Green/Rainbow": 5,
     "Other": 21
   },
-  "scraped_at": "2026-02-01T06:05:34.696709+00:00",
+  "general": {
+    "total_unopposed": 49,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Democrat": 19,
+      "Republican": 30
+    }
+  },
+  "primary": {
+    "total_unopposed": 251,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Republican": 104,
+      "Libertarian": 2,
+      "Unknown": 7,
+      "Democrat": 129,
+      "Other": 9
+    }
+  },
+  "scraped_at": "2026-02-01T21:31:23.330937+00:00",
   "unopposed_candidates": [
     {
       "state": "MO",

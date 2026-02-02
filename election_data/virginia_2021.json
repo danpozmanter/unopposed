@@ -5,13 +5,26 @@
   "total": 131,
   "total_races": 101,
   "total_races_by_party": {
+    "Liberation": 1,
     "Democrat": 187,
     "Unknown": 1,
-    "Liberation": 1,
     "Republican": 179,
     "Other": 16
   },
-  "scraped_at": "2026-02-01T07:08:57.912569+00:00",
+  "general": {
+    "total_unopposed": 0,
+    "total_races": 0,
+    "unopposed_by_party": {}
+  },
+  "primary": {
+    "total_unopposed": 131,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Republican": 72,
+      "Democrat": 59
+    }
+  },
+  "scraped_at": "2026-02-01T22:32:48.941644+00:00",
   "unopposed_candidates": [
     {
       "state": "VA",

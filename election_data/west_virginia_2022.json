@@ -6,11 +6,28 @@
   "total_races": 119,
   "total_races_by_party": {
     "Democrat": 176,
-    "Republican": 234,
     "Unknown": 2,
+    "Republican": 234,
     "Other": 17
   },
-  "scraped_at": "2026-02-01T06:57:23.712597+00:00",
+  "general": {
+    "total_unopposed": 22,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Republican": 21,
+      "Democrat": 1
+    }
+  },
+  "primary": {
+    "total_unopposed": 131,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Democrat": 67,
+      "Republican": 62,
+      "Other": 2
+    }
+  },
+  "scraped_at": "2026-02-01T22:21:16.727403+00:00",
   "unopposed_candidates": [
     {
       "state": "WV",

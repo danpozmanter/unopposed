@@ -3,12 +3,25 @@
   "state_name": "Kansas",
   "year": 2026,
   "total": 55,
-  "total_races": 130,
+  "total_races": 129,
   "total_races_by_party": {
-    "Republican": 39,
-    "Democrat": 23
+    "Republican": 38,
+    "Democrat": 22
   },
-  "scraped_at": "2026-02-01T05:31:47.120969+00:00",
+  "general": {
+    "total_unopposed": 0,
+    "total_races": 0,
+    "unopposed_by_party": {}
+  },
+  "primary": {
+    "total_unopposed": 55,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Republican": 36,
+      "Democrat": 19
+    }
+  },
+  "scraped_at": "2026-02-01T20:59:43.993742+00:00",
   "unopposed_candidates": [
     {
       "state": "KS",

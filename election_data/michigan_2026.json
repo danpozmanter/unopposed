@@ -6,11 +6,27 @@
   "total_races": 163,
   "total_races_by_party": {
     "Unknown": 5,
-    "Republican": 20,
     "Democrat": 32,
+    "Republican": 20,
     "Other": 1
   },
-  "scraped_at": "2026-02-01T05:33:58.736089+00:00",
+  "general": {
+    "total_unopposed": 4,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Unknown": 3,
+      "Other": 1
+    }
+  },
+  "primary": {
+    "total_unopposed": 29,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Republican": 14,
+      "Democrat": 15
+    }
+  },
+  "scraped_at": "2026-02-01T21:01:11.064265+00:00",
   "unopposed_candidates": [
     {
       "state": "MI",

@@ -6,14 +6,27 @@
   "total_races": 12,
   "total_races_by_party": {
     "Libertarian": 11,
-    "Democrat": 24,
     "Unknown": 8,
+    "Democrat": 24,
     "Republican": 12,
     "Labour": 1,
     "Socialist Workers": 2,
     "The Mahali": 1
   },
-  "scraped_at": "2026-02-01T06:47:08.782531+00:00",
+  "general": {
+    "total_unopposed": 0,
+    "total_races": 0,
+    "unopposed_by_party": {}
+  },
+  "primary": {
+    "total_unopposed": 8,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Democrat": 6,
+      "Republican": 2
+    }
+  },
+  "scraped_at": "2026-02-01T22:11:54.998952+00:00",
   "unopposed_candidates": [
     {
       "state": "NJ",

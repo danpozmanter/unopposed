@@ -13,7 +13,9 @@ def test_ma_2026_data_consistency():
         data["unopposed_candidates"]
     ), "total field should match candidate count"
     assert data["total_races"] > 0, "should have total_races"
-    assert data["total"] <= data["total_races"], "unopposed should not exceed total races"
+    assert (
+        data["total"] <= data["total_races"]
+    ), "unopposed should not exceed total races"
 
 
 if __name__ == "__main__":

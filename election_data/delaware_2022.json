@@ -9,7 +9,23 @@
     "Republican": 92,
     "Other": 8
   },
-  "scraped_at": "2026-02-01T06:35:40.075665+00:00",
+  "general": {
+    "total_unopposed": 23,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Democrat": 12,
+      "Republican": 11
+    }
+  },
+  "primary": {
+    "total_unopposed": 73,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Democrat": 34,
+      "Republican": 39
+    }
+  },
+  "scraped_at": "2026-02-01T22:00:11.635001+00:00",
   "unopposed_candidates": [
     {
       "state": "DE",

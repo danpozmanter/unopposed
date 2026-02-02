@@ -5,12 +5,28 @@
   "total": 162,
   "total_races": 125,
   "total_races_by_party": {
-    "Unknown": 8,
     "Democrat": 193,
+    "Unknown": 8,
     "Republican": 214,
     "Other": 19
   },
-  "scraped_at": "2026-02-01T06:13:01.867349+00:00",
+  "general": {
+    "total_unopposed": 32,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Republican": 22,
+      "Democrat": 10
+    }
+  },
+  "primary": {
+    "total_unopposed": 150,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Republican": 76,
+      "Democrat": 74
+    }
+  },
+  "scraped_at": "2026-02-01T21:38:10.999723+00:00",
   "unopposed_candidates": [
     {
       "state": "TN",

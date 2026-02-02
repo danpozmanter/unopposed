@@ -2,14 +2,30 @@
   "state": "MN",
   "state_name": "Minnesota",
   "year": 2026,
-  "total": 58,
+  "total": 61,
   "total_races": 210,
   "total_races_by_party": {
-    "Democrat": 41,
-    "Republican": 31,
-    "Unknown": 3
+    "Unknown": 3,
+    "Democrat": 43,
+    "Republican": 32
   },
-  "scraped_at": "2026-02-01T05:34:11.879546+00:00",
+  "general": {
+    "total_unopposed": 4,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Unknown": 3,
+      "Democrat": 1
+    }
+  },
+  "primary": {
+    "total_unopposed": 55,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Democrat": 35,
+      "Republican": 23
+    }
+  },
+  "scraped_at": "2026-02-01T21:01:32.584909+00:00",
   "unopposed_candidates": [
     {
       "state": "MN",
@@ -320,6 +336,15 @@
     {
       "state": "MN",
       "office": "State Senate",
+      "district": "District 49",
+      "candidate": "Krish Subrahmanian",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State Senate",
       "district": "District 54",
       "candidate": "Ben Bakeberg",
       "party": "Republican",
@@ -377,6 +402,15 @@
       "district": "District 7",
       "candidate": "Cal Warwas",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Pete Johnson",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -475,6 +509,15 @@
       "office": "State House",
       "district": "District 26",
       "candidate": "Aaron Repinski",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Greg Davids",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

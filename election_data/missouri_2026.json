@@ -8,7 +8,20 @@
     "Democrat": 78,
     "Republican": 108
   },
-  "scraped_at": "2026-02-01T05:34:36.934760+00:00",
+  "general": {
+    "total_unopposed": 0,
+    "total_races": 0,
+    "unopposed_by_party": {}
+  },
+  "primary": {
+    "total_unopposed": 137,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Republican": 72,
+      "Democrat": 65
+    }
+  },
+  "scraped_at": "2026-02-01T21:02:06.187186+00:00",
   "unopposed_candidates": [
     {
       "state": "MO",

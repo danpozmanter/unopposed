@@ -5,15 +5,28 @@
   "total": 9,
   "total_races": 13,
   "total_races_by_party": {
+    "Democrat": 25,
     "Unknown": 7,
     "Republican": 13,
-    "Democrat": 25,
     "Libertarian": 4,
     "Independent Constitution": 1,
     "Common Sense": 1,
     "American Values": 1
   },
-  "scraped_at": "2026-02-01T07:20:31.198274+00:00",
+  "general": {
+    "total_unopposed": 0,
+    "total_races": 0,
+    "unopposed_by_party": {}
+  },
+  "primary": {
+    "total_unopposed": 9,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Democrat": 4,
+      "Republican": 5
+    }
+  },
+  "scraped_at": "2026-02-01T22:44:12.010388+00:00",
   "unopposed_candidates": [
     {
       "state": "NJ",

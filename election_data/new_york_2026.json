@@ -6,12 +6,28 @@
   "total_races": 240,
   "total_races_by_party": {
     "Unknown": 7,
-    "Democrat": 40,
     "Republican": 24,
+    "Democrat": 40,
     "Conservative": 1,
     "American Independent": 1
   },
-  "scraped_at": "2026-02-01T05:37:04.763951+00:00",
+  "general": {
+    "total_unopposed": 9,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Democrat": 6,
+      "Republican": 3
+    }
+  },
+  "primary": {
+    "total_unopposed": 10,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Republican": 4,
+      "Democrat": 6
+    }
+  },
+  "scraped_at": "2026-02-01T21:04:07.989798+00:00",
   "unopposed_candidates": [
     {
       "state": "NY",

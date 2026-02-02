@@ -6,11 +6,28 @@
   "total_races": 189,
   "total_races_by_party": {
     "Democrat": 347,
-    "Unknown": 3,
     "Republican": 359,
+    "Unknown": 3,
     "Other": 19
   },
-  "scraped_at": "2026-02-01T06:42:03.254662+00:00",
+  "general": {
+    "total_unopposed": 11,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Republican": 6,
+      "Democrat": 5
+    }
+  },
+  "primary": {
+    "total_unopposed": 321,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Democrat": 162,
+      "Republican": 158,
+      "Other": 1
+    }
+  },
+  "scraped_at": "2026-02-01T22:06:34.779646+00:00",
   "unopposed_candidates": [
     {
       "state": "ME",

@@ -9,7 +9,22 @@
     "Republican": 190,
     "Other": 13
   },
-  "scraped_at": "2026-02-01T07:05:41.775866+00:00",
+  "general": {
+    "total_unopposed": 2,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Democrat": 2
+    }
+  },
+  "primary": {
+    "total_unopposed": 66,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Democrat": 33,
+      "Republican": 33
+    }
+  },
+  "scraped_at": "2026-02-01T22:29:34.161176+00:00",
   "unopposed_candidates": [
     {
       "state": "NJ",

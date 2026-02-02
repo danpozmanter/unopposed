@@ -11,7 +11,25 @@
     "Socialist Workers": 1,
     "Other": 29
   },
-  "scraped_at": "2026-02-01T06:44:22.189374+00:00",
+  "general": {
+    "total_unopposed": 20,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Republican": 7,
+      "Democrat": 16
+    }
+  },
+  "primary": {
+    "total_unopposed": 240,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Democrat": 169,
+      "Republican": 155,
+      "Unknown": 2,
+      "Other": 8
+    }
+  },
+  "scraped_at": "2026-02-01T22:08:44.961413+00:00",
   "unopposed_candidates": [
     {
       "state": "MN",

@@ -10,7 +10,23 @@
     "Unknown": 1,
     "Other": 25
   },
-  "scraped_at": "2026-02-01T07:27:08.077823+00:00",
+  "general": {
+    "total_unopposed": 16,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Republican": 10,
+      "Democrat": 6
+    }
+  },
+  "primary": {
+    "total_unopposed": 160,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Republican": 87,
+      "Democrat": 73
+    }
+  },
+  "scraped_at": "2026-02-01T22:50:47.908947+00:00",
   "unopposed_candidates": [
     {
       "state": "WI",

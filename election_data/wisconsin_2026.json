@@ -6,11 +6,25 @@
   "total_races": 125,
   "total_races_by_party": {
     "Democrat": 31,
-    "Unknown": 4,
     "Republican": 31,
+    "Unknown": 4,
     "Other": 1
   },
-  "scraped_at": "2026-02-01T05:42:56.063409+00:00",
+  "general": {
+    "total_unopposed": 29,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Democrat": 13,
+      "Republican": 15,
+      "Other": 1
+    }
+  },
+  "primary": {
+    "total_unopposed": 0,
+    "total_races_by_party": {},
+    "unopposed_by_party": {}
+  },
+  "scraped_at": "2026-02-01T21:09:09.343634+00:00",
   "unopposed_candidates": [
     {
       "state": "WI",

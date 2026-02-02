@@ -8,11 +8,27 @@
     "Republican": 203,
     "Democrat": 191,
     "Unknown": 2,
-    "Populist": 1,
     "Libertarian": 2,
+    "Populist": 1,
     "Other": 20
   },
-  "scraped_at": "2026-02-01T07:16:37.002050+00:00",
+  "general": {
+    "total_unopposed": 40,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Republican": 21,
+      "Democrat": 19
+    }
+  },
+  "primary": {
+    "total_unopposed": 150,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Democrat": 78,
+      "Republican": 72
+    }
+  },
+  "scraped_at": "2026-02-01T22:40:09.828582+00:00",
   "unopposed_candidates": [
     {
       "state": "KY",

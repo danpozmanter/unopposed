@@ -10,7 +10,22 @@
     "Republican": 168,
     "Other": 10
   },
-  "scraped_at": "2026-02-01T05:53:52.590470+00:00",
+  "general": {
+    "total_unopposed": 15,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Democrat": 15
+    }
+  },
+  "primary": {
+    "total_unopposed": 155,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Democrat": 81,
+      "Republican": 74
+    }
+  },
+  "scraped_at": "2026-02-01T21:20:01.175039+00:00",
   "unopposed_candidates": [
     {
       "state": "VA",

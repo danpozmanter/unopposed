@@ -12,7 +12,24 @@
     "Independent": 1,
     "Other": 2
   },
-  "scraped_at": "2026-02-01T05:38:40.245147+00:00",
+  "general": {
+    "total_unopposed": 29,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Democrat": 17,
+      "Republican": 10,
+      "Other": 2
+    }
+  },
+  "primary": {
+    "total_unopposed": 6,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Republican": 3,
+      "Democrat": 3
+    }
+  },
+  "scraped_at": "2026-02-01T21:05:32.530221+00:00",
   "unopposed_candidates": [
     {
       "state": "OR",

@@ -5,13 +5,31 @@
   "total": 259,
   "total_races": 185,
   "total_races_by_party": {
-    "Unknown": 4,
     "Democrat": 287,
     "Republican": 335,
+    "Unknown": 4,
     "Libertarian": 2,
     "Other": 47
   },
-  "scraped_at": "2026-02-01T06:48:53.248114+00:00",
+  "general": {
+    "total_unopposed": 48,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Republican": 40,
+      "Democrat": 8
+    }
+  },
+  "primary": {
+    "total_unopposed": 244,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Democrat": 104,
+      "Unknown": 2,
+      "Republican": 116,
+      "Other": 22
+    }
+  },
+  "scraped_at": "2026-02-01T22:13:40.260795+00:00",
   "unopposed_candidates": [
     {
       "state": "NC",

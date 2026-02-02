@@ -12,7 +12,27 @@
     "Libertarian": 2,
     "Other": 24
   },
-  "scraped_at": "2026-02-01T07:12:35.029809+00:00",
+  "general": {
+    "total_unopposed": 5,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Republican": 2,
+      "Democrat": 3
+    }
+  },
+  "primary": {
+    "total_unopposed": 217,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Green/Rainbow": 4,
+      "Unknown": 19,
+      "Republican": 100,
+      "Democrat": 76,
+      "Libertarian": 2,
+      "Other": 16
+    }
+  },
+  "scraped_at": "2026-02-01T22:36:12.709510+00:00",
   "unopposed_candidates": [
     {
       "state": "CA",

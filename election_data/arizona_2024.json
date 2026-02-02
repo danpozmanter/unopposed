@@ -5,13 +5,31 @@
   "total": 73,
   "total_races": 70,
   "total_races_by_party": {
-    "Unknown": 5,
     "Democrat": 132,
+    "Unknown": 5,
     "Republican": 116,
     "Green/Rainbow": 4,
     "Other": 11
   },
-  "scraped_at": "2026-02-01T05:57:12.057449+00:00",
+  "general": {
+    "total_unopposed": 8,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Republican": 3,
+      "Democrat": 5
+    }
+  },
+  "primary": {
+    "total_unopposed": 71,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Democrat": 40,
+      "Unknown": 3,
+      "Republican": 24,
+      "Other": 4
+    }
+  },
+  "scraped_at": "2026-02-01T21:23:21.142218+00:00",
   "unopposed_candidates": [
     {
       "state": "AZ",

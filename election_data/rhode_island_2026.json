@@ -9,7 +9,21 @@
     "Democrat": 6,
     "Republican": 3
   },
-  "scraped_at": "2026-02-01T05:39:27.030993+00:00",
+  "general": {
+    "total_unopposed": 3,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Unknown": 3
+    }
+  },
+  "primary": {
+    "total_unopposed": 4,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Democrat": 4
+    }
+  },
+  "scraped_at": "2026-02-01T21:06:12.864245+00:00",
   "unopposed_candidates": [
     {
       "state": "RI",

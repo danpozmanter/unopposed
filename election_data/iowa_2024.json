@@ -5,13 +5,29 @@
   "total": 176,
   "total_races": 129,
   "total_races_by_party": {
-    "Republican": 205,
-    "Libertarian": 3,
     "Democrat": 203,
+    "Libertarian": 3,
+    "Republican": 205,
     "Unknown": 1,
     "Other": 17
   },
-  "scraped_at": "2026-02-01T06:01:48.881867+00:00",
+  "general": {
+    "total_unopposed": 32,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Republican": 16,
+      "Democrat": 16
+    }
+  },
+  "primary": {
+    "total_unopposed": 173,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Democrat": 91,
+      "Republican": 82
+    }
+  },
+  "scraped_at": "2026-02-01T21:27:37.722021+00:00",
   "unopposed_candidates": [
     {
       "state": "IA",

@@ -9,7 +9,23 @@
     "Republican": 366,
     "Other": 7
   },
-  "scraped_at": "2026-02-01T06:11:26.840044+00:00",
+  "general": {
+    "total_unopposed": 99,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Democrat": 52,
+      "Republican": 47
+    }
+  },
+  "primary": {
+    "total_unopposed": 327,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Democrat": 165,
+      "Republican": 162
+    }
+  },
+  "scraped_at": "2026-02-01T21:36:35.437755+00:00",
   "unopposed_candidates": [
     {
       "state": "PA",

@@ -10,7 +10,21 @@
     "Democrat": 49,
     "Other": 13
   },
-  "scraped_at": "2026-02-01T06:21:59.335417+00:00",
+  "general": {
+    "total_unopposed": 0,
+    "total_races": 0,
+    "unopposed_by_party": {}
+  },
+  "primary": {
+    "total_unopposed": 50,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Democrat": 19,
+      "Republican": 19,
+      "Other": 12
+    }
+  },
+  "scraped_at": "2026-02-01T21:46:55.374747+00:00",
   "unopposed_candidates": [
     {
       "state": "LA",

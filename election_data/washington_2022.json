@@ -5,21 +5,48 @@
   "total": 174,
   "total_races": 133,
   "total_races_by_party": {
+    "JFK Republican": 1,
     "Unknown": 8,
     "Socialist Workers": 1,
-    "JFK Republican": 1,
     "Trump Republican": 1,
     "Republican": 213,
     "Democrat": 204,
-    "Conservative": 1,
     "MAGA Republican": 1,
+    "Conservative": 1,
     "American Solidarity": 1,
-    "Libertarian": 1,
     "Concordia": 1,
+    "Libertarian": 1,
     "Congress Sucks": 1,
     "Other": 30
   },
-  "scraped_at": "2026-02-01T06:57:05.537707+00:00",
+  "general": {
+    "total_unopposed": 17,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Republican": 15,
+      "Democrat": 9
+    }
+  },
+  "primary": {
+    "total_unopposed": 132,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Trump Republican": 1,
+      "JFK Republican": 1,
+      "Socialist Workers": 1,
+      "Democrat": 77,
+      "Unknown": 7,
+      "MAGA Republican": 1,
+      "Conservative": 1,
+      "American Solidarity": 1,
+      "Concordia": 1,
+      "Libertarian": 1,
+      "Congress Sucks": 1,
+      "Republican": 61,
+      "Other": 18
+    }
+  },
+  "scraped_at": "2026-02-01T22:20:58.554172+00:00",
   "unopposed_candidates": [
     {
       "state": "WA",

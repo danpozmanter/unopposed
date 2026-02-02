@@ -5,12 +5,28 @@
   "total": 211,
   "total_races": 175,
   "total_races_by_party": {
-    "Republican": 125,
     "Democrat": 147,
     "Unknown": 4,
+    "Republican": 125,
     "Working Class": 1
   },
-  "scraped_at": "2026-02-01T05:30:55.595108+00:00",
+  "general": {
+    "total_unopposed": 3,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Unknown": 2,
+      "Working Class": 1
+    }
+  },
+  "primary": {
+    "total_unopposed": 208,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Republican": 96,
+      "Democrat": 112
+    }
+  },
+  "scraped_at": "2026-02-01T20:58:32.786024+00:00",
   "unopposed_candidates": [
     {
       "state": "IL",

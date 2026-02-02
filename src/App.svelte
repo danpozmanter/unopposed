@@ -12,6 +12,7 @@
 
 	const baseUrl = import.meta.env.BASE_URL;
 
+	let manifest = $state<Manifest | null>(null);
 	let availableYears = $state<number[]>([]);
 	let selectedYear = $state(getDefaultYear());
 	let electionsByState = new SvelteMap<string, ElectionData | null>();
@@ -41,8 +42,8 @@
 		try {
 			const response = await fetch(`${baseUrl}election_data/manifest.json`);
 			if (response.ok) {
-				const manifest: Manifest = await response.json();
-				availableYears = manifest.years.sort((a, b) => b - a);
+				manifest = await response.json();
+				availableYears = manifest!.years.sort((a, b) => b - a);
 				const currentYear = getDefaultYear();
 				if (availableYears.includes(currentYear)) {
 					selectedYear = currentYear;
@@ -112,46 +113,99 @@
 		});
 	}
 
+	function computeStateStats(data: ElectionData) {
+		const candidates = data.unopposed_candidates || [];
+		const totalRaces = data.total_races || 0;
+		const totalRacesByParty = data.total_races_by_party || {};
 
-	const summary = $derived.by(() => {
-		let totalRaces = 0;
-		const unopposedRacesByParty: Record<string, Set<string>> = {};
-		const totalRacesByParty: Record<string, number> = {};
+		// eslint-disable-next-line svelte/prefer-svelte-reactivity -- pure utility, not reactive state
+		const generalRaces = new Set<string>();
+		const generalByParty: Record<string, number> = {};
+		const primaryRacesByParty: Record<string, Set<string>> = {};
+		const primaryUnopposedByParty: Record<string, number> = {};
 
-		for (const electionData of electionsByState.values()) {
-			if (electionData?.unopposed_candidates) {
-				totalRaces += electionData.total_races || 0;
-				for (const candidate of electionData.unopposed_candidates) {
-					const { abbrev } = getPartyInfo(candidate.party);
-					const raceKey = `${electionData.state}:${candidate.office}:${candidate.district}`;
-					if (!unopposedRacesByParty[abbrev]) {
-						unopposedRacesByParty[abbrev] = new Set();
-					}
-					unopposedRacesByParty[abbrev].add(raceKey);
-				}
-				if (electionData.total_races_by_party) {
-					for (const [party, count] of Object.entries(electionData.total_races_by_party)) {
-						const { abbrev } = getPartyInfo(party);
-						totalRacesByParty[abbrev] = (totalRacesByParty[abbrev] || 0) + count;
-					}
-				}
+		for (const c of candidates) {
+			const raceKey = `${c.office}:${c.district}`;
+			if (c.unopposed_in.includes('General')) {
+				generalRaces.add(raceKey);
+				const { abbrev } = getPartyInfo(c.party);
+				generalByParty[abbrev] = (generalByParty[abbrev] || 0) + 1;
+			}
+			if (c.unopposed_in.includes('Primary')) {
+				const { abbrev } = getPartyInfo(c.party);
+				if (!primaryRacesByParty[abbrev]) primaryRacesByParty[abbrev] = new Set();
+				primaryRacesByParty[abbrev].add(raceKey);
+				primaryUnopposedByParty[abbrev] = (primaryUnopposedByParty[abbrev] || 0) + 1;
 			}
 		}
 
-		const unopposedCountByParty: Record<string, number> = {};
-		for (const [abbrev, races] of Object.entries(unopposedRacesByParty)) {
-			unopposedCountByParty[abbrev] = races.size;
+		const primaryTotalByParty: Record<string, number> = {};
+		for (const [party, count] of Object.entries(totalRacesByParty)) {
+			const { abbrev } = getPartyInfo(party);
+			primaryTotalByParty[abbrev] = (primaryTotalByParty[abbrev] || 0) + count;
 		}
 
-		const allUnopposedRaces = new Set<string>();
-		for (const races of Object.values(unopposedRacesByParty)) {
-			for (const race of races) {
-				allUnopposedRaces.add(race);
+		const primaryTotalRaces = Object.values(primaryTotalByParty).reduce((sum, n) => sum + n, 0);
+
+		return {
+			general: {
+				totalUnopposed: generalRaces.size,
+				totalRaces,
+				byParty: generalByParty
+			},
+			primary: {
+				totalUnopposed: Object.values(primaryRacesByParty).reduce((sum, s) => sum + s.size, 0),
+				totalRaces: primaryTotalRaces,
+				byParty: primaryUnopposedByParty,
+				totalByParty: primaryTotalByParty
 			}
-		}
-		const totalUnopposed = allUnopposedRaces.size;
+		};
+	}
 
-		return { totalUnopposed, totalRaces, unopposedCountByParty, totalRacesByParty };
+	const nationwideStats = $derived(manifest?.nationwide?.[String(selectedYear)] ?? null);
+
+	const generalSummary = $derived.by(() => {
+		const stats = nationwideStats;
+		if (!stats?.general) return null;
+
+		const unopposedByPartyAbbrev: Record<string, number> = {};
+		for (const [party, count] of Object.entries(stats.general.unopposed_by_party)) {
+			const { abbrev } = getPartyInfo(party);
+			unopposedByPartyAbbrev[abbrev] = (unopposedByPartyAbbrev[abbrev] || 0) + count;
+		}
+
+		return {
+			totalUnopposed: stats.general.total_unopposed,
+			totalRaces: stats.general.total_races,
+			unopposedByParty: unopposedByPartyAbbrev
+		};
+	});
+
+	const primarySummary = $derived.by(() => {
+		const stats = nationwideStats;
+		if (!stats?.primary) return null;
+
+		const unopposedByPartyAbbrev: Record<string, number> = {};
+		const totalByPartyAbbrev: Record<string, number> = {};
+
+		for (const [party, count] of Object.entries(stats.primary.unopposed_by_party)) {
+			const { abbrev } = getPartyInfo(party);
+			unopposedByPartyAbbrev[abbrev] = (unopposedByPartyAbbrev[abbrev] || 0) + count;
+		}
+
+		for (const [party, count] of Object.entries(stats.primary.total_races_by_party)) {
+			const { abbrev } = getPartyInfo(party);
+			totalByPartyAbbrev[abbrev] = (totalByPartyAbbrev[abbrev] || 0) + count;
+		}
+
+		const totalRaces = Object.values(totalByPartyAbbrev).reduce((sum, n) => sum + n, 0);
+
+		return {
+			totalUnopposed: stats.primary.total_unopposed,
+			totalRaces,
+			unopposedByParty: unopposedByPartyAbbrev,
+			totalByParty: totalByPartyAbbrev
+		};
 	});
 
 	$effect(() => {
@@ -194,19 +248,41 @@
 		</div>
 	{:else}
 		<section class="summary">
-			<div class="summary-card">
-				<span class="summary-number">{summary.totalUnopposed}<span class="summary-total">/{summary.totalRaces}</span></span>
-				<span class="summary-label">Unopposed Races{#if summary.totalRaces > 0} ({(summary.totalUnopposed / summary.totalRaces * 100).toFixed(1)}%){/if}</span>
-			</div>
-			<div class="summary-parties">
-				{#each Object.entries(summary.unopposedCountByParty).sort((a, b) => b[1] - a[1]) as [partyAbbrev, count] (partyAbbrev)}
-					{@const totalForParty = summary.totalRacesByParty[partyAbbrev] || 0}
-					<div class="party-stat">
-						<span class="party-badge party-{partyAbbrev.toLowerCase()}">{partyAbbrev}</span>
-						<span class="party-count">{count}{#if totalForParty > 0}<span class="party-total">/{totalForParty}</span>{/if}</span>
+			{#if generalSummary}
+				<div class="summary-section">
+					<h2 class="summary-title">General Election</h2>
+					<div class="summary-card">
+						<span class="summary-number">{generalSummary.totalUnopposed}<span class="summary-total">/{generalSummary.totalRaces}</span></span>
+						<span class="summary-label">Unopposed Races{#if generalSummary.totalRaces > 0} ({(generalSummary.totalUnopposed / generalSummary.totalRaces * 100).toFixed(1)}%){/if}</span>
 					</div>
-				{/each}
-			</div>
+					<div class="summary-parties">
+						{#each Object.entries(generalSummary.unopposedByParty).sort((a, b) => b[1] - a[1]) as [partyAbbrev, count] (partyAbbrev)}
+							<div class="party-stat">
+								<span class="party-badge party-{partyAbbrev.toLowerCase()}">{partyAbbrev}</span>
+								<span class="party-count">{count}</span>
+							</div>
+						{/each}
+					</div>
+				</div>
+			{/if}
+			{#if primarySummary}
+				<div class="summary-section">
+					<h2 class="summary-title">Primary Elections</h2>
+					<div class="summary-card">
+						<span class="summary-number">{primarySummary.totalUnopposed}<span class="summary-total">/{primarySummary.totalRaces}</span></span>
+						<span class="summary-label">Unopposed Primaries{#if primarySummary.totalRaces > 0} ({(primarySummary.totalUnopposed / primarySummary.totalRaces * 100).toFixed(1)}%){/if}</span>
+					</div>
+					<div class="summary-parties">
+						{#each Object.entries(primarySummary.unopposedByParty).sort((a, b) => b[1] - a[1]) as [partyAbbrev, count] (partyAbbrev)}
+							{@const totalForParty = primarySummary.totalByParty[partyAbbrev] || 0}
+							<div class="party-stat">
+								<span class="party-badge party-{partyAbbrev.toLowerCase()}">{partyAbbrev}</span>
+								<span class="party-count">{count}{#if totalForParty > 0}<span class="party-total">/{totalForParty}</span>{/if}</span>
+							</div>
+						{/each}
+					</div>
+				</div>
+			{/if}
 		</section>
 
 		<div class="party-key">
@@ -215,6 +291,7 @@
 			<span><span class="party-badge party-l">L</span> Libertarian</span>
 			<span><span class="party-badge party-g">G</span> Green</span>
 			<span><span class="party-badge party-i">I</span> Independent</span>
+			<span><span class="party-badge party-u">U</span> Unknown</span>
 			<span><span class="party-badge party-o">O</span> Other</span>
 		</div>
 
@@ -224,16 +301,37 @@
 				return electionData && electionData.total_races > 0;
 			}) as stateCode (stateCode)}
 				{@const electionData = electionsByState.get(stateCode)}
+				{@const stateStats = electionData ? computeStateStats(electionData) : null}
 				<article class="state-card" class:expanded={expandedStates.has(stateCode)}>
 					<button class="state-header" onclick={() => toggleStateExpansion(stateCode)}>
 						<div class="state-info">
 							<span class="state-code">{stateCode}</span>
 							<span class="state-name">{STATE_NAMES[stateCode]}</span>
 						</div>
-						<div class="state-count">
-							<span class="count-badge">{electionData?.total || 0}{#if electionData?.total_races}<span class="count-total">/{electionData.total_races}</span>{/if}</span>
-						</div>
 					</button>
+					{#if stateStats}
+						<div class="state-stats">
+							<div class="state-stat-section">
+								<span class="state-stat-label">General</span>
+								<span class="state-stat-value">{stateStats.general.totalUnopposed}<span class="state-stat-total">/{stateStats.general.totalRaces}</span></span>
+								<div class="state-stat-parties">
+									{#each Object.entries(stateStats.general.byParty).sort((a, b) => b[1] - a[1]) as [abbrev, count] (abbrev)}
+										<span class="party-mini party-{abbrev.toLowerCase()}">{abbrev}:{count}</span>
+									{/each}
+								</div>
+							</div>
+							<div class="state-stat-section">
+								<span class="state-stat-label">Primary</span>
+								<span class="state-stat-value">{stateStats.primary.totalUnopposed}<span class="state-stat-total">/{stateStats.primary.totalRaces}</span></span>
+								<div class="state-stat-parties">
+									{#each Object.entries(stateStats.primary.byParty).sort((a, b) => b[1] - a[1]) as [abbrev, count] (abbrev)}
+										{@const total = stateStats.primary.totalByParty[abbrev] || 0}
+										<span class="party-mini party-{abbrev.toLowerCase()}">{abbrev}:{count}{#if total > 0}<span class="party-mini-total">/{total}</span>{/if}</span>
+									{/each}
+								</div>
+							</div>
+						</div>
+					{/if}
 
 					{#if expandedStates.has(stateCode) && electionData?.unopposed_candidates && electionData.total > 0}
 						{@const candidatesByOffice = groupCandidatesByOffice(electionData.unopposed_candidates)}
@@ -380,15 +478,28 @@
 		margin-bottom: 2rem;
 		box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 		display: flex;
-		align-items: center;
-		justify-content: space-between;
 		flex-wrap: wrap;
-		gap: 1rem;
+		gap: 2rem;
+	}
+
+	.summary-section {
+		flex: 1;
+		min-width: 280px;
+	}
+
+	.summary-title {
+		font-size: 0.85rem;
+		font-weight: 600;
+		color: #666;
+		text-transform: uppercase;
+		letter-spacing: 0.05em;
+		margin: 0 0 0.75rem;
 	}
 
 	.summary-card {
 		display: flex;
 		flex-direction: column;
+		margin-bottom: 0.75rem;
 	}
 
 	.summary-number {
@@ -457,8 +568,10 @@
 		background: #f0f0f0;
 		color: #1a1a1a;
 	}
-	.party-badge.party-o,
 	.party-badge.party-u {
+		background: #7c3aed;
+	}
+	.party-badge.party-o {
 		background: #6b7280;
 	}
 
@@ -517,7 +630,7 @@
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
-		padding: 1rem;
+		padding: 1rem 1rem 0.5rem;
 		border: none;
 		background: none;
 		cursor: pointer;
@@ -541,21 +654,61 @@
 		color: #666;
 	}
 
-	.count-badge {
-		display: inline-flex;
-		align-items: center;
-		justify-content: center;
-		min-width: 2.5rem;
-		height: 2rem;
-		padding: 0 0.5rem;
-		background: #1a1a1a;
-		color: white;
-		border-radius: 1rem;
-		font-weight: 600;
-		font-size: 0.9rem;
+	.state-stats {
+		display: flex;
+		gap: 1.5rem;
+		padding: 0 1rem 1rem;
 	}
 
-	.count-total {
+	.state-stat-section {
+		flex: 1;
+	}
+
+	.state-stat-label {
+		display: block;
+		font-size: 0.7rem;
+		font-weight: 600;
+		color: #888;
+		text-transform: uppercase;
+		letter-spacing: 0.05em;
+		margin-bottom: 0.25rem;
+	}
+
+	.state-stat-value {
+		font-size: 1.25rem;
+		font-weight: 700;
+	}
+
+	.state-stat-total {
+		font-size: 0.9rem;
+		font-weight: 400;
+		color: #999;
+	}
+
+	.state-stat-parties {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.35rem;
+		margin-top: 0.35rem;
+	}
+
+	.party-mini {
+		font-size: 0.75rem;
+		font-weight: 600;
+		padding: 0.15rem 0.35rem;
+		border-radius: 3px;
+		background: #f0f0f0;
+	}
+
+	.party-mini.party-d { background: #dbeafe; color: #1e40af; }
+	.party-mini.party-r { background: #fee2e2; color: #991b1b; }
+	.party-mini.party-l { background: #fef3c7; color: #92400e; }
+	.party-mini.party-g { background: #dcfce7; color: #166534; }
+	.party-mini.party-i { background: #f3f4f6; color: #374151; }
+	.party-mini.party-u { background: #ede9fe; color: #5b21b6; }
+	.party-mini.party-o { background: #e5e7eb; color: #4b5563; }
+
+	.party-mini-total {
 		font-weight: 400;
 		opacity: 0.7;
 	}

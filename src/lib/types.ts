@@ -8,6 +8,18 @@ export interface Candidate {
 	source: string;
 }
 
+export interface GeneralStats {
+	total_unopposed: number;
+	total_races: number;
+	unopposed_by_party: Record<string, number>;
+}
+
+export interface PrimaryStats {
+	total_unopposed: number;
+	total_races_by_party: Record<string, number>;
+	unopposed_by_party: Record<string, number>;
+}
+
 export interface ElectionData {
 	state: string;
 	state_name: string;
@@ -15,6 +27,8 @@ export interface ElectionData {
 	total: number;
 	total_races: number;
 	total_races_by_party: Record<string, number>;
+	general?: GeneralStats;
+	primary?: PrimaryStats;
 	scraped_at: string;
 	unopposed_candidates: Candidate[];
 }
@@ -25,9 +39,15 @@ export interface StateInfo {
 	filename: string;
 }
 
+export interface NationwideStats {
+	general: GeneralStats;
+	primary: PrimaryStats;
+}
+
 export interface Manifest {
 	years: number[];
 	updated_at: string;
+	nationwide?: Record<string, NationwideStats>;
 }
 
 export const STATE_NAMES: Record<string, string> = {

@@ -5,15 +5,33 @@
   "total": 138,
   "total_races": 94,
   "total_races_by_party": {
-    "Unknown": 4,
     "Republican": 181,
+    "Unknown": 4,
     "Democrat": 124,
     "Libertarian": 1,
     "Constitution": 1,
     "United Utah": 1,
     "Other": 31
   },
-  "scraped_at": "2026-02-01T06:13:59.775299+00:00",
+  "general": {
+    "total_unopposed": 23,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Republican": 22,
+      "Democrat": 1
+    }
+  },
+  "primary": {
+    "total_unopposed": 133,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Democrat": 59,
+      "Unknown": 3,
+      "Republican": 58,
+      "Other": 13
+    }
+  },
+  "scraped_at": "2026-02-01T21:38:54.617208+00:00",
   "unopposed_candidates": [
     {
       "state": "UT",

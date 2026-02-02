@@ -5,15 +5,31 @@
   "total": 303,
   "total_races": 247,
   "total_races_by_party": {
-    "Republican": 401,
     "Democrat": 391,
+    "Republican": 401,
     "Unknown": 4,
     "Libertarian": 3,
     "Green/Rainbow": 1,
     "Socialist Workers": 1,
     "Other": 30
   },
-  "scraped_at": "2026-02-01T06:52:16.244529+00:00",
+  "general": {
+    "total_unopposed": 74,
+    "total_races": 0,
+    "unopposed_by_party": {
+      "Republican": 44,
+      "Democrat": 30
+    }
+  },
+  "primary": {
+    "total_unopposed": 280,
+    "total_races_by_party": {},
+    "unopposed_by_party": {
+      "Democrat": 137,
+      "Republican": 143
+    }
+  },
+  "scraped_at": "2026-02-01T22:16:22.454884+00:00",
   "unopposed_candidates": [
     {
       "state": "PA",
