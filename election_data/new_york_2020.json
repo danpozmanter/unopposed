@@ -17,14 +17,24 @@
   },
   "general": {
     "total_unopposed": 23,
-    "total_races": 0,
+    "total_races": 240,
     "unopposed_by_party": {
       "Democrat": 23
     }
   },
   "primary": {
     "total_unopposed": 324,
-    "total_races_by_party": {},
+    "total_races_by_party": {
+      "Democrat": 429,
+      "Unknown": 27,
+      "Republican": 331,
+      "Green/Rainbow": 4,
+      "Libertarian": 10,
+      "Conservative": 3,
+      "ECL": 1,
+      "Working Families": 1,
+      "Other": 324
+    },
     "unopposed_by_party": {
       "Republican": 159,
       "Democrat": 140,

@@ -18,12 +18,23 @@
   },
   "general": {
     "total_unopposed": 0,
-    "total_races": 0,
+    "total_races": 13,
     "unopposed_by_party": {}
   },
   "primary": {
     "total_unopposed": 8,
-    "total_races_by_party": {},
+    "total_races_by_party": {
+      "Socialist Workers": 2,
+      "Republican": 13,
+      "Democrat": 25,
+      "Vote Better": 1,
+      "Unknown": 7,
+      "Green/Rainbow": 12,
+      "Libertarian": 7,
+      "Labour": 1,
+      "C4C 2024": 1,
+      "Social Activist": 1
+    },
     "unopposed_by_party": {
       "Democrat": 5,
       "Republican": 3

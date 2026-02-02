@@ -13,7 +13,7 @@
   },
   "general": {
     "total_unopposed": 6,
-    "total_races": 0,
+    "total_races": 61,
     "unopposed_by_party": {
       "Democrat": 2,
       "Republican": 2,
@@ -22,7 +22,13 @@
   },
   "primary": {
     "total_unopposed": 63,
-    "total_races_by_party": {},
+    "total_races_by_party": {
+      "Unknown": 2,
+      "Alaskan Independence": 2,
+      "Republican": 96,
+      "Democrat": 67,
+      "Other": 48
+    },
     "unopposed_by_party": {
       "Democrat": 27,
       "Other": 18,

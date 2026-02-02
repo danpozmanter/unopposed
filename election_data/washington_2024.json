@@ -23,7 +23,7 @@
   },
   "general": {
     "total_unopposed": 21,
-    "total_races": 0,
+    "total_races": 135,
     "unopposed_by_party": {
       "Democrat": 14,
       "Republican": 9
@@ -31,7 +31,23 @@
   },
   "primary": {
     "total_unopposed": 145,
-    "total_races_by_party": {},
+    "total_races_by_party": {
+      "Independent": 5,
+      "Socialist Workers": 1,
+      "Unknown": 3,
+      "Republican": 204,
+      "Trump Republican": 2,
+      "Democrat": 224,
+      "Green/Rainbow": 1,
+      "MAGA Republican": 1,
+      "MAGA Democrat": 1,
+      "Bipartisan": 1,
+      "Union": 1,
+      "Congress Sucks": 1,
+      "Nonsense Busters": 1,
+      "Independence": 1,
+      "Other": 22
+    },
     "unopposed_by_party": {
       "Socialist Workers": 1,
       "Democrat": 86,

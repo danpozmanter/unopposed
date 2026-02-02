@@ -15,12 +15,20 @@
   },
   "general": {
     "total_unopposed": 0,
-    "total_races": 0,
+    "total_races": 13,
     "unopposed_by_party": {}
   },
   "primary": {
     "total_unopposed": 9,
-    "total_races_by_party": {},
+    "total_races_by_party": {
+      "Democrat": 25,
+      "Unknown": 7,
+      "Republican": 13,
+      "Libertarian": 4,
+      "Independent Constitution": 1,
+      "Common Sense": 1,
+      "American Values": 1
+    },
     "unopposed_by_party": {
       "Democrat": 4,
       "Republican": 5

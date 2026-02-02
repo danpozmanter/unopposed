@@ -15,12 +15,20 @@
   },
   "general": {
     "total_unopposed": 0,
-    "total_races": 0,
+    "total_races": 12,
     "unopposed_by_party": {}
   },
   "primary": {
     "total_unopposed": 8,
-    "total_races_by_party": {},
+    "total_races_by_party": {
+      "Libertarian": 11,
+      "Unknown": 8,
+      "Democrat": 24,
+      "Republican": 12,
+      "Labour": 1,
+      "Socialist Workers": 2,
+      "The Mahali": 1
+    },
     "unopposed_by_party": {
       "Democrat": 6,
       "Republican": 2

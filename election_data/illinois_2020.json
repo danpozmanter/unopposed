@@ -15,7 +15,7 @@
   },
   "general": {
     "total_unopposed": 55,
-    "total_races": 0,
+    "total_races": 157,
     "unopposed_by_party": {
       "Democrat": 48,
       "Republican": 7
@@ -23,7 +23,15 @@
   },
   "primary": {
     "total_unopposed": 164,
-    "total_races_by_party": {},
+    "total_races_by_party": {
+      "Republican": 174,
+      "Willie Wilson": 1,
+      "Unknown": 9,
+      "Democrat": 279,
+      "Green/Rainbow": 1,
+      "Libertarian": 2,
+      "Other": 26
+    },
     "unopposed_by_party": {
       "Democrat": 93,
       "Republican": 71

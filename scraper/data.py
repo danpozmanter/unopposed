@@ -107,14 +107,9 @@ class RaceStats:
             normalized = normalize_party(party) if party else "Unknown"
             self.races_by_party[normalized] = self.races_by_party.get(normalized, 0) + 1
 
-    def add_general_race(self, parties: list[str]):
-        """Track a general election race and its parties."""
+    def add_general_race(self):
+        """Track a general election race."""
         self.general_total_races += 1
-        for party in parties:
-            normalized = normalize_party(party) if party else "Unknown"
-            self.primary_races_by_party[normalized] = (
-                self.primary_races_by_party.get(normalized, 0) + 1
-            )
 
     def add_primary_race(self, party: str):
         """Track a primary election race for a specific party."""

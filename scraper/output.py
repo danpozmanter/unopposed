@@ -66,13 +66,13 @@ def _json_output(results, stats, state, year):
         "total_races": stats.total_races,
         "total_races_by_party": stats.races_by_party,
         "general": {
-            "total_unopposed": separated["general"]["total_unopposed"],
             "total_races": stats.general_total_races,
+            "total_unopposed": separated["general"]["total_unopposed"],
             "unopposed_by_party": separated["general"]["unopposed_by_party"],
         },
         "primary": {
-            "total_unopposed": separated["primary"]["total_unopposed"],
             "total_races_by_party": stats.primary_races_by_party,
+            "total_unopposed": separated["primary"]["total_unopposed"],
             "unopposed_by_party": separated["primary"]["unopposed_by_party"],
         },
         "scraped_at": datetime.now(timezone.utc).isoformat(),

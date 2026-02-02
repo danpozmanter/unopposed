@@ -9,12 +9,14 @@
   },
   "general": {
     "total_unopposed": 0,
-    "total_races": 0,
+    "total_races": 80,
     "unopposed_by_party": {}
   },
   "primary": {
     "total_unopposed": 1,
-    "total_races_by_party": {},
+    "total_races_by_party": {
+      "Republican": 3
+    },
     "unopposed_by_party": {
       "Republican": 1
     }

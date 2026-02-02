@@ -15,7 +15,7 @@
   },
   "general": {
     "total_unopposed": 31,
-    "total_races": 0,
+    "total_races": 95,
     "unopposed_by_party": {
       "Republican": 29,
       "Democrat": 2
@@ -23,7 +23,15 @@
   },
   "primary": {
     "total_unopposed": 135,
-    "total_races_by_party": {},
+    "total_races_by_party": {
+      "Republican": 179,
+      "Unknown": 4,
+      "Libertarian": 2,
+      "Democrat": 105,
+      "Constitution": 2,
+      "United Utah": 2,
+      "Other": 51
+    },
     "unopposed_by_party": {
       "Democrat": 48,
       "Republican": 65,

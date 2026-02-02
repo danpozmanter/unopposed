@@ -16,14 +16,23 @@
   },
   "general": {
     "total_unopposed": 23,
-    "total_races": 0,
+    "total_races": 240,
     "unopposed_by_party": {
       "Democrat": 23
     }
   },
   "primary": {
     "total_unopposed": 369,
-    "total_races_by_party": {},
+    "total_races_by_party": {
+      "LaRouche": 2,
+      "Unknown": 27,
+      "Republican": 344,
+      "Democrat": 420,
+      "Truth": 1,
+      "Conservative": 1,
+      "Working Families": 1,
+      "Other": 364
+    },
     "unopposed_by_party": {
       "Republican": 175,
       "Democrat": 174,

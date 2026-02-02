@@ -18,7 +18,7 @@
   },
   "general": {
     "total_unopposed": 3,
-    "total_races": 0,
+    "total_races": 92,
     "unopposed_by_party": {
       "Democrat": 2,
       "Republican": 1
@@ -26,7 +26,18 @@
   },
   "primary": {
     "total_unopposed": 143,
-    "total_races_by_party": {},
+    "total_races_by_party": {
+      "Republican": 170,
+      "Democrat": 176,
+      "Unknown": 5,
+      "Unity": 4,
+      "Approval Voting": 1,
+      "Green/Rainbow": 1,
+      "Libertarian": 5,
+      "Colorado Center": 2,
+      "American Constitution": 4,
+      "Other": 38
+    },
     "unopposed_by_party": {
       "Democrat": 77,
       "Republican": 66

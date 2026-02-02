@@ -21,7 +21,7 @@
   },
   "general": {
     "total_unopposed": 17,
-    "total_races": 0,
+    "total_races": 133,
     "unopposed_by_party": {
       "Republican": 15,
       "Democrat": 9
@@ -29,7 +29,21 @@
   },
   "primary": {
     "total_unopposed": 132,
-    "total_races_by_party": {},
+    "total_races_by_party": {
+      "JFK Republican": 1,
+      "Unknown": 8,
+      "Socialist Workers": 1,
+      "Trump Republican": 1,
+      "Republican": 213,
+      "Democrat": 204,
+      "MAGA Republican": 1,
+      "Conservative": 1,
+      "American Solidarity": 1,
+      "Concordia": 1,
+      "Libertarian": 1,
+      "Congress Sucks": 1,
+      "Other": 30
+    },
     "unopposed_by_party": {
       "Trump Republican": 1,
       "JFK Republican": 1,

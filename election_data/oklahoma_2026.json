@@ -12,7 +12,7 @@
   },
   "general": {
     "total_unopposed": 26,
-    "total_races": 0,
+    "total_races": 132,
     "unopposed_by_party": {
       "Republican": 20,
       "Democrat": 6
@@ -20,7 +20,12 @@
   },
   "primary": {
     "total_unopposed": 0,
-    "total_races_by_party": {},
+    "total_races_by_party": {
+      "Unknown": 4,
+      "Republican": 41,
+      "Democrat": 18,
+      "Other": 1
+    },
     "unopposed_by_party": {}
   },
   "scraped_at": "2026-02-01T21:05:12.370985+00:00",

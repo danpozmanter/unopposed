@@ -22,7 +22,7 @@
   },
   "general": {
     "total_unopposed": 13,
-    "total_races": 0,
+    "total_races": 134,
     "unopposed_by_party": {
       "Democrat": 7,
       "Republican": 7
@@ -30,7 +30,22 @@
   },
   "primary": {
     "total_unopposed": 169,
-    "total_races_by_party": {},
+    "total_races_by_party": {
+      "Unknown": 8,
+      "Republican": 220,
+      "Democrat": 232,
+      "Libertarian": 3,
+      "Trump Republican": 3,
+      "Congress Sucks": 1,
+      "Essential Workers": 1,
+      "Socialist Workers": 1,
+      "Propertarianist": 1,
+      "Cascadia Labour": 1,
+      "Fifth Republic": 1,
+      "American Patriot": 1,
+      "New Liberty": 1,
+      "Other": 38
+    },
     "unopposed_by_party": {
       "Democrat": 86,
       "Libertarian": 3,

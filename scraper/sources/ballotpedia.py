@@ -172,6 +172,7 @@ def _analyze_table_row(
 
     if is_general:
         stats.add_race(list(candidates_by_party.keys()) if candidates_by_party else [])
+        stats.add_general_race()
         if len(all_candidates) == 1:
             name, party = all_candidates[0]
             results.append(
@@ -180,6 +181,8 @@ def _analyze_table_row(
 
     if is_primary:
         stats.add_parties(list(candidates_by_party.keys()))
+        for party in candidates_by_party.keys():
+            stats.add_primary_race(party)
         for party, names in candidates_by_party.items():
             if len(names) == 1:
                 results.append(
@@ -270,6 +273,11 @@ def _parse_district_sections(content, office, state_code):
 
         if all_parties:
             stats.add_race(list(all_parties))
+
+        if general_candidates:
+            stats.add_general_race()
+        for party in primary_candidates_by_party.keys():
+            stats.add_primary_race(party)
 
         if len(general_candidates) == 1:
             name, party = general_candidates[0]

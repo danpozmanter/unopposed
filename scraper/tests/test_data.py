@@ -188,10 +188,9 @@ def test_race_stats_accumulates_party_counts():
 
 def test_race_stats_add_general_race():
     stats = RaceStats()
-    stats.add_general_race(["Democrat", "Republican"])
-    assert stats.general_total_races == 1
-    assert stats.primary_races_by_party["Democrat"] == 1
-    assert stats.primary_races_by_party["Republican"] == 1
+    stats.add_general_race()
+    stats.add_general_race()
+    assert stats.general_total_races == 2
 
 
 def test_race_stats_add_primary_race():

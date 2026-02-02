@@ -13,7 +13,7 @@
   },
   "general": {
     "total_unopposed": 78,
-    "total_races": 0,
+    "total_races": 178,
     "unopposed_by_party": {
       "Republican": 54,
       "Democrat": 24
@@ -21,7 +21,13 @@
   },
   "primary": {
     "total_unopposed": 191,
-    "total_races_by_party": {},
+    "total_races_by_party": {
+      "Unknown": 1,
+      "Republican": 287,
+      "Constitution": 4,
+      "Democrat": 234,
+      "Other": 17
+    },
     "unopposed_by_party": {
       "Democrat": 85,
       "Republican": 106
