@@ -2,18 +2,37 @@
   "state": "CO",
   "state_name": "Colorado",
   "year": 2026,
-  "total": 72,
+  "total": 76,
   "total_races": 93,
   "total_races_by_party": {
-    "Democrat": 73,
-    "Republican": 45,
+    "Democrat": 75,
+    "Republican": 46,
     "Unknown": 6,
     "Libertarian": 1,
     "American Constitution": 1,
     "No Labels": 1,
-    "Other": 4
+    "Other": 5
   },
-  "scraped_at": "2026-02-01T05:28:26.232176+00:00",
+  "general": {
+    "total_races": 89,
+    "total_unopposed": 6,
+    "unopposed_by_party": {
+      "Unknown": 1,
+      "Other": 5
+    }
+  },
+  "primary": {
+    "total_races_by_party": {
+      "Democrat": 75,
+      "Republican": 46
+    },
+    "total_unopposed": 70,
+    "unopposed_by_party": {
+      "Republican": 28,
+      "Democrat": 42
+    }
+  },
+  "scraped_at": "2026-02-03T00:50:37.676596+00:00",
   "unopposed_candidates": [
     {
       "state": "CO",
@@ -369,6 +388,15 @@
     {
       "state": "CO",
       "office": "State House",
+      "district": "District 25",
+      "candidate": "Mark Herzfeld",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
       "district": "District 26",
       "candidate": "Meghan Lukens",
       "party": "Democrat",
@@ -549,6 +577,24 @@
     {
       "state": "CO",
       "office": "State House",
+      "district": "District 54",
+      "candidate": "Mallory Martin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 55",
+      "candidate": "Brittni Packard",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
       "district": "District 55",
       "candidate": "John Taggart",
       "party": "Republican",
@@ -641,6 +687,15 @@
       "office": "State House",
       "district": "District 1",
       "candidate": "Evan Anderson",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Davon Williams",
       "party": "Other",
       "unopposed_in": "General",
       "source": "Ballotpedia"

@@ -2,19 +2,19 @@
   "state": "OR",
   "state_name": "Oregon",
   "year": 2026,
-  "total": 35,
+  "total": 39,
   "total_races": 83,
   "total_races_by_party": {
     "Unknown": 2,
-    "Democrat": 32,
-    "Republican": 27,
+    "Democrat": 34,
+    "Republican": 30,
     "Libertarian": 1,
     "Independent": 1,
     "Other": 2
   },
   "general": {
-    "total_unopposed": 29,
     "total_races": 83,
+    "total_unopposed": 29,
     "unopposed_by_party": {
       "Democrat": 17,
       "Republican": 10,
@@ -22,21 +22,17 @@
     }
   },
   "primary": {
-    "total_unopposed": 6,
     "total_races_by_party": {
-      "Unknown": 2,
-      "Democrat": 32,
-      "Republican": 27,
-      "Libertarian": 1,
-      "Independent": 1,
-      "Other": 2
+      "Republican": 8,
+      "Democrat": 5
     },
+    "total_unopposed": 10,
     "unopposed_by_party": {
-      "Republican": 3,
-      "Democrat": 3
+      "Republican": 5,
+      "Democrat": 5
     }
   },
-  "scraped_at": "2026-02-01T21:05:32.530221+00:00",
+  "scraped_at": "2026-02-03T01:00:16.280426+00:00",
   "unopposed_candidates": [
     {
       "state": "OR",
@@ -62,6 +58,15 @@
       "district": "District 5",
       "candidate": "Zeva Rosenbaum",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Valerie Draper Woldeit",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -140,9 +145,36 @@
     {
       "state": "OR",
       "office": "State House",
-      "district": "District 37",
-      "candidate": "Chad Parker",
+      "district": "District 15",
+      "candidate": "Joanna Robinson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Beth Jones",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Lucetta Elmer",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Hai Pham",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

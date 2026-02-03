@@ -5,11 +5,31 @@
   "total": 130,
   "total_races": 123,
   "total_races_by_party": {
-    "Republican": 184,
     "Democrat": 107,
+    "Republican": 184,
     "Unknown": 2
   },
-  "scraped_at": "2026-02-01T05:27:43.615966+00:00",
+  "general": {
+    "total_races": 121,
+    "total_unopposed": 71,
+    "unopposed_by_party": {
+      "Republican": 52,
+      "Unknown": 1,
+      "Democrat": 18
+    }
+  },
+  "primary": {
+    "total_races_by_party": {
+      "Democrat": 59,
+      "Republican": 105
+    },
+    "total_unopposed": 126,
+    "unopposed_by_party": {
+      "Democrat": 48,
+      "Republican": 78
+    }
+  },
+  "scraped_at": "2026-02-03T00:49:58.338601+00:00",
   "unopposed_candidates": [
     {
       "state": "AR",

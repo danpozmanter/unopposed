@@ -5,28 +5,28 @@
   "total": 23,
   "total_races": 126,
   "total_races_by_party": {
-    "Democrat": 24,
-    "Republican": 14
+    "Republican": 14,
+    "Democrat": 24
   },
   "general": {
+    "total_races": 118,
     "total_unopposed": 1,
-    "total_races": 126,
     "unopposed_by_party": {
       "Democrat": 1
     }
   },
   "primary": {
-    "total_unopposed": 21,
     "total_races_by_party": {
-      "Democrat": 24,
+      "Democrat": 23,
       "Republican": 14
     },
+    "total_unopposed": 21,
     "unopposed_by_party": {
       "Republican": 11,
       "Democrat": 11
     }
   },
-  "scraped_at": "2026-02-01T21:00:39.708053+00:00",
+  "scraped_at": "2026-02-03T00:54:57.065605+00:00",
   "unopposed_candidates": [
     {
       "state": "MD",

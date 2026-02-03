@@ -2,44 +2,41 @@
   "state": "NY",
   "state_name": "New York",
   "year": 2026,
-  "total": 19,
+  "total": 34,
   "total_races": 240,
   "total_races_by_party": {
-    "Unknown": 7,
-    "Republican": 24,
-    "Democrat": 40,
+    "Republican": 25,
+    "Democrat": 34,
+    "Unknown": 6,
     "Conservative": 1,
     "American Independent": 1
   },
   "general": {
-    "total_unopposed": 9,
-    "total_races": 240,
+    "total_races": 219,
+    "total_unopposed": 4,
     "unopposed_by_party": {
-      "Democrat": 6,
-      "Republican": 3
+      "Democrat": 2,
+      "Unknown": 2
     }
   },
   "primary": {
-    "total_unopposed": 10,
     "total_races_by_party": {
-      "Unknown": 7,
-      "Republican": 24,
-      "Democrat": 40,
-      "Conservative": 1,
-      "American Independent": 1
+      "Democrat": 34,
+      "Republican": 25
     },
+    "total_unopposed": 32,
     "unopposed_by_party": {
-      "Republican": 4,
-      "Democrat": 6
+      "Republican": 17,
+      "Democrat": 15
     }
   },
-  "scraped_at": "2026-02-01T21:04:07.989798+00:00",
+  "scraped_at": "2026-02-03T00:58:39.870085+00:00",
   "unopposed_candidates": [
     {
       "state": "NY",
       "office": "US House",
-      "district": "District 3",
-      "candidate": "Michael Lavery",
+      "district": "District 1",
+      "candidate": "Nicholas J. LaLota",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -47,8 +44,17 @@
     {
       "state": "NY",
       "office": "US House",
-      "district": "District 5",
-      "candidate": "Frank Lozada",
+      "district": "District 2",
+      "candidate": "Andrew Garbarino",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Tom Suozzi",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -65,17 +71,8 @@
     {
       "state": "NY",
       "office": "US House",
-      "district": "District 9",
-      "candidate": "Joshua Kaitan Lucas",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NY",
-      "office": "US House",
-      "district": "District 9",
-      "candidate": "Jean Depalis",
+      "district": "District 11",
+      "candidate": "Nicole Malliotakis",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -83,26 +80,8 @@
     {
       "state": "NY",
       "office": "US House",
-      "district": "District 11",
-      "candidate": "Michael DeCillis",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NY",
-      "office": "US House",
-      "district": "District 12",
-      "candidate": "Patrick Timmins",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NY",
-      "office": "US House",
-      "district": "District 13",
-      "candidate": "Michael Hano",
+      "district": "District 14",
+      "candidate": "Alexandria Ocasio-Cortez",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -113,7 +92,43 @@
       "district": "District 16",
       "candidate": "George Latimer",
       "party": "Democrat",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "US House",
+      "district": "District 17",
+      "candidate": "Michael Lawler",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "US House",
+      "district": "District 18",
+      "candidate": "Pat Ryan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "US House",
+      "district": "District 18",
+      "candidate": "Sharanjit Thind",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "US House",
+      "district": "District 19",
+      "candidate": "Josh Riley",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -122,7 +137,61 @@
       "district": "District 20",
       "candidate": "Paul Tonko",
       "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "US House",
+      "district": "District 21",
+      "candidate": "Robert Smullen",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "US House",
+      "district": "District 22",
+      "candidate": "William Staton",
+      "party": "Unknown",
       "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "US House",
+      "district": "District 22",
+      "candidate": "John Mannion",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "US House",
+      "district": "District 23",
+      "candidate": "Nick Langworthy",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "US House",
+      "district": "District 24",
+      "candidate": "Ken Estes",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "US House",
+      "district": "District 24",
+      "candidate": "Claudia Tenney",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -131,7 +200,16 @@
       "district": "District 26",
       "candidate": "Timothy M. Kennedy",
       "party": "Democrat",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Bruce Blakeman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -140,6 +218,69 @@
       "district": "District 1",
       "candidate": "Farzeen Bham",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "State Senate",
+      "district": "District 39",
+      "candidate": "Lisa Kaul",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "State Senate",
+      "district": "District 43",
+      "candidate": "Devin Lander",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "State Senate",
+      "district": "District 43",
+      "candidate": "Jacob Ashby",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "State Senate",
+      "district": "District 48",
+      "candidate": "Rich McCarron",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "State Senate",
+      "district": "District 50",
+      "candidate": "Christopher Ryan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "State Senate",
+      "district": "District 50",
+      "candidate": "James Corl",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "State Senate",
+      "district": "District 51",
+      "candidate": "Christopher Tague",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -155,28 +296,19 @@
     {
       "state": "NY",
       "office": "State Senate",
-      "district": "District 39",
-      "candidate": "Lisa Kaul",
+      "district": "District 61",
+      "candidate": "Jonathan Rivera",
       "party": "Democrat",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
       "state": "NY",
       "office": "State Senate",
-      "district": "District 48",
-      "candidate": "Rich McCarron",
+      "district": "District 61",
+      "candidate": "Dan Gagliardo",
       "party": "Republican",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NY",
-      "office": "State Senate",
-      "district": "District 51",
-      "candidate": "Christopher Tague",
-      "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -185,7 +317,7 @@
       "district": "District 41",
       "candidate": "Zahava Durchin",
       "party": "Democrat",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -194,7 +326,7 @@
       "district": "District 126",
       "candidate": "Dave Knapp",
       "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -203,7 +335,7 @@
       "district": "District 149",
       "candidate": "Adam Bojak",
       "party": "Democrat",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     }
   ]

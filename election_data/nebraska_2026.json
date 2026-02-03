@@ -1,14 +1,8 @@
 {
+  "error": true,
+  "message": "Scraping failed: only found 5 races",
   "state": "NE",
   "state_name": "Nebraska",
   "year": 2026,
-  "total": 0,
-  "total_races": 5,
-  "total_races_by_party": {
-    "Unknown": 3,
-    "Republican": 3,
-    "Democrat": 4
-  },
-  "scraped_at": "2026-01-31T21:10:59.815983+00:00",
-  "unopposed_candidates": []
+  "scraped_at": "2026-02-03T00:57:09.256247+00:00"
 }

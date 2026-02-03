@@ -2,39 +2,246 @@
   "state": "PA",
   "state_name": "Pennsylvania",
   "year": 2026,
-  "total": 4,
+  "total": 27,
   "total_races": 246,
   "total_races_by_party": {
     "Democrat": 18,
-    "Republican": 20,
-    "Unknown": 6
+    "Republican": 21,
+    "Unknown": 5
   },
   "general": {
-    "total_unopposed": 3,
-    "total_races": 246,
+    "total_races": 233,
+    "total_unopposed": 5,
     "unopposed_by_party": {
-      "Republican": 3
+      "Unknown": 5
     }
   },
   "primary": {
-    "total_unopposed": 1,
     "total_races_by_party": {
       "Democrat": 18,
-      "Republican": 20,
-      "Unknown": 6
+      "Republican": 21
     },
+    "total_unopposed": 22,
     "unopposed_by_party": {
-      "Democrat": 1
+      "Republican": 16,
+      "Democrat": 6
     }
   },
-  "scraped_at": "2026-02-01T21:05:50.526438+00:00",
+  "scraped_at": "2026-02-03T01:00:40.281127+00:00",
   "unopposed_candidates": [
+    {
+      "state": "PA",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "John Hoban",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Brian Fitzpatrick",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Jessica Arriaga",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Madeleine Dean",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Ismaine Ayouaz",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "US House",
+      "district": "District 5",
+      "candidate": "Melvin Prince Johnakin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "US House",
+      "district": "District 6",
+      "candidate": "Chrissy Houlahan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "US House",
+      "district": "District 6",
+      "candidate": "Marty Young",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "US House",
+      "district": "District 7",
+      "candidate": "Ramon Granados",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "US House",
+      "district": "District 7",
+      "candidate": "Ryan Mackenzie",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "US House",
+      "district": "District 8",
+      "candidate": "Rob Bresnahan Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "US House",
+      "district": "District 10",
+      "candidate": "Isabelle Harman",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "US House",
+      "district": "District 11",
+      "candidate": "Jeffrey Wilder",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "US House",
+      "district": "District 11",
+      "candidate": "Lloyd Smucker",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "US House",
+      "district": "District 13",
+      "candidate": "Beth Farnham",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "US House",
+      "district": "District 13",
+      "candidate": "John Joyce",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "US House",
+      "district": "District 14",
+      "candidate": "David Alan Bradstock",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "US House",
+      "district": "District 14",
+      "candidate": "Guy Reschenthaler",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "US House",
+      "district": "District 15",
+      "candidate": "Ray Bilger",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "US House",
+      "district": "District 15",
+      "candidate": "Glenn Thompson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "US House",
+      "district": "District 16",
+      "candidate": "Nick Singelis",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "US House",
+      "district": "District 16",
+      "candidate": "Justin Wagner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "US House",
+      "district": "District 16",
+      "candidate": "Mike Kelly",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "PA",
       "office": "Governor",
       "district": "Statewide",
-      "candidate": "Austin Davis",
-      "party": "Democrat",
+      "candidate": "Stacy Garrity",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -44,7 +251,7 @@
       "district": "District 38",
       "candidate": "Thomas West",
       "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -53,7 +260,7 @@
       "district": "District 11",
       "candidate": "Marci Mustello",
       "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -62,7 +269,7 @@
       "district": "District 106",
       "candidate": "Thomas Mehaffie",
       "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     }
   ]

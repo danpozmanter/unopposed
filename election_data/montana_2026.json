@@ -10,25 +10,24 @@
     "Republican": 70
   },
   "general": {
+    "total_races": 127,
     "total_unopposed": 1,
-    "total_races": 128,
     "unopposed_by_party": {
       "Unknown": 1
     }
   },
   "primary": {
-    "total_unopposed": 83,
     "total_races_by_party": {
-      "Unknown": 2,
       "Democrat": 39,
       "Republican": 70
     },
+    "total_unopposed": 83,
     "unopposed_by_party": {
       "Republican": 54,
       "Democrat": 29
     }
   },
-  "scraped_at": "2026-02-01T21:02:23.526577+00:00",
+  "scraped_at": "2026-02-03T00:56:45.360187+00:00",
   "unopposed_candidates": [
     {
       "state": "MT",

@@ -6,31 +6,29 @@
   "total_races": 133,
   "total_races_by_party": {
     "Unknown": 2,
-    "Libertarian": 1,
     "Democrat": 7,
-    "Republican": 6
+    "Republican": 6,
+    "Libertarian": 1
   },
   "general": {
-    "total_unopposed": 2,
     "total_races": 133,
+    "total_unopposed": 2,
     "unopposed_by_party": {
       "Republican": 1,
       "Democrat": 1
     }
   },
   "primary": {
-    "total_unopposed": 1,
     "total_races_by_party": {
-      "Unknown": 2,
-      "Libertarian": 1,
-      "Democrat": 7,
-      "Republican": 6
+      "Democrat": 1,
+      "Republican": 1
     },
+    "total_unopposed": 1,
     "unopposed_by_party": {
       "Democrat": 1
     }
   },
-  "scraped_at": "2026-02-01T21:06:32.059634+00:00",
+  "scraped_at": "2026-02-03T01:01:20.564477+00:00",
   "unopposed_candidates": [
     {
       "state": "SC",

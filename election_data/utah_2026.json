@@ -11,27 +11,26 @@
     "Other": 23
   },
   "general": {
+    "total_races": 93,
     "total_unopposed": 3,
-    "total_races": 94,
     "unopposed_by_party": {
       "Unknown": 3
     }
   },
   "primary": {
-    "total_unopposed": 147,
     "total_races_by_party": {
       "Democrat": 114,
       "Republican": 132,
-      "Unknown": 3,
       "Other": 23
     },
+    "total_unopposed": 147,
     "unopposed_by_party": {
       "Republican": 68,
       "Democrat": 59,
       "Other": 20
     }
   },
-  "scraped_at": "2026-02-01T21:07:35.407618+00:00",
+  "scraped_at": "2026-02-03T01:02:27.912997+00:00",
   "unopposed_candidates": [
     {
       "state": "UT",

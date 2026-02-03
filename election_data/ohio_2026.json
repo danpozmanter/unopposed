@@ -2,17 +2,17 @@
   "state": "OH",
   "state_name": "Ohio",
   "year": 2026,
-  "total": 24,
+  "total": 26,
   "total_races": 131,
   "total_races_by_party": {
+    "Republican": 26,
     "Libertarian": 2,
     "Democrat": 18,
-    "Republican": 24,
     "Unknown": 1
   },
   "general": {
+    "total_races": 119,
     "total_unopposed": 5,
-    "total_races": 131,
     "unopposed_by_party": {
       "Libertarian": 2,
       "Republican": 1,
@@ -21,19 +21,17 @@
     }
   },
   "primary": {
-    "total_unopposed": 21,
     "total_races_by_party": {
-      "Libertarian": 2,
       "Democrat": 18,
-      "Republican": 24,
-      "Unknown": 1
+      "Republican": 26
     },
+    "total_unopposed": 23,
     "unopposed_by_party": {
-      "Republican": 11,
+      "Republican": 13,
       "Democrat": 10
     }
   },
-  "scraped_at": "2026-02-01T21:04:53.556247+00:00",
+  "scraped_at": "2026-02-03T00:59:31.793349+00:00",
   "unopposed_candidates": [
     {
       "state": "OH",
@@ -236,6 +234,15 @@
     {
       "state": "OH",
       "office": "State House",
+      "district": "District 67",
+      "candidate": "Melanie Miller",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
       "district": "District 81",
       "candidate": "Brandon Moskwa",
       "party": "Republican",
@@ -248,6 +255,15 @@
       "district": "District 88",
       "candidate": "Aaron Jones",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 88",
+      "candidate": "Eric Watson",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     }

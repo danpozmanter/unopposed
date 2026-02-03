@@ -2,18 +2,18 @@
   "state": "GA",
   "state_name": "Georgia",
   "year": 2026,
-  "total": 150,
+  "total": 151,
   "total_races": 252,
   "total_races_by_party": {
-    "Unknown": 4,
-    "Democrat": 83,
     "Republican": 106,
+    "Democrat": 84,
+    "Unknown": 4,
     "Socialist Labor": 1,
     "Communist": 1
   },
   "general": {
+    "total_races": 242,
     "total_unopposed": 5,
-    "total_races": 252,
     "unopposed_by_party": {
       "Socialist Labor": 1,
       "Communist": 1,
@@ -21,20 +21,17 @@
     }
   },
   "primary": {
-    "total_unopposed": 145,
     "total_races_by_party": {
-      "Unknown": 4,
-      "Democrat": 83,
-      "Republican": 106,
-      "Socialist Labor": 1,
-      "Communist": 1
+      "Democrat": 84,
+      "Republican": 106
     },
+    "total_unopposed": 146,
     "unopposed_by_party": {
       "Republican": 85,
-      "Democrat": 60
+      "Democrat": 61
     }
   },
-  "scraped_at": "2026-02-01T20:57:41.035809+00:00",
+  "scraped_at": "2026-02-03T00:52:05.423029+00:00",
   "unopposed_candidates": [
     {
       "state": "GA",
@@ -185,6 +182,15 @@
       "office": "State Senate",
       "district": "District 15",
       "candidate": "Ed Harbison",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Pauline Henley",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

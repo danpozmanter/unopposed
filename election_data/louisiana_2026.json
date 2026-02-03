@@ -1,77 +1,8 @@
 {
+  "error": true,
+  "message": "Scraping failed: only found 6 races",
   "state": "LA",
   "state_name": "Louisiana",
   "year": 2026,
-  "total": 7,
-  "total_races": 6,
-  "total_races_by_party": {
-    "Democrat": 6,
-    "Republican": 5
-  },
-  "scraped_at": "2026-01-31T21:08:33.813964+00:00",
-  "unopposed_candidates": [
-    {
-      "state": "LA",
-      "office": "US House",
-      "district": "District 1",
-      "candidate": "Steve Scalise",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "LA",
-      "office": "US House",
-      "district": "District 2",
-      "candidate": "Troy Carter",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "LA",
-      "office": "US House",
-      "district": "District 3",
-      "candidate": "Tia LeBrun",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "LA",
-      "office": "US House",
-      "district": "District 3",
-      "candidate": "Clay Higgins",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "LA",
-      "office": "US House",
-      "district": "District 4",
-      "candidate": "Mike Johnson",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "LA",
-      "office": "US House",
-      "district": "District 5",
-      "candidate": "Larry Foy",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "LA",
-      "office": "US House",
-      "district": "District 6",
-      "candidate": "Cleo Fields",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    }
-  ]
+  "scraped_at": "2026-02-03T00:54:24.334831+00:00"
 }

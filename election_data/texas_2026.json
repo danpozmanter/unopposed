@@ -12,8 +12,8 @@
     "Other": 2
   },
   "general": {
+    "total_races": 181,
     "total_unopposed": 15,
-    "total_races": 206,
     "unopposed_by_party": {
       "Unknown": 12,
       "American Independent": 1,
@@ -21,20 +21,17 @@
     }
   },
   "primary": {
-    "total_unopposed": 227,
     "total_races_by_party": {
-      "Republican": 187,
       "Democrat": 206,
-      "Unknown": 14,
-      "American Independent": 1,
-      "Other": 2
+      "Republican": 187
     },
+    "total_unopposed": 227,
     "unopposed_by_party": {
       "Republican": 100,
       "Democrat": 127
     }
   },
-  "scraped_at": "2026-02-01T21:07:22.200523+00:00",
+  "scraped_at": "2026-02-03T01:02:10.504279+00:00",
   "unopposed_candidates": [
     {
       "state": "TX",

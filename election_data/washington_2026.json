@@ -6,26 +6,26 @@
   "total_races": 132,
   "total_races_by_party": {
     "Democrat": 83,
-    "Unknown": 5,
     "Republican": 48,
+    "Unknown": 5,
     "Other": 1
   },
   "general": {
+    "total_races": 124,
     "total_unopposed": 4,
-    "total_races": 132,
     "unopposed_by_party": {
       "Unknown": 2,
       "Democrat": 2
     }
   },
   "primary": {
-    "total_unopposed": 82,
     "total_races_by_party": {
-      "Democrat": 83,
-      "Unknown": 5,
+      "Democrat": 82,
       "Republican": 48,
+      "Unknown": 4,
       "Other": 1
     },
+    "total_unopposed": 82,
     "unopposed_by_party": {
       "Unknown": 2,
       "Democrat": 71,
@@ -33,7 +33,7 @@
       "Other": 1
     }
   },
-  "scraped_at": "2026-02-01T21:08:28.887390+00:00",
+  "scraped_at": "2026-02-03T01:03:26.905963+00:00",
   "unopposed_candidates": [
     {
       "state": "WA",

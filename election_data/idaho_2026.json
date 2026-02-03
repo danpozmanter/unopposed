@@ -2,36 +2,34 @@
   "state": "ID",
   "state_name": "Idaho",
   "year": 2026,
-  "total": 107,
+  "total": 112,
   "total_races": 109,
   "total_races_by_party": {
-    "Democrat": 42,
-    "Republican": 99,
+    "Democrat": 43,
+    "Republican": 102,
     "Unknown": 4,
-    "Other": 9
+    "Other": 11
   },
   "general": {
-    "total_unopposed": 9,
     "total_races": 109,
+    "total_unopposed": 11,
     "unopposed_by_party": {
       "Unknown": 2,
-      "Other": 8
+      "Other": 10
     }
   },
   "primary": {
-    "total_unopposed": 79,
     "total_races_by_party": {
-      "Democrat": 42,
-      "Republican": 99,
-      "Unknown": 4,
-      "Other": 9
+      "Democrat": 43,
+      "Republican": 101
     },
+    "total_unopposed": 81,
     "unopposed_by_party": {
-      "Democrat": 37,
-      "Republican": 60
+      "Democrat": 38,
+      "Republican": 62
     }
   },
-  "scraped_at": "2026-02-01T20:58:22.009074+00:00",
+  "scraped_at": "2026-02-03T00:52:43.419361+00:00",
   "unopposed_candidates": [
     {
       "state": "ID",
@@ -126,15 +124,6 @@
     {
       "state": "ID",
       "office": "State Senate",
-      "district": "District 7",
-      "candidate": "Cindy Carlson",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ID",
-      "office": "State Senate",
       "district": "District 9",
       "candidate": "Rachel Buck",
       "party": "Democrat",
@@ -201,6 +190,15 @@
       "district": "District 16",
       "candidate": "Alison Rabe",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Leland Lay",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -282,6 +280,15 @@
       "district": "District 23",
       "candidate": "Todd Lakey",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "State Senate",
+      "district": "District 25",
+      "candidate": "W. Lane Startin",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -380,6 +387,15 @@
       "office": "State Senate",
       "district": "District 23",
       "candidate": "Paul Smith",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "State Senate",
+      "district": "District 26",
+      "candidate": "Shaila Tate",
       "party": "Other",
       "unopposed_in": "General",
       "source": "Ballotpedia"
@@ -649,6 +665,15 @@
       "state": "ID",
       "office": "State House",
       "district": "District 16",
+      "candidate": "Jacquelyn Davidson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "State House",
+      "district": "District 16",
       "candidate": "Annie Haws",
       "party": "Democrat",
       "unopposed_in": "Primary",
@@ -900,6 +925,15 @@
     {
       "state": "ID",
       "office": "State House",
+      "district": "District 32",
+      "candidate": "Erin Bingham",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "State House",
       "district": "District 33",
       "candidate": "Barbara Ehardt",
       "party": "Republican",
@@ -992,6 +1026,15 @@
       "office": "State House",
       "district": "District 25",
       "candidate": "Jeremy Brown",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Isabella Schiffler",
       "party": "Other",
       "unopposed_in": "General",
       "source": "Ballotpedia"

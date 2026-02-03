@@ -2,36 +2,34 @@
   "state": "MI",
   "state_name": "Michigan",
   "year": 2026,
-  "total": 33,
+  "total": 34,
   "total_races": 163,
   "total_races_by_party": {
     "Unknown": 5,
-    "Democrat": 32,
     "Republican": 20,
+    "Democrat": 33,
     "Other": 1
   },
   "general": {
+    "total_races": 153,
     "total_unopposed": 4,
-    "total_races": 163,
     "unopposed_by_party": {
       "Unknown": 3,
       "Other": 1
     }
   },
   "primary": {
-    "total_unopposed": 29,
     "total_races_by_party": {
-      "Unknown": 5,
-      "Democrat": 32,
-      "Republican": 20,
-      "Other": 1
+      "Democrat": 33,
+      "Republican": 20
     },
+    "total_unopposed": 30,
     "unopposed_by_party": {
       "Republican": 14,
-      "Democrat": 15
+      "Democrat": 16
     }
   },
-  "scraped_at": "2026-02-01T21:01:11.064265+00:00",
+  "scraped_at": "2026-02-03T00:55:43.943921+00:00",
   "unopposed_candidates": [
     {
       "state": "MI",
@@ -218,6 +216,15 @@
       "office": "State House",
       "district": "District 3",
       "candidate": "Hussein Berry",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Roslyn Ogburn",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

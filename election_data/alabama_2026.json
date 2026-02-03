@@ -9,22 +9,22 @@
     "Democrat": 82
   },
   "general": {
+    "total_races": 140,
     "total_unopposed": 0,
-    "total_races": 149,
     "unopposed_by_party": {}
   },
   "primary": {
-    "total_unopposed": 146,
     "total_races_by_party": {
-      "Republican": 124,
-      "Democrat": 82
+      "Democrat": 82,
+      "Republican": 124
     },
+    "total_unopposed": 146,
     "unopposed_by_party": {
       "Democrat": 60,
       "Republican": 86
     }
   },
-  "scraped_at": "2026-02-01T20:55:51.619317+00:00",
+  "scraped_at": "2026-02-03T00:48:55.749844+00:00",
   "unopposed_candidates": [
     {
       "state": "AL",

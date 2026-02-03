@@ -8,20 +8,20 @@
     "Republican": 3
   },
   "general": {
+    "total_races": 78,
     "total_unopposed": 0,
-    "total_races": 80,
     "unopposed_by_party": {}
   },
   "primary": {
-    "total_unopposed": 1,
     "total_races_by_party": {
       "Republican": 3
     },
+    "total_unopposed": 1,
     "unopposed_by_party": {
       "Republican": 1
     }
   },
-  "scraped_at": "2026-02-01T21:09:33.745709+00:00",
+  "scraped_at": "2026-02-03T01:04:35.426310+00:00",
   "unopposed_candidates": [
     {
       "state": "WY",

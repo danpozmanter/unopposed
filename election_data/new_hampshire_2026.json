@@ -5,30 +5,29 @@
   "total": 2,
   "total_races": 28,
   "total_races_by_party": {
-    "Democrat": 4,
+    "Unknown": 1,
     "Republican": 3,
-    "Unknown": 1
+    "Democrat": 4
   },
   "general": {
+    "total_races": 25,
     "total_unopposed": 2,
-    "total_races": 28,
     "unopposed_by_party": {
       "Unknown": 1,
       "Democrat": 1
     }
   },
   "primary": {
-    "total_unopposed": 1,
     "total_races_by_party": {
       "Democrat": 4,
-      "Republican": 3,
-      "Unknown": 1
+      "Republican": 3
     },
+    "total_unopposed": 1,
     "unopposed_by_party": {
       "Democrat": 1
     }
   },
-  "scraped_at": "2026-02-01T21:03:19.691620+00:00",
+  "scraped_at": "2026-02-03T00:57:50.495030+00:00",
   "unopposed_candidates": [
     {
       "state": "NH",
