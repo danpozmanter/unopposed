@@ -2,7 +2,7 @@
   "state": "MI",
   "state_name": "Michigan",
   "year": 2026,
-  "total": 34,
+  "total": 33,
   "total_races": 163,
   "total_races_by_party": {
     "Unknown": 5,
@@ -12,9 +12,9 @@
   },
   "general": {
     "total_races": 153,
-    "total_unopposed": 4,
+    "total_unopposed": 3,
     "unopposed_by_party": {
-      "Unknown": 3,
+      "Unknown": 2,
       "Other": 1
     }
   },
@@ -29,7 +29,7 @@
       "Democrat": 16
     }
   },
-  "scraped_at": "2026-02-03T00:55:43.943921+00:00",
+  "scraped_at": "2026-02-04T00:51:19.436384+00:00",
   "unopposed_candidates": [
     {
       "state": "MI",
@@ -101,15 +101,6 @@
       "candidate": "Amir Hassan",
       "party": "Republican",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MI",
-      "office": "US House",
-      "district": "District 9",
-      "candidate": "Jasen Cartwright",
-      "party": "Unknown",
-      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {

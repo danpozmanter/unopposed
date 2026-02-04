@@ -2,12 +2,12 @@
   "state": "AZ",
   "state_name": "Arizona",
   "year": 2026,
-  "total": 27,
+  "total": 28,
   "total_races": 70,
   "total_races_by_party": {
+    "Republican": 17,
     "Unknown": 4,
     "Democrat": 19,
-    "Republican": 16,
     "Green/Rainbow": 2,
     "Arizona Independent": 1,
     "Other": 3
@@ -24,15 +24,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 19,
-      "Republican": 16
+      "Republican": 17
     },
-    "total_unopposed": 21,
+    "total_unopposed": 22,
     "unopposed_by_party": {
-      "Republican": 10,
+      "Republican": 11,
       "Democrat": 11
     }
   },
-  "scraped_at": "2026-02-03T00:49:42.510726+00:00",
+  "scraped_at": "2026-02-04T00:45:13.420894+00:00",
   "unopposed_candidates": [
     {
       "state": "AZ",
@@ -48,6 +48,15 @@
       "office": "US House",
       "district": "District 2",
       "candidate": "Eli Crane",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Kirt Burgess",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

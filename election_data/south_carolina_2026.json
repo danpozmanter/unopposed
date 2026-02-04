@@ -6,9 +6,9 @@
   "total_races": 133,
   "total_races_by_party": {
     "Unknown": 2,
-    "Democrat": 7,
-    "Republican": 6,
-    "Libertarian": 1
+    "Democrat": 8,
+    "Libertarian": 2,
+    "Republican": 6
   },
   "general": {
     "total_races": 133,
@@ -20,7 +20,7 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 1,
+      "Democrat": 2,
       "Republican": 1
     },
     "total_unopposed": 1,
@@ -28,17 +28,8 @@
       "Democrat": 1
     }
   },
-  "scraped_at": "2026-02-03T01:01:20.564477+00:00",
+  "scraped_at": "2026-02-04T00:56:36.577510+00:00",
   "unopposed_candidates": [
-    {
-      "state": "SC",
-      "office": "US House",
-      "district": "District 1",
-      "candidate": "Nancy Lacore",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
     {
       "state": "SC",
       "office": "US House",
@@ -46,6 +37,15 @@
       "candidate": "Sheri Biggs",
       "party": "Republican",
       "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Eunice Lehmacher",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {

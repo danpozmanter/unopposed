@@ -2,13 +2,13 @@
   "state": "WV",
   "state_name": "West Virginia",
   "year": 2026,
-  "total": 137,
+  "total": 131,
   "total_races": 120,
   "total_races_by_party": {
-    "Democrat": 85,
-    "Republican": 113,
+    "Republican": 114,
+    "Democrat": 94,
     "Unknown": 2,
-    "Other": 6
+    "Other": 7
   },
   "general": {
     "total_races": 119,
@@ -20,16 +20,18 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 85,
-      "Republican": 113
+      "Democrat": 94,
+      "Republican": 114,
+      "Other": 1
     },
-    "total_unopposed": 130,
+    "total_unopposed": 124,
     "unopposed_by_party": {
-      "Democrat": 68,
-      "Republican": 62
+      "Democrat": 72,
+      "Republican": 51,
+      "Other": 1
     }
   },
-  "scraped_at": "2026-02-03T01:03:45.831424+00:00",
+  "scraped_at": "2026-02-04T00:59:00.185194+00:00",
   "unopposed_candidates": [
     {
       "state": "WV",
@@ -161,8 +163,8 @@
       "state": "WV",
       "office": "State House",
       "district": "District 5",
-      "candidate": "Riley Watkins",
-      "party": "Republican",
+      "candidate": "Karen Shuler Stakem",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -172,15 +174,6 @@
       "district": "District 6",
       "candidate": "Cody Cumpston",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WV",
-      "office": "State House",
-      "district": "District 6",
-      "candidate": "Jeffrey Stephens",
-      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -197,8 +190,8 @@
       "state": "WV",
       "office": "State House",
       "district": "District 10",
-      "candidate": "Everette Anderson",
-      "party": "Republican",
+      "candidate": "Christopher Jones",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -235,6 +228,15 @@
       "district": "District 13",
       "candidate": "Scot Heckert",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WV",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Jim Marion",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -367,6 +369,15 @@
     {
       "state": "WV",
       "office": "State House",
+      "district": "District 25",
+      "candidate": "Sean Hornbuckle",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WV",
+      "office": "State House",
       "district": "District 26",
       "candidate": "Bryan Adams",
       "party": "Democrat",
@@ -457,9 +468,9 @@
     {
       "state": "WV",
       "office": "State House",
-      "district": "District 33",
-      "candidate": "Jordan Bridges",
-      "party": "Republican",
+      "district": "District 34",
+      "candidate": "Tara Sexton",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -478,15 +489,6 @@
       "district": "District 36",
       "candidate": "Katelynn Jordan",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WV",
-      "office": "State House",
-      "district": "District 36",
-      "candidate": "S. David Green",
-      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -529,15 +531,6 @@
     {
       "state": "WV",
       "office": "State House",
-      "district": "District 39",
-      "candidate": "Samuel Lusk",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WV",
-      "office": "State House",
       "district": "District 40",
       "candidate": "Jennifer Gilkerson",
       "party": "Democrat",
@@ -556,18 +549,18 @@
     {
       "state": "WV",
       "office": "State House",
-      "district": "District 43",
-      "candidate": "Christopher Toney",
-      "party": "Republican",
+      "district": "District 42",
+      "candidate": "Courtney Vandall",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
       "state": "WV",
       "office": "State House",
-      "district": "District 45",
-      "candidate": "Joseph Golden",
-      "party": "Democrat",
+      "district": "District 43",
+      "candidate": "Christopher Toney",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -586,6 +579,15 @@
       "district": "District 46",
       "candidate": "Sarah Umberger",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WV",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "Maria Jenkins",
+      "party": "Other",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -637,15 +639,6 @@
     {
       "state": "WV",
       "office": "State House",
-      "district": "District 50",
-      "candidate": "David Pritt",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WV",
-      "office": "State House",
       "district": "District 51",
       "candidate": "Colby Lopez",
       "party": "Democrat",
@@ -664,8 +657,8 @@
     {
       "state": "WV",
       "office": "State House",
-      "district": "District 53",
-      "candidate": "Keena Mullins",
+      "district": "District 54",
+      "candidate": "Mike Pushkin",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -674,8 +667,8 @@
       "state": "WV",
       "office": "State House",
       "district": "District 54",
-      "candidate": "Mike Pushkin",
-      "party": "Democrat",
+      "candidate": "Julien Aklei",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -710,15 +703,6 @@
       "state": "WV",
       "office": "State House",
       "district": "District 58",
-      "candidate": "Alaina Schwechler",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WV",
-      "office": "State House",
-      "district": "District 58",
       "candidate": "Walter Hall",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -739,6 +723,15 @@
       "district": "District 59",
       "candidate": "Andy Shamblin",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WV",
+      "office": "State House",
+      "district": "District 60",
+      "candidate": "Lynette Shaw",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -826,36 +819,9 @@
     {
       "state": "WV",
       "office": "State House",
-      "district": "District 68",
-      "candidate": "David Critchfield",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WV",
-      "office": "State House",
-      "district": "District 69",
-      "candidate": "Keith Marple",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WV",
-      "office": "State House",
       "district": "District 71",
       "candidate": "Robert Garcia",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WV",
-      "office": "State House",
-      "district": "District 72",
-      "candidate": "Clay Riley",
-      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -944,15 +910,6 @@
       "state": "WV",
       "office": "State House",
       "district": "District 80",
-      "candidate": "Olivia Miller",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WV",
-      "office": "State House",
-      "district": "District 80",
       "candidate": "Sawyer Dennison",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -1018,15 +975,6 @@
       "district": "District 87",
       "candidate": "Rebecca Holler",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WV",
-      "office": "State House",
-      "district": "District 87",
-      "candidate": "Gary G. Howell",
-      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -1159,6 +1107,15 @@
     {
       "state": "WV",
       "office": "State House",
+      "district": "District 96",
+      "candidate": "Lisa Cathro",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WV",
+      "office": "State House",
       "district": "District 97",
       "candidate": "Lucia Valentine",
       "party": "Democrat",
@@ -1188,15 +1145,6 @@
       "office": "State House",
       "district": "District 98",
       "candidate": "Joe Funkhouser",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WV",
-      "office": "State House",
-      "district": "District 99",
-      "candidate": "Wayne Clark",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

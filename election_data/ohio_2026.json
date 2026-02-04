@@ -2,22 +2,22 @@
   "state": "OH",
   "state_name": "Ohio",
   "year": 2026,
-  "total": 26,
+  "total": 27,
   "total_races": 131,
   "total_races_by_party": {
-    "Republican": 26,
-    "Libertarian": 2,
     "Democrat": 18,
-    "Unknown": 1
+    "Libertarian": 2,
+    "Republican": 26,
+    "Unknown": 2
   },
   "general": {
-    "total_races": 119,
-    "total_unopposed": 5,
+    "total_races": 120,
+    "total_unopposed": 6,
     "unopposed_by_party": {
       "Libertarian": 2,
       "Republican": 1,
       "Democrat": 1,
-      "Unknown": 1
+      "Unknown": 2
     }
   },
   "primary": {
@@ -31,7 +31,7 @@
       "Democrat": 10
     }
   },
-  "scraped_at": "2026-02-03T00:59:31.793349+00:00",
+  "scraped_at": "2026-02-04T00:55:10.905133+00:00",
   "unopposed_candidates": [
     {
       "state": "OH",
@@ -67,6 +67,15 @@
       "candidate": "Jim Jordan",
       "party": "Republican",
       "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "US House",
+      "district": "District 5",
+      "candidate": "Dalton Franklin",
+      "party": "Unknown",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {

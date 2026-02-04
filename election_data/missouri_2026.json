@@ -2,10 +2,10 @@
   "state": "MO",
   "state_name": "Missouri",
   "year": 2026,
-  "total": 137,
+  "total": 138,
   "total_races": 188,
   "total_races_by_party": {
-    "Democrat": 78,
+    "Democrat": 79,
     "Republican": 108
   },
   "general": {
@@ -15,16 +15,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 78,
+      "Democrat": 79,
       "Republican": 108
     },
-    "total_unopposed": 137,
+    "total_unopposed": 138,
     "unopposed_by_party": {
       "Republican": 72,
-      "Democrat": 65
+      "Democrat": 66
     }
   },
-  "scraped_at": "2026-02-03T00:56:28.041479+00:00",
+  "scraped_at": "2026-02-04T00:52:18.613707+00:00",
   "unopposed_candidates": [
     {
       "state": "MO",
@@ -1094,6 +1094,15 @@
       "district": "District 134",
       "candidate": "Alex Riley",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 135",
+      "candidate": "John Chiles",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

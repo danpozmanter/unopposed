@@ -2,12 +2,12 @@
   "state": "PA",
   "state_name": "Pennsylvania",
   "year": 2026,
-  "total": 27,
+  "total": 26,
   "total_races": 246,
   "total_races_by_party": {
-    "Democrat": 18,
-    "Republican": 21,
-    "Unknown": 5
+    "Unknown": 5,
+    "Republican": 20,
+    "Democrat": 18
   },
   "general": {
     "total_races": 233,
@@ -19,15 +19,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 18,
-      "Republican": 21
+      "Republican": 20
     },
-    "total_unopposed": 22,
+    "total_unopposed": 21,
     "unopposed_by_party": {
-      "Republican": 16,
+      "Republican": 15,
       "Democrat": 6
     }
   },
-  "scraped_at": "2026-02-03T01:00:40.281127+00:00",
+  "scraped_at": "2026-02-04T00:55:59.575954+00:00",
   "unopposed_candidates": [
     {
       "state": "PA",
@@ -70,15 +70,6 @@
       "office": "US House",
       "district": "District 4",
       "candidate": "Ismaine Ayouaz",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "PA",
-      "office": "US House",
-      "district": "District 5",
-      "candidate": "Melvin Prince Johnakin",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

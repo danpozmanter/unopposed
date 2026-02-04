@@ -2,11 +2,11 @@
   "state": "MD",
   "state_name": "Maryland",
   "year": 2026,
-  "total": 23,
+  "total": 24,
   "total_races": 126,
   "total_races_by_party": {
     "Republican": 14,
-    "Democrat": 24
+    "Democrat": 25
   },
   "general": {
     "total_races": 118,
@@ -17,16 +17,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 23,
+      "Democrat": 24,
       "Republican": 14
     },
-    "total_unopposed": 21,
+    "total_unopposed": 22,
     "unopposed_by_party": {
       "Republican": 11,
-      "Democrat": 11
+      "Democrat": 12
     }
   },
-  "scraped_at": "2026-02-03T00:54:57.065605+00:00",
+  "scraped_at": "2026-02-04T00:50:22.681761+00:00",
   "unopposed_candidates": [
     {
       "state": "MD",
@@ -114,6 +114,15 @@
       "office": "State Senate",
       "district": "District 18",
       "candidate": "Jeff Waldstreicher",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "Jason Fowler",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

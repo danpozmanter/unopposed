@@ -2,11 +2,11 @@
   "state": "WI",
   "state_name": "Wisconsin",
   "year": 2026,
-  "total": 30,
+  "total": 33,
   "total_races": 125,
   "total_races_by_party": {
-    "Democrat": 32,
     "Unknown": 4,
+    "Democrat": 32,
     "Republican": 31,
     "Other": 1
   },
@@ -14,22 +14,23 @@
     "total_races": 125,
     "total_unopposed": 29,
     "unopposed_by_party": {
-      "Democrat": 13,
-      "Republican": 15,
+      "Democrat": 14,
+      "Republican": 14,
       "Other": 1
     }
   },
   "primary": {
     "total_races_by_party": {
       "Democrat": 1,
-      "Republican": 1
+      "Republican": 4
     },
-    "total_unopposed": 1,
+    "total_unopposed": 4,
     "unopposed_by_party": {
-      "Democrat": 1
+      "Democrat": 1,
+      "Republican": 3
     }
   },
-  "scraped_at": "2026-02-03T01:04:08.857704+00:00",
+  "scraped_at": "2026-02-04T00:59:19.446812+00:00",
   "unopposed_candidates": [
     {
       "state": "WI",
@@ -37,6 +38,33 @@
       "district": "District 1",
       "candidate": "Travis Beckius",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Gwen Moore",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Purnima Nath",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "US House",
+      "district": "District 7",
+      "candidate": "Niina Threlfall-Baum",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -110,6 +138,15 @@
       "candidate": "Mike Van Someren",
       "party": "Democrat",
       "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 74",
+      "candidate": "Scott Harbridge",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -262,15 +299,6 @@
       "district": "District 73",
       "candidate": "Angela Stroud",
       "party": "Democrat",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WI",
-      "office": "State House",
-      "district": "District 74",
-      "candidate": "Scott Harbridge",
-      "party": "Republican",
       "unopposed_in": "General",
       "source": "Ballotpedia"
     },

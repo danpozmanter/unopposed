@@ -2,33 +2,32 @@
   "state": "MN",
   "state_name": "Minnesota",
   "year": 2026,
-  "total": 61,
+  "total": 64,
   "total_races": 210,
   "total_races_by_party": {
-    "Unknown": 3,
-    "Democrat": 43,
-    "Republican": 32
+    "Republican": 33,
+    "Unknown": 4,
+    "Democrat": 45
   },
   "general": {
-    "total_races": 204,
+    "total_races": 205,
     "total_unopposed": 4,
     "unopposed_by_party": {
-      "Unknown": 3,
-      "Democrat": 1
+      "Unknown": 4
     }
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 43,
-      "Republican": 32
+      "Democrat": 45,
+      "Republican": 33
     },
     "total_unopposed": 55,
     "unopposed_by_party": {
-      "Democrat": 35,
-      "Republican": 23
+      "Democrat": 36,
+      "Republican": 24
     }
   },
-  "scraped_at": "2026-02-03T00:55:59.840536+00:00",
+  "scraped_at": "2026-02-04T00:51:36.185847+00:00",
   "unopposed_candidates": [
     {
       "state": "MN",
@@ -87,17 +86,17 @@
     {
       "state": "MN",
       "office": "US House",
-      "district": "District 4",
-      "candidate": "Betty McCollum",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "district": "District 5",
+      "candidate": "DeVelle Jackson",
+      "party": "Unknown",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
       "state": "MN",
       "office": "US House",
-      "district": "District 5",
-      "candidate": "DeVelle Jackson",
+      "district": "District 6",
+      "candidate": "Austin Winkelman",
       "party": "Unknown",
       "unopposed_in": "General",
       "source": "Ballotpedia"
@@ -376,6 +375,15 @@
       "state": "MN",
       "office": "State House",
       "district": "District 3",
+      "candidate": "Roger Skraba",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State House",
+      "district": "District 3",
       "candidate": "Rich Tru",
       "party": "Democrat",
       "unopposed_in": "Primary",
@@ -413,6 +421,15 @@
       "office": "State House",
       "district": "District 8",
       "candidate": "Pete Johnson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Alicia Kozlowski",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -495,6 +512,15 @@
       "district": "District 24",
       "candidate": "Duane Quam",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Kim Hicks",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

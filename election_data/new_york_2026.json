@@ -2,21 +2,21 @@
   "state": "NY",
   "state_name": "New York",
   "year": 2026,
-  "total": 34,
+  "total": 33,
   "total_races": 240,
   "total_races_by_party": {
-    "Republican": 25,
     "Democrat": 34,
-    "Unknown": 6,
+    "Unknown": 7,
+    "Republican": 25,
     "Conservative": 1,
     "American Independent": 1
   },
   "general": {
-    "total_races": 219,
+    "total_races": 220,
     "total_unopposed": 4,
     "unopposed_by_party": {
-      "Democrat": 2,
-      "Unknown": 2
+      "Unknown": 3,
+      "Democrat": 1
     }
   },
   "primary": {
@@ -24,13 +24,13 @@
       "Democrat": 34,
       "Republican": 25
     },
-    "total_unopposed": 32,
+    "total_unopposed": 30,
     "unopposed_by_party": {
-      "Republican": 17,
+      "Republican": 15,
       "Democrat": 15
     }
   },
-  "scraped_at": "2026-02-03T00:58:39.870085+00:00",
+  "scraped_at": "2026-02-04T00:54:23.832089+00:00",
   "unopposed_candidates": [
     {
       "state": "NY",
@@ -90,9 +90,18 @@
       "state": "NY",
       "office": "US House",
       "district": "District 16",
+      "candidate": "John Franklin Wilson IV",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "US House",
+      "district": "District 16",
       "candidate": "George Latimer",
       "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -143,15 +152,6 @@
     {
       "state": "NY",
       "office": "US House",
-      "district": "District 21",
-      "candidate": "Robert Smullen",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NY",
-      "office": "US House",
       "district": "District 22",
       "candidate": "William Staton",
       "party": "Unknown",
@@ -183,15 +183,6 @@
       "candidate": "Ken Estes",
       "party": "Unknown",
       "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NY",
-      "office": "US House",
-      "district": "District 24",
-      "candidate": "Claudia Tenney",
-      "party": "Republican",
-      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {

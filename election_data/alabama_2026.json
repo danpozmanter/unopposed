@@ -2,11 +2,11 @@
   "state": "AL",
   "state_name": "Alabama",
   "year": 2026,
-  "total": 146,
+  "total": 147,
   "total_races": 149,
   "total_races_by_party": {
-    "Republican": 124,
-    "Democrat": 82
+    "Democrat": 85,
+    "Republican": 125
   },
   "general": {
     "total_races": 140,
@@ -15,16 +15,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 82,
-      "Republican": 124
+      "Democrat": 85,
+      "Republican": 125
     },
-    "total_unopposed": 146,
+    "total_unopposed": 147,
     "unopposed_by_party": {
-      "Democrat": 60,
+      "Democrat": 61,
       "Republican": 86
     }
   },
-  "scraped_at": "2026-02-03T00:48:55.749844+00:00",
+  "scraped_at": "2026-02-04T00:44:36.156258+00:00",
   "unopposed_candidates": [
     {
       "state": "AL",
@@ -336,6 +336,15 @@
       "state": "AL",
       "office": "State Senate",
       "district": "District 26",
+      "candidate": "Tabitha Isner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 26",
       "candidate": "Will Barfoot",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -488,6 +497,15 @@
     {
       "state": "AL",
       "office": "State House",
+      "district": "District 8",
+      "candidate": "Bruce Sparkman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
       "district": "District 9",
       "candidate": "Scott Stadthagen",
       "party": "Republican",
@@ -554,6 +572,15 @@
       "district": "District 15",
       "candidate": "Leigh Hulsey",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Christian Martin",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -642,15 +669,6 @@
       "state": "AL",
       "office": "State House",
       "district": "District 25",
-      "candidate": "Damon Eubanks",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AL",
-      "office": "State House",
-      "district": "District 25",
       "candidate": "Phillip Rigsby",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -715,6 +733,15 @@
       "office": "State House",
       "district": "District 31",
       "candidate": "Troy Stubbs",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Joey Callahan",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -911,15 +938,6 @@
     {
       "state": "AL",
       "office": "State House",
-      "district": "District 55",
-      "candidate": "Travis Hendrix",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AL",
-      "office": "State House",
       "district": "District 56",
       "candidate": "Ontario Tillman",
       "party": "Democrat",
@@ -1100,15 +1118,6 @@
     {
       "state": "AL",
       "office": "State House",
-      "district": "District 76",
-      "candidate": "Patrice McClammy",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AL",
-      "office": "State House",
       "district": "District 77",
       "candidate": "TaShina Morris",
       "party": "Democrat",
@@ -1245,8 +1254,8 @@
       "state": "AL",
       "office": "State House",
       "district": "District 93",
-      "candidate": "Steve Clouse",
-      "party": "Republican",
+      "candidate": "Klenton Smith",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

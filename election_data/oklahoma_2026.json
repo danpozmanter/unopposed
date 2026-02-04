@@ -2,16 +2,16 @@
   "state": "OK",
   "state_name": "Oklahoma",
   "year": 2026,
-  "total": 26,
+  "total": 27,
   "total_races": 132,
   "total_races_by_party": {
     "Unknown": 4,
-    "Republican": 41,
+    "Republican": 42,
     "Democrat": 18,
     "Other": 1
   },
   "general": {
-    "total_races": 132,
+    "total_races": 131,
     "total_unopposed": 26,
     "unopposed_by_party": {
       "Republican": 20,
@@ -20,12 +20,15 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Republican": 1
+      "Democrat": 1,
+      "Republican": 3
     },
-    "total_unopposed": 0,
-    "unopposed_by_party": {}
+    "total_unopposed": 1,
+    "unopposed_by_party": {
+      "Republican": 1
+    }
   },
-  "scraped_at": "2026-02-03T00:59:54.944823+00:00",
+  "scraped_at": "2026-02-04T00:55:23.611393+00:00",
   "unopposed_candidates": [
     {
       "state": "OK",
@@ -124,6 +127,15 @@
       "candidate": "Carri Hicks",
       "party": "Democrat",
       "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Roy Timmons",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
