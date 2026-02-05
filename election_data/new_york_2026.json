@@ -2,12 +2,12 @@
   "state": "NY",
   "state_name": "New York",
   "year": 2026,
-  "total": 33,
+  "total": 34,
   "total_races": 240,
   "total_races_by_party": {
-    "Democrat": 34,
     "Unknown": 7,
     "Republican": 25,
+    "Democrat": 35,
     "Conservative": 1,
     "American Independent": 1
   },
@@ -21,16 +21,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 34,
+      "Democrat": 35,
       "Republican": 25
     },
-    "total_unopposed": 30,
+    "total_unopposed": 31,
     "unopposed_by_party": {
       "Republican": 15,
-      "Democrat": 15
+      "Democrat": 16
     }
   },
-  "scraped_at": "2026-02-04T00:54:23.832089+00:00",
+  "scraped_at": "2026-02-05T04:49:15.167739+00:00",
   "unopposed_candidates": [
     {
       "state": "NY",
@@ -307,6 +307,15 @@
       "office": "State House",
       "district": "District 41",
       "candidate": "Zahava Durchin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "State House",
+      "district": "District 82",
+      "candidate": "Jake Kuhl",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
