@@ -2,11 +2,11 @@
   "state": "OK",
   "state_name": "Oklahoma",
   "year": 2026,
-  "total": 27,
+  "total": 28,
   "total_races": 132,
   "total_races_by_party": {
     "Unknown": 4,
-    "Democrat": 18,
+    "Democrat": 19,
     "Republican": 42,
     "Other": 1
   },
@@ -20,15 +20,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 1,
+      "Democrat": 2,
       "Republican": 3
     },
-    "total_unopposed": 1,
+    "total_unopposed": 2,
     "unopposed_by_party": {
+      "Democrat": 1,
       "Republican": 1
     }
   },
-  "scraped_at": "2026-02-05T04:50:28.240646+00:00",
+  "scraped_at": "2026-02-06T04:49:09.479178+00:00",
   "unopposed_candidates": [
     {
       "state": "OK",
@@ -37,6 +38,15 @@
       "candidate": "Stephanie Bice",
       "party": "Republican",
       "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "US House",
+      "district": "District 5",
+      "candidate": "Jena Nelson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {

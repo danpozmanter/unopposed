@@ -2,11 +2,11 @@
   "state": "IA",
   "state_name": "Iowa",
   "year": 2026,
-  "total": 32,
+  "total": 34,
   "total_races": 131,
   "total_races_by_party": {
     "Democrat": 20,
-    "Republican": 22,
+    "Republican": 24,
     "Unknown": 2
   },
   "general": {
@@ -19,15 +19,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 20,
-      "Republican": 22
+      "Republican": 24
     },
-    "total_unopposed": 30,
+    "total_unopposed": 32,
     "unopposed_by_party": {
-      "Republican": 16,
+      "Republican": 18,
       "Democrat": 14
     }
   },
-  "scraped_at": "2026-02-05T04:43:22.194321+00:00",
+  "scraped_at": "2026-02-06T04:43:15.758633+00:00",
   "unopposed_candidates": [
     {
       "state": "IA",
@@ -70,6 +70,15 @@
       "office": "State Senate",
       "district": "District 5",
       "candidate": "Stacy Besch",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Barb Kniff McCulla",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -161,6 +170,15 @@
       "district": "District 12",
       "candidate": "Brady Meyer",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Steven Holt",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

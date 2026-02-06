@@ -6,7 +6,7 @@
   "total_races": 83,
   "total_races_by_party": {
     "Unknown": 2,
-    "Democrat": 34,
+    "Democrat": 35,
     "Republican": 30,
     "Libertarian": 1,
     "Independent": 1,
@@ -24,7 +24,7 @@
   "primary": {
     "total_races_by_party": {
       "Republican": 8,
-      "Democrat": 5
+      "Democrat": 6
     },
     "total_unopposed": 10,
     "unopposed_by_party": {
@@ -32,7 +32,7 @@
       "Democrat": 5
     }
   },
-  "scraped_at": "2026-02-05T04:50:51.170352+00:00",
+  "scraped_at": "2026-02-06T04:49:27.084301+00:00",
   "unopposed_candidates": [
     {
       "state": "OR",

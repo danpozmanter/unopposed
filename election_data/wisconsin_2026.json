@@ -2,12 +2,12 @@
   "state": "WI",
   "state_name": "Wisconsin",
   "year": 2026,
-  "total": 51,
+  "total": 52,
   "total_races": 125,
   "total_races_by_party": {
-    "Unknown": 4,
+    "Democrat": 33,
     "Republican": 32,
-    "Democrat": 32,
+    "Unknown": 4,
     "Other": 1
   },
   "general": {
@@ -20,16 +20,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 32,
+      "Democrat": 33,
       "Republican": 32
     },
-    "total_unopposed": 48,
+    "total_unopposed": 49,
     "unopposed_by_party": {
-      "Democrat": 22,
+      "Democrat": 23,
       "Republican": 26
     }
   },
-  "scraped_at": "2026-02-05T04:55:22.054902+00:00",
+  "scraped_at": "2026-02-06T04:53:05.535828+00:00",
   "unopposed_candidates": [
     {
       "state": "WI",
@@ -451,6 +451,15 @@
       "district": "District 74",
       "candidate": "Scott Harbridge",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 76",
+      "candidate": "Zoe Sullivan",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

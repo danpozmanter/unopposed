@@ -2,7 +2,7 @@
   "state": "IN",
   "state_name": "Indiana",
   "year": 2026,
-  "total": 32,
+  "total": 30,
   "total_races": 134,
   "total_races_by_party": {
     "Democrat": 24,
@@ -21,13 +21,13 @@
       "Democrat": 24,
       "Republican": 20
     },
-    "total_unopposed": 29,
+    "total_unopposed": 27,
     "unopposed_by_party": {
       "Democrat": 16,
-      "Republican": 13
+      "Republican": 11
     }
   },
-  "scraped_at": "2026-02-05T04:42:55.809493+00:00",
+  "scraped_at": "2026-02-06T04:42:52.175502+00:00",
   "unopposed_candidates": [
     {
       "state": "IN",
@@ -77,26 +77,8 @@
     {
       "state": "IN",
       "office": "US House",
-      "district": "District 5",
-      "candidate": "Victoria Spartz",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "IN",
-      "office": "US House",
       "district": "District 6",
       "candidate": "Jefferson Shreve",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "IN",
-      "office": "US House",
-      "district": "District 7",
-      "candidate": "Felipe Rios",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

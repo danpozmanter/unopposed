@@ -5,8 +5,8 @@
   "total": 24,
   "total_races": 126,
   "total_races_by_party": {
-    "Republican": 14,
-    "Democrat": 25
+    "Democrat": 25,
+    "Republican": 14
   },
   "general": {
     "total_races": 118,
@@ -26,7 +26,7 @@
       "Democrat": 12
     }
   },
-  "scraped_at": "2026-02-05T04:45:00.964446+00:00",
+  "scraped_at": "2026-02-06T04:44:27.863634+00:00",
   "unopposed_candidates": [
     {
       "state": "MD",

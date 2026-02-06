@@ -5,9 +5,9 @@
   "total": 76,
   "total_races": 93,
   "total_races_by_party": {
-    "Democrat": 75,
-    "Republican": 46,
     "Unknown": 6,
+    "Republican": 46,
+    "Democrat": 75,
     "Libertarian": 1,
     "No Labels": 1,
     "American Constitution": 1,
@@ -32,7 +32,7 @@
       "Democrat": 42
     }
   },
-  "scraped_at": "2026-02-05T04:40:28.378014+00:00",
+  "scraped_at": "2026-02-06T04:40:23.996017+00:00",
   "unopposed_candidates": [
     {
       "state": "CO",

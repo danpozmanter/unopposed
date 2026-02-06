@@ -3,14 +3,14 @@
   "state_name": "Connecticut",
   "year": 2026,
   "total": 8,
-  "total_races": 15,
+  "total_races": 193,
   "total_races_by_party": {
     "Democrat": 10,
     "Republican": 9,
-    "Unknown": 3
+    "Unknown": 2
   },
   "general": {
-    "total_races": 15,
+    "total_races": 193,
     "total_unopposed": 8,
     "unopposed_by_party": {
       "Democrat": 4,
@@ -18,11 +18,13 @@
     }
   },
   "primary": {
-    "total_races_by_party": {},
+    "total_races_by_party": {
+      "Republican": 1
+    },
     "total_unopposed": 0,
     "unopposed_by_party": {}
   },
-  "scraped_at": "2026-02-05T04:40:44.176045+00:00",
+  "scraped_at": "2026-02-06T04:40:43.972605+00:00",
   "unopposed_candidates": [
     {
       "state": "CT",
