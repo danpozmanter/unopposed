@@ -2,12 +2,12 @@
   "state": "GA",
   "state_name": "Georgia",
   "year": 2026,
-  "total": 152,
+  "total": 153,
   "total_races": 252,
   "total_races_by_party": {
+    "Republican": 106,
     "Unknown": 4,
     "Democrat": 85,
-    "Republican": 106,
     "Socialist Labor": 1,
     "Communist": 1
   },
@@ -25,13 +25,13 @@
       "Democrat": 85,
       "Republican": 106
     },
-    "total_unopposed": 147,
+    "total_unopposed": 148,
     "unopposed_by_party": {
-      "Republican": 85,
+      "Republican": 86,
       "Democrat": 62
     }
   },
-  "scraped_at": "2026-02-06T04:41:36.513339+00:00",
+  "scraped_at": "2026-02-07T04:38:48.790835+00:00",
   "unopposed_candidates": [
     {
       "state": "GA",
@@ -112,6 +112,15 @@
       "candidate": "Natalie Richoz",
       "party": "Unknown",
       "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "US House",
+      "district": "District 11",
+      "candidate": "Chris Mora",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {

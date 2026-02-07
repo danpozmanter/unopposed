@@ -2,11 +2,11 @@
   "state": "MD",
   "state_name": "Maryland",
   "year": 2026,
-  "total": 24,
+  "total": 26,
   "total_races": 126,
   "total_races_by_party": {
-    "Democrat": 25,
-    "Republican": 14
+    "Republican": 15,
+    "Democrat": 27
   },
   "general": {
     "total_races": 118,
@@ -17,16 +17,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 24,
-      "Republican": 14
+      "Democrat": 26,
+      "Republican": 15
     },
-    "total_unopposed": 22,
+    "total_unopposed": 24,
     "unopposed_by_party": {
-      "Republican": 11,
-      "Democrat": 12
+      "Republican": 12,
+      "Democrat": 13
     }
   },
-  "scraped_at": "2026-02-06T04:44:27.863634+00:00",
+  "scraped_at": "2026-02-07T04:42:02.295843+00:00",
   "unopposed_candidates": [
     {
       "state": "MD",
@@ -85,6 +85,15 @@
     {
       "state": "MD",
       "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Ben Hightower",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
       "district": "District 14",
       "candidate": "Craig Zucker",
       "party": "Democrat",
@@ -114,6 +123,15 @@
       "office": "State Senate",
       "district": "District 18",
       "candidate": "Jeff Waldstreicher",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Benjamin Kramer",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

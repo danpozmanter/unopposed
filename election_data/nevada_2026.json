@@ -2,38 +2,67 @@
   "state": "NV",
   "state_name": "Nevada",
   "year": 2026,
-  "total": 7,
+  "total": 10,
   "total_races": 58,
   "total_races_by_party": {
+    "Republican": 10,
     "Democrat": 7,
-    "Unknown": 2,
-    "Republican": 9
+    "Unknown": 1
   },
   "general": {
-    "total_races": 58,
-    "total_unopposed": 7,
+    "total_races": 54,
+    "total_unopposed": 1,
     "unopposed_by_party": {
-      "Republican": 5,
-      "Democrat": 2
+      "Unknown": 1
     }
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 1,
-      "Republican": 1
+      "Democrat": 7,
+      "Republican": 10
     },
-    "total_unopposed": 0,
-    "unopposed_by_party": {}
+    "total_unopposed": 9,
+    "unopposed_by_party": {
+      "Democrat": 4,
+      "Republican": 5
+    }
   },
-  "scraped_at": "2026-02-06T04:46:52.331985+00:00",
+  "scraped_at": "2026-02-07T04:44:56.921058+00:00",
   "unopposed_candidates": [
+    {
+      "state": "NV",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "J.E. Houston",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Steven Horsford",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Aaron Ford",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "NV",
       "office": "State Senate",
       "district": "District 14",
       "candidate": "Ira Hansen",
       "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -42,7 +71,7 @@
       "district": "District 16",
       "candidate": "Lisa Krasner",
       "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -51,7 +80,7 @@
       "district": "District 2",
       "candidate": "Drew Teitelbaum",
       "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -60,7 +89,7 @@
       "district": "District 29",
       "candidate": "Christian Bishop",
       "party": "Democrat",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -69,7 +98,7 @@
       "district": "District 32",
       "candidate": "Alexis Hansen",
       "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -78,7 +107,7 @@
       "district": "District 33",
       "candidate": "Bert Gurr",
       "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -87,7 +116,7 @@
       "district": "District 42",
       "candidate": "Dayton Vasquez",
       "party": "Democrat",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     }
   ]

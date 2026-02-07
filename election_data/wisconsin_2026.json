@@ -2,12 +2,12 @@
   "state": "WI",
   "state_name": "Wisconsin",
   "year": 2026,
-  "total": 52,
+  "total": 51,
   "total_races": 125,
   "total_races_by_party": {
+    "Unknown": 4,
     "Democrat": 33,
     "Republican": 32,
-    "Unknown": 4,
     "Other": 1
   },
   "general": {
@@ -23,13 +23,13 @@
       "Democrat": 33,
       "Republican": 32
     },
-    "total_unopposed": 49,
+    "total_unopposed": 48,
     "unopposed_by_party": {
       "Democrat": 23,
-      "Republican": 26
+      "Republican": 25
     }
   },
-  "scraped_at": "2026-02-06T04:53:05.535828+00:00",
+  "scraped_at": "2026-02-07T04:52:03.738646+00:00",
   "unopposed_candidates": [
     {
       "state": "WI",
@@ -235,15 +235,6 @@
       "district": "District 23",
       "candidate": "Richard Pulcher",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WI",
-      "office": "State Senate",
-      "district": "District 23",
-      "candidate": "Romaine Quinn",
-      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

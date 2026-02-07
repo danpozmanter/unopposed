@@ -2,11 +2,11 @@
   "state": "IN",
   "state_name": "Indiana",
   "year": 2026,
-  "total": 30,
+  "total": 31,
   "total_races": 134,
   "total_races_by_party": {
-    "Democrat": 24,
     "Republican": 20,
+    "Democrat": 25,
     "Unknown": 3
   },
   "general": {
@@ -18,16 +18,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 24,
+      "Democrat": 25,
       "Republican": 20
     },
-    "total_unopposed": 27,
+    "total_unopposed": 28,
     "unopposed_by_party": {
-      "Democrat": 16,
+      "Democrat": 17,
       "Republican": 11
     }
   },
-  "scraped_at": "2026-02-06T04:42:52.175502+00:00",
+  "scraped_at": "2026-02-07T04:40:04.078229+00:00",
   "unopposed_candidates": [
     {
       "state": "IN",
@@ -161,6 +161,15 @@
       "district": "District 23",
       "candidate": "Paula Copenhaver",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State Senate",
+      "district": "District 25",
+      "candidate": "Todd Shelton",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

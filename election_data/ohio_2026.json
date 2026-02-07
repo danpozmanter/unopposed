@@ -2,36 +2,34 @@
   "state": "OH",
   "state_name": "Ohio",
   "year": 2026,
-  "total": 27,
+  "total": 24,
   "total_races": 131,
   "total_races_by_party": {
-    "Democrat": 18,
-    "Republican": 26,
-    "Unknown": 4
+    "Unknown": 7,
+    "Democrat": 19,
+    "Republican": 28
   },
   "general": {
-    "total_races": 118,
-    "total_unopposed": 4,
+    "total_races": 119,
+    "total_unopposed": 3,
     "unopposed_by_party": {
-      "Republican": 1,
-      "Democrat": 1,
-      "Unknown": 2
+      "Unknown": 3
     }
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 18,
-      "Republican": 26,
-      "Unknown": 2
+      "Democrat": 19,
+      "Republican": 28,
+      "Unknown": 4
     },
-    "total_unopposed": 25,
+    "total_unopposed": 21,
     "unopposed_by_party": {
       "Unknown": 2,
       "Republican": 13,
-      "Democrat": 10
+      "Democrat": 6
     }
   },
-  "scraped_at": "2026-02-06T04:48:55.907363+00:00",
+  "scraped_at": "2026-02-07T04:47:34.791631+00:00",
   "unopposed_candidates": [
     {
       "state": "OH",
@@ -45,19 +43,10 @@
     {
       "state": "OH",
       "office": "US House",
-      "district": "District 2",
-      "candidate": "David Taylor",
-      "party": "Republican",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OH",
-      "office": "US House",
       "district": "District 3",
-      "candidate": "Joyce Beatty",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "candidate": "Cleophus Dulaney",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -81,19 +70,10 @@
     {
       "state": "OH",
       "office": "US House",
-      "district": "District 5",
-      "candidate": "Daniel Burket",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OH",
-      "office": "US House",
-      "district": "District 8",
-      "candidate": "Madaris Grant",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
+      "district": "District 7",
+      "candidate": "Andrey Martinichin",
+      "party": "Unknown",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
@@ -117,27 +97,18 @@
     {
       "state": "OH",
       "office": "US House",
-      "district": "District 9",
-      "candidate": "David Gedert",
-      "party": "Unknown",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OH",
-      "office": "US House",
-      "district": "District 10",
-      "candidate": "Kristina Knickerbocker",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OH",
-      "office": "US House",
       "district": "District 10",
       "candidate": "Michael Turner",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "US House",
+      "district": "District 10",
+      "candidate": "Thomas McMasters",
+      "party": "Unknown",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

@@ -2,41 +2,52 @@
   "state": "SC",
   "state_name": "South Carolina",
   "year": 2026,
-  "total": 3,
+  "total": 9,
   "total_races": 133,
   "total_races_by_party": {
     "Unknown": 2,
-    "Republican": 6,
-    "Libertarian": 2,
-    "Democrat": 8
+    "Republican": 8,
+    "Democrat": 9,
+    "Libertarian": 2
   },
   "general": {
-    "total_races": 133,
-    "total_unopposed": 2,
+    "total_races": 128,
+    "total_unopposed": 4,
     "unopposed_by_party": {
-      "Republican": 1,
-      "Democrat": 1
+      "Libertarian": 2,
+      "Democrat": 1,
+      "Unknown": 1
     }
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 2,
-      "Republican": 1
+      "Democrat": 9,
+      "Republican": 8
     },
-    "total_unopposed": 1,
+    "total_unopposed": 6,
     "unopposed_by_party": {
-      "Democrat": 1
+      "Republican": 2,
+      "Democrat": 4
     }
   },
-  "scraped_at": "2026-02-06T04:50:36.680391+00:00",
+  "scraped_at": "2026-02-07T04:49:13.392741+00:00",
   "unopposed_candidates": [
     {
       "state": "SC",
       "office": "US House",
-      "district": "District 3",
-      "candidate": "Sheri Biggs",
-      "party": "Republican",
+      "district": "District 1",
+      "candidate": "William Reeside",
+      "party": "Libertarian",
       "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Joe Wilson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -51,9 +62,54 @@
     {
       "state": "SC",
       "office": "US House",
+      "district": "District 3",
+      "candidate": "Sheri Biggs",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Jessica Ethridge",
+      "party": "Libertarian",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Courtney McClain",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "US House",
       "district": "District 6",
       "candidate": "James Clyburn",
       "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "US House",
+      "district": "District 7",
+      "candidate": "John Vincent",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Mike Reichenbach",
+      "party": "Unknown",
       "unopposed_in": "General",
       "source": "Ballotpedia"
     }

@@ -2,12 +2,12 @@
   "state": "MN",
   "state_name": "Minnesota",
   "year": 2026,
-  "total": 65,
+  "total": 67,
   "total_races": 210,
   "total_races_by_party": {
-    "Democrat": 46,
-    "Republican": 33,
-    "Unknown": 4
+    "Unknown": 4,
+    "Democrat": 48,
+    "Republican": 34
   },
   "general": {
     "total_races": 205,
@@ -18,16 +18,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 46,
-      "Republican": 33
+      "Democrat": 48,
+      "Republican": 34
     },
     "total_unopposed": 56,
     "unopposed_by_party": {
-      "Democrat": 37,
-      "Republican": 24
+      "Democrat": 38,
+      "Republican": 25
     }
   },
-  "scraped_at": "2026-02-06T04:45:28.944050+00:00",
+  "scraped_at": "2026-02-07T04:43:13.944765+00:00",
   "unopposed_candidates": [
     {
       "state": "MN",
@@ -161,6 +161,15 @@
       "district": "District 7",
       "candidate": "Robert Farnsworth",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Jen McEwen",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -338,15 +347,6 @@
     {
       "state": "MN",
       "office": "State Senate",
-      "district": "District 49",
-      "candidate": "Krish Subrahmanian",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MN",
-      "office": "State Senate",
       "district": "District 50",
       "candidate": "Karla Hult",
       "party": "Democrat",
@@ -403,6 +403,15 @@
       "office": "State House",
       "district": "District 3",
       "candidate": "Natalie Zeleznikar",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Spencer Igo",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -529,6 +538,15 @@
       "office": "State House",
       "district": "District 25",
       "candidate": "Kim Hicks",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Andy Smith",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

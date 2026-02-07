@@ -2,11 +2,11 @@
   "state": "ND",
   "state_name": "North Dakota",
   "year": 2026,
-  "total": 8,
+  "total": 9,
   "total_races": 47,
   "total_races_by_party": {
     "Democrat": 1,
-    "Republican": 8
+    "Republican": 9
   },
   "general": {
     "total_races": 47,
@@ -18,15 +18,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 1,
-      "Republican": 7
+      "Republican": 8
     },
-    "total_unopposed": 7,
+    "total_unopposed": 8,
     "unopposed_by_party": {
       "Democrat": 1,
-      "Republican": 6
+      "Republican": 7
     }
   },
-  "scraped_at": "2026-02-06T04:48:43.219712+00:00",
+  "scraped_at": "2026-02-07T04:47:13.406424+00:00",
   "unopposed_candidates": [
     {
       "state": "ND",
@@ -60,6 +60,15 @@
       "office": "State Senate",
       "district": "District 35",
       "candidate": "Sean Cleary",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 37",
+      "candidate": "Dean Rummel",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
