@@ -59,7 +59,7 @@ uv run pytest
 
 ### Scrape Workflow
 
-Runs daily at 11pm UTC:
+Runs once a day:
 - Scrapes all 50 states + DC for the current year
 - 10 second delay between states
 - Commits results to `election_data/`
