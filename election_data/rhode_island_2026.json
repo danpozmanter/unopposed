@@ -5,8 +5,8 @@
   "total": 7,
   "total_races": 117,
   "total_races_by_party": {
-    "Democrat": 6,
     "Republican": 3,
+    "Democrat": 6,
     "Unknown": 3
   },
   "general": {
@@ -26,7 +26,7 @@
       "Democrat": 4
     }
   },
-  "scraped_at": "2026-02-07T04:48:52.964222+00:00",
+  "scraped_at": "2026-02-08T05:02:37.026691+00:00",
   "unopposed_candidates": [
     {
       "state": "RI",
