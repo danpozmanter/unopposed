@@ -5,8 +5,8 @@
   "total": 5,
   "total_races": 12,
   "total_races_by_party": {
-    "Republican": 10,
     "Democrat": 12,
+    "Republican": 10,
     "Unknown": 4
   },
   "general": {
@@ -27,7 +27,7 @@
       "Democrat": 2
     }
   },
-  "scraped_at": "2026-02-08T05:05:14.761546+00:00",
+  "scraped_at": "2026-02-09T05:01:34.528048+00:00",
   "unopposed_candidates": [
     {
       "state": "VA",
