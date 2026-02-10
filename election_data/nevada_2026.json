@@ -2,11 +2,11 @@
   "state": "NV",
   "state_name": "Nevada",
   "year": 2026,
-  "total": 10,
+  "total": 11,
   "total_races": 58,
   "total_races_by_party": {
-    "Democrat": 7,
     "Republican": 10,
+    "Democrat": 8,
     "Unknown": 1
   },
   "general": {
@@ -18,16 +18,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 7,
+      "Democrat": 8,
       "Republican": 10
     },
-    "total_unopposed": 9,
+    "total_unopposed": 10,
     "unopposed_by_party": {
-      "Democrat": 4,
+      "Democrat": 5,
       "Republican": 5
     }
   },
-  "scraped_at": "2026-02-09T04:55:34.999310+00:00",
+  "scraped_at": "2026-02-10T04:58:36.863104+00:00",
   "unopposed_candidates": [
     {
       "state": "NV",
@@ -80,6 +80,15 @@
       "district": "District 2",
       "candidate": "Drew Teitelbaum",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Tony Smith",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

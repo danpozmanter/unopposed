@@ -2,12 +2,12 @@
   "state": "NY",
   "state_name": "New York",
   "year": 2026,
-  "total": 34,
+  "total": 35,
   "total_races": 240,
   "total_races_by_party": {
-    "Democrat": 35,
-    "Republican": 25,
     "Unknown": 7,
+    "Republican": 25,
+    "Democrat": 36,
     "Conservative": 1,
     "American Independent": 1
   },
@@ -21,16 +21,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 35,
+      "Democrat": 36,
       "Republican": 25
     },
-    "total_unopposed": 31,
+    "total_unopposed": 32,
     "unopposed_by_party": {
       "Republican": 15,
-      "Democrat": 16
+      "Democrat": 17
     }
   },
-  "scraped_at": "2026-02-09T04:56:35.126380+00:00",
+  "scraped_at": "2026-02-10T05:00:00.365285+00:00",
   "unopposed_candidates": [
     {
       "state": "NY",
@@ -208,6 +208,15 @@
       "office": "State Senate",
       "district": "District 1",
       "candidate": "Farzeen Bham",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Josh Taveras",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

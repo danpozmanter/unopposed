@@ -2,10 +2,10 @@
   "state": "NM",
   "state_name": "New Mexico",
   "year": 2026,
-  "total": 11,
+  "total": 12,
   "total_races": 75,
   "total_races_by_party": {
-    "Republican": 10,
+    "Republican": 11,
     "Unknown": 1,
     "Democrat": 9
   },
@@ -19,15 +19,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 9,
-      "Republican": 10
+      "Republican": 11
     },
-    "total_unopposed": 10,
+    "total_unopposed": 11,
     "unopposed_by_party": {
       "Democrat": 5,
-      "Republican": 5
+      "Republican": 6
     }
   },
-  "scraped_at": "2026-02-09T04:56:16.405225+00:00",
+  "scraped_at": "2026-02-10T04:59:38.827499+00:00",
   "unopposed_candidates": [
     {
       "state": "NM",
@@ -124,6 +124,15 @@
       "office": "State House",
       "district": "District 59",
       "candidate": "Mark Murphy",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 60",
+      "candidate": "Zachary Anaya",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

@@ -2,11 +2,11 @@
   "state": "IN",
   "state_name": "Indiana",
   "year": 2026,
-  "total": 31,
+  "total": 95,
   "total_races": 134,
   "total_races_by_party": {
+    "Democrat": 106,
     "Republican": 20,
-    "Democrat": 25,
     "Unknown": 3
   },
   "general": {
@@ -18,16 +18,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 25,
+      "Democrat": 106,
       "Republican": 20
     },
-    "total_unopposed": 28,
+    "total_unopposed": 92,
     "unopposed_by_party": {
-      "Democrat": 17,
+      "Democrat": 81,
       "Republican": 11
     }
   },
-  "scraped_at": "2026-02-09T04:51:08.622671+00:00",
+  "scraped_at": "2026-02-10T04:54:17.666214+00:00",
   "unopposed_candidates": [
     {
       "state": "IN",
@@ -203,8 +203,170 @@
     {
       "state": "IN",
       "office": "State House",
+      "district": "District 1",
+      "candidate": "Carolyn Jackson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Earl Harris, Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Ragen Hatcher",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
       "district": "District 4",
       "candidate": "Ryan Kominakis",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Alex Wait",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Maureen Bauer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Oliver Davis",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Ryan Dvorak",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Randy Novak",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "Charles Moseley",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Tyler Bridges",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Mike Andrade",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Vernon Smith",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Anthony Oberman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Ashley Hammac",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Mary Gibson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Nick Neal",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Charles Burkley",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "Austin Meives",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -221,8 +383,44 @@
     {
       "state": "IN",
       "office": "State House",
-      "district": "District 29",
-      "candidate": "Coumba Kebe",
+      "district": "District 25",
+      "candidate": "Tiffany Stoner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Chris Campbell",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Sheila Klinker",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Karen Whitney",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "Jack Chance",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -239,8 +437,53 @@
     {
       "state": "IN",
       "office": "State House",
+      "district": "District 31",
+      "candidate": "Katie Robins",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Victoria Garcia Wilburn",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
       "district": "District 33",
       "candidate": "John E. Bartlett",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Sara Gullion",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "Philip Gift",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Nate Stout",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -257,8 +500,125 @@
     {
       "state": "IN",
       "office": "State House",
+      "district": "District 40",
+      "candidate": "William Colteryahn",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Jackson Hayes",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Tonya Pfaff",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Kelsey Kauffman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 45",
+      "candidate": "Rebecca Mayfield",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "James Pittsford III",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "Michael Potter",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 50",
+      "candidate": "Pepper Snyder",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 51",
+      "candidate": "Judy Rowe",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
       "district": "District 53",
       "candidate": "Reece Axel-Adams",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 55",
+      "candidate": "Victoria Martz",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 56",
+      "candidate": "Thomas Rockwell",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 57",
+      "candidate": "Suzanne Fortenberry",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 60",
+      "candidate": "Carrie Syczylo",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -276,15 +636,6 @@
       "state": "IN",
       "office": "State House",
       "district": "District 63",
-      "candidate": "Adam Mann",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "IN",
-      "office": "State House",
-      "district": "District 63",
       "candidate": "Amy Kippenbrock",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -293,8 +644,8 @@
     {
       "state": "IN",
       "office": "State House",
-      "district": "District 64",
-      "candidate": "Kellie Moore",
+      "district": "District 66",
+      "candidate": "Ryan Price",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -302,8 +653,233 @@
     {
       "state": "IN",
       "office": "State House",
-      "district": "District 97",
-      "candidate": "Sarah Shydale",
+      "district": "District 67",
+      "candidate": "Justin Chadwick",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 68",
+      "candidate": "Hunter Collins",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 69",
+      "candidate": "Chris Bowen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 71",
+      "candidate": "Wendy Dant Chesser",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 73",
+      "candidate": "Allen Miller",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 76",
+      "candidate": "Logan Patberg",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 77",
+      "candidate": "Alex Burton",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 78",
+      "candidate": "Sally Busby",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 79",
+      "candidate": "Ian Richardson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 80",
+      "candidate": "Phil GiaQuinta",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 82",
+      "candidate": "Kyle Miller",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 83",
+      "candidate": "Wesley Haffenden",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 84",
+      "candidate": "Misti Meehan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 85",
+      "candidate": "Mark Wehrle",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 86",
+      "candidate": "Edward DeLaney",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 87",
+      "candidate": "Carey Hamilton",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 88",
+      "candidate": "Stephanie Yocum",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 89",
+      "candidate": "Mitch Gore",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 90",
+      "candidate": "Kuren Singh Sikand",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 91",
+      "candidate": "Jarren Hurt",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 92",
+      "candidate": "Renee Pack",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 93",
+      "candidate": "Eva Rosberg",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 96",
+      "candidate": "Gregory Porter",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 98",
+      "candidate": "Robin Shackleford",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 99",
+      "candidate": "Vanessa Summers",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State House",
+      "district": "District 100",
+      "candidate": "Robert Johnson",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

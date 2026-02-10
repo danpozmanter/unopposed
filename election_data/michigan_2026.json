@@ -2,11 +2,11 @@
   "state": "MI",
   "state_name": "Michigan",
   "year": 2026,
-  "total": 32,
+  "total": 33,
   "total_races": 163,
   "total_races_by_party": {
     "Unknown": 5,
-    "Democrat": 33,
+    "Democrat": 34,
     "Republican": 20,
     "Other": 1
   },
@@ -20,16 +20,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 33,
+      "Democrat": 34,
       "Republican": 20
     },
-    "total_unopposed": 29,
+    "total_unopposed": 30,
     "unopposed_by_party": {
       "Republican": 13,
-      "Democrat": 16
+      "Democrat": 17
     }
   },
-  "scraped_at": "2026-02-09T04:53:57.346983+00:00",
+  "scraped_at": "2026-02-10T04:56:48.146558+00:00",
   "unopposed_candidates": [
     {
       "state": "MI",
@@ -235,6 +235,15 @@
       "district": "District 37",
       "candidate": "Brad Paquette",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Zachary Shinabargar",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

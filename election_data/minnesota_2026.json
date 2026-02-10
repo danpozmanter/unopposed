@@ -2,11 +2,11 @@
   "state": "MN",
   "state_name": "Minnesota",
   "year": 2026,
-  "total": 67,
+  "total": 66,
   "total_races": 210,
   "total_races_by_party": {
-    "Republican": 34,
     "Unknown": 4,
+    "Republican": 34,
     "Democrat": 48
   },
   "general": {
@@ -21,13 +21,13 @@
       "Democrat": 48,
       "Republican": 34
     },
-    "total_unopposed": 56,
+    "total_unopposed": 55,
     "unopposed_by_party": {
       "Democrat": 38,
-      "Republican": 25
+      "Republican": 24
     }
   },
-  "scraped_at": "2026-02-09T04:54:12.776970+00:00",
+  "scraped_at": "2026-02-10T04:57:09.637471+00:00",
   "unopposed_candidates": [
     {
       "state": "MN",
@@ -71,15 +71,6 @@
       "district": "District 3",
       "candidate": "Kelly Morrison",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MN",
-      "office": "US House",
-      "district": "District 3",
-      "candidate": "Jeremy Westby",
-      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
