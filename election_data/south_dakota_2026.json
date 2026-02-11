@@ -2,12 +2,12 @@
   "state": "SD",
   "state_name": "South Dakota",
   "year": 2026,
-  "total": 21,
+  "total": 22,
   "total_races": 73,
   "total_races_by_party": {
+    "Democrat": 4,
     "Unknown": 1,
-    "Republican": 19,
-    "Democrat": 4
+    "Republican": 20
   },
   "general": {
     "total_races": 73,
@@ -19,15 +19,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 4,
-      "Republican": 19
+      "Republican": 20
     },
-    "total_unopposed": 20,
+    "total_unopposed": 21,
     "unopposed_by_party": {
       "Democrat": 4,
-      "Republican": 16
+      "Republican": 17
     }
   },
-  "scraped_at": "2026-02-10T05:03:22.568717+00:00",
+  "scraped_at": "2026-02-11T05:02:51.847197+00:00",
   "unopposed_candidates": [
     {
       "state": "SD",
@@ -169,6 +169,15 @@
       "office": "State House",
       "district": "District 22",
       "candidate": "Lana Greenfield",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SD",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Angi Hanzlik",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

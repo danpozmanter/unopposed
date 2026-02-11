@@ -2,11 +2,11 @@
   "state": "VT",
   "state_name": "Vermont",
   "year": 2026,
-  "total": 41,
+  "total": 45,
   "total_races": 126,
   "total_races_by_party": {
-    "Republican": 20,
-    "Democrat": 24,
+    "Republican": 22,
+    "Democrat": 27,
     "Other": 5
   },
   "general": {
@@ -18,16 +18,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 24,
-      "Republican": 20
+      "Democrat": 27,
+      "Republican": 22
     },
-    "total_unopposed": 36,
+    "total_unopposed": 40,
     "unopposed_by_party": {
-      "Democrat": 18,
-      "Republican": 18
+      "Democrat": 20,
+      "Republican": 20
     }
   },
-  "scraped_at": "2026-02-10T05:04:38.193242+00:00",
+  "scraped_at": "2026-02-11T05:04:38.610998+00:00",
   "unopposed_candidates": [
     {
       "state": "VT",
@@ -131,8 +131,44 @@
     {
       "state": "VT",
       "office": "State House",
+      "district": "Addison-3 District(2 seats)",
+      "candidate": "Rob North",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Addison-4 District(2 seats)",
+      "candidate": "Herb Olson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
       "district": "Addison-4 District(2 seats)",
       "candidate": "Renee Mcguinness",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Addison-5 District",
+      "candidate": "Jubilee McGill",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Addison-Rutland District",
+      "candidate": "Jim Casey",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

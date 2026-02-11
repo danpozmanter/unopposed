@@ -6,8 +6,8 @@
   "total_races": 185,
   "total_races_by_party": {
     "Democrat": 333,
-    "Republican": 248,
     "Unknown": 12,
+    "Republican": 248,
     "Libertarian": 9,
     "Green/Rainbow": 1,
     "Other": 31
@@ -37,7 +37,7 @@
       "Other": 15
     }
   },
-  "scraped_at": "2026-02-10T05:00:20.285854+00:00",
+  "scraped_at": "2026-02-11T05:00:10.174077+00:00",
   "unopposed_candidates": [
     {
       "state": "NC",

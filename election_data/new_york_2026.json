@@ -2,12 +2,12 @@
   "state": "NY",
   "state_name": "New York",
   "year": 2026,
-  "total": 35,
+  "total": 38,
   "total_races": 240,
   "total_races_by_party": {
     "Unknown": 7,
-    "Republican": 25,
-    "Democrat": 36,
+    "Democrat": 38,
+    "Republican": 26,
     "Conservative": 1,
     "American Independent": 1
   },
@@ -21,16 +21,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 36,
-      "Republican": 25
+      "Democrat": 38,
+      "Republican": 26
     },
-    "total_unopposed": 32,
+    "total_unopposed": 35,
     "unopposed_by_party": {
-      "Republican": 15,
-      "Democrat": 17
+      "Republican": 16,
+      "Democrat": 19
     }
   },
-  "scraped_at": "2026-02-10T05:00:00.365285+00:00",
+  "scraped_at": "2026-02-11T04:59:54.665359+00:00",
   "unopposed_candidates": [
     {
       "state": "NY",
@@ -188,6 +188,15 @@
     {
       "state": "NY",
       "office": "US House",
+      "district": "District 25",
+      "candidate": "Virginia McIntyre",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "US House",
       "district": "District 26",
       "candidate": "Timothy M. Kennedy",
       "party": "Democrat",
@@ -245,6 +254,15 @@
       "district": "District 43",
       "candidate": "Jacob Ashby",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "State Senate",
+      "district": "District 44",
+      "candidate": "Patrick Nelson",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -325,6 +343,15 @@
       "office": "State House",
       "district": "District 82",
       "candidate": "Jake Kuhl",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "State House",
+      "district": "District 119",
+      "candidate": "John Lipe",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

@@ -5,16 +5,18 @@
   "total": 140,
   "total_races": 126,
   "total_races_by_party": {
-    "Republican": 117,
     "Unknown": 4,
-    "Democrat": 75,
+    "Democrat": 85,
+    "Republican": 131,
     "Other": 1
   },
   "general": {
-    "total_races": 123,
-    "total_unopposed": 3,
+    "total_races": 124,
+    "total_unopposed": 14,
     "unopposed_by_party": {
-      "Unknown": 2,
+      "Unknown": 1,
+      "Democrat": 3,
+      "Republican": 9,
       "Other": 1
     }
   },
@@ -29,7 +31,7 @@
       "Republican": 84
     }
   },
-  "scraped_at": "2026-02-10T04:55:16.645013+00:00",
+  "scraped_at": "2026-02-11T04:54:49.112016+00:00",
   "unopposed_candidates": [
     {
       "state": "KY",
@@ -46,16 +48,7 @@
       "district": "District 1",
       "candidate": "Drew Williams",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "KY",
-      "office": "US House",
-      "district": "District 3",
-      "candidate": "Oumou Diallo",
-      "party": "Unknown",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -82,7 +75,7 @@
       "district": "District 2",
       "candidate": "Danny Carroll",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -91,7 +84,7 @@
       "district": "District 4",
       "candidate": "Robby Mills",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -100,7 +93,7 @@
       "district": "District 6",
       "candidate": "Lindsey Tichenor",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -127,7 +120,7 @@
       "district": "District 10",
       "candidate": "Christopher Gatrost",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -145,7 +138,7 @@
       "district": "District 16",
       "candidate": "Max Wise",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -154,7 +147,7 @@
       "district": "District 18",
       "candidate": "Robin Webb",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -181,7 +174,7 @@
       "district": "District 22",
       "candidate": "Donald Douglas",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -208,7 +201,7 @@
       "district": "District 26",
       "candidate": "Karen Berg",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -217,7 +210,7 @@
       "district": "District 28",
       "candidate": "Greg Elkins",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -226,7 +219,7 @@
       "district": "District 32",
       "candidate": "Mike Wilson",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -245,6 +238,15 @@
       "candidate": "Jared Carpenter",
       "party": "Republican",
       "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KY",
+      "office": "State Senate",
+      "district": "District 38",
+      "candidate": "Mike Nemes",
+      "party": "Republican",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {

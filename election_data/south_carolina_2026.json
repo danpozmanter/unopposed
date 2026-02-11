@@ -2,11 +2,11 @@
   "state": "SC",
   "state_name": "South Carolina",
   "year": 2026,
-  "total": 9,
+  "total": 10,
   "total_races": 133,
   "total_races_by_party": {
-    "Republican": 8,
     "Unknown": 2,
+    "Republican": 9,
     "Democrat": 9,
     "Libertarian": 2
   },
@@ -22,15 +22,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 9,
-      "Republican": 8
+      "Republican": 9
     },
-    "total_unopposed": 6,
+    "total_unopposed": 7,
     "unopposed_by_party": {
-      "Republican": 2,
+      "Republican": 3,
       "Democrat": 4
     }
   },
-  "scraped_at": "2026-02-10T05:02:56.200845+00:00",
+  "scraped_at": "2026-02-11T05:02:26.545757+00:00",
   "unopposed_candidates": [
     {
       "state": "SC",
@@ -111,6 +111,15 @@
       "candidate": "Mike Reichenbach",
       "party": "Unknown",
       "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Tibi Czentye",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     }
   ]

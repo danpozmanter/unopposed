@@ -2,22 +2,22 @@
   "state": "GA",
   "state_name": "Georgia",
   "year": 2026,
-  "total": 153,
+  "total": 154,
   "total_races": 252,
   "total_races_by_party": {
-    "Unknown": 4,
+    "Unknown": 5,
     "Republican": 106,
     "Democrat": 85,
     "Socialist Labor": 1,
     "Communist": 1
   },
   "general": {
-    "total_races": 242,
-    "total_unopposed": 5,
+    "total_races": 243,
+    "total_unopposed": 6,
     "unopposed_by_party": {
       "Socialist Labor": 1,
       "Communist": 1,
-      "Unknown": 3
+      "Unknown": 4
     }
   },
   "primary": {
@@ -31,7 +31,7 @@
       "Democrat": 62
     }
   },
-  "scraped_at": "2026-02-10T04:52:50.324323+00:00",
+  "scraped_at": "2026-02-11T04:52:27.315424+00:00",
   "unopposed_candidates": [
     {
       "state": "GA",
@@ -58,6 +58,15 @@
       "candidate": "Chuck Hand",
       "party": "Republican",
       "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Ansel Postell",
+      "party": "Unknown",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {

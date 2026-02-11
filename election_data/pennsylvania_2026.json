@@ -2,12 +2,12 @@
   "state": "PA",
   "state_name": "Pennsylvania",
   "year": 2026,
-  "total": 27,
+  "total": 29,
   "total_races": 246,
   "total_races_by_party": {
-    "Republican": 21,
-    "Democrat": 18,
-    "Unknown": 5
+    "Unknown": 5,
+    "Democrat": 20,
+    "Republican": 21
   },
   "general": {
     "total_races": 233,
@@ -18,16 +18,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 18,
+      "Democrat": 20,
       "Republican": 21
     },
-    "total_unopposed": 22,
+    "total_unopposed": 24,
     "unopposed_by_party": {
       "Republican": 16,
-      "Democrat": 6
+      "Democrat": 8
     }
   },
-  "scraped_at": "2026-02-10T05:02:08.098080+00:00",
+  "scraped_at": "2026-02-11T05:01:40.628986+00:00",
   "unopposed_candidates": [
     {
       "state": "PA",
@@ -257,6 +257,15 @@
     {
       "state": "PA",
       "office": "State House",
+      "district": "District 24",
+      "candidate": "La'Tasha Mayes",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
       "district": "District 106",
       "candidate": "Thomas Mehaffie",
       "party": "Republican",
@@ -269,6 +278,15 @@
       "district": "District 120",
       "candidate": "Brenda Pugh",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 139",
+      "candidate": "Dominique Azzollini",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     }

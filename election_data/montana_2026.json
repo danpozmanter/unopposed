@@ -2,12 +2,12 @@
   "state": "MT",
   "state_name": "Montana",
   "year": 2026,
-  "total": 84,
+  "total": 85,
   "total_races": 128,
   "total_races_by_party": {
+    "Unknown": 2,
     "Democrat": 39,
-    "Republican": 70,
-    "Unknown": 2
+    "Republican": 71
   },
   "general": {
     "total_races": 127,
@@ -19,15 +19,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 39,
-      "Republican": 70
+      "Republican": 71
     },
-    "total_unopposed": 83,
+    "total_unopposed": 84,
     "unopposed_by_party": {
-      "Republican": 54,
+      "Republican": 55,
       "Democrat": 29
     }
   },
-  "scraped_at": "2026-02-10T04:58:05.113658+00:00",
+  "scraped_at": "2026-02-11T04:57:42.218263+00:00",
   "unopposed_candidates": [
     {
       "state": "MT",
@@ -142,6 +142,15 @@
       "office": "State Senate",
       "district": "District 28",
       "candidate": "Forrest Mandeville",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Jason Gunderson",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

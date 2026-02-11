@@ -2,12 +2,12 @@
   "state": "ME",
   "state_name": "Maine",
   "year": 2026,
-  "total": 91,
+  "total": 92,
   "total_races": 190,
   "total_races_by_party": {
-    "Democrat": 38,
     "Unknown": 2,
-    "Republican": 60,
+    "Democrat": 38,
+    "Republican": 61,
     "Other": 9
   },
   "general": {
@@ -20,15 +20,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 38,
-      "Republican": 60
+      "Republican": 61
     },
-    "total_unopposed": 82,
+    "total_unopposed": 83,
     "unopposed_by_party": {
       "Democrat": 31,
-      "Republican": 51
+      "Republican": 52
     }
   },
-  "scraped_at": "2026-02-10T04:55:53.828971+00:00",
+  "scraped_at": "2026-02-11T04:55:18.455460+00:00",
   "unopposed_candidates": [
     {
       "state": "ME",
@@ -406,6 +406,15 @@
       "candidate": "Paul Bennett",
       "party": "Other",
       "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Lucien Daigle",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
