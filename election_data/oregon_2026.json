@@ -2,37 +2,37 @@
   "state": "OR",
   "state_name": "Oregon",
   "year": 2026,
-  "total": 39,
+  "total": 46,
   "total_races": 83,
   "total_races_by_party": {
-    "Unknown": 2,
-    "Democrat": 35,
     "Republican": 30,
+    "Democrat": 35,
     "Libertarian": 1,
+    "Unknown": 1,
     "Independent": 1,
     "Other": 2
   },
   "general": {
-    "total_races": 83,
-    "total_unopposed": 29,
+    "total_races": 77,
+    "total_unopposed": 4,
     "unopposed_by_party": {
-      "Democrat": 17,
-      "Republican": 10,
+      "Democrat": 1,
+      "Libertarian": 1,
       "Other": 2
     }
   },
   "primary": {
     "total_races_by_party": {
-      "Republican": 8,
-      "Democrat": 6
+      "Democrat": 35,
+      "Republican": 30
     },
-    "total_unopposed": 10,
+    "total_unopposed": 43,
     "unopposed_by_party": {
-      "Republican": 5,
-      "Democrat": 5
+      "Democrat": 25,
+      "Republican": 18
     }
   },
-  "scraped_at": "2026-02-11T05:01:19.691518+00:00",
+  "scraped_at": "2026-02-12T04:56:48.127314+00:00",
   "unopposed_candidates": [
     {
       "state": "OR",
@@ -40,23 +40,41 @@
       "district": "District 1",
       "candidate": "Suzanne Bonamici",
       "party": "Democrat",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OR",
-      "office": "US House",
-      "district": "District 2",
-      "candidate": "Peter Larson",
-      "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
       "state": "OR",
       "office": "US House",
       "district": "District 5",
-      "candidate": "Zeva Rosenbaum",
+      "candidate": "Joseph Lehman",
+      "party": "Libertarian",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "US House",
+      "district": "District 6",
+      "candidate": "Andrea Salinas",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "Brad Hicks",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "James Manning",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -73,19 +91,46 @@
     {
       "state": "OR",
       "office": "State Senate",
-      "district": "District 7",
-      "candidate": "James Manning",
-      "party": "Democrat",
-      "unopposed_in": "General",
+      "district": "District 10",
+      "candidate": "Angela Plowhead",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
       "state": "OR",
       "office": "State Senate",
-      "district": "District 10",
-      "candidate": "Angela Plowhead",
+      "district": "District 11",
+      "candidate": "Virginia Stapleton",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Tracy Cramer",
       "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Courtney Neron",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Glenn Lancaster",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -94,7 +139,7 @@
       "district": "District 16",
       "candidate": "Frank Mansfield",
       "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -103,7 +148,7 @@
       "district": "District 17",
       "candidate": "Lisa Reynolds",
       "party": "Democrat",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -112,7 +157,7 @@
       "district": "District 19",
       "candidate": "Rob Wagner",
       "party": "Democrat",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -130,6 +175,60 @@
       "district": "District 3",
       "candidate": "Seth Benham",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Alek Skarlatos",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Pam Marsh",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Kim Wallan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Ky Fireside",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Ivan Maluski",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Nancy Nathanson",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -163,9 +262,81 @@
     {
       "state": "OR",
       "office": "State House",
+      "district": "District 18",
+      "candidate": "Matthew Lawson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Anna Munson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "Kriss Wright",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
       "district": "District 24",
       "candidate": "Lucetta Elmer",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Bob Niemeyer",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Christian Honl",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Ciatta Thompson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Alexandria Goddard",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "Johan Arteaga",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -181,6 +352,87 @@
     {
       "state": "OR",
       "office": "State House",
+      "district": "District 37",
+      "candidate": "Jules Walters",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "April Dobson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 42",
+      "candidate": "Rob Nosse",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Alexander Wodzinski",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Lamar Wise",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 50",
+      "candidate": "Ricki Ruiz",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 52",
+      "candidate": "Robert Fleming",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Emerson Levy",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 60",
+      "candidate": "Mark Owens",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
       "district": "District 3",
       "candidate": "Cobey Giesler",
       "party": "Other",
@@ -190,198 +442,9 @@
     {
       "state": "OR",
       "office": "State House",
-      "district": "District 4",
-      "candidate": "Alek Skarlatos",
-      "party": "Republican",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OR",
-      "office": "State House",
-      "district": "District 5",
-      "candidate": "Pam Marsh",
-      "party": "Democrat",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OR",
-      "office": "State House",
-      "district": "District 6",
-      "candidate": "Kim Wallan",
-      "party": "Republican",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OR",
-      "office": "State House",
-      "district": "District 7",
-      "candidate": "Ky Fireside",
-      "party": "Democrat",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OR",
-      "office": "State House",
-      "district": "District 11",
-      "candidate": "Ivan Maluski",
-      "party": "Democrat",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OR",
-      "office": "State House",
       "district": "District 12",
       "candidate": "Charlie Conrad",
       "party": "Other",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OR",
-      "office": "State House",
-      "district": "District 13",
-      "candidate": "Nancy Nathanson",
-      "party": "Democrat",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OR",
-      "office": "State House",
-      "district": "District 18",
-      "candidate": "Matthew Lawson",
-      "party": "Republican",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OR",
-      "office": "State House",
-      "district": "District 19",
-      "candidate": "Anna Munson",
-      "party": "Republican",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OR",
-      "office": "State House",
-      "district": "District 23",
-      "candidate": "Kriss Wright",
-      "party": "Democrat",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OR",
-      "office": "State House",
-      "district": "District 25",
-      "candidate": "Bob Niemeyer",
-      "party": "Republican",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OR",
-      "office": "State House",
-      "district": "District 32",
-      "candidate": "Christian Honl",
-      "party": "Republican",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OR",
-      "office": "State House",
-      "district": "District 33",
-      "candidate": "Ciatta Thompson",
-      "party": "Republican",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OR",
-      "office": "State House",
-      "district": "District 34",
-      "candidate": "Alexandria Goddard",
-      "party": "Democrat",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OR",
-      "office": "State House",
-      "district": "District 35",
-      "candidate": "Johan Arteaga",
-      "party": "Democrat",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OR",
-      "office": "State House",
-      "district": "District 39",
-      "candidate": "April Dobson",
-      "party": "Democrat",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OR",
-      "office": "State House",
-      "district": "District 42",
-      "candidate": "Rob Nosse",
-      "party": "Democrat",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OR",
-      "office": "State House",
-      "district": "District 43",
-      "candidate": "Alexander Wodzinski",
-      "party": "Democrat",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OR",
-      "office": "State House",
-      "district": "District 48",
-      "candidate": "Lamar Wise",
-      "party": "Democrat",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OR",
-      "office": "State House",
-      "district": "District 50",
-      "candidate": "Ricki Ruiz",
-      "party": "Democrat",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OR",
-      "office": "State House",
-      "district": "District 53",
-      "candidate": "Emerson Levy",
-      "party": "Democrat",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OR",
-      "office": "State House",
-      "district": "District 60",
-      "candidate": "Mark Owens",
-      "party": "Republican",
       "unopposed_in": "General",
       "source": "Ballotpedia"
     }

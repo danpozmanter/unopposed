@@ -2,26 +2,26 @@
   "state": "MI",
   "state_name": "Michigan",
   "year": 2026,
-  "total": 33,
+  "total": 34,
   "total_races": 163,
   "total_races_by_party": {
+    "Democrat": 36,
     "Unknown": 5,
-    "Democrat": 34,
-    "Republican": 20,
+    "Republican": 22,
     "Other": 1
   },
   "general": {
     "total_races": 153,
-    "total_unopposed": 3,
+    "total_unopposed": 4,
     "unopposed_by_party": {
-      "Unknown": 2,
+      "Unknown": 3,
       "Other": 1
     }
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 34,
-      "Republican": 20
+      "Democrat": 36,
+      "Republican": 22
     },
     "total_unopposed": 30,
     "unopposed_by_party": {
@@ -29,7 +29,7 @@
       "Democrat": 17
     }
   },
-  "scraped_at": "2026-02-11T04:56:38.723055+00:00",
+  "scraped_at": "2026-02-12T04:51:46.229222+00:00",
   "unopposed_candidates": [
     {
       "state": "MI",
@@ -108,6 +108,15 @@
       "office": "US House",
       "district": "District 13",
       "candidate": "Maurice Morton",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Mike Duggan",
       "party": "Unknown",
       "unopposed_in": "General",
       "source": "Ballotpedia"

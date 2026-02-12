@@ -2,37 +2,76 @@
   "state": "CT",
   "state_name": "Connecticut",
   "year": 2026,
-  "total": 8,
+  "total": 12,
   "total_races": 193,
   "total_races_by_party": {
-    "Democrat": 10,
-    "Republican": 9,
-    "Unknown": 2
+    "Democrat": 11,
+    "Republican": 10,
+    "Unknown": 1
   },
   "general": {
-    "total_races": 193,
-    "total_unopposed": 8,
+    "total_races": 188,
+    "total_unopposed": 1,
     "unopposed_by_party": {
-      "Democrat": 4,
-      "Republican": 4
+      "Unknown": 1
     }
   },
   "primary": {
     "total_races_by_party": {
-      "Republican": 1
+      "Democrat": 11,
+      "Republican": 10
     },
-    "total_unopposed": 0,
-    "unopposed_by_party": {}
+    "total_unopposed": 11,
+    "unopposed_by_party": {
+      "Republican": 6,
+      "Democrat": 5
+    }
   },
-  "scraped_at": "2026-02-11T04:51:20.819608+00:00",
+  "scraped_at": "2026-02-12T04:46:55.033455+00:00",
   "unopposed_candidates": [
+    {
+      "state": "CT",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Amy Chai",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Damon Cerreta",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Jim Himes",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Michael Goldstein",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "CT",
       "office": "State Senate",
       "district": "District 3",
       "candidate": "Saud Anwar",
       "party": "Democrat",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -41,7 +80,7 @@
       "district": "District 13",
       "candidate": "Jonathan Fazzino",
       "party": "Democrat",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -50,7 +89,7 @@
       "district": "District 33",
       "candidate": "Charles Ferraro",
       "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -59,7 +98,7 @@
       "district": "District 18",
       "candidate": "Tiffani McGinnis",
       "party": "Democrat",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -68,7 +107,7 @@
       "district": "District 34",
       "candidate": "Melissa Ziobron",
       "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -77,7 +116,7 @@
       "district": "District 58",
       "candidate": "John Santanella",
       "party": "Democrat",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -86,7 +125,7 @@
       "district": "District 102",
       "candidate": "Ray Ingraham",
       "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -95,7 +134,7 @@
       "district": "District 117",
       "candidate": "Raymond Collins III",
       "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     }
   ]

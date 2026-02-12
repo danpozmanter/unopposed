@@ -2,11 +2,11 @@
   "state": "NV",
   "state_name": "Nevada",
   "year": 2026,
-  "total": 11,
+  "total": 12,
   "total_races": 58,
   "total_races_by_party": {
-    "Democrat": 8,
     "Republican": 10,
+    "Democrat": 8,
     "Unknown": 1
   },
   "general": {
@@ -21,13 +21,13 @@
       "Democrat": 8,
       "Republican": 10
     },
-    "total_unopposed": 10,
+    "total_unopposed": 11,
     "unopposed_by_party": {
-      "Democrat": 5,
-      "Republican": 5
+      "Republican": 6,
+      "Democrat": 5
     }
   },
-  "scraped_at": "2026-02-11T04:58:19.627092+00:00",
+  "scraped_at": "2026-02-12T04:53:47.627210+00:00",
   "unopposed_candidates": [
     {
       "state": "NV",
@@ -36,6 +36,15 @@
       "candidate": "J.E. Houston",
       "party": "Unknown",
       "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Rick Shepherd",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {

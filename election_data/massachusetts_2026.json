@@ -2,35 +2,34 @@
   "state": "MA",
   "state_name": "Massachusetts",
   "year": 2026,
-  "total": 19,
+  "total": 24,
   "total_races": 211,
   "total_races_by_party": {
     "Unknown": 5,
     "American Independent": 1,
     "Democrat": 27,
-    "Republican": 8
+    "Republican": 10
   },
   "general": {
     "total_races": 205,
-    "total_unopposed": 11,
+    "total_unopposed": 6,
     "unopposed_by_party": {
-      "Unknown": 3,
-      "Democrat": 6,
-      "Republican": 2
+      "Unknown": 4,
+      "Democrat": 2
     }
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 20,
-      "Republican": 4
+      "Democrat": 27,
+      "Republican": 10
     },
-    "total_unopposed": 10,
+    "total_unopposed": 20,
     "unopposed_by_party": {
-      "Democrat": 8,
-      "Republican": 2
+      "Democrat": 14,
+      "Republican": 6
     }
   },
-  "scraped_at": "2026-02-11T04:56:15.453829+00:00",
+  "scraped_at": "2026-02-12T04:51:23.742669+00:00",
   "unopposed_candidates": [
     {
       "state": "MA",
@@ -106,11 +105,38 @@
     },
     {
       "state": "MA",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Submit photo",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
       "office": "State Senate",
       "district": "1st Bristol and Plymouth District",
       "candidate": "Michael Rodrigues",
       "party": "Democrat",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "2nd Essex and Middlesex District",
+      "candidate": "Barry Finegold",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "2nd Essex and Middlesex District",
+      "candidate": "Ted Semesnyei",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -119,7 +145,7 @@
       "district": "Plymouth and Barnstable District",
       "candidate": "Kari MacRae",
       "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -127,6 +153,15 @@
       "office": "State House",
       "district": "1st Franklin District",
       "candidate": "Corinne Coryat",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "2nd Middlesex District",
+      "candidate": "Matt McLaughlin",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -143,6 +178,15 @@
     {
       "state": "MA",
       "office": "State House",
+      "district": "3rd Berkshire District",
+      "candidate": "Leigh Davis",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
       "district": "7th Worcester District",
       "candidate": "Nick Lazzaro",
       "party": "Democrat",
@@ -152,8 +196,26 @@
     {
       "state": "MA",
       "office": "State House",
+      "district": "7th Worcester District",
+      "candidate": "Paul Frost",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
       "district": "9th Essex District",
       "candidate": "Zosia VanMeter",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "11th Hampden District",
+      "candidate": "Johnnie McKnight",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -170,37 +232,19 @@
     {
       "state": "MA",
       "office": "State House",
-      "district": "2nd Middlesex District",
-      "candidate": "Matt McLaughlin",
+      "district": "18th Essex District",
+      "candidate": "Connor Murray",
       "party": "Democrat",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
       "state": "MA",
       "office": "State House",
-      "district": "3rd Berkshire District",
-      "candidate": "Leigh Davis",
-      "party": "Democrat",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MA",
-      "office": "State House",
-      "district": "7th Worcester District",
-      "candidate": "Paul Frost",
+      "district": "18th Essex District",
+      "candidate": "Christopher Shepley",
       "party": "Republican",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MA",
-      "office": "State House",
-      "district": "11th Hampden District",
-      "candidate": "Johnnie McKnight",
-      "party": "Democrat",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     }
   ]

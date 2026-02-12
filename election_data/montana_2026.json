@@ -2,18 +2,18 @@
   "state": "MT",
   "state_name": "Montana",
   "year": 2026,
-  "total": 85,
+  "total": 86,
   "total_races": 128,
   "total_races_by_party": {
+    "Republican": 71,
     "Unknown": 2,
-    "Democrat": 39,
-    "Republican": 71
+    "Democrat": 39
   },
   "general": {
     "total_races": 127,
-    "total_unopposed": 1,
+    "total_unopposed": 2,
     "unopposed_by_party": {
-      "Unknown": 1
+      "Unknown": 2
     }
   },
   "primary": {
@@ -27,8 +27,17 @@
       "Democrat": 29
     }
   },
-  "scraped_at": "2026-02-11T04:57:42.218263+00:00",
+  "scraped_at": "2026-02-12T04:53:14.954677+00:00",
   "unopposed_candidates": [
+    {
+      "state": "MT",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Submit photo",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
     {
       "state": "MT",
       "office": "US House",

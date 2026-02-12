@@ -2,31 +2,29 @@
   "state": "ND",
   "state_name": "North Dakota",
   "year": 2026,
-  "total": 9,
+  "total": 7,
   "total_races": 47,
   "total_races_by_party": {
     "Democrat": 1,
-    "Republican": 9
+    "Republican": 8
   },
   "general": {
     "total_races": 47,
-    "total_unopposed": 1,
-    "unopposed_by_party": {
-      "Republican": 1
-    }
+    "total_unopposed": 0,
+    "unopposed_by_party": {}
   },
   "primary": {
     "total_races_by_party": {
       "Democrat": 1,
       "Republican": 8
     },
-    "total_unopposed": 8,
+    "total_unopposed": 7,
     "unopposed_by_party": {
       "Democrat": 1,
-      "Republican": 7
+      "Republican": 6
     }
   },
-  "scraped_at": "2026-02-11T05:00:31.663865+00:00",
+  "scraped_at": "2026-02-12T04:55:50.206369+00:00",
   "unopposed_candidates": [
     {
       "state": "ND",
@@ -85,28 +83,10 @@
     {
       "state": "ND",
       "office": "State House",
-      "district": "District 13",
-      "candidate": "Austen Schauer",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ND",
-      "office": "State House",
       "district": "District 31",
       "candidate": "James Schmidt",
       "party": "Republican",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ND",
-      "office": "State House",
-      "district": "District 13",
-      "candidate": "Jim Jonas",
-      "party": "Republican",
-      "unopposed_in": "General",
       "source": "Ballotpedia"
     }
   ]

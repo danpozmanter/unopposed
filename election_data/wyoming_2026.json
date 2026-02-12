@@ -2,35 +2,23 @@
   "state": "WY",
   "state_name": "Wyoming",
   "year": 2026,
-  "total": 1,
-  "total_races": 80,
+  "total": 0,
+  "total_races": 18,
   "total_races_by_party": {
-    "Republican": 3
+    "Republican": 2
   },
   "general": {
-    "total_races": 78,
+    "total_races": 16,
     "total_unopposed": 0,
     "unopposed_by_party": {}
   },
   "primary": {
     "total_races_by_party": {
-      "Republican": 3
+      "Republican": 2
     },
-    "total_unopposed": 1,
-    "unopposed_by_party": {
-      "Republican": 1
-    }
+    "total_unopposed": 0,
+    "unopposed_by_party": {}
   },
-  "scraped_at": "2026-02-11T05:06:17.135150+00:00",
-  "unopposed_candidates": [
-    {
-      "state": "WY",
-      "office": "State House",
-      "district": "District 57",
-      "candidate": "Julie Jarvis",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    }
-  ]
+  "scraped_at": "2026-02-12T05:02:04.294241+00:00",
+  "unopposed_candidates": []
 }

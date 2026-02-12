@@ -2,42 +2,87 @@
   "state": "OK",
   "state_name": "Oklahoma",
   "year": 2026,
-  "total": 28,
+  "total": 46,
   "total_races": 132,
   "total_races_by_party": {
-    "Unknown": 4,
-    "Democrat": 19,
-    "Republican": 42,
+    "Republican": 44,
+    "Democrat": 23,
+    "Unknown": 2,
     "Other": 1
   },
   "general": {
-    "total_races": 131,
-    "total_unopposed": 26,
+    "total_races": 127,
+    "total_unopposed": 3,
     "unopposed_by_party": {
-      "Republican": 20,
-      "Democrat": 6
+      "Unknown": 2,
+      "Other": 1
     }
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 2,
-      "Republican": 3
+      "Democrat": 23,
+      "Republican": 44
     },
-    "total_unopposed": 2,
+    "total_unopposed": 43,
     "unopposed_by_party": {
-      "Democrat": 1,
-      "Republican": 1
+      "Republican": 27,
+      "Democrat": 16
     }
   },
-  "scraped_at": "2026-02-11T05:01:06.849937+00:00",
+  "scraped_at": "2026-02-12T04:56:32.308697+00:00",
   "unopposed_candidates": [
     {
       "state": "OK",
       "office": "US House",
-      "district": "District 5",
-      "candidate": "Stephanie Bice",
-      "party": "Republican",
+      "district": "District 1",
+      "candidate": "Ryan Parschauer",
+      "party": "Unknown",
       "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Kevin Hern",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Erik Terwey",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Rebekah LaVann",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Jules Roberson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Frank Lucas",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -51,11 +96,20 @@
     },
     {
       "state": "OK",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Cyndi Munson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
       "office": "State Senate",
       "district": "District 2",
       "candidate": "Payton Pepin",
       "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -64,7 +118,25 @@
       "district": "District 4",
       "candidate": "Kenny Smith",
       "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Nathan Brewer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Bryan Logan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -73,7 +145,7 @@
       "district": "District 14",
       "candidate": "Jerry Alvord",
       "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -82,7 +154,7 @@
       "district": "District 16",
       "candidate": "Mary Boren",
       "party": "Democrat",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -91,7 +163,7 @@
       "district": "District 20",
       "candidate": "Karmin Grider",
       "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -100,7 +172,7 @@
       "district": "District 26",
       "candidate": "Rick Koch",
       "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -109,7 +181,7 @@
       "district": "District 30",
       "candidate": "Julia Kirt",
       "party": "Democrat",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -118,7 +190,16 @@
       "district": "District 32",
       "candidate": "Curtis Erwin",
       "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State Senate",
+      "district": "District 34",
+      "candidate": "Amy Hossain",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -127,7 +208,7 @@
       "district": "District 36",
       "candidate": "John Haste",
       "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -136,7 +217,43 @@
       "district": "District 40",
       "candidate": "Carri Hicks",
       "party": "Democrat",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Josh West",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Rusty Cornwell",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Steve Bashore",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Sandra Hodges",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -151,46 +268,19 @@
     {
       "state": "OK",
       "office": "State House",
-      "district": "District 5",
-      "candidate": "Josh West",
-      "party": "Republican",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OK",
-      "office": "State House",
-      "district": "District 6",
-      "candidate": "Rusty Cornwell",
-      "party": "Republican",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OK",
-      "office": "State House",
-      "district": "District 7",
-      "candidate": "Steve Bashore",
-      "party": "Republican",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OK",
-      "office": "State House",
-      "district": "District 12",
-      "candidate": "Sandra Hodges",
-      "party": "Republican",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OK",
-      "office": "State House",
       "district": "District 18",
       "candidate": "Shelton Foster",
       "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Jonathan Wilk",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -199,7 +289,7 @@
       "district": "District 21",
       "candidate": "Cody Maynard",
       "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -208,7 +298,16 @@
       "district": "District 31",
       "candidate": "Karmin Grider",
       "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Jack Vaughan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -217,7 +316,7 @@
       "district": "District 34",
       "candidate": "Trish Ranson",
       "party": "Democrat",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -226,7 +325,7 @@
       "district": "District 40",
       "candidate": "Torry Turnbow",
       "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -235,7 +334,7 @@
       "district": "District 41",
       "candidate": "Mike Bockus",
       "party": "Democrat",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -244,7 +343,25 @@
       "district": "District 54",
       "candidate": "Alexander Torvi",
       "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State House",
+      "district": "District 68",
+      "candidate": "Erica Watkins",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State House",
+      "district": "District 68",
+      "candidate": "Mike Lay",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -253,7 +370,16 @@
       "district": "District 79",
       "candidate": "Paul Hassink",
       "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State House",
+      "district": "District 82",
+      "candidate": "Evan Beck",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -262,7 +388,7 @@
       "district": "District 83",
       "candidate": "Eric Roberts",
       "party": "Republican",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -271,7 +397,16 @@
       "district": "District 88",
       "candidate": "Ellen Pogemiller",
       "party": "Democrat",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State House",
+      "district": "District 91",
+      "candidate": "Chris Fowler",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -280,6 +415,33 @@
       "district": "District 96",
       "candidate": "John Bachman",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State House",
+      "district": "District 98",
+      "candidate": "Cathy Smythe",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State House",
+      "district": "District 98",
+      "candidate": "Gabe Woolley",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Andy Brown",
+      "party": "Other",
       "unopposed_in": "General",
       "source": "Ballotpedia"
     }

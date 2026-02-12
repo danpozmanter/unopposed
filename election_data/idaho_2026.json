@@ -2,12 +2,12 @@
   "state": "ID",
   "state_name": "Idaho",
   "year": 2026,
-  "total": 112,
+  "total": 109,
   "total_races": 109,
   "total_races_by_party": {
-    "Republican": 102,
-    "Democrat": 43,
     "Unknown": 4,
+    "Republican": 101,
+    "Democrat": 43,
     "Other": 11
   },
   "general": {
@@ -15,7 +15,7 @@
     "total_unopposed": 11,
     "unopposed_by_party": {
       "Unknown": 2,
-      "Other": 10
+      "Other": 11
     }
   },
   "primary": {
@@ -23,13 +23,13 @@
       "Democrat": 43,
       "Republican": 101
     },
-    "total_unopposed": 81,
+    "total_unopposed": 79,
     "unopposed_by_party": {
-      "Democrat": 38,
-      "Republican": 62
+      "Democrat": 37,
+      "Republican": 59
     }
   },
-  "scraped_at": "2026-02-11T04:53:29.747408+00:00",
+  "scraped_at": "2026-02-12T04:48:51.749861+00:00",
   "unopposed_candidates": [
     {
       "state": "ID",
@@ -674,15 +674,6 @@
       "state": "ID",
       "office": "State House",
       "district": "District 16",
-      "candidate": "Annie Haws",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ID",
-      "office": "State House",
-      "district": "District 16",
       "candidate": "Chandler Hadraba",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -826,15 +817,6 @@
     {
       "state": "ID",
       "office": "State House",
-      "district": "District 25",
-      "candidate": "Donald Hall",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ID",
-      "office": "State House",
       "district": "District 26",
       "candidate": "Mike Pohanka",
       "party": "Republican",
@@ -925,15 +907,6 @@
     {
       "state": "ID",
       "office": "State House",
-      "district": "District 32",
-      "candidate": "Erin Bingham",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ID",
-      "office": "State House",
       "district": "District 33",
       "candidate": "Barbara Ehardt",
       "party": "Republican",
@@ -945,15 +918,6 @@
       "office": "State House",
       "district": "District 34",
       "candidate": "Jon Weber",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ID",
-      "office": "State House",
-      "district": "District 35",
-      "candidate": "Mike Veile",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -1017,6 +981,15 @@
       "office": "State House",
       "district": "District 24",
       "candidate": "Kevin Moxley",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Liyah Babayan",
       "party": "Other",
       "unopposed_in": "General",
       "source": "Ballotpedia"

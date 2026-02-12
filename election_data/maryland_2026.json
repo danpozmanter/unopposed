@@ -5,28 +5,26 @@
   "total": 26,
   "total_races": 126,
   "total_races_by_party": {
-    "Democrat": 27,
-    "Republican": 15
+    "Republican": 15,
+    "Democrat": 27
   },
   "general": {
     "total_races": 118,
-    "total_unopposed": 1,
-    "unopposed_by_party": {
-      "Democrat": 1
-    }
+    "total_unopposed": 0,
+    "unopposed_by_party": {}
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 26,
+      "Democrat": 27,
       "Republican": 15
     },
-    "total_unopposed": 24,
+    "total_unopposed": 25,
     "unopposed_by_party": {
       "Republican": 12,
-      "Democrat": 13
+      "Democrat": 14
     }
   },
-  "scraped_at": "2026-02-11T04:55:47.206288+00:00",
+  "scraped_at": "2026-02-12T04:50:55.999230+00:00",
   "unopposed_candidates": [
     {
       "state": "MD",
@@ -193,6 +191,15 @@
     {
       "state": "MD",
       "office": "State House",
+      "district": "District 4",
+      "candidate": "Alleria Stanley",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
       "district": "District 12",
       "candidate": "John Handley",
       "party": "Democrat",
@@ -251,15 +258,6 @@
       "candidate": "Jeremy Amason",
       "party": "Republican",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MD",
-      "office": "State House",
-      "district": "District 4",
-      "candidate": "Alleria Stanley",
-      "party": "Democrat",
-      "unopposed_in": "General",
       "source": "Ballotpedia"
     }
   ]

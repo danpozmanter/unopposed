@@ -2,13 +2,13 @@
   "state": "OH",
   "state_name": "Ohio",
   "year": 2026,
-  "total": 94,
+  "total": 153,
   "total_races": 131,
   "total_races_by_party": {
-    "Democrat": 62,
     "Unknown": 7,
-    "Republican": 67,
-    "Other": 5
+    "Democrat": 102,
+    "Republican": 103,
+    "Other": 9
   },
   "general": {
     "total_races": 119,
@@ -19,20 +19,20 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 62,
-      "Republican": 67,
+      "Democrat": 102,
+      "Republican": 103,
       "Unknown": 4,
-      "Other": 5
+      "Other": 9
     },
-    "total_unopposed": 91,
+    "total_unopposed": 150,
     "unopposed_by_party": {
       "Unknown": 2,
-      "Republican": 46,
-      "Democrat": 38,
-      "Other": 5
+      "Republican": 73,
+      "Democrat": 66,
+      "Other": 9
     }
   },
-  "scraped_at": "2026-02-11T05:00:45.664651+00:00",
+  "scraped_at": "2026-02-12T04:56:10.873311+00:00",
   "unopposed_candidates": [
     {
       "state": "OH",
@@ -145,6 +145,42 @@
     {
       "state": "OH",
       "office": "State Senate",
+      "district": "District 3",
+      "candidate": "Michele Reynolds",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Catherine Ingram",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Paula Hicks-Hudson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Kenneth Sharp",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State Senate",
       "district": "District 13",
       "candidate": "Joseph A. Miller III",
       "party": "Democrat",
@@ -163,6 +199,87 @@
     {
       "state": "OH",
       "office": "State Senate",
+      "district": "District 15",
+      "candidate": "Latyna Humphrey",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Brian Deer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Shane Wilkin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Janet Wagner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Mikhail Alterman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Bride Rose Sweeney",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Robert Dintaman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State Senate",
+      "district": "District 25",
+      "candidate": "Don Roberts",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "Mike Roberto",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State Senate",
       "district": "District 27",
       "candidate": "Steve Demetriou",
       "party": "Republican",
@@ -171,9 +288,63 @@
     },
     {
       "state": "OH",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Thomas West",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Jane Timken",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State Senate",
+      "district": "District 31",
+      "candidate": "Laura Sirot",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State Senate",
+      "district": "District 31",
+      "candidate": "Al Landis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State Senate",
+      "district": "District 33",
+      "candidate": "Michael Kripchak",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State Senate",
+      "district": "District 33",
+      "candidate": "Alessandro Cutrona",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
       "office": "State House",
-      "district": "District 18",
-      "candidate": "Samuel Grube",
+      "district": "District 13",
+      "candidate": "Tristan Rader",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -181,9 +352,144 @@
     {
       "state": "OH",
       "office": "State House",
-      "district": "District 20",
-      "candidate": "Lauren Welch",
+      "district": "District 13",
+      "candidate": "Billy Fronimo",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Sean Brennan",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Chris Glassburn",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Daniel Conway",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Ryan McClain",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Scott DiMauro",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Sophia Tjotjos",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Megan Coy",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Mike Dovilla",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Maureen Lynn",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Eric Geyer",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Donna Walker-Brown",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Eric Synenberg",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Tina Barhams",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Darnell Brewer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Michele Erney",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -307,8 +613,62 @@
     {
       "state": "OH",
       "office": "State House",
-      "district": "District 35",
-      "candidate": "Ryan Britt",
+      "district": "District 31",
+      "candidate": "J. Noah Spinner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Jack K. Daniels",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Veronica Sims",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Napoleon Rodgers Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Keith Castillo",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Derrick Hall",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Craig Shubert",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -523,17 +883,8 @@
     {
       "state": "OH",
       "office": "State House",
-      "district": "District 55",
-      "candidate": "Laalitya Acharya",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OH",
-      "office": "State House",
-      "district": "District 55",
-      "candidate": "Adam Mathews",
+      "district": "District 51",
+      "candidate": "Jodi Salvo",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -541,7 +892,34 @@
     {
       "state": "OH",
       "office": "State House",
-      "district": "District 56",
+      "district": "District 53",
+      "candidate": "Bradley Lacko",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 54",
+      "candidate": "Brenda Buchanan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 54",
+      "candidate": "Kellie Deeter",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 55",
       "candidate": "Paul Kurtz",
       "party": "Democrat",
       "unopposed_in": "Primary",
@@ -550,7 +928,7 @@
     {
       "state": "OH",
       "office": "State House",
-      "district": "District 56",
+      "district": "District 55",
       "candidate": "C. Michelle Teska",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -559,9 +937,27 @@
     {
       "state": "OH",
       "office": "State House",
-      "district": "District 56",
+      "district": "District 55",
       "candidate": "Philip L. Pirdy",
       "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 56",
+      "candidate": "Laalitya Acharya",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 56",
+      "candidate": "Adam Mathews",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -607,6 +1003,15 @@
       "district": "District 59",
       "candidate": "Tex Fischer",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 61",
+      "candidate": "Vince McGrail",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -676,8 +1081,71 @@
     {
       "state": "OH",
       "office": "State House",
+      "district": "District 66",
+      "candidate": "Chris Nardo",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 66",
+      "candidate": "Justin Peroli",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 67",
+      "candidate": "Heather Sample",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
       "district": "District 67",
       "candidate": "Melanie Miller",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 68",
+      "candidate": "Mason Blankenship",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 68",
+      "candidate": "Thaddeus Claggett",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 69",
+      "candidate": "Amy Rigsby",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 69",
+      "candidate": "Kevin Miller",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -739,6 +1207,42 @@
     {
       "state": "OH",
       "office": "State House",
+      "district": "District 76",
+      "candidate": "Colton Stidam",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 76",
+      "candidate": "Marilyn John",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 77",
+      "candidate": "Brooke Dillon",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 77",
+      "candidate": "Meredith Craig",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
       "district": "District 78",
       "candidate": "Jeffrey R. Givan",
       "party": "Democrat",
@@ -767,7 +1271,16 @@
       "state": "OH",
       "office": "State House",
       "district": "District 81",
-      "candidate": "Brandon Moskwa",
+      "candidate": "David Swanson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 87",
+      "candidate": "Jeffrey McClain",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -778,15 +1291,6 @@
       "district": "District 88",
       "candidate": "Aaron Jones",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OH",
-      "office": "State House",
-      "district": "District 88",
-      "candidate": "Eric Watson",
-      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -820,8 +1324,35 @@
     {
       "state": "OH",
       "office": "State House",
+      "district": "District 91",
+      "candidate": "Amy Wright",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 91",
+      "candidate": "Bob Peterson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
       "district": "District 92",
       "candidate": "Mark Johnson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 95",
+      "candidate": "Ty Moore",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

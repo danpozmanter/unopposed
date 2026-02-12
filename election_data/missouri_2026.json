@@ -2,11 +2,11 @@
   "state": "MO",
   "state_name": "Missouri",
   "year": 2026,
-  "total": 138,
+  "total": 135,
   "total_races": 188,
   "total_races_by_party": {
-    "Democrat": 79,
-    "Republican": 108
+    "Democrat": 82,
+    "Republican": 109
   },
   "general": {
     "total_races": 180,
@@ -15,16 +15,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 79,
-      "Republican": 108
+      "Democrat": 82,
+      "Republican": 109
     },
-    "total_unopposed": 138,
+    "total_unopposed": 135,
     "unopposed_by_party": {
-      "Republican": 72,
-      "Democrat": 66
+      "Republican": 67,
+      "Democrat": 68
     }
   },
-  "scraped_at": "2026-02-11T04:57:28.044915+00:00",
+  "scraped_at": "2026-02-12T04:52:55.661643+00:00",
   "unopposed_candidates": [
     {
       "state": "MO",
@@ -119,15 +119,6 @@
     {
       "state": "MO",
       "office": "State Senate",
-      "district": "District 26",
-      "candidate": "Ben Brown",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MO",
-      "office": "State Senate",
       "district": "District 30",
       "candidate": "Betsy Fogle",
       "party": "Democrat",
@@ -136,10 +127,10 @@
     },
     {
       "state": "MO",
-      "office": "State Senate",
-      "district": "District 30",
-      "candidate": "Melanie Stinnett",
-      "party": "Republican",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Jessica Piper",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -238,15 +229,6 @@
       "office": "State House",
       "district": "District 12",
       "candidate": "Mike Jones",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MO",
-      "office": "State House",
-      "district": "District 13",
-      "candidate": "John Elliott",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -515,24 +497,6 @@
     {
       "state": "MO",
       "office": "State House",
-      "district": "District 50",
-      "candidate": "Gregg Bush",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MO",
-      "office": "State House",
-      "district": "District 51",
-      "candidate": "Stephanie Gooden",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MO",
-      "office": "State House",
       "district": "District 54",
       "candidate": "Taigan Plummer",
       "party": "Democrat",
@@ -724,6 +688,15 @@
       "office": "State House",
       "district": "District 83",
       "candidate": "Raymond Reed",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 89",
+      "candidate": "Luke Barber",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -1073,6 +1046,15 @@
     {
       "state": "MO",
       "office": "State House",
+      "district": "District 131",
+      "candidate": "Iliya Matveyuk",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
       "district": "District 132",
       "candidate": "Jeremy Dean",
       "party": "Democrat",
@@ -1181,15 +1163,6 @@
     {
       "state": "MO",
       "office": "State House",
-      "district": "District 146",
-      "candidate": "Lucas Green",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MO",
-      "office": "State House",
       "district": "District 147",
       "candidate": "John Voss",
       "party": "Republican",
@@ -1201,15 +1174,6 @@
       "office": "State House",
       "district": "District 148",
       "candidate": "David A. Dolan",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MO",
-      "office": "State House",
-      "district": "District 149",
-      "candidate": "Scott Crumpecker",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -1247,6 +1211,15 @@
       "district": "District 155",
       "candidate": "Matthew Overcast",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 156",
+      "candidate": "Willard Harris",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

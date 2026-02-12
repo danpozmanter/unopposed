@@ -2,15 +2,15 @@
   "state": "IN",
   "state_name": "Indiana",
   "year": 2026,
-  "total": 144,
-  "total_races": 134,
+  "total": 155,
+  "total_races": 109,
   "total_races_by_party": {
-    "Republican": 97,
-    "Democrat": 106,
+    "Democrat": 125,
+    "Republican": 112,
     "Unknown": 3
   },
   "general": {
-    "total_races": 128,
+    "total_races": 103,
     "total_unopposed": 3,
     "unopposed_by_party": {
       "Unknown": 3
@@ -18,16 +18,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 106,
-      "Republican": 97
+      "Democrat": 125,
+      "Republican": 112
     },
-    "total_unopposed": 141,
+    "total_unopposed": 152,
     "unopposed_by_party": {
-      "Republican": 62,
-      "Democrat": 79
+      "Republican": 60,
+      "Democrat": 92
     }
   },
-  "scraped_at": "2026-02-11T04:53:57.417321+00:00",
+  "scraped_at": "2026-02-12T04:49:17.945309+00:00",
   "unopposed_candidates": [
     {
       "state": "IN",
@@ -68,6 +68,33 @@
     {
       "state": "IN",
       "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Scott Houldieson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "Rodney Pol Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Kate-Lynn Holley",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State Senate",
       "district": "District 11",
       "candidate": "Gabrianna Gratzol",
       "party": "Democrat",
@@ -77,8 +104,17 @@
     {
       "state": "IN",
       "office": "State Senate",
-      "district": "District 15",
-      "candidate": "Liz Brown",
+      "district": "District 14",
+      "candidate": "Blaine Sefton",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Tyler Johnson",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -87,25 +123,7 @@
       "state": "IN",
       "office": "State Senate",
       "district": "District 17",
-      "candidate": "Mike Thompson",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "IN",
-      "office": "State Senate",
-      "district": "District 19",
-      "candidate": "Travis Holdman",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "IN",
-      "office": "State Senate",
-      "district": "District 21",
-      "candidate": "Kirsten Root",
+      "candidate": "Cynthia Wehr",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -113,9 +131,9 @@
     {
       "state": "IN",
       "office": "State Senate",
-      "district": "District 21",
-      "candidate": "Tracey Powell",
-      "party": "Republican",
+      "district": "District 19",
+      "candidate": "Timothy Murphy",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -123,16 +141,7 @@
       "state": "IN",
       "office": "State Senate",
       "district": "District 23",
-      "candidate": "Paula Copenhaver",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "IN",
-      "office": "State Senate",
-      "district": "District 25",
-      "candidate": "Todd Shelton",
+      "candidate": "David Sanders",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -149,8 +158,8 @@
     {
       "state": "IN",
       "office": "State Senate",
-      "district": "District 29",
-      "candidate": "Kristina Moorhead",
+      "district": "District 27",
+      "candidate": "Ronald Itnyre",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -159,8 +168,98 @@
       "state": "IN",
       "office": "State Senate",
       "district": "District 38",
-      "candidate": "Brenda K. Wilson",
+      "candidate": "Kacey Blundell",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State Senate",
+      "district": "District 39",
+      "candidate": "Joseph Baughman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State Senate",
+      "district": "District 41",
+      "candidate": "Ross Thomas",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State Senate",
+      "district": "District 43",
+      "candidate": "Byron Holland",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State Senate",
+      "district": "District 45",
+      "candidate": "Nick Marshall",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State Senate",
+      "district": "District 45",
+      "candidate": "Chris Garten",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State Senate",
+      "district": "District 47",
+      "candidate": "Ethan Sweetland-May",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State Senate",
+      "district": "District 47",
+      "candidate": "Gary Byrne",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State Senate",
+      "district": "District 48",
+      "candidate": "Bradley Hochgesang",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State Senate",
+      "district": "District 48",
+      "candidate": "Daryl Schmitt",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State Senate",
+      "district": "District 49",
+      "candidate": "Cindi Clayton",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

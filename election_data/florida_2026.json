@@ -5,8 +5,8 @@
   "total": 151,
   "total_races": 169,
   "total_races_by_party": {
-    "Republican": 121,
-    "Democrat": 93,
+    "Democrat": 92,
+    "Republican": 123,
     "Libertarian": 2,
     "Unknown": 12,
     "Constitution": 1,
@@ -14,25 +14,25 @@
   },
   "general": {
     "total_races": 153,
-    "total_unopposed": 16,
+    "total_unopposed": 17,
     "unopposed_by_party": {
       "Unknown": 8,
       "Libertarian": 1,
-      "Other": 7
+      "Other": 8
     }
   },
   "primary": {
     "total_races_by_party": {
       "Democrat": 92,
-      "Republican": 121
+      "Republican": 123
     },
-    "total_unopposed": 135,
+    "total_unopposed": 134,
     "unopposed_by_party": {
-      "Democrat": 54,
-      "Republican": 81
+      "Democrat": 51,
+      "Republican": 83
     }
   },
-  "scraped_at": "2026-02-11T04:52:06.545822+00:00",
+  "scraped_at": "2026-02-12T04:47:50.126810+00:00",
   "unopposed_candidates": [
     {
       "state": "FL",
@@ -334,6 +334,15 @@
     {
       "state": "FL",
       "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Jay Collins",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "FL",
+      "office": "State Senate",
       "district": "District 18",
       "candidate": "Nick DiCeglie",
       "party": "Republican",
@@ -363,15 +372,6 @@
       "office": "State Senate",
       "district": "District 24",
       "candidate": "Mack Bernard",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "State Senate",
-      "district": "District 26",
-      "candidate": "David Silvers",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -505,17 +505,17 @@
     {
       "state": "FL",
       "office": "State House",
-      "district": "District 8",
-      "candidate": "Gallop Franklin",
-      "party": "Democrat",
+      "district": "District 12",
+      "candidate": "Terrance Freeman",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
       "state": "FL",
       "office": "State House",
-      "district": "District 12",
-      "candidate": "Terrance Freeman",
+      "district": "District 14",
+      "candidate": "Reginald Strachan",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -805,15 +805,6 @@
       "district": "District 50",
       "candidate": "Jennifer Canady",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "State House",
-      "district": "District 51",
-      "candidate": "Octavio Hernandez",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -1344,6 +1335,15 @@
       "office": "State House",
       "district": "District 1",
       "candidate": "Candace Rae Scialdone",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "FL",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Aaron Daniel Ruddell",
       "party": "Other",
       "unopposed_in": "General",
       "source": "Ballotpedia"
