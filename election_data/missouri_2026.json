@@ -2,7 +2,7 @@
   "state": "MO",
   "state_name": "Missouri",
   "year": 2026,
-  "total": 135,
+  "total": 134,
   "total_races": 188,
   "total_races_by_party": {
     "Democrat": 82,
@@ -18,13 +18,13 @@
       "Democrat": 82,
       "Republican": 109
     },
-    "total_unopposed": 135,
+    "total_unopposed": 134,
     "unopposed_by_party": {
       "Republican": 67,
-      "Democrat": 68
+      "Democrat": 67
     }
   },
-  "scraped_at": "2026-02-12T04:52:55.661643+00:00",
+  "scraped_at": "2026-02-13T04:51:02.547202+00:00",
   "unopposed_candidates": [
     {
       "state": "MO",
@@ -635,15 +635,6 @@
       "district": "District 72",
       "candidate": "Jeffrey Jacks",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MO",
-      "office": "State House",
-      "district": "District 73",
-      "candidate": "Henry Iwenofu",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

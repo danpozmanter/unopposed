@@ -2,11 +2,11 @@
   "state": "CA",
   "state_name": "California",
   "year": 2026,
-  "total": 80,
+  "total": 79,
   "total_races": 153,
   "total_races_by_party": {
-    "Republican": 51,
     "Democrat": 73,
+    "Republican": 51,
     "Unknown": 18,
     "Green/Rainbow": 1,
     "American Independent": 1,
@@ -28,17 +28,17 @@
       "American Independent": 1,
       "Libertarian": 1
     },
-    "total_unopposed": 80,
+    "total_unopposed": 79,
     "unopposed_by_party": {
       "Republican": 30,
-      "Unknown": 14,
+      "Unknown": 13,
       "Democrat": 33,
       "Green/Rainbow": 1,
       "American Independent": 1,
       "Libertarian": 1
     }
   },
-  "scraped_at": "2026-02-12T04:46:09.311004+00:00",
+  "scraped_at": "2026-02-13T04:44:08.602620+00:00",
   "unopposed_candidates": [
     {
       "state": "CA",
@@ -55,15 +55,6 @@
       "district": "District 2",
       "candidate": "Paul Saulsbury",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CA",
-      "office": "US House",
-      "district": "District 2",
-      "candidate": "Colby Smart",
-      "party": "Unknown",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

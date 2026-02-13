@@ -6,8 +6,8 @@
   "total_races": 12,
   "total_races_by_party": {
     "Republican": 10,
-    "Democrat": 12,
-    "Unknown": 6
+    "Unknown": 6,
+    "Democrat": 12
   },
   "general": {
     "total_races": 6,
@@ -27,7 +27,7 @@
       "Democrat": 1
     }
   },
-  "scraped_at": "2026-02-12T04:54:22.901875+00:00",
+  "scraped_at": "2026-02-13T04:52:42.346295+00:00",
   "unopposed_candidates": [
     {
       "state": "NJ",

@@ -2,11 +2,11 @@
   "state": "ND",
   "state_name": "North Dakota",
   "year": 2026,
-  "total": 7,
+  "total": 8,
   "total_races": 47,
   "total_races_by_party": {
     "Democrat": 1,
-    "Republican": 8
+    "Republican": 9
   },
   "general": {
     "total_races": 47,
@@ -16,15 +16,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 1,
-      "Republican": 8
+      "Republican": 9
     },
-    "total_unopposed": 7,
+    "total_unopposed": 8,
     "unopposed_by_party": {
       "Democrat": 1,
-      "Republican": 6
+      "Republican": 7
     }
   },
-  "scraped_at": "2026-02-12T04:55:50.206369+00:00",
+  "scraped_at": "2026-02-13T04:54:19.527755+00:00",
   "unopposed_candidates": [
     {
       "state": "ND",
@@ -40,6 +40,15 @@
       "office": "State Senate",
       "district": "District 13",
       "candidate": "Judy Lee",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Jonathan Sickler",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

@@ -2,13 +2,13 @@
   "state": "OH",
   "state_name": "Ohio",
   "year": 2026,
-  "total": 153,
+  "total": 158,
   "total_races": 131,
   "total_races_by_party": {
+    "Republican": 105,
     "Unknown": 7,
-    "Democrat": 102,
-    "Republican": 103,
-    "Other": 9
+    "Democrat": 104,
+    "Other": 12
   },
   "general": {
     "total_races": 119,
@@ -19,20 +19,20 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 102,
-      "Republican": 103,
+      "Democrat": 104,
+      "Republican": 105,
       "Unknown": 4,
-      "Other": 9
+      "Other": 12
     },
-    "total_unopposed": 150,
+    "total_unopposed": 155,
     "unopposed_by_party": {
       "Unknown": 2,
-      "Republican": 73,
-      "Democrat": 66,
-      "Other": 9
+      "Republican": 74,
+      "Democrat": 67,
+      "Other": 12
     }
   },
-  "scraped_at": "2026-02-12T04:56:10.873311+00:00",
+  "scraped_at": "2026-02-13T04:54:37.199826+00:00",
   "unopposed_candidates": [
     {
       "state": "OH",
@@ -49,6 +49,15 @@
       "district": "District 3",
       "candidate": "Cleophus Dulaney",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Joshua Kolasinski",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -730,9 +739,9 @@
     {
       "state": "OH",
       "office": "State House",
-      "district": "District 41",
-      "candidate": "Erika White",
-      "party": "Democrat",
+      "district": "District 40",
+      "candidate": "Joshua Umbaugh",
+      "party": "Other",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -760,15 +769,6 @@
       "district": "District 43",
       "candidate": "Michele Grim",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OH",
-      "office": "State House",
-      "district": "District 43",
-      "candidate": "David Karmol",
-      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -1180,6 +1180,24 @@
     {
       "state": "OH",
       "office": "State House",
+      "district": "District 72",
+      "candidate": "Heidi Workman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 72",
+      "candidate": "Michael Fricke",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
       "district": "District 74",
       "candidate": "Bernard Willis",
       "party": "Republican",
@@ -1273,6 +1291,33 @@
       "district": "District 81",
       "candidate": "David Swanson",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 82",
+      "candidate": "David Plant",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 82",
+      "candidate": "Roy Klopfenstein",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 82",
+      "candidate": "Christopher Elder",
+      "party": "Other",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

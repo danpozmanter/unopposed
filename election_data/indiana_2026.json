@@ -2,11 +2,11 @@
   "state": "IN",
   "state_name": "Indiana",
   "year": 2026,
-  "total": 155,
+  "total": 156,
   "total_races": 109,
   "total_races_by_party": {
-    "Democrat": 125,
     "Republican": 112,
+    "Democrat": 125,
     "Unknown": 3
   },
   "general": {
@@ -21,13 +21,13 @@
       "Democrat": 125,
       "Republican": 112
     },
-    "total_unopposed": 152,
+    "total_unopposed": 153,
     "unopposed_by_party": {
       "Republican": 60,
-      "Democrat": 92
+      "Democrat": 93
     }
   },
-  "scraped_at": "2026-02-12T04:49:17.945309+00:00",
+  "scraped_at": "2026-02-13T04:47:29.483459+00:00",
   "unopposed_candidates": [
     {
       "state": "IN",
@@ -44,6 +44,15 @@
       "district": "District 2",
       "candidate": "Rudy Yakym",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Kelly Thompson",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

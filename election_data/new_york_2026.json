@@ -2,12 +2,12 @@
   "state": "NY",
   "state_name": "New York",
   "year": 2026,
-  "total": 38,
+  "total": 39,
   "total_races": 240,
   "total_races_by_party": {
-    "Unknown": 7,
-    "Democrat": 38,
     "Republican": 26,
+    "Democrat": 39,
+    "Unknown": 7,
     "Conservative": 1,
     "American Independent": 1
   },
@@ -21,16 +21,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 38,
+      "Democrat": 39,
       "Republican": 26
     },
-    "total_unopposed": 35,
+    "total_unopposed": 36,
     "unopposed_by_party": {
       "Republican": 16,
-      "Democrat": 19
+      "Democrat": 20
     }
   },
-  "scraped_at": "2026-02-12T04:55:15.887542+00:00",
+  "scraped_at": "2026-02-13T04:53:44.203263+00:00",
   "unopposed_candidates": [
     {
       "state": "NY",
@@ -262,6 +262,15 @@
       "office": "State Senate",
       "district": "District 44",
       "candidate": "Patrick Nelson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "State Senate",
+      "district": "District 45",
+      "candidate": "Melissa Seale",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

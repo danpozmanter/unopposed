@@ -2,11 +2,11 @@
   "state": "UT",
   "state_name": "Utah",
   "year": 2026,
-  "total": 150,
+  "total": 149,
   "total_races": 94,
   "total_races_by_party": {
-    "Democrat": 114,
     "Republican": 132,
+    "Democrat": 113,
     "Unknown": 3,
     "Other": 23
   },
@@ -19,18 +19,18 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 114,
+      "Democrat": 113,
       "Republican": 132,
       "Other": 23
     },
-    "total_unopposed": 147,
+    "total_unopposed": 146,
     "unopposed_by_party": {
       "Republican": 68,
-      "Democrat": 59,
+      "Democrat": 58,
       "Other": 20
     }
   },
-  "scraped_at": "2026-02-12T04:59:36.201792+00:00",
+  "scraped_at": "2026-02-13T04:57:54.985350+00:00",
   "unopposed_candidates": [
     {
       "state": "UT",
@@ -119,15 +119,6 @@
       "district": "District 1",
       "candidate": "Julie Quinlan",
       "party": "Other",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "UT",
-      "office": "State Senate",
-      "district": "District 6",
-      "candidate": "Jared Neal",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
