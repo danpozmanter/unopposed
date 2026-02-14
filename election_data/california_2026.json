@@ -2,11 +2,11 @@
   "state": "CA",
   "state_name": "California",
   "year": 2026,
-  "total": 79,
+  "total": 80,
   "total_races": 153,
   "total_races_by_party": {
+    "Republican": 52,
     "Democrat": 73,
-    "Republican": 51,
     "Unknown": 18,
     "Green/Rainbow": 1,
     "American Independent": 1,
@@ -14,23 +14,23 @@
   },
   "general": {
     "total_races": 100,
-    "total_unopposed": 2,
+    "total_unopposed": 1,
     "unopposed_by_party": {
-      "Democrat": 2
+      "Democrat": 1
     }
   },
   "primary": {
     "total_races_by_party": {
       "Democrat": 73,
-      "Republican": 51,
+      "Republican": 52,
       "Unknown": 18,
       "Green/Rainbow": 1,
       "American Independent": 1,
       "Libertarian": 1
     },
-    "total_unopposed": 79,
+    "total_unopposed": 80,
     "unopposed_by_party": {
-      "Republican": 30,
+      "Republican": 31,
       "Unknown": 13,
       "Democrat": 33,
       "Green/Rainbow": 1,
@@ -38,7 +38,7 @@
       "Libertarian": 1
     }
   },
-  "scraped_at": "2026-02-13T04:44:08.602620+00:00",
+  "scraped_at": "2026-02-14T04:38:24.466332+00:00",
   "unopposed_candidates": [
     {
       "state": "CA",
@@ -433,7 +433,16 @@
       "district": "District 44",
       "candidate": "Nanette Barrag\u00e1n",
       "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 44",
+      "candidate": "Genevieve Angel",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {

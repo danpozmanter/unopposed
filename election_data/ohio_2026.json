@@ -2,12 +2,12 @@
   "state": "OH",
   "state_name": "Ohio",
   "year": 2026,
-  "total": 158,
+  "total": 160,
   "total_races": 131,
   "total_races_by_party": {
     "Republican": 105,
     "Unknown": 7,
-    "Democrat": 104,
+    "Democrat": 105,
     "Other": 12
   },
   "general": {
@@ -19,20 +19,20 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 104,
+      "Democrat": 105,
       "Republican": 105,
       "Unknown": 4,
       "Other": 12
     },
-    "total_unopposed": 155,
+    "total_unopposed": 157,
     "unopposed_by_party": {
       "Unknown": 2,
-      "Republican": 74,
-      "Democrat": 67,
+      "Republican": 75,
+      "Democrat": 68,
       "Other": 12
     }
   },
-  "scraped_at": "2026-02-13T04:54:37.199826+00:00",
+  "scraped_at": "2026-02-14T04:48:36.442571+00:00",
   "unopposed_candidates": [
     {
       "state": "OH",
@@ -77,6 +77,15 @@
       "candidate": "Dalton Franklin",
       "party": "Unknown",
       "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "US House",
+      "district": "District 5",
+      "candidate": "Bob Latta",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -157,6 +166,15 @@
       "district": "District 3",
       "candidate": "Michele Reynolds",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "Cara Jacob",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

@@ -3,11 +3,11 @@
   "state_name": "New Mexico",
   "year": 2026,
   "total": 14,
-  "total_races": 74,
+  "total_races": 75,
   "total_races_by_party": {
-    "Unknown": 1,
-    "Republican": 10,
-    "Democrat": 8
+    "Democrat": 9,
+    "Republican": 11,
+    "Unknown": 1
   },
   "general": {
     "total_races": 71,
@@ -18,8 +18,8 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 8,
-      "Republican": 10
+      "Democrat": 9,
+      "Republican": 11
     },
     "total_unopposed": 13,
     "unopposed_by_party": {
@@ -27,7 +27,7 @@
       "Democrat": 6
     }
   },
-  "scraped_at": "2026-02-13T04:53:22.065025+00:00",
+  "scraped_at": "2026-02-14T04:47:09.809445+00:00",
   "unopposed_candidates": [
     {
       "state": "NM",
