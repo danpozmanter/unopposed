@@ -2,37 +2,38 @@
   "state": "OR",
   "state_name": "Oregon",
   "year": 2026,
-  "total": 46,
+  "total": 48,
   "total_races": 83,
   "total_races_by_party": {
-    "Republican": 30,
+    "Republican": 31,
     "Democrat": 35,
     "Libertarian": 1,
+    "Unknown": 2,
     "Independent": 1,
-    "Unknown": 1,
     "Other": 2
   },
   "general": {
-    "total_races": 77,
-    "total_unopposed": 4,
+    "total_races": 78,
+    "total_unopposed": 5,
     "unopposed_by_party": {
       "Democrat": 1,
       "Libertarian": 1,
+      "Unknown": 1,
       "Other": 2
     }
   },
   "primary": {
     "total_races_by_party": {
       "Democrat": 35,
-      "Republican": 30
+      "Republican": 31
     },
-    "total_unopposed": 43,
+    "total_unopposed": 44,
     "unopposed_by_party": {
       "Democrat": 25,
-      "Republican": 18
+      "Republican": 19
     }
   },
-  "scraped_at": "2026-02-14T04:49:23.218350+00:00",
+  "scraped_at": "2026-02-15T04:55:44.889496+00:00",
   "unopposed_candidates": [
     {
       "state": "OR",
@@ -49,6 +50,15 @@
       "district": "District 5",
       "candidate": "Joseph Lehman",
       "party": "Libertarian",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "US House",
+      "district": "District 6",
+      "candidate": "Jason Faler",
+      "party": "Unknown",
       "unopposed_in": "General",
       "source": "Ballotpedia"
     },
@@ -220,6 +230,15 @@
       "district": "District 11",
       "candidate": "Ivan Maluski",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Ken Jackola",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

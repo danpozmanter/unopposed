@@ -2,34 +2,36 @@
   "state": "MA",
   "state_name": "Massachusetts",
   "year": 2026,
-  "total": 24,
+  "total": 47,
   "total_races": 211,
   "total_races_by_party": {
-    "Democrat": 27,
+    "American Independent": 1,
+    "Republican": 13,
     "Unknown": 5,
-    "Republican": 10,
-    "American Independent": 1
+    "Democrat": 48,
+    "Other": 1
   },
   "general": {
     "total_races": 205,
-    "total_unopposed": 6,
+    "total_unopposed": 7,
     "unopposed_by_party": {
       "Unknown": 4,
-      "Democrat": 2
+      "Democrat": 2,
+      "Other": 1
     }
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 27,
-      "Republican": 10
+      "Democrat": 48,
+      "Republican": 13
     },
-    "total_unopposed": 20,
+    "total_unopposed": 42,
     "unopposed_by_party": {
-      "Democrat": 14,
-      "Republican": 6
+      "Democrat": 34,
+      "Republican": 8
     }
   },
-  "scraped_at": "2026-02-14T04:43:45.413121+00:00",
+  "scraped_at": "2026-02-15T04:50:16.196742+00:00",
   "unopposed_candidates": [
     {
       "state": "MA",
@@ -65,15 +67,6 @@
       "candidate": "Matthew Cook",
       "party": "Unknown",
       "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MA",
-      "office": "US House",
-      "district": "District 6",
-      "candidate": "John Field",
-      "party": "Republican",
-      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -124,6 +117,69 @@
     {
       "state": "MA",
       "office": "State Senate",
+      "district": "1st Essex District",
+      "candidate": "Pavel Payano",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "1st Essex and Middlesex District",
+      "candidate": "Bruce Tarr",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "1st Plymouth and Norfolk District",
+      "candidate": "Patrick O'Connor",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "1st Suffolk District",
+      "candidate": "Nick Collins",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "1st Worcester District",
+      "candidate": "Robyn Kennedy",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "2nd Bristol and Plymouth District",
+      "candidate": "Mark Montigny",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "2nd Essex District",
+      "candidate": "Joan Lovely",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
       "district": "2nd Essex and Middlesex District",
       "candidate": "Barry Finegold",
       "party": "Democrat",
@@ -142,18 +198,162 @@
     {
       "state": "MA",
       "office": "State Senate",
-      "district": "Plymouth and Barnstable District",
-      "candidate": "Kari MacRae",
+      "district": "2nd Plymouth and Norfolk District",
+      "candidate": "Michael Brady",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "2nd Suffolk District",
+      "candidate": "Liz Miranda",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "2nd Worcester District",
+      "candidate": "Michael Moore",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "3rd Bristol and Plymouth District",
+      "candidate": "Kelly Dooner",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
       "state": "MA",
-      "office": "State House",
-      "district": "1st Franklin District",
-      "candidate": "Corinne Coryat",
+      "office": "State Senate",
+      "district": "3rd Essex District",
+      "candidate": "Brendan Crighton",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "3rd Middlesex District",
+      "candidate": "Mike Barrett",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "3rd Suffolk District",
+      "candidate": "Lydia Edwards",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "4th Middlesex District",
+      "candidate": "Cindy Friedman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "5th Middlesex District",
+      "candidate": "Jason Lewis",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Berkshire, Hampden, Franklin, and Hampshire District",
+      "candidate": "Paul Mark",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Cape and Islands District",
+      "candidate": "Julian Andre Cyr",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Hampden, Hampshire, and Worcester District",
+      "candidate": "Jacob Oliveira",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Hampden District",
+      "candidate": "Adam Gomez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Hampden and Hampshire District",
+      "candidate": "John Velis",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Hampshire, Franklin and Worcester District",
+      "candidate": "Jo Comerford",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Middlesex and Norfolk District",
+      "candidate": "Karen Spilka",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Middlesex and Suffolk District",
+      "candidate": "Sal DiDomenico",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Plymouth and Barnstable District",
+      "candidate": "Kari MacRae",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -245,6 +445,15 @@
       "candidate": "Christopher Shepley",
       "party": "Republican",
       "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "1st Franklin District",
+      "candidate": "Amy Lavallee",
+      "party": "Other",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     }
   ]

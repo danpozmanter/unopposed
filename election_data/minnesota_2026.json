@@ -5,9 +5,9 @@
   "total": 66,
   "total_races": 210,
   "total_races_by_party": {
+    "Republican": 36,
     "Democrat": 48,
-    "Unknown": 4,
-    "Republican": 35
+    "Unknown": 4
   },
   "general": {
     "total_races": 205,
@@ -19,15 +19,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 48,
-      "Republican": 35
+      "Republican": 36
     },
     "total_unopposed": 55,
     "unopposed_by_party": {
-      "Democrat": 37,
-      "Republican": 25
+      "Democrat": 36,
+      "Republican": 26
     }
   },
-  "scraped_at": "2026-02-14T04:44:24.680320+00:00",
+  "scraped_at": "2026-02-15T04:51:12.615771+00:00",
   "unopposed_candidates": [
     {
       "state": "MN",
@@ -410,6 +410,15 @@
     {
       "state": "MN",
       "office": "State House",
+      "district": "District 5",
+      "candidate": "Jonathan Claussen",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State House",
       "district": "District 7",
       "candidate": "Spencer Igo",
       "party": "Republican",
@@ -583,15 +592,6 @@
       "office": "State House",
       "district": "District 41",
       "candidate": "Jen Fox",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MN",
-      "office": "State House",
-      "district": "District 43",
-      "candidate": "Lyna Nyamwaya",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

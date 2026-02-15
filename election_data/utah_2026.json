@@ -2,7 +2,7 @@
   "state": "UT",
   "state_name": "Utah",
   "year": 2026,
-  "total": 149,
+  "total": 148,
   "total_races": 94,
   "total_races_by_party": {
     "Democrat": 113,
@@ -23,14 +23,14 @@
       "Republican": 132,
       "Other": 23
     },
-    "total_unopposed": 146,
+    "total_unopposed": 145,
     "unopposed_by_party": {
       "Republican": 68,
-      "Democrat": 58,
+      "Democrat": 57,
       "Other": 20
     }
   },
-  "scraped_at": "2026-02-14T04:51:55.121355+00:00",
+  "scraped_at": "2026-02-15T04:58:22.097456+00:00",
   "unopposed_candidates": [
     {
       "state": "UT",
@@ -66,15 +66,6 @@
       "candidate": "Adonis Hooslyn",
       "party": "Unknown",
       "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "UT",
-      "office": "US House",
-      "district": "District 3",
-      "candidate": "Steven Merrill",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {

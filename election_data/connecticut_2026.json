@@ -5,8 +5,8 @@
   "total": 13,
   "total_races": 193,
   "total_races_by_party": {
-    "Republican": 11,
     "Democrat": 11,
+    "Republican": 11,
     "Unknown": 1
   },
   "general": {
@@ -27,7 +27,7 @@
       "Democrat": 5
     }
   },
-  "scraped_at": "2026-02-14T04:39:14.766771+00:00",
+  "scraped_at": "2026-02-15T04:45:23.483567+00:00",
   "unopposed_candidates": [
     {
       "state": "CT",

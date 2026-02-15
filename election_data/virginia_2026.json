@@ -2,18 +2,18 @@
   "state": "VA",
   "state_name": "Virginia",
   "year": 2026,
-  "total": 5,
+  "total": 6,
   "total_races": 12,
   "total_races_by_party": {
-    "Democrat": 12,
     "Republican": 10,
-    "Unknown": 4
+    "Democrat": 12,
+    "Unknown": 5
   },
   "general": {
-    "total_races": 4,
-    "total_unopposed": 1,
+    "total_races": 5,
+    "total_unopposed": 2,
     "unopposed_by_party": {
-      "Unknown": 1
+      "Unknown": 2
     }
   },
   "primary": {
@@ -27,7 +27,7 @@
       "Democrat": 2
     }
   },
-  "scraped_at": "2026-02-14T04:52:37.975002+00:00",
+  "scraped_at": "2026-02-15T04:59:03.720773+00:00",
   "unopposed_candidates": [
     {
       "state": "VA",
@@ -63,6 +63,15 @@
       "candidate": "Benjamin Lee Cline",
       "party": "Republican",
       "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "US House",
+      "district": "District 9",
+      "candidate": "Michael Jackson",
+      "party": "Unknown",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {

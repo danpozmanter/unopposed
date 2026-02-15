@@ -5,8 +5,8 @@
   "total": 51,
   "total_races": 125,
   "total_races_by_party": {
+    "Republican": 33,
     "Democrat": 33,
-    "Republican": 32,
     "Unknown": 4,
     "Other": 1
   },
@@ -21,7 +21,7 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 33,
-      "Republican": 32
+      "Republican": 33
     },
     "total_unopposed": 48,
     "unopposed_by_party": {
@@ -29,7 +29,7 @@
       "Republican": 25
     }
   },
-  "scraped_at": "2026-02-14T04:53:38.882980+00:00",
+  "scraped_at": "2026-02-15T05:00:06.306486+00:00",
   "unopposed_candidates": [
     {
       "state": "WI",
@@ -144,15 +144,6 @@
       "office": "State Senate",
       "district": "District 9",
       "candidate": "Devin LeMahieu",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WI",
-      "office": "State Senate",
-      "district": "District 11",
-      "candidate": "Stephen Nass",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -289,6 +280,15 @@
       "district": "District 33",
       "candidate": "Mike Van Someren",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State Senate",
+      "district": "District 33",
+      "candidate": "Chris Kapenga",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

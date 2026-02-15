@@ -5,9 +5,9 @@
   "total": 155,
   "total_races": 252,
   "total_races_by_party": {
-    "Republican": 106,
-    "Democrat": 86,
+    "Republican": 107,
     "Unknown": 5,
+    "Democrat": 86,
     "Socialist Labor": 1,
     "Communist": 1
   },
@@ -23,15 +23,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 86,
-      "Republican": 106
+      "Republican": 107
     },
     "total_unopposed": 149,
     "unopposed_by_party": {
-      "Republican": 86,
-      "Democrat": 63
+      "Republican": 87,
+      "Democrat": 62
     }
   },
-  "scraped_at": "2026-02-14T04:40:04.602963+00:00",
+  "scraped_at": "2026-02-15T04:46:27.444473+00:00",
   "unopposed_candidates": [
     {
       "state": "GA",
@@ -85,15 +85,6 @@
       "candidate": "Roman Coley Davis",
       "party": "Unknown",
       "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "GA",
-      "office": "US House",
-      "district": "District 9",
-      "candidate": "Nick Alex",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -228,6 +219,15 @@
       "district": "District 17",
       "candidate": "Gail Davenport",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Dwayne H. Gillis",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

@@ -5,8 +5,8 @@
   "total": 3,
   "total_races": 66,
   "total_races_by_party": {
-    "Republican": 2,
-    "Democrat": 3
+    "Democrat": 3,
+    "Republican": 2
   },
   "general": {
     "total_races": 64,
@@ -24,7 +24,7 @@
       "Democrat": 2
     }
   },
-  "scraped_at": "2026-02-14T04:40:26.296673+00:00",
+  "scraped_at": "2026-02-15T04:46:49.657101+00:00",
   "unopposed_candidates": [
     {
       "state": "HI",

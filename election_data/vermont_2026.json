@@ -2,11 +2,11 @@
   "state": "VT",
   "state_name": "Vermont",
   "year": 2026,
-  "total": 45,
+  "total": 46,
   "total_races": 126,
   "total_races_by_party": {
+    "Republican": 23,
     "Democrat": 27,
-    "Republican": 22,
     "Other": 5
   },
   "general": {
@@ -19,15 +19,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 27,
-      "Republican": 22
+      "Republican": 23
     },
-    "total_unopposed": 40,
+    "total_unopposed": 41,
     "unopposed_by_party": {
       "Democrat": 20,
-      "Republican": 20
+      "Republican": 21
     }
   },
-  "scraped_at": "2026-02-14T04:52:23.923909+00:00",
+  "scraped_at": "2026-02-15T04:58:49.568243+00:00",
   "unopposed_candidates": [
     {
       "state": "VT",
@@ -79,6 +79,15 @@
       "office": "State Senate",
       "district": "Chittenden North District",
       "candidate": "Chris Mattos",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State Senate",
+      "district": "Essex District",
+      "candidate": "Russ Ingalls",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

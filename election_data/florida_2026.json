@@ -2,13 +2,13 @@
   "state": "FL",
   "state_name": "Florida",
   "year": 2026,
-  "total": 151,
+  "total": 150,
   "total_races": 169,
   "total_races_by_party": {
     "Democrat": 92,
     "Republican": 123,
-    "Libertarian": 2,
     "Unknown": 12,
+    "Libertarian": 2,
     "Constitution": 1,
     "Other": 8
   },
@@ -26,13 +26,13 @@
       "Democrat": 92,
       "Republican": 123
     },
-    "total_unopposed": 134,
+    "total_unopposed": 133,
     "unopposed_by_party": {
       "Democrat": 51,
-      "Republican": 83
+      "Republican": 82
     }
   },
-  "scraped_at": "2026-02-14T04:39:48.261270+00:00",
+  "scraped_at": "2026-02-15T04:46:10.352668+00:00",
   "unopposed_candidates": [
     {
       "state": "FL",
@@ -158,15 +158,6 @@
       "candidate": "Mark Davis",
       "party": "Unknown",
       "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "US House",
-      "district": "District 16",
-      "candidate": "John Peters",
-      "party": "Republican",
-      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {

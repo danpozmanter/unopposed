@@ -2,7 +2,7 @@
   "state": "MO",
   "state_name": "Missouri",
   "year": 2026,
-  "total": 134,
+  "total": 133,
   "total_races": 188,
   "total_races_by_party": {
     "Democrat": 82,
@@ -18,13 +18,13 @@
       "Democrat": 82,
       "Republican": 109
     },
-    "total_unopposed": 134,
+    "total_unopposed": 133,
     "unopposed_by_party": {
-      "Republican": 67,
+      "Republican": 66,
       "Democrat": 67
     }
   },
-  "scraped_at": "2026-02-14T04:45:16.008450+00:00",
+  "scraped_at": "2026-02-15T04:51:42.988350+00:00",
   "unopposed_candidates": [
     {
       "state": "MO",
@@ -293,15 +293,6 @@
       "district": "District 21",
       "candidate": "Will Jobe",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MO",
-      "office": "State House",
-      "district": "District 21",
-      "candidate": "Chris Barrett",
-      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
