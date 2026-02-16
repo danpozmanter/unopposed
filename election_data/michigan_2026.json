@@ -2,16 +2,16 @@
   "state": "MI",
   "state_name": "Michigan",
   "year": 2026,
-  "total": 19,
-  "total_races": 53,
+  "total": 35,
+  "total_races": 163,
   "total_races_by_party": {
-    "Democrat": 22,
-    "Republican": 19,
+    "Democrat": 37,
+    "Republican": 22,
     "Unknown": 5,
     "Other": 1
   },
   "general": {
-    "total_races": 43,
+    "total_races": 153,
     "total_unopposed": 4,
     "unopposed_by_party": {
       "Unknown": 3,
@@ -20,16 +20,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 22,
-      "Republican": 19
+      "Democrat": 37,
+      "Republican": 22
     },
-    "total_unopposed": 15,
+    "total_unopposed": 31,
     "unopposed_by_party": {
-      "Republican": 10,
-      "Democrat": 5
+      "Republican": 13,
+      "Democrat": 18
     }
   },
-  "scraped_at": "2026-02-15T04:50:53.869980+00:00",
+  "scraped_at": "2026-02-16T04:54:10.965840+00:00",
   "unopposed_candidates": [
     {
       "state": "MI",
@@ -200,6 +200,150 @@
       "candidate": "Philippe Cicchini",
       "party": "Other",
       "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Hussein Berry",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Roslyn Ogburn",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Kali Scales",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Gerik Nasstrom",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Brad Paquette",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Zachary Shinabargar",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Jessica Swartz",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Jim Haadsma",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 55",
+      "candidate": "Alex Hawkins",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 78",
+      "candidate": "Rachel Gross",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 91",
+      "candidate": "Frank LaFata",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 92",
+      "candidate": "J. Aaron Bailey",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 94",
+      "candidate": "Amos O'Neal",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 95",
+      "candidate": "Bill G. Schuette",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 100",
+      "candidate": "Tracy Ruell",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 108",
+      "candidate": "Christopher Reynolds",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     }
   ]

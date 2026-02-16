@@ -6,8 +6,8 @@
   "total_races": 132,
   "total_races_by_party": {
     "Democrat": 83,
-    "Unknown": 5,
     "Republican": 48,
+    "Unknown": 5,
     "Other": 1
   },
   "general": {
@@ -32,7 +32,7 @@
       "Other": 1
     }
   },
-  "scraped_at": "2026-02-15T04:59:22.415589+00:00",
+  "scraped_at": "2026-02-16T05:02:19.070359+00:00",
   "unopposed_candidates": [
     {
       "state": "WA",
