@@ -2,12 +2,12 @@
   "state": "OH",
   "state_name": "Ohio",
   "year": 2026,
-  "total": 160,
+  "total": 161,
   "total_races": 131,
   "total_races_by_party": {
-    "Unknown": 7,
     "Democrat": 105,
     "Republican": 105,
+    "Unknown": 7,
     "Other": 12
   },
   "general": {
@@ -24,15 +24,15 @@
       "Unknown": 4,
       "Other": 12
     },
-    "total_unopposed": 157,
+    "total_unopposed": 158,
     "unopposed_by_party": {
       "Unknown": 2,
-      "Republican": 75,
+      "Republican": 76,
       "Democrat": 68,
       "Other": 12
     }
   },
-  "scraped_at": "2026-02-16T04:58:11.766150+00:00",
+  "scraped_at": "2026-02-17T04:53:16.524729+00:00",
   "unopposed_candidates": [
     {
       "state": "OH",
@@ -95,6 +95,15 @@
       "candidate": "Andrey Martinichin",
       "party": "Unknown",
       "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "US House",
+      "district": "District 7",
+      "candidate": "Max Miller",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {

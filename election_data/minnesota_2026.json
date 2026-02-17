@@ -5,9 +5,9 @@
   "total": 66,
   "total_races": 210,
   "total_races_by_party": {
-    "Unknown": 4,
     "Democrat": 48,
-    "Republican": 36
+    "Republican": 36,
+    "Unknown": 4
   },
   "general": {
     "total_races": 205,
@@ -27,7 +27,7 @@
       "Republican": 26
     }
   },
-  "scraped_at": "2026-02-16T04:54:30.137377+00:00",
+  "scraped_at": "2026-02-17T04:49:06.483716+00:00",
   "unopposed_candidates": [
     {
       "state": "MN",
