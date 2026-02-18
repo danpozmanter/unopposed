@@ -2,12 +2,12 @@
   "state": "MN",
   "state_name": "Minnesota",
   "year": 2026,
-  "total": 66,
+  "total": 71,
   "total_races": 210,
   "total_races_by_party": {
-    "Democrat": 48,
-    "Republican": 36,
-    "Unknown": 4
+    "Unknown": 4,
+    "Democrat": 49,
+    "Republican": 41
   },
   "general": {
     "total_races": 205,
@@ -18,16 +18,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 48,
-      "Republican": 36
+      "Democrat": 49,
+      "Republican": 41
     },
-    "total_unopposed": 55,
+    "total_unopposed": 60,
     "unopposed_by_party": {
-      "Democrat": 36,
-      "Republican": 26
+      "Democrat": 37,
+      "Republican": 30
     }
   },
-  "scraped_at": "2026-02-17T04:49:06.483716+00:00",
+  "scraped_at": "2026-02-18T04:49:52.029550+00:00",
   "unopposed_candidates": [
     {
       "state": "MN",
@@ -71,6 +71,15 @@
       "district": "District 3",
       "candidate": "Kelly Morrison",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Paul Wikstrom",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -176,6 +185,15 @@
     {
       "state": "MN",
       "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Jason Rarick",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State Senate",
       "district": "District 13",
       "candidate": "Trent Dilks",
       "party": "Democrat",
@@ -206,15 +224,6 @@
       "district": "District 15",
       "candidate": "Andrea Boettger",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MN",
-      "office": "State Senate",
-      "district": "District 15",
-      "candidate": "Brian Mock",
-      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -374,6 +383,15 @@
     {
       "state": "MN",
       "office": "State House",
+      "district": "District 2",
+      "candidate": "Bidal Duran",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State House",
       "district": "District 3",
       "candidate": "Aaron Kania",
       "party": "Democrat",
@@ -482,6 +500,15 @@
     {
       "state": "MN",
       "office": "State House",
+      "district": "District 12",
+      "candidate": "Paul Anderson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State House",
       "district": "District 13",
       "candidate": "Dawn Loberg",
       "party": "Republican",
@@ -511,6 +538,15 @@
       "office": "State House",
       "district": "District 14",
       "candidate": "Sue Ek",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Scott Van Binsbergen",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -583,6 +619,15 @@
       "office": "State House",
       "district": "District 36",
       "candidate": "Jim DeMay",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Darci Smith",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

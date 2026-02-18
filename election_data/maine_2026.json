@@ -2,11 +2,11 @@
   "state": "ME",
   "state_name": "Maine",
   "year": 2026,
-  "total": 92,
+  "total": 91,
   "total_races": 190,
   "total_races_by_party": {
-    "Republican": 61,
     "Unknown": 2,
+    "Republican": 61,
     "Democrat": 38,
     "Other": 9
   },
@@ -22,13 +22,13 @@
       "Democrat": 38,
       "Republican": 61
     },
-    "total_unopposed": 83,
+    "total_unopposed": 82,
     "unopposed_by_party": {
-      "Democrat": 31,
+      "Democrat": 30,
       "Republican": 52
     }
   },
-  "scraped_at": "2026-02-17T04:47:46.012557+00:00",
+  "scraped_at": "2026-02-18T04:48:13.620312+00:00",
   "unopposed_candidates": [
     {
       "state": "ME",
@@ -540,15 +540,6 @@
       "district": "District 39",
       "candidate": "Michael Nicholson",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ME",
-      "office": "State House",
-      "district": "District 41",
-      "candidate": "Joshua Gerritsen",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

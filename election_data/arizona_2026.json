@@ -2,11 +2,11 @@
   "state": "AZ",
   "state_name": "Arizona",
   "year": 2026,
-  "total": 28,
+  "total": 29,
   "total_races": 70,
   "total_races_by_party": {
-    "Democrat": 19,
     "Republican": 17,
+    "Democrat": 20,
     "Unknown": 4,
     "Green/Rainbow": 2,
     "Arizona Independent": 1,
@@ -23,16 +23,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 19,
+      "Democrat": 20,
       "Republican": 17
     },
-    "total_unopposed": 22,
+    "total_unopposed": 23,
     "unopposed_by_party": {
       "Republican": 11,
-      "Democrat": 11
+      "Democrat": 12
     }
   },
-  "scraped_at": "2026-02-17T04:42:10.543779+00:00",
+  "scraped_at": "2026-02-18T04:43:12.442028+00:00",
   "unopposed_candidates": [
     {
       "state": "AZ",
@@ -183,6 +183,15 @@
       "office": "State Senate",
       "district": "District 21",
       "candidate": "Rosanna Gabald\u00f3n",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "Kyle Clayton",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

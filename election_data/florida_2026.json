@@ -2,7 +2,7 @@
   "state": "FL",
   "state_name": "Florida",
   "year": 2026,
-  "total": 150,
+  "total": 149,
   "total_races": 169,
   "total_races_by_party": {
     "Democrat": 92,
@@ -14,9 +14,9 @@
   },
   "general": {
     "total_races": 153,
-    "total_unopposed": 17,
+    "total_unopposed": 16,
     "unopposed_by_party": {
-      "Unknown": 8,
+      "Unknown": 7,
       "Libertarian": 1,
       "Other": 8
     }
@@ -32,7 +32,7 @@
       "Republican": 82
     }
   },
-  "scraped_at": "2026-02-17T04:44:21.320553+00:00",
+  "scraped_at": "2026-02-18T04:45:09.402667+00:00",
   "unopposed_candidates": [
     {
       "state": "FL",
@@ -185,15 +185,6 @@
       "candidate": "Scott Franklin",
       "party": "Republican",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "US House",
-      "district": "District 20",
-      "candidate": "Kevin McClellan",
-      "party": "Unknown",
-      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {

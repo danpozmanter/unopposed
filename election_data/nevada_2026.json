@@ -5,8 +5,8 @@
   "total": 12,
   "total_races": 58,
   "total_races_by_party": {
-    "Democrat": 8,
     "Unknown": 1,
+    "Democrat": 8,
     "Republican": 10
   },
   "general": {
@@ -27,7 +27,7 @@
       "Democrat": 5
     }
   },
-  "scraped_at": "2026-02-17T04:50:52.140640+00:00",
+  "scraped_at": "2026-02-18T04:51:31.333652+00:00",
   "unopposed_candidates": [
     {
       "state": "NV",

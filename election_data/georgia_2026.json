@@ -2,11 +2,11 @@
   "state": "GA",
   "state_name": "Georgia",
   "year": 2026,
-  "total": 155,
+  "total": 156,
   "total_races": 252,
   "total_races_by_party": {
-    "Democrat": 86,
-    "Republican": 107,
+    "Republican": 108,
+    "Democrat": 87,
     "Unknown": 5,
     "Socialist Labor": 1,
     "Communist": 1
@@ -22,16 +22,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 86,
-      "Republican": 107
+      "Democrat": 87,
+      "Republican": 108
     },
-    "total_unopposed": 149,
+    "total_unopposed": 150,
     "unopposed_by_party": {
       "Republican": 87,
-      "Democrat": 62
+      "Democrat": 63
     }
   },
-  "scraped_at": "2026-02-17T04:44:43.236999+00:00",
+  "scraped_at": "2026-02-18T04:45:25.467636+00:00",
   "unopposed_candidates": [
     {
       "state": "GA",
@@ -117,15 +117,6 @@
     {
       "state": "GA",
       "office": "US House",
-      "district": "District 11",
-      "candidate": "Chris Mora",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "GA",
-      "office": "US House",
       "district": "District 14",
       "candidate": "Rob Ruszkowski",
       "party": "Unknown",
@@ -173,6 +164,24 @@
       "office": "State Senate",
       "district": "District 11",
       "candidate": "Sam Watson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Freddie Sims",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Terence Fowler",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

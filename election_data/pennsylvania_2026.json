@@ -2,11 +2,11 @@
   "state": "PA",
   "state_name": "Pennsylvania",
   "year": 2026,
-  "total": 29,
+  "total": 30,
   "total_races": 246,
   "total_races_by_party": {
-    "Republican": 21,
     "Unknown": 5,
+    "Republican": 22,
     "Democrat": 20
   },
   "general": {
@@ -19,15 +19,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 20,
-      "Republican": 21
+      "Republican": 22
     },
-    "total_unopposed": 24,
+    "total_unopposed": 25,
     "unopposed_by_party": {
-      "Republican": 16,
+      "Republican": 17,
       "Democrat": 8
     }
   },
-  "scraped_at": "2026-02-17T04:54:29.239189+00:00",
+  "scraped_at": "2026-02-18T04:55:28.022100+00:00",
   "unopposed_candidates": [
     {
       "state": "PA",
@@ -70,6 +70,15 @@
       "office": "US House",
       "district": "District 4",
       "candidate": "Ismaine Ayouaz",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "US House",
+      "district": "District 5",
+      "candidate": "Joshua Brown",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

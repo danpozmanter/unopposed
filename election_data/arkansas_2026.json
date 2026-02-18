@@ -5,8 +5,8 @@
   "total": 130,
   "total_races": 123,
   "total_races_by_party": {
-    "Democrat": 107,
     "Republican": 184,
+    "Democrat": 107,
     "Unknown": 2
   },
   "general": {
@@ -29,7 +29,7 @@
       "Republican": 78
     }
   },
-  "scraped_at": "2026-02-17T04:42:29.081227+00:00",
+  "scraped_at": "2026-02-18T04:43:30.639918+00:00",
   "unopposed_candidates": [
     {
       "state": "AR",

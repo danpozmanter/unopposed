@@ -2,36 +2,36 @@
   "state": "MA",
   "state_name": "Massachusetts",
   "year": 2026,
-  "total": 47,
+  "total": 60,
   "total_races": 211,
   "total_races_by_party": {
     "American Independent": 1,
-    "Democrat": 48,
-    "Unknown": 5,
-    "Republican": 13,
+    "Unknown": 6,
+    "Democrat": 57,
+    "Republican": 16,
     "Other": 1
   },
   "general": {
-    "total_races": 205,
+    "total_races": 206,
     "total_unopposed": 7,
     "unopposed_by_party": {
-      "Unknown": 4,
-      "Democrat": 2,
+      "Unknown": 5,
+      "Democrat": 1,
       "Other": 1
     }
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 48,
-      "Republican": 13
+      "Democrat": 57,
+      "Republican": 16
     },
-    "total_unopposed": 42,
+    "total_unopposed": 54,
     "unopposed_by_party": {
-      "Democrat": 34,
-      "Republican": 8
+      "Democrat": 43,
+      "Republican": 11
     }
   },
-  "scraped_at": "2026-02-17T04:48:22.689107+00:00",
+  "scraped_at": "2026-02-18T04:49:11.808156+00:00",
   "unopposed_candidates": [
     {
       "state": "MA",
@@ -55,9 +55,18 @@
       "state": "MA",
       "office": "US House",
       "district": "District 3",
+      "candidate": "Kevin Ades",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "US House",
+      "district": "District 3",
       "candidate": "Lori Trahan",
       "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -351,9 +360,99 @@
     {
       "state": "MA",
       "office": "State Senate",
+      "district": "Middlesex and Worcester District",
+      "candidate": "James Eldridge",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Norfolk, Plymouth, and Bristol District",
+      "candidate": "William Driscoll Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Norfolk, Worcester, and Middlesex District",
+      "candidate": "Becca Rausch",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Norfolk and Middlesex District",
+      "candidate": "Cynthia Stone Creem",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Norfolk and Plymouth District",
+      "candidate": "John Keenan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Norfolk and Suffolk District",
+      "candidate": "Michael Rush",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Plymouth and Barnstable District",
+      "candidate": "Dylan Fernandes",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
       "district": "Plymouth and Barnstable District",
       "candidate": "Kari MacRae",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Worcester and Hampden District",
+      "candidate": "Ryan Fattman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Worcester and Hampshire District",
+      "candidate": "Peter Durant",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Worcester and Middlesex District",
+      "candidate": "John J. Cronin",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -405,6 +504,15 @@
     {
       "state": "MA",
       "office": "State House",
+      "district": "9th Bristol District",
+      "candidate": "Chester Tam",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
       "district": "9th Essex District",
       "candidate": "Zosia VanMeter",
       "party": "Democrat",
@@ -425,6 +533,15 @@
       "office": "State House",
       "district": "12th Hampden District",
       "candidate": "Michael Lachenmeyer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "14th Worcester District",
+      "candidate": "Barur Rajeshkumar",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

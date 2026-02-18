@@ -9,18 +9,21 @@
     "Democrat": 1
   },
   "general": {
-    "total_races": 51,
+    "total_races": 50,
+    "total_unopposed": 0,
+    "unopposed_by_party": {}
+  },
+  "primary": {
+    "total_races_by_party": {
+      "Unknown": 1,
+      "Democrat": 1
+    },
     "total_unopposed": 1,
     "unopposed_by_party": {
       "Democrat": 1
     }
   },
-  "primary": {
-    "total_races_by_party": {},
-    "total_unopposed": 0,
-    "unopposed_by_party": {}
-  },
-  "scraped_at": "2026-02-17T04:41:51.129209+00:00",
+  "scraped_at": "2026-02-18T04:42:50.793186+00:00",
   "unopposed_candidates": [
     {
       "state": "AK",
@@ -28,7 +31,7 @@
       "district": "District 18",
       "candidate": "Cliff Groh",
       "party": "Democrat",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     }
   ]

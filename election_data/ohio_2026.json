@@ -2,12 +2,12 @@
   "state": "OH",
   "state_name": "Ohio",
   "year": 2026,
-  "total": 161,
+  "total": 163,
   "total_races": 131,
   "total_races_by_party": {
-    "Democrat": 105,
-    "Republican": 105,
     "Unknown": 7,
+    "Republican": 108,
+    "Democrat": 106,
     "Other": 12
   },
   "general": {
@@ -19,20 +19,20 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 105,
-      "Republican": 105,
+      "Democrat": 106,
+      "Republican": 108,
       "Unknown": 4,
       "Other": 12
     },
-    "total_unopposed": 158,
+    "total_unopposed": 160,
     "unopposed_by_party": {
       "Unknown": 2,
-      "Republican": 76,
-      "Democrat": 68,
+      "Republican": 77,
+      "Democrat": 69,
       "Other": 12
     }
   },
-  "scraped_at": "2026-02-17T04:53:16.524729+00:00",
+  "scraped_at": "2026-02-18T04:54:22.745168+00:00",
   "unopposed_candidates": [
     {
       "state": "OH",
@@ -209,6 +209,15 @@
       "state": "OH",
       "office": "State Senate",
       "district": "District 11",
+      "candidate": "James Nowak",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State Senate",
+      "district": "District 11",
       "candidate": "Kenneth Sharp",
       "party": "Other",
       "unopposed_in": "Primary",
@@ -238,6 +247,15 @@
       "district": "District 15",
       "candidate": "Latyna Humphrey",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State Senate",
+      "district": "District 15",
+      "candidate": "Joseph Healy",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -499,15 +517,6 @@
       "district": "District 21",
       "candidate": "Eric Synenberg",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OH",
-      "office": "State House",
-      "district": "District 21",
-      "candidate": "Tina Barhams",
-      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -1345,6 +1354,15 @@
       "district": "District 82",
       "candidate": "Christopher Elder",
       "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 86",
+      "candidate": "Kent Halloran",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

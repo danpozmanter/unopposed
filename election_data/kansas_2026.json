@@ -2,16 +2,19 @@
   "state": "KS",
   "state_name": "Kansas",
   "year": 2026,
-  "total": 56,
+  "total": 57,
   "total_races": 130,
   "total_races_by_party": {
     "Republican": 39,
-    "Democrat": 24
+    "Democrat": 24,
+    "Unknown": 1
   },
   "general": {
-    "total_races": 125,
-    "total_unopposed": 0,
-    "unopposed_by_party": {}
+    "total_races": 126,
+    "total_unopposed": 1,
+    "unopposed_by_party": {
+      "Unknown": 1
+    }
   },
   "primary": {
     "total_races_by_party": {
@@ -24,8 +27,17 @@
       "Democrat": 20
     }
   },
-  "scraped_at": "2026-02-17T04:46:41.476864+00:00",
+  "scraped_at": "2026-02-18T04:47:28.991943+00:00",
   "unopposed_candidates": [
+    {
+      "state": "KS",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Craig Musser",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
     {
       "state": "KS",
       "office": "US House",

@@ -2,12 +2,12 @@
   "state": "MI",
   "state_name": "Michigan",
   "year": 2026,
-  "total": 35,
+  "total": 38,
   "total_races": 163,
   "total_races_by_party": {
-    "Democrat": 37,
     "Unknown": 5,
-    "Republican": 22,
+    "Republican": 25,
+    "Democrat": 37,
     "Other": 1
   },
   "general": {
@@ -21,15 +21,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 37,
-      "Republican": 22
+      "Republican": 25
     },
-    "total_unopposed": 31,
+    "total_unopposed": 34,
     "unopposed_by_party": {
-      "Republican": 13,
+      "Republican": 16,
       "Democrat": 18
     }
   },
-  "scraped_at": "2026-02-17T04:48:47.336193+00:00",
+  "scraped_at": "2026-02-18T04:49:35.719454+00:00",
   "unopposed_candidates": [
     {
       "state": "MI",
@@ -286,9 +286,27 @@
     {
       "state": "MI",
       "office": "State House",
+      "district": "District 56",
+      "candidate": "Ashok Baddi",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
       "district": "District 78",
       "candidate": "Rachel Gross",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 78",
+      "candidate": "Kaleb Hudson",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -334,6 +352,15 @@
       "district": "District 100",
       "candidate": "Tracy Ruell",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 101",
+      "candidate": "Jaxon Deur",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
