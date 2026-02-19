@@ -2,12 +2,12 @@
   "state": "MN",
   "state_name": "Minnesota",
   "year": 2026,
-  "total": 71,
+  "total": 79,
   "total_races": 210,
   "total_races_by_party": {
     "Unknown": 4,
-    "Democrat": 49,
-    "Republican": 41
+    "Republican": 48,
+    "Democrat": 50
   },
   "general": {
     "total_races": 205,
@@ -18,16 +18,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 49,
-      "Republican": 41
+      "Democrat": 50,
+      "Republican": 48
     },
-    "total_unopposed": 60,
+    "total_unopposed": 68,
     "unopposed_by_party": {
-      "Democrat": 37,
-      "Republican": 30
+      "Democrat": 38,
+      "Republican": 37
     }
   },
-  "scraped_at": "2026-02-18T04:49:52.029550+00:00",
+  "scraped_at": "2026-02-19T04:48:04.548621+00:00",
   "unopposed_candidates": [
     {
       "state": "MN",
@@ -113,6 +113,24 @@
     {
       "state": "MN",
       "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Mark Johnson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State Senate",
+      "district": "District 2",
+      "candidate": "Steve Green",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State Senate",
       "district": "District 3",
       "candidate": "Grant Hauschild",
       "party": "Democrat",
@@ -149,9 +167,27 @@
     {
       "state": "MN",
       "office": "State Senate",
+      "district": "District 5",
+      "candidate": "Paul Utke",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State Senate",
       "district": "District 6",
       "candidate": "Denise Slipy",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Keri Heintzeman",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -185,8 +221,35 @@
     {
       "state": "MN",
       "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Nathan Wesenberg",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Monique Doward",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State Senate",
       "district": "District 11",
       "candidate": "Jason Rarick",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Torrey Westrom",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -224,6 +287,15 @@
       "district": "District 15",
       "candidate": "Andrea Boettger",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Andrew Lang",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

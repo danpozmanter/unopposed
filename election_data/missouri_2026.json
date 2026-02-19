@@ -2,17 +2,19 @@
   "state": "MO",
   "state_name": "Missouri",
   "year": 2026,
-  "total": 133,
+  "total": 134,
   "total_races": 188,
   "total_races_by_party": {
     "Democrat": 82,
     "Republican": 109,
+    "Unknown": 1,
     "Other": 1
   },
   "general": {
-    "total_races": 180,
-    "total_unopposed": 1,
+    "total_races": 181,
+    "total_unopposed": 2,
     "unopposed_by_party": {
+      "Unknown": 1,
       "Other": 1
     }
   },
@@ -27,7 +29,7 @@
       "Democrat": 67
     }
   },
-  "scraped_at": "2026-02-18T04:50:21.483711+00:00",
+  "scraped_at": "2026-02-19T04:48:32.848588+00:00",
   "unopposed_candidates": [
     {
       "state": "MO",
@@ -45,6 +47,15 @@
       "candidate": "Mark Alford",
       "party": "Republican",
       "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "US House",
+      "district": "District 5",
+      "candidate": "Todd Becker",
+      "party": "Unknown",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {

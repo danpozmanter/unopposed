@@ -2,37 +2,37 @@
   "state": "OH",
   "state_name": "Ohio",
   "year": 2026,
-  "total": 163,
+  "total": 166,
   "total_races": 131,
   "total_races_by_party": {
-    "Unknown": 7,
-    "Republican": 108,
-    "Democrat": 106,
+    "Unknown": 8,
+    "Democrat": 107,
+    "Republican": 109,
     "Other": 12
   },
   "general": {
-    "total_races": 119,
-    "total_unopposed": 3,
+    "total_races": 120,
+    "total_unopposed": 4,
     "unopposed_by_party": {
-      "Unknown": 3
+      "Unknown": 4
     }
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 106,
-      "Republican": 108,
-      "Unknown": 4,
+      "Democrat": 107,
+      "Republican": 109,
+      "Unknown": 5,
       "Other": 12
     },
-    "total_unopposed": 160,
+    "total_unopposed": 162,
     "unopposed_by_party": {
-      "Unknown": 2,
-      "Republican": 77,
+      "Unknown": 3,
+      "Republican": 78,
       "Democrat": 69,
       "Other": 12
     }
   },
-  "scraped_at": "2026-02-18T04:54:22.745168+00:00",
+  "scraped_at": "2026-02-19T04:51:14.740109+00:00",
   "unopposed_candidates": [
     {
       "state": "OH",
@@ -109,6 +109,15 @@
     {
       "state": "OH",
       "office": "US House",
+      "district": "District 7",
+      "candidate": "Brian Duvall-Gambino",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "US House",
       "district": "District 8",
       "candidate": "Warren Davidson",
       "party": "Republican",
@@ -140,6 +149,15 @@
       "candidate": "Thomas McMasters",
       "party": "Unknown",
       "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "US House",
+      "district": "District 11",
+      "candidate": "Cortney Peterson",
+      "party": "Unknown",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
@@ -1228,6 +1246,15 @@
       "district": "District 72",
       "candidate": "Michael Fricke",
       "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 73",
+      "candidate": "Jeff LaRe",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

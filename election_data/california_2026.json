@@ -2,11 +2,11 @@
   "state": "CA",
   "state_name": "California",
   "year": 2026,
-  "total": 81,
+  "total": 82,
   "total_races": 153,
   "total_races_by_party": {
     "Republican": 53,
-    "Democrat": 73,
+    "Democrat": 74,
     "Unknown": 18,
     "Green/Rainbow": 1,
     "American Independent": 1,
@@ -21,24 +21,24 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 73,
+      "Democrat": 74,
       "Republican": 53,
       "Unknown": 18,
       "Green/Rainbow": 1,
       "American Independent": 1,
       "Libertarian": 1
     },
-    "total_unopposed": 81,
+    "total_unopposed": 82,
     "unopposed_by_party": {
       "Republican": 32,
       "Unknown": 13,
-      "Democrat": 33,
+      "Democrat": 34,
       "Green/Rainbow": 1,
       "American Independent": 1,
       "Libertarian": 1
     }
   },
-  "scraped_at": "2026-02-18T04:43:43.959588+00:00",
+  "scraped_at": "2026-02-19T04:42:32.689786+00:00",
   "unopposed_candidates": [
     {
       "state": "CA",
@@ -765,6 +765,15 @@
       "office": "State House",
       "district": "District 70",
       "candidate": "Tanya Cook",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 75",
+      "candidate": "Gerald Boursiquot",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

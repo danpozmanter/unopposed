@@ -5,8 +5,8 @@
   "total": 156,
   "total_races": 252,
   "total_races_by_party": {
+    "Democrat": 88,
     "Republican": 108,
-    "Democrat": 87,
     "Unknown": 5,
     "Socialist Labor": 1,
     "Communist": 1
@@ -22,7 +22,7 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 87,
+      "Democrat": 88,
       "Republican": 108
     },
     "total_unopposed": 150,
@@ -31,7 +31,7 @@
       "Democrat": 63
     }
   },
-  "scraped_at": "2026-02-18T04:45:25.467636+00:00",
+  "scraped_at": "2026-02-19T04:44:25.152418+00:00",
   "unopposed_candidates": [
     {
       "state": "GA",
@@ -85,15 +85,6 @@
       "candidate": "Roman Coley Davis",
       "party": "Unknown",
       "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "GA",
-      "office": "US House",
-      "district": "District 10",
-      "candidate": "Pamela DeLancy",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -812,6 +803,15 @@
       "office": "State House",
       "district": "District 61",
       "candidate": "Mekyah McQueen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State House",
+      "district": "District 62",
+      "candidate": "Matthew Rinker",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
