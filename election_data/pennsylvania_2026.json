@@ -2,18 +2,18 @@
   "state": "PA",
   "state_name": "Pennsylvania",
   "year": 2026,
-  "total": 30,
+  "total": 29,
   "total_races": 246,
   "total_races_by_party": {
-    "Republican": 22,
     "Unknown": 5,
+    "Republican": 22,
     "Democrat": 20
   },
   "general": {
     "total_races": 233,
-    "total_unopposed": 5,
+    "total_unopposed": 4,
     "unopposed_by_party": {
-      "Unknown": 5
+      "Unknown": 4
     }
   },
   "primary": {
@@ -27,7 +27,7 @@
       "Democrat": 8
     }
   },
-  "scraped_at": "2026-02-19T04:52:24.311284+00:00",
+  "scraped_at": "2026-02-20T04:49:47.740362+00:00",
   "unopposed_candidates": [
     {
       "state": "PA",
@@ -99,15 +99,6 @@
       "candidate": "Marty Young",
       "party": "Republican",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "PA",
-      "office": "US House",
-      "district": "District 7",
-      "candidate": "Ramon Granados",
-      "party": "Unknown",
-      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {

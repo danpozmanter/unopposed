@@ -2,11 +2,11 @@
   "state": "MO",
   "state_name": "Missouri",
   "year": 2026,
-  "total": 134,
+  "total": 135,
   "total_races": 188,
   "total_races_by_party": {
     "Democrat": 82,
-    "Republican": 109,
+    "Republican": 110,
     "Unknown": 1,
     "Other": 1
   },
@@ -21,15 +21,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 82,
-      "Republican": 109
+      "Republican": 110
     },
-    "total_unopposed": 132,
+    "total_unopposed": 133,
     "unopposed_by_party": {
-      "Republican": 65,
+      "Republican": 66,
       "Democrat": 67
     }
   },
-  "scraped_at": "2026-02-19T04:48:32.848588+00:00",
+  "scraped_at": "2026-02-20T04:45:13.075013+00:00",
   "unopposed_candidates": [
     {
       "state": "MO",
@@ -1099,6 +1099,15 @@
       "district": "District 136",
       "candidate": "Stephanie Hein",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 136",
+      "candidate": "Jacey Buckles",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

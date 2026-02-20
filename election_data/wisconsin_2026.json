@@ -2,12 +2,12 @@
   "state": "WI",
   "state_name": "Wisconsin",
   "year": 2026,
-  "total": 51,
+  "total": 50,
   "total_races": 125,
   "total_races_by_party": {
     "Republican": 33,
-    "Democrat": 33,
     "Unknown": 4,
+    "Democrat": 33,
     "Other": 1
   },
   "general": {
@@ -23,13 +23,13 @@
       "Democrat": 33,
       "Republican": 33
     },
-    "total_unopposed": 48,
+    "total_unopposed": 47,
     "unopposed_by_party": {
-      "Democrat": 23,
+      "Democrat": 22,
       "Republican": 25
     }
   },
-  "scraped_at": "2026-02-19T04:55:48.164256+00:00",
+  "scraped_at": "2026-02-20T04:53:23.169848+00:00",
   "unopposed_candidates": [
     {
       "state": "WI",
@@ -64,15 +64,6 @@
       "district": "District 3",
       "candidate": "Derrick Van Orden",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WI",
-      "office": "US House",
-      "district": "District 4",
-      "candidate": "Gwen Moore",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

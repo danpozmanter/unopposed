@@ -2,9 +2,10 @@
   "state": "WY",
   "state_name": "Wyoming",
   "year": 2026,
-  "total": 1,
+  "total": 2,
   "total_races": 80,
   "total_races_by_party": {
+    "Democrat": 1,
     "Republican": 3
   },
   "general": {
@@ -14,15 +15,26 @@
   },
   "primary": {
     "total_races_by_party": {
+      "Democrat": 1,
       "Republican": 3
     },
-    "total_unopposed": 1,
+    "total_unopposed": 2,
     "unopposed_by_party": {
+      "Democrat": 1,
       "Republican": 1
     }
   },
-  "scraped_at": "2026-02-19T04:56:07.354840+00:00",
+  "scraped_at": "2026-02-20T04:53:45.581419+00:00",
   "unopposed_candidates": [
+    {
+      "state": "WY",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "James Byrd",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "WY",
       "office": "State House",

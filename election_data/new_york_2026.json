@@ -2,216 +2,30 @@
   "state": "NY",
   "state_name": "New York",
   "year": 2026,
-  "total": 41,
-  "total_races": 240,
+  "total": 23,
+  "total_races": 214,
   "total_races_by_party": {
-    "Unknown": 8,
-    "Republican": 26,
-    "Democrat": 40,
-    "Conservative": 1,
-    "American Independent": 1
+    "Democrat": 15,
+    "Republican": 9
   },
   "general": {
-    "total_races": 221,
-    "total_unopposed": 5,
-    "unopposed_by_party": {
-      "Unknown": 4,
-      "Democrat": 1
-    }
+    "total_races": 213,
+    "total_unopposed": 0,
+    "unopposed_by_party": {}
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 40,
-      "Republican": 26
+      "Democrat": 15,
+      "Republican": 9
     },
-    "total_unopposed": 37,
+    "total_unopposed": 23,
     "unopposed_by_party": {
-      "Republican": 16,
-      "Democrat": 21
+      "Republican": 9,
+      "Democrat": 14
     }
   },
-  "scraped_at": "2026-02-19T04:50:31.116471+00:00",
+  "scraped_at": "2026-02-20T04:47:48.247906+00:00",
   "unopposed_candidates": [
-    {
-      "state": "NY",
-      "office": "US House",
-      "district": "District 1",
-      "candidate": "Nicholas J. LaLota",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NY",
-      "office": "US House",
-      "district": "District 2",
-      "candidate": "Andrew Garbarino",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NY",
-      "office": "US House",
-      "district": "District 3",
-      "candidate": "Tom Suozzi",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NY",
-      "office": "US House",
-      "district": "District 6",
-      "candidate": "Juan Pagan",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NY",
-      "office": "US House",
-      "district": "District 11",
-      "candidate": "Nicole Malliotakis",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NY",
-      "office": "US House",
-      "district": "District 14",
-      "candidate": "Alexandria Ocasio-Cortez",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NY",
-      "office": "US House",
-      "district": "District 16",
-      "candidate": "John Franklin Wilson IV",
-      "party": "Unknown",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NY",
-      "office": "US House",
-      "district": "District 16",
-      "candidate": "George Latimer",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NY",
-      "office": "US House",
-      "district": "District 17",
-      "candidate": "Michael Lawler",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NY",
-      "office": "US House",
-      "district": "District 18",
-      "candidate": "Pat Ryan",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NY",
-      "office": "US House",
-      "district": "District 18",
-      "candidate": "Sharanjit Thind",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NY",
-      "office": "US House",
-      "district": "District 19",
-      "candidate": "Josh Riley",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NY",
-      "office": "US House",
-      "district": "District 20",
-      "candidate": "Paul Tonko",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NY",
-      "office": "US House",
-      "district": "District 22",
-      "candidate": "William Staton",
-      "party": "Unknown",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NY",
-      "office": "US House",
-      "district": "District 22",
-      "candidate": "John Mannion",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NY",
-      "office": "US House",
-      "district": "District 23",
-      "candidate": "Nick Langworthy",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NY",
-      "office": "US House",
-      "district": "District 24",
-      "candidate": "Ken Estes",
-      "party": "Unknown",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NY",
-      "office": "US House",
-      "district": "District 25",
-      "candidate": "Kloud Walton",
-      "party": "Unknown",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NY",
-      "office": "US House",
-      "district": "District 25",
-      "candidate": "Virginia McIntyre",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NY",
-      "office": "US House",
-      "district": "District 26",
-      "candidate": "Timothy M. Kennedy",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
     {
       "state": "NY",
       "office": "Governor",
@@ -332,8 +146,26 @@
     {
       "state": "NY",
       "office": "State Senate",
+      "district": "District 52",
+      "candidate": "Lea Webb",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "State Senate",
       "district": "District 54",
       "candidate": "Pamela Helming",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "State Senate",
+      "district": "District 57",
+      "candidate": "George Borrello",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

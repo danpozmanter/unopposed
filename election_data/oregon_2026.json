@@ -5,7 +5,7 @@
   "total": 48,
   "total_races": 83,
   "total_races_by_party": {
-    "Democrat": 35,
+    "Democrat": 37,
     "Republican": 31,
     "Libertarian": 1,
     "Unknown": 2,
@@ -24,16 +24,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 35,
+      "Democrat": 37,
       "Republican": 31
     },
     "total_unopposed": 44,
     "unopposed_by_party": {
-      "Democrat": 25,
-      "Republican": 19
+      "Democrat": 27,
+      "Republican": 17
     }
   },
-  "scraped_at": "2026-02-19T04:52:05.333137+00:00",
+  "scraped_at": "2026-02-20T04:49:27.756240+00:00",
   "unopposed_candidates": [
     {
       "state": "OR",
@@ -140,6 +140,15 @@
       "district": "District 13",
       "candidate": "Glenn Lancaster",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State Senate",
+      "district": "District 15",
+      "candidate": "Myrna Munoz",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -266,15 +275,6 @@
       "district": "District 15",
       "candidate": "Joanna Robinson",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OR",
-      "office": "State House",
-      "district": "District 17",
-      "candidate": "Beth Jones",
-      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -425,9 +425,9 @@
     {
       "state": "OR",
       "office": "State House",
-      "district": "District 52",
-      "candidate": "Robert Fleming",
-      "party": "Republican",
+      "district": "District 51",
+      "candidate": "Darrin Beagles",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

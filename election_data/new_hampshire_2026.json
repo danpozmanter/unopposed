@@ -2,19 +2,18 @@
   "state": "NH",
   "state_name": "New Hampshire",
   "year": 2026,
-  "total": 2,
+  "total": 1,
   "total_races": 28,
   "total_races_by_party": {
+    "Republican": 3,
     "Democrat": 4,
-    "Unknown": 1,
-    "Republican": 3
+    "Unknown": 1
   },
   "general": {
     "total_races": 25,
-    "total_unopposed": 2,
+    "total_unopposed": 1,
     "unopposed_by_party": {
-      "Unknown": 1,
-      "Democrat": 1
+      "Unknown": 1
     }
   },
   "primary": {
@@ -22,12 +21,10 @@
       "Democrat": 4,
       "Republican": 3
     },
-    "total_unopposed": 1,
-    "unopposed_by_party": {
-      "Democrat": 1
-    }
+    "total_unopposed": 0,
+    "unopposed_by_party": {}
   },
-  "scraped_at": "2026-02-19T04:49:42.171994+00:00",
+  "scraped_at": "2026-02-20T04:46:30.222767+00:00",
   "unopposed_candidates": [
     {
       "state": "NH",
@@ -36,15 +33,6 @@
       "candidate": "Submit photo",
       "party": "Unknown",
       "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NH",
-      "office": "Governor",
-      "district": "Statewide",
-      "candidate": "Jonathan Kiper",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     }
   ]

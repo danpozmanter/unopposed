@@ -2,12 +2,12 @@
   "state": "OH",
   "state_name": "Ohio",
   "year": 2026,
-  "total": 166,
+  "total": 180,
   "total_races": 131,
   "total_races_by_party": {
     "Unknown": 8,
-    "Democrat": 107,
-    "Republican": 109,
+    "Republican": 115,
+    "Democrat": 119,
     "Other": 12
   },
   "general": {
@@ -19,20 +19,20 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 107,
-      "Republican": 109,
+      "Democrat": 119,
+      "Republican": 115,
       "Unknown": 5,
       "Other": 12
     },
-    "total_unopposed": 162,
+    "total_unopposed": 176,
     "unopposed_by_party": {
       "Unknown": 3,
-      "Republican": 78,
-      "Democrat": 69,
+      "Republican": 84,
+      "Democrat": 77,
       "Other": 12
     }
   },
-  "scraped_at": "2026-02-19T04:51:14.740109+00:00",
+  "scraped_at": "2026-02-20T04:48:45.700942+00:00",
   "unopposed_candidates": [
     {
       "state": "OH",
@@ -408,6 +408,114 @@
       "office": "State Senate",
       "district": "District 33",
       "candidate": "Alessandro Cutrona",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Joel A. Greff",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Ismail Mohamed",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Beryl Brown Piccolantonio",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Meredith Lawson\u2010Rowe",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Matthew Jackson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "William Mercier",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Anita Somani",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Munira Abdullahi",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Bruce Euans",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "Mark Sigrist",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Crystal Lett",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Shawn Kaeser",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -1335,6 +1443,24 @@
       "office": "State House",
       "district": "District 78",
       "candidate": "Matt Huffman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 79",
+      "candidate": "Bob Guy",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 79",
+      "candidate": "Monica Robb Blasdel",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

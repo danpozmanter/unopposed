@@ -5,9 +5,9 @@
   "total": 109,
   "total_races": 109,
   "total_races_by_party": {
-    "Democrat": 43,
-    "Republican": 101,
     "Unknown": 4,
+    "Republican": 101,
+    "Democrat": 44,
     "Other": 11
   },
   "general": {
@@ -20,7 +20,7 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 43,
+      "Democrat": 44,
       "Republican": 101
     },
     "total_unopposed": 79,
@@ -29,7 +29,7 @@
       "Republican": 59
     }
   },
-  "scraped_at": "2026-02-19T04:44:59.936639+00:00",
+  "scraped_at": "2026-02-20T04:41:21.213886+00:00",
   "unopposed_candidates": [
     {
       "state": "ID",
@@ -449,6 +449,15 @@
       "state": "ID",
       "office": "State House",
       "district": "District 3",
+      "candidate": "Melissa Mateer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "State House",
+      "district": "District 3",
       "candidate": "Vito Barbieri",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -649,15 +658,6 @@
       "district": "District 15",
       "candidate": "Dori Healey",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ID",
-      "office": "State House",
-      "district": "District 16",
-      "candidate": "So\u00f1ia Galaviz",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
