@@ -2,11 +2,11 @@
   "state": "MI",
   "state_name": "Michigan",
   "year": 2026,
-  "total": 38,
+  "total": 37,
   "total_races": 163,
   "total_races_by_party": {
-    "Unknown": 5,
     "Democrat": 37,
+    "Unknown": 5,
     "Republican": 25,
     "Other": 1
   },
@@ -23,13 +23,13 @@
       "Democrat": 37,
       "Republican": 25
     },
-    "total_unopposed": 34,
+    "total_unopposed": 33,
     "unopposed_by_party": {
-      "Republican": 16,
+      "Republican": 15,
       "Democrat": 18
     }
   },
-  "scraped_at": "2026-02-20T04:44:16.884628+00:00",
+  "scraped_at": "2026-02-21T04:42:22.145984+00:00",
   "unopposed_candidates": [
     {
       "state": "MI",
@@ -162,15 +162,6 @@
       "office": "State Senate",
       "district": "District 23",
       "candidate": "Donni Steele",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MI",
-      "office": "State Senate",
-      "district": "District 31",
-      "candidate": "Michael Markey Jr.",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

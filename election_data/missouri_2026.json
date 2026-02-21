@@ -2,7 +2,7 @@
   "state": "MO",
   "state_name": "Missouri",
   "year": 2026,
-  "total": 135,
+  "total": 136,
   "total_races": 188,
   "total_races_by_party": {
     "Democrat": 82,
@@ -23,14 +23,23 @@
       "Democrat": 82,
       "Republican": 110
     },
-    "total_unopposed": 133,
+    "total_unopposed": 134,
     "unopposed_by_party": {
-      "Republican": 66,
+      "Republican": 67,
       "Democrat": 67
     }
   },
-  "scraped_at": "2026-02-20T04:45:13.075013+00:00",
+  "scraped_at": "2026-02-21T04:43:11.183667+00:00",
   "unopposed_candidates": [
+    {
+      "state": "MO",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Ann Wagner",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "MO",
       "office": "US House",

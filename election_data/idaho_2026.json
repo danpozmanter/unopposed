@@ -2,12 +2,12 @@
   "state": "ID",
   "state_name": "Idaho",
   "year": 2026,
-  "total": 109,
+  "total": 110,
   "total_races": 109,
   "total_races_by_party": {
-    "Unknown": 4,
+    "Democrat": 45,
     "Republican": 101,
-    "Democrat": 44,
+    "Unknown": 4,
     "Other": 11
   },
   "general": {
@@ -20,16 +20,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 44,
+      "Democrat": 45,
       "Republican": 101
     },
-    "total_unopposed": 79,
+    "total_unopposed": 80,
     "unopposed_by_party": {
-      "Democrat": 37,
+      "Democrat": 38,
       "Republican": 59
     }
   },
-  "scraped_at": "2026-02-20T04:41:21.213886+00:00",
+  "scraped_at": "2026-02-21T04:39:14.640916+00:00",
   "unopposed_candidates": [
     {
       "state": "ID",
@@ -892,6 +892,15 @@
       "district": "District 30",
       "candidate": "David Cannon",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "Breane Buckingham",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

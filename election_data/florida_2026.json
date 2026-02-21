@@ -2,11 +2,11 @@
   "state": "FL",
   "state_name": "Florida",
   "year": 2026,
-  "total": 149,
+  "total": 152,
   "total_races": 169,
   "total_races_by_party": {
-    "Republican": 123,
-    "Democrat": 92,
+    "Republican": 124,
+    "Democrat": 94,
     "Libertarian": 2,
     "Unknown": 12,
     "Constitution": 1,
@@ -23,16 +23,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 92,
-      "Republican": 123
+      "Democrat": 94,
+      "Republican": 124
     },
-    "total_unopposed": 133,
+    "total_unopposed": 136,
     "unopposed_by_party": {
-      "Democrat": 51,
-      "Republican": 82
+      "Democrat": 53,
+      "Republican": 83
     }
   },
-  "scraped_at": "2026-02-20T04:40:29.782851+00:00",
+  "scraped_at": "2026-02-21T04:37:58.654333+00:00",
   "unopposed_candidates": [
     {
       "state": "FL",
@@ -515,6 +515,15 @@
       "state": "FL",
       "office": "State House",
       "district": "District 17",
+      "candidate": "Bryson Kade Morgan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "FL",
+      "office": "State House",
+      "district": "District 17",
       "candidate": "Jessica Baker",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -730,6 +739,15 @@
     {
       "state": "FL",
       "office": "State House",
+      "district": "District 43",
+      "candidate": "Robert Allen Prater",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "FL",
+      "office": "State House",
       "district": "District 44",
       "candidate": "Jennifer Harris",
       "party": "Democrat",
@@ -904,6 +922,15 @@
       "district": "District 69",
       "candidate": "Danny Alvarez",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "FL",
+      "office": "State House",
+      "district": "District 70",
+      "candidate": "Luther Keith Wilkins",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

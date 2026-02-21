@@ -2,12 +2,12 @@
   "state": "NV",
   "state_name": "Nevada",
   "year": 2026,
-  "total": 12,
+  "total": 13,
   "total_races": 58,
   "total_races_by_party": {
     "Democrat": 8,
     "Unknown": 1,
-    "Republican": 10
+    "Republican": 11
   },
   "general": {
     "total_races": 54,
@@ -19,15 +19,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 8,
-      "Republican": 10
+      "Republican": 11
     },
-    "total_unopposed": 11,
+    "total_unopposed": 12,
     "unopposed_by_party": {
-      "Republican": 6,
+      "Republican": 7,
       "Democrat": 5
     }
   },
-  "scraped_at": "2026-02-20T04:46:07.358877+00:00",
+  "scraped_at": "2026-02-21T04:43:55.697847+00:00",
   "unopposed_candidates": [
     {
       "state": "NV",
@@ -124,6 +124,15 @@
       "office": "State House",
       "district": "District 33",
       "candidate": "Bert Gurr",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Brandon Davis",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

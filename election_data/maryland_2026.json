@@ -2,29 +2,29 @@
   "state": "MD",
   "state_name": "Maryland",
   "year": 2026,
-  "total": 26,
-  "total_races": 126,
+  "total": 13,
+  "total_races": 79,
   "total_races_by_party": {
-    "Republican": 16,
-    "Democrat": 27
+    "Democrat": 18,
+    "Republican": 12
   },
   "general": {
-    "total_races": 118,
+    "total_races": 71,
     "total_unopposed": 0,
     "unopposed_by_party": {}
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 27,
-      "Republican": 16
+      "Democrat": 18,
+      "Republican": 12
     },
-    "total_unopposed": 25,
+    "total_unopposed": 12,
     "unopposed_by_party": {
-      "Republican": 12,
-      "Democrat": 14
+      "Republican": 8,
+      "Democrat": 5
     }
   },
-  "scraped_at": "2026-02-20T04:43:40.123791+00:00",
+  "scraped_at": "2026-02-21T04:41:48.721350+00:00",
   "unopposed_candidates": [
     {
       "state": "MD",
@@ -59,123 +59,6 @@
       "district": "District 5",
       "candidate": "Michelle Talkington",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MD",
-      "office": "State Senate",
-      "district": "District 2",
-      "candidate": "Eric Van Buren",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MD",
-      "office": "State Senate",
-      "district": "District 5",
-      "candidate": "Justin Ready",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MD",
-      "office": "State Senate",
-      "district": "District 9",
-      "candidate": "Ben Hightower",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MD",
-      "office": "State Senate",
-      "district": "District 14",
-      "candidate": "Craig Zucker",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MD",
-      "office": "State Senate",
-      "district": "District 16",
-      "candidate": "Sara Love",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MD",
-      "office": "State Senate",
-      "district": "District 17",
-      "candidate": "Cheryl Kagan",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MD",
-      "office": "State Senate",
-      "district": "District 18",
-      "candidate": "Jeff Waldstreicher",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MD",
-      "office": "State Senate",
-      "district": "District 19",
-      "candidate": "Benjamin Kramer",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MD",
-      "office": "State Senate",
-      "district": "District 27",
-      "candidate": "Jason Fowler",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MD",
-      "office": "State Senate",
-      "district": "District 31",
-      "candidate": "Nicholaus Kipke",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MD",
-      "office": "State Senate",
-      "district": "District 41",
-      "candidate": "Malcolm Ruff",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MD",
-      "office": "State Senate",
-      "district": "District 42",
-      "candidate": "Adam Wood",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MD",
-      "office": "State Senate",
-      "district": "District 46",
-      "candidate": "William Ferguson IV",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

@@ -2,7 +2,7 @@
   "state": "GA",
   "state_name": "Georgia",
   "year": 2026,
-  "total": 158,
+  "total": 159,
   "total_races": 252,
   "total_races_by_party": {
     "Democrat": 90,
@@ -25,13 +25,13 @@
       "Democrat": 90,
       "Republican": 109
     },
-    "total_unopposed": 152,
+    "total_unopposed": 153,
     "unopposed_by_party": {
       "Republican": 88,
-      "Democrat": 64
+      "Democrat": 65
     }
   },
-  "scraped_at": "2026-02-20T04:40:44.640624+00:00",
+  "scraped_at": "2026-02-21T04:38:15.065692+00:00",
   "unopposed_candidates": [
     {
       "state": "GA",
@@ -112,6 +112,15 @@
       "candidate": "Rob Ruszkowski",
       "party": "Unknown",
       "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "US House",
+      "district": "District 14",
+      "candidate": "Shawn Harris",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {

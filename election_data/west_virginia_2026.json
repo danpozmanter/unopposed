@@ -2,13 +2,13 @@
   "state": "WV",
   "state_name": "West Virginia",
   "year": 2026,
-  "total": 133,
+  "total": 132,
   "total_races": 120,
   "total_races_by_party": {
     "Democrat": 109,
     "Republican": 114,
     "Unknown": 2,
-    "Other": 7
+    "Other": 6
   },
   "general": {
     "total_races": 119,
@@ -21,17 +21,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 109,
-      "Republican": 114,
-      "Other": 1
+      "Republican": 114
     },
-    "total_unopposed": 126,
+    "total_unopposed": 125,
     "unopposed_by_party": {
       "Democrat": 80,
-      "Republican": 45,
-      "Other": 1
+      "Republican": 45
     }
   },
-  "scraped_at": "2026-02-20T04:53:04.740553+00:00",
+  "scraped_at": "2026-02-21T04:50:46.931578+00:00",
   "unopposed_candidates": [
     {
       "state": "WV",
@@ -633,15 +631,6 @@
       "district": "District 46",
       "candidate": "Sarah Umberger",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WV",
-      "office": "State House",
-      "district": "District 47",
-      "candidate": "Maria Jenkins",
-      "party": "Other",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
