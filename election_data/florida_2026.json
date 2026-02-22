@@ -5,34 +5,34 @@
   "total": 152,
   "total_races": 169,
   "total_races_by_party": {
+    "Democrat": 95,
     "Republican": 124,
-    "Democrat": 94,
     "Libertarian": 2,
     "Unknown": 12,
     "Constitution": 1,
-    "Other": 8
+    "Other": 10
   },
   "general": {
     "total_races": 153,
-    "total_unopposed": 16,
+    "total_unopposed": 18,
     "unopposed_by_party": {
       "Unknown": 7,
       "Libertarian": 1,
-      "Other": 8
+      "Other": 10
     }
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 94,
+      "Democrat": 95,
       "Republican": 124
     },
-    "total_unopposed": 136,
+    "total_unopposed": 134,
     "unopposed_by_party": {
       "Democrat": 53,
-      "Republican": 83
+      "Republican": 81
     }
   },
-  "scraped_at": "2026-02-21T04:37:58.654333+00:00",
+  "scraped_at": "2026-02-22T04:42:23.968194+00:00",
   "unopposed_candidates": [
     {
       "state": "FL",
@@ -406,15 +406,6 @@
     {
       "state": "FL",
       "office": "State Senate",
-      "district": "District 40",
-      "candidate": "Ana Maria Rodriguez",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "State Senate",
       "district": "District 8",
       "candidate": "Gabriel Jude Wozniak",
       "party": "Other",
@@ -445,15 +436,6 @@
       "district": "District 3",
       "candidate": "Nathan Boyles",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "State House",
-      "district": "District 6",
-      "candidate": "David Richardson",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -595,6 +577,15 @@
     {
       "state": "FL",
       "office": "State House",
+      "district": "District 26",
+      "candidate": "Robyn Elaine Lawrence",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "FL",
+      "office": "State House",
       "district": "District 29",
       "candidate": "Jason Michael Leslie",
       "party": "Republican",
@@ -624,15 +615,6 @@
       "office": "State House",
       "district": "District 33",
       "candidate": "Monique Miller",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "State House",
-      "district": "District 34",
-      "candidate": "Robert Brackett",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -1351,6 +1333,15 @@
     {
       "state": "FL",
       "office": "State House",
+      "district": "District 4",
+      "candidate": "Armando Arce Sr.",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "FL",
+      "office": "State House",
       "district": "District 8",
       "candidate": "Aaron Daniel Ruddell",
       "party": "Other",
@@ -1389,6 +1380,15 @@
       "office": "State House",
       "district": "District 46",
       "candidate": "Ivan Rivera",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "FL",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Christopher Alan Anger",
       "party": "Other",
       "unopposed_in": "General",
       "source": "Ballotpedia"

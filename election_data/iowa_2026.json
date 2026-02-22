@@ -2,11 +2,11 @@
   "state": "IA",
   "state_name": "Iowa",
   "year": 2026,
-  "total": 39,
+  "total": 40,
   "total_races": 131,
   "total_races_by_party": {
+    "Republican": 28,
     "Democrat": 22,
-    "Republican": 27,
     "Unknown": 2
   },
   "general": {
@@ -19,15 +19,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 22,
-      "Republican": 27
+      "Republican": 28
     },
-    "total_unopposed": 37,
+    "total_unopposed": 38,
     "unopposed_by_party": {
-      "Republican": 21,
+      "Republican": 22,
       "Democrat": 16
     }
   },
-  "scraped_at": "2026-02-21T04:39:58.299338+00:00",
+  "scraped_at": "2026-02-22T04:44:33.193140+00:00",
   "unopposed_candidates": [
     {
       "state": "IA",
@@ -232,6 +232,15 @@
       "office": "State House",
       "district": "District 38",
       "candidate": "Matt Oleson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Nicole Hasso",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

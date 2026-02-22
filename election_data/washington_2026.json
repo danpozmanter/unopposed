@@ -2,11 +2,11 @@
   "state": "WA",
   "state_name": "Washington",
   "year": 2026,
-  "total": 115,
+  "total": 114,
   "total_races": 132,
   "total_races_by_party": {
-    "Democrat": 84,
-    "Republican": 48,
+    "Democrat": 85,
+    "Republican": 51,
     "Unknown": 5,
     "Other": 1
   },
@@ -19,20 +19,20 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 84,
-      "Republican": 48,
+      "Democrat": 85,
+      "Republican": 51,
       "Unknown": 5,
       "Other": 1
     },
-    "total_unopposed": 82,
+    "total_unopposed": 80,
     "unopposed_by_party": {
-      "Democrat": 72,
+      "Democrat": 68,
       "Unknown": 2,
-      "Republican": 40,
+      "Republican": 43,
       "Other": 1
     }
   },
-  "scraped_at": "2026-02-21T04:50:27.462342+00:00",
+  "scraped_at": "2026-02-22T04:54:35.392418+00:00",
   "unopposed_candidates": [
     {
       "state": "WA",
@@ -127,15 +127,6 @@
     {
       "state": "WA",
       "office": "State Senate",
-      "district": "District 26",
-      "candidate": "Renee Hernandez Greenfield",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WA",
-      "office": "State Senate",
       "district": "District 30",
       "candidate": "Claire Wilson",
       "party": "Democrat",
@@ -156,24 +147,6 @@
       "office": "State Senate",
       "district": "District 32",
       "candidate": "Jesse Salomon",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WA",
-      "office": "State Senate",
-      "district": "District 33",
-      "candidate": "Karen Keiser",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WA",
-      "office": "State Senate",
-      "district": "District 34",
-      "candidate": "Joe Nguyen",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -270,15 +243,6 @@
     },
     {
       "state": "WA",
-      "office": "State Senate",
-      "district": "District 48",
-      "candidate": "Patricia Kuderer",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WA",
       "office": "State House",
       "district": "District 1",
       "candidate": "Davina Duerr",
@@ -317,6 +281,15 @@
       "state": "WA",
       "office": "State House",
       "district": "District 3",
+      "candidate": "Natasha Hill",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 3",
       "candidate": "Timm Ormsby",
       "party": "Democrat",
       "unopposed_in": "Primary",
@@ -325,9 +298,9 @@
     {
       "state": "WA",
       "office": "State House",
-      "district": "District 5",
-      "candidate": "Victoria Hunt",
-      "party": "Democrat",
+      "district": "District 4",
+      "candidate": "Suzanne Schmidt",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -922,6 +895,24 @@
       "district": "District 38",
       "candidate": "Mary Fosse",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Sam Low",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Carolyn Eslick",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

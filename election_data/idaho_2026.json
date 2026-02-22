@@ -2,34 +2,34 @@
   "state": "ID",
   "state_name": "Idaho",
   "year": 2026,
-  "total": 110,
+  "total": 109,
   "total_races": 109,
   "total_races_by_party": {
-    "Democrat": 45,
-    "Republican": 101,
     "Unknown": 4,
-    "Other": 11
+    "Democrat": 46,
+    "Republican": 101,
+    "Other": 12
   },
   "general": {
     "total_races": 109,
-    "total_unopposed": 11,
+    "total_unopposed": 12,
     "unopposed_by_party": {
       "Unknown": 2,
-      "Other": 11
+      "Other": 12
     }
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 45,
+      "Democrat": 46,
       "Republican": 101
     },
-    "total_unopposed": 80,
+    "total_unopposed": 78,
     "unopposed_by_party": {
-      "Democrat": 38,
-      "Republican": 59
+      "Democrat": 37,
+      "Republican": 58
     }
   },
-  "scraped_at": "2026-02-21T04:39:14.640916+00:00",
+  "scraped_at": "2026-02-22T04:43:19.000966+00:00",
   "unopposed_candidates": [
     {
       "state": "ID",
@@ -385,6 +385,15 @@
     {
       "state": "ID",
       "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Blaise Larrabee",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "State Senate",
       "district": "District 23",
       "candidate": "Paul Smith",
       "party": "Other",
@@ -415,15 +424,6 @@
       "district": "District 1",
       "candidate": "Kathryn Larson",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ID",
-      "office": "State House",
-      "district": "District 1",
-      "candidate": "Cornel Rasor",
-      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -505,15 +505,6 @@
       "district": "District 5",
       "candidate": "Tony Wisniewski",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ID",
-      "office": "State House",
-      "district": "District 6",
-      "candidate": "Trish Carter-Goodheart",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -649,6 +640,15 @@
       "district": "District 15",
       "candidate": "Steve Keyser",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Jae Etchart",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -820,15 +820,6 @@
       "district": "District 26",
       "candidate": "Mike Pohanka",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ID",
-      "office": "State House",
-      "district": "District 26",
-      "candidate": "Jessie Bell",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

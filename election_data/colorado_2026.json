@@ -2,15 +2,15 @@
   "state": "CO",
   "state_name": "Colorado",
   "year": 2026,
-  "total": 77,
+  "total": 80,
   "total_races": 93,
   "total_races_by_party": {
-    "Republican": 47,
-    "Democrat": 76,
     "Unknown": 6,
+    "Democrat": 77,
+    "Republican": 50,
     "Libertarian": 1,
-    "American Constitution": 1,
     "No Labels": 1,
+    "American Constitution": 1,
     "Other": 5
   },
   "general": {
@@ -23,16 +23,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 76,
-      "Republican": 47
+      "Democrat": 77,
+      "Republican": 50
     },
-    "total_unopposed": 71,
+    "total_unopposed": 74,
     "unopposed_by_party": {
-      "Republican": 29,
+      "Republican": 32,
       "Democrat": 42
     }
   },
-  "scraped_at": "2026-02-21T04:37:05.331634+00:00",
+  "scraped_at": "2026-02-22T04:41:01.126786+00:00",
   "unopposed_candidates": [
     {
       "state": "CO",
@@ -389,15 +389,6 @@
       "state": "CO",
       "office": "State House",
       "district": "District 25",
-      "candidate": "Tammy Story",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CO",
-      "office": "State House",
-      "district": "District 25",
       "candidate": "Mark Herzfeld",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -478,9 +469,27 @@
     {
       "state": "CO",
       "office": "State House",
+      "district": "District 37",
+      "candidate": "Alex Hart",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
       "district": "District 38",
       "candidate": "Gretchen Rydin",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Martin Frazier",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -667,6 +676,15 @@
     {
       "state": "CO",
       "office": "State House",
+      "district": "District 61",
+      "candidate": "Scott Shamblin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
       "district": "District 62",
       "candidate": "Matthew Martinez",
       "party": "Democrat",
@@ -679,6 +697,15 @@
       "district": "District 63",
       "candidate": "Dusty Johnson",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "State House",
+      "district": "District 64",
+      "candidate": "Maureen Dower",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

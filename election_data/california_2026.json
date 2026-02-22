@@ -2,7 +2,7 @@
   "state": "CA",
   "state_name": "California",
   "year": 2026,
-  "total": 82,
+  "total": 81,
   "total_races": 153,
   "total_races_by_party": {
     "Republican": 53,
@@ -28,17 +28,17 @@
       "American Independent": 1,
       "Libertarian": 1
     },
-    "total_unopposed": 82,
+    "total_unopposed": 81,
     "unopposed_by_party": {
       "Republican": 32,
       "Unknown": 13,
-      "Democrat": 34,
+      "Democrat": 33,
       "Green/Rainbow": 1,
       "American Independent": 1,
       "Libertarian": 1
     }
   },
-  "scraped_at": "2026-02-21T04:36:43.146914+00:00",
+  "scraped_at": "2026-02-22T04:40:38.195351+00:00",
   "unopposed_candidates": [
     {
       "state": "CA",
@@ -738,15 +738,6 @@
       "office": "State House",
       "district": "District 9",
       "candidate": "Matthew Adams",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CA",
-      "office": "State House",
-      "district": "District 12",
-      "candidate": "Jackie Elward",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

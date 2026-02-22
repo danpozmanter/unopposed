@@ -2,7 +2,7 @@
   "state": "NV",
   "state_name": "Nevada",
   "year": 2026,
-  "total": 13,
+  "total": 12,
   "total_races": 58,
   "total_races_by_party": {
     "Democrat": 8,
@@ -21,13 +21,13 @@
       "Democrat": 8,
       "Republican": 11
     },
-    "total_unopposed": 12,
+    "total_unopposed": 11,
     "unopposed_by_party": {
       "Republican": 7,
-      "Democrat": 5
+      "Democrat": 4
     }
   },
-  "scraped_at": "2026-02-21T04:43:55.697847+00:00",
+  "scraped_at": "2026-02-22T04:48:40.823788+00:00",
   "unopposed_candidates": [
     {
       "state": "NV",
@@ -97,15 +97,6 @@
       "office": "State House",
       "district": "District 20",
       "candidate": "Tony Smith",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NV",
-      "office": "State House",
-      "district": "District 29",
-      "candidate": "Christian Bishop",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
