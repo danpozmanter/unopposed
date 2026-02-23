@@ -2,12 +2,12 @@
   "state": "CA",
   "state_name": "California",
   "year": 2026,
-  "total": 81,
+  "total": 80,
   "total_races": 153,
   "total_races_by_party": {
-    "Republican": 53,
     "Democrat": 74,
-    "Unknown": 18,
+    "Republican": 53,
+    "Unknown": 19,
     "Green/Rainbow": 1,
     "American Independent": 1,
     "Libertarian": 1
@@ -23,14 +23,14 @@
     "total_races_by_party": {
       "Democrat": 74,
       "Republican": 53,
-      "Unknown": 18,
+      "Unknown": 19,
       "Green/Rainbow": 1,
       "American Independent": 1,
       "Libertarian": 1
     },
-    "total_unopposed": 81,
+    "total_unopposed": 80,
     "unopposed_by_party": {
-      "Republican": 32,
+      "Republican": 31,
       "Unknown": 13,
       "Democrat": 33,
       "Green/Rainbow": 1,
@@ -38,7 +38,7 @@
       "Libertarian": 1
     }
   },
-  "scraped_at": "2026-02-22T04:40:38.195351+00:00",
+  "scraped_at": "2026-02-23T04:47:14.712238+00:00",
   "unopposed_candidates": [
     {
       "state": "CA",
@@ -241,6 +241,15 @@
     {
       "state": "CA",
       "office": "US House",
+      "district": "District 20",
+      "candidate": "Jeremy Fox",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
       "district": "District 22",
       "candidate": "David G. Valadao",
       "party": "Republican",
@@ -316,15 +325,6 @@
       "district": "District 30",
       "candidate": "John Armenian",
       "party": "Unknown",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CA",
-      "office": "US House",
-      "district": "District 30",
-      "candidate": "Dennis Feitosa",
-      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -478,15 +478,6 @@
       "district": "District 48",
       "candidate": "Darrell Issa",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CA",
-      "office": "US House",
-      "district": "District 48",
-      "candidate": "Mike Bucy",
-      "party": "Unknown",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

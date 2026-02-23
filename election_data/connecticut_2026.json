@@ -2,69 +2,30 @@
   "state": "CT",
   "state_name": "Connecticut",
   "year": 2026,
-  "total": 13,
-  "total_races": 193,
+  "total": 9,
+  "total_races": 188,
   "total_races_by_party": {
-    "Republican": 11,
-    "Democrat": 11,
-    "Unknown": 1
+    "Republican": 6,
+    "Democrat": 6
   },
   "general": {
-    "total_races": 188,
-    "total_unopposed": 1,
-    "unopposed_by_party": {
-      "Unknown": 1
-    }
+    "total_races": 187,
+    "total_unopposed": 0,
+    "unopposed_by_party": {}
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 11,
-      "Republican": 11
+      "Democrat": 6,
+      "Republican": 6
     },
-    "total_unopposed": 12,
+    "total_unopposed": 9,
     "unopposed_by_party": {
-      "Republican": 7,
-      "Democrat": 5
+      "Democrat": 4,
+      "Republican": 5
     }
   },
-  "scraped_at": "2026-02-22T04:41:40.450744+00:00",
+  "scraped_at": "2026-02-23T04:48:11.702933+00:00",
   "unopposed_candidates": [
-    {
-      "state": "CT",
-      "office": "US House",
-      "district": "District 1",
-      "candidate": "Amy Chai",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CT",
-      "office": "US House",
-      "district": "District 4",
-      "candidate": "Damon Cerreta",
-      "party": "Unknown",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CT",
-      "office": "US House",
-      "district": "District 4",
-      "candidate": "Jim Himes",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CT",
-      "office": "US House",
-      "district": "District 4",
-      "candidate": "Michael Goldstein",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
     {
       "state": "CT",
       "office": "State Senate",

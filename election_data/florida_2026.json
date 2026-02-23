@@ -2,263 +2,35 @@
   "state": "FL",
   "state_name": "Florida",
   "year": 2026,
-  "total": 152,
-  "total_races": 169,
+  "total": 127,
+  "total_races": 141,
   "total_races_by_party": {
-    "Democrat": 95,
-    "Republican": 124,
-    "Libertarian": 2,
-    "Unknown": 12,
+    "Republican": 96,
+    "Unknown": 1,
+    "Democrat": 67,
     "Constitution": 1,
     "Other": 10
   },
   "general": {
-    "total_races": 153,
-    "total_unopposed": 18,
+    "total_races": 141,
+    "total_unopposed": 10,
     "unopposed_by_party": {
-      "Unknown": 7,
-      "Libertarian": 1,
       "Other": 10
     }
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 95,
-      "Republican": 124
+      "Democrat": 67,
+      "Republican": 96
     },
-    "total_unopposed": 134,
+    "total_unopposed": 117,
     "unopposed_by_party": {
-      "Democrat": 53,
-      "Republican": 81
+      "Republican": 73,
+      "Democrat": 44
     }
   },
-  "scraped_at": "2026-02-22T04:42:23.968194+00:00",
+  "scraped_at": "2026-02-23T04:49:13.338467+00:00",
   "unopposed_candidates": [
-    {
-      "state": "FL",
-      "office": "US House",
-      "district": "District 1",
-      "candidate": "Gay Valimont",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "US House",
-      "district": "District 3",
-      "candidate": "Kat Cammack",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "US House",
-      "district": "District 8",
-      "candidate": "Lacey Villareal",
-      "party": "Unknown",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "US House",
-      "district": "District 8",
-      "candidate": "Paul Dellinger",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "US House",
-      "district": "District 8",
-      "candidate": "Mike Haridopolos",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "US House",
-      "district": "District 9",
-      "candidate": "Darren Soto",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "US House",
-      "district": "District 10",
-      "candidate": "Maxwell Alejandro Frost",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "US House",
-      "district": "District 11",
-      "candidate": "Ralph Groves",
-      "party": "Libertarian",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "US House",
-      "district": "District 12",
-      "candidate": "Branden Scrivener",
-      "party": "Unknown",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "US House",
-      "district": "District 12",
-      "candidate": "Christopher Irizarry",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "US House",
-      "district": "District 12",
-      "candidate": "Gus M. Bilirakis",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "US House",
-      "district": "District 13",
-      "candidate": "Tony D'Arrigo",
-      "party": "Unknown",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "US House",
-      "district": "District 15",
-      "candidate": "Laurel Lee",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "US House",
-      "district": "District 16",
-      "candidate": "Mark Davis",
-      "party": "Unknown",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "US House",
-      "district": "District 17",
-      "candidate": "Greg Steube",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "US House",
-      "district": "District 18",
-      "candidate": "Deva Simmons",
-      "party": "Unknown",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "US House",
-      "district": "District 18",
-      "candidate": "Scott Franklin",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "US House",
-      "district": "District 21",
-      "candidate": "Robert Ott",
-      "party": "Unknown",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "US House",
-      "district": "District 21",
-      "candidate": "Brian Mast",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "US House",
-      "district": "District 24",
-      "candidate": "Frederica S. Wilson",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "US House",
-      "district": "District 25",
-      "candidate": "Debbie Wasserman Schultz",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "US House",
-      "district": "District 26",
-      "candidate": "Yurina Gil",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "US House",
-      "district": "District 26",
-      "candidate": "Mario Diaz-Balart",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "US House",
-      "district": "District 28",
-      "candidate": "Eddy Rojas",
-      "party": "Unknown",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "US House",
-      "district": "District 28",
-      "candidate": "Phil Ehr",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
     {
       "state": "FL",
       "office": "State Senate",

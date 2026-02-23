@@ -2,13 +2,13 @@
   "state": "MA",
   "state_name": "Massachusetts",
   "year": 2026,
-  "total": 60,
+  "total": 61,
   "total_races": 211,
   "total_races_by_party": {
-    "Unknown": 6,
-    "Democrat": 57,
-    "Republican": 16,
     "American Independent": 1,
+    "Democrat": 58,
+    "Unknown": 6,
+    "Republican": 16,
     "Other": 1
   },
   "general": {
@@ -22,16 +22,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 57,
+      "Democrat": 58,
       "Republican": 16
     },
-    "total_unopposed": 54,
+    "total_unopposed": 55,
     "unopposed_by_party": {
-      "Democrat": 43,
+      "Democrat": 44,
       "Republican": 11
     }
   },
-  "scraped_at": "2026-02-22T04:46:40.616610+00:00",
+  "scraped_at": "2026-02-23T04:54:30.507356+00:00",
   "unopposed_candidates": [
     {
       "state": "MA",
@@ -533,6 +533,15 @@
       "office": "State House",
       "district": "12th Hampden District",
       "candidate": "Michael Lachenmeyer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "13th Middlesex District",
+      "candidate": "Ravi Simon",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

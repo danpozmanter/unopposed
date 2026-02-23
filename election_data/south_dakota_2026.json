@@ -2,12 +2,12 @@
   "state": "SD",
   "state_name": "South Dakota",
   "year": 2026,
-  "total": 22,
+  "total": 24,
   "total_races": 73,
   "total_races_by_party": {
-    "Democrat": 4,
     "Unknown": 1,
-    "Republican": 20
+    "Democrat": 4,
+    "Republican": 22
   },
   "general": {
     "total_races": 73,
@@ -19,15 +19,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 4,
-      "Republican": 20
+      "Republican": 22
     },
-    "total_unopposed": 21,
+    "total_unopposed": 23,
     "unopposed_by_party": {
       "Democrat": 4,
-      "Republican": 17
+      "Republican": 19
     }
   },
-  "scraped_at": "2026-02-22T04:52:45.039597+00:00",
+  "scraped_at": "2026-02-23T05:00:32.557323+00:00",
   "unopposed_candidates": [
     {
       "state": "SD",
@@ -113,6 +113,15 @@
     {
       "state": "SD",
       "office": "State House",
+      "district": "District 7",
+      "candidate": "Mellissa Heermann",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SD",
+      "office": "State House",
       "district": "District 8",
       "candidate": "Danny Brown",
       "party": "Republican",
@@ -169,6 +178,15 @@
       "office": "State House",
       "district": "District 22",
       "candidate": "Lana Greenfield",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SD",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Laurie Gill",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

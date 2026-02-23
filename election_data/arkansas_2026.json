@@ -2,80 +2,35 @@
   "state": "AR",
   "state_name": "Arkansas",
   "year": 2026,
-  "total": 130,
-  "total_races": 123,
+  "total": 125,
+  "total_races": 118,
   "total_races_by_party": {
-    "Democrat": 107,
-    "Republican": 184,
-    "Unknown": 2
+    "Unknown": 1,
+    "Democrat": 100,
+    "Republican": 179
   },
   "general": {
-    "total_races": 121,
-    "total_unopposed": 71,
+    "total_races": 118,
+    "total_unopposed": 70,
     "unopposed_by_party": {
-      "Republican": 52,
       "Unknown": 1,
+      "Republican": 51,
       "Democrat": 18
     }
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 59,
-      "Republican": 105
+      "Democrat": 54,
+      "Republican": 100
     },
-    "total_unopposed": 126,
+    "total_unopposed": 122,
     "unopposed_by_party": {
-      "Democrat": 48,
-      "Republican": 78
+      "Republican": 76,
+      "Democrat": 46
     }
   },
-  "scraped_at": "2026-02-22T04:40:15.787969+00:00",
+  "scraped_at": "2026-02-23T04:47:03.593953+00:00",
   "unopposed_candidates": [
-    {
-      "state": "AR",
-      "office": "US House",
-      "district": "District 1",
-      "candidate": "Terri Yarbrough Green",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AR",
-      "office": "US House",
-      "district": "District 1",
-      "candidate": "Rick Crawford",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AR",
-      "office": "US House",
-      "district": "District 3",
-      "candidate": "Robb Ryerse",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AR",
-      "office": "US House",
-      "district": "District 3",
-      "candidate": "Steve Womack",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AR",
-      "office": "US House",
-      "district": "District 4",
-      "candidate": "Bruce Westerman",
-      "party": "Republican",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
     {
       "state": "AR",
       "office": "Governor",
