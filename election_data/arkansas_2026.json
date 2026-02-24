@@ -2,42 +2,98 @@
   "state": "AR",
   "state_name": "Arkansas",
   "year": 2026,
-  "total": 125,
-  "total_races": 118,
+  "total": 131,
+  "total_races": 123,
   "total_races_by_party": {
-    "Unknown": 1,
-    "Democrat": 100,
-    "Republican": 179
+    "Unknown": 3,
+    "Republican": 185,
+    "Democrat": 107,
+    "Libertarian": 2,
+    "Other": 4
   },
   "general": {
-    "total_races": 118,
-    "total_unopposed": 70,
+    "total_races": 122,
+    "total_unopposed": 67,
     "unopposed_by_party": {
       "Unknown": 1,
-      "Republican": 51,
-      "Democrat": 18
+      "Republican": 49,
+      "Democrat": 17
     }
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 54,
-      "Republican": 100
+      "Democrat": 59,
+      "Republican": 106
     },
-    "total_unopposed": 122,
+    "total_unopposed": 127,
     "unopposed_by_party": {
-      "Republican": 76,
-      "Democrat": 46
+      "Democrat": 48,
+      "Republican": 79
     }
   },
-  "scraped_at": "2026-02-23T04:47:03.593953+00:00",
+  "scraped_at": "2026-02-24T04:41:51.046579+00:00",
   "unopposed_candidates": [
+    {
+      "state": "AR",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Submit photo",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AR",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Terri Yarbrough Green",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AR",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Rick Crawford",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AR",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Robb Ryerse",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AR",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Steve Womack",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AR",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Bruce Westerman",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
     {
       "state": "AR",
       "office": "Governor",
       "district": "Statewide",
-      "candidate": "Sarah Huckabee Sanders",
-      "party": "Unknown",
-      "unopposed_in": "General",
+      "candidate": "Submit photo",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -631,7 +687,7 @@
       "district": "District 48",
       "candidate": "Ryan Rose",
       "party": "Republican",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -748,7 +804,7 @@
       "district": "District 58",
       "candidate": "Les Eaves",
       "party": "Republican",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -775,7 +831,7 @@
       "district": "District 61",
       "candidate": "Jeremiah Moore",
       "party": "Republican",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -991,7 +1047,7 @@
       "district": "District 80",
       "candidate": "Denise Ennett",
       "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {

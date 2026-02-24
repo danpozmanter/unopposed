@@ -5,9 +5,9 @@
   "total": 86,
   "total_races": 128,
   "total_races_by_party": {
-    "Unknown": 2,
+    "Republican": 71,
     "Democrat": 39,
-    "Republican": 71
+    "Unknown": 2
   },
   "general": {
     "total_races": 127,
@@ -27,7 +27,7 @@
       "Democrat": 29
     }
   },
-  "scraped_at": "2026-02-23T04:55:48.786797+00:00",
+  "scraped_at": "2026-02-24T04:48:24.621859+00:00",
   "unopposed_candidates": [
     {
       "state": "MT",

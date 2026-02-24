@@ -5,9 +5,9 @@
   "total": 79,
   "total_races": 210,
   "total_races_by_party": {
-    "Unknown": 4,
+    "Democrat": 51,
     "Republican": 48,
-    "Democrat": 50
+    "Unknown": 4
   },
   "general": {
     "total_races": 205,
@@ -18,7 +18,7 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 50,
+      "Democrat": 51,
       "Republican": 48
     },
     "total_unopposed": 68,
@@ -27,7 +27,7 @@
       "Republican": 37
     }
   },
-  "scraped_at": "2026-02-23T04:55:03.771693+00:00",
+  "scraped_at": "2026-02-24T04:47:31.302076+00:00",
   "unopposed_candidates": [
     {
       "state": "MN",
@@ -428,6 +428,15 @@
     {
       "state": "MN",
       "office": "State Senate",
+      "district": "District 48",
+      "candidate": "Mark Van Oven",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State Senate",
       "district": "District 50",
       "candidate": "Karla Hult",
       "party": "Democrat",
@@ -727,15 +736,6 @@
       "office": "State House",
       "district": "District 49",
       "candidate": "Elijah Bush",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MN",
-      "office": "State House",
-      "district": "District 57",
-      "candidate": "Brian Cohn",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

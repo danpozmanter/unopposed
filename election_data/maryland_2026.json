@@ -2,11 +2,11 @@
   "state": "MD",
   "state_name": "Maryland",
   "year": 2026,
-  "total": 27,
+  "total": 62,
   "total_races": 126,
   "total_races_by_party": {
-    "Republican": 16,
-    "Democrat": 28
+    "Republican": 35,
+    "Democrat": 61
   },
   "general": {
     "total_races": 118,
@@ -15,16 +15,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 28,
-      "Republican": 16
+      "Democrat": 61,
+      "Republican": 35
     },
-    "total_unopposed": 26,
+    "total_unopposed": 61,
     "unopposed_by_party": {
-      "Republican": 12,
-      "Democrat": 15
+      "Republican": 28,
+      "Democrat": 34
     }
   },
-  "scraped_at": "2026-02-23T04:54:06.809153+00:00",
+  "scraped_at": "2026-02-24T04:46:28.751838+00:00",
   "unopposed_candidates": [
     {
       "state": "MD",
@@ -65,9 +65,54 @@
     {
       "state": "MD",
       "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Mike McKay",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
       "district": "District 2",
       "candidate": "Eric Van Buren",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 2",
+      "candidate": "Paul Corderman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "Karen Lewis Young",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "Lara Westdorp",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "William Folden",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -83,9 +128,90 @@
     {
       "state": "MD",
       "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Justin Holliday",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "J.B. Jennings",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Carl Jackson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Yahu Blackwell",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Katie Fry Hester",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
       "district": "District 9",
       "candidate": "Ben Hightower",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Benjamin Brooks",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Shelly Hettleman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Clarence Lam",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Guy Guzzone",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -101,8 +227,8 @@
     {
       "state": "MD",
       "office": "State Senate",
-      "district": "District 16",
-      "candidate": "Sara Love",
+      "district": "District 15",
+      "candidate": "Brian Feldman",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -137,8 +263,98 @@
     {
       "state": "MD",
       "office": "State Senate",
+      "district": "District 20",
+      "candidate": "Will Smith",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Jim Rosapepe",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Lee Havis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Alonzo Washington",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 25",
+      "candidate": "Nick Charles",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
       "district": "District 27",
-      "candidate": "Jason Fowler",
+      "candidate": "Al Larsen",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Chuck Borges",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Jack Bailey",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 30",
+      "candidate": "Shaneka Henson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 30",
+      "candidate": "Jessica Haire",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 31",
+      "candidate": "Brent Mulrooney",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -155,17 +371,8 @@
     {
       "state": "MD",
       "office": "State Senate",
-      "district": "District 41",
-      "candidate": "Malcolm Ruff",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MD",
-      "office": "State Senate",
-      "district": "District 42",
-      "candidate": "Adam Wood",
+      "district": "District 32",
+      "candidate": "Justin Gallucci",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -173,8 +380,116 @@
     {
       "state": "MD",
       "office": "State Senate",
+      "district": "District 33",
+      "candidate": "Dawn Gile",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 33",
+      "candidate": "Amy Leahy",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 34",
+      "candidate": "Raj Goel",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 35",
+      "candidate": "Jason Gallion",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 36",
+      "candidate": "Stephen Hershey Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 37",
+      "candidate": "Katie Clendaniel",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 37",
+      "candidate": "Johnny Mautz",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 38",
+      "candidate": "Mary Beth Carozza",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 43",
+      "candidate": "Mary Washington",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 44",
+      "candidate": "Charles E. Sydnor III",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 45",
+      "candidate": "Cory McCray",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
       "district": "District 46",
-      "candidate": "William Ferguson IV",
+      "candidate": "Emmanuel Digman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 47",
+      "candidate": "Malcolm Augustine",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
