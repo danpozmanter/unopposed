@@ -2,11 +2,11 @@
   "state": "WV",
   "state_name": "West Virginia",
   "year": 2026,
-  "total": 132,
+  "total": 129,
   "total_races": 120,
   "total_races_by_party": {
-    "Republican": 114,
-    "Democrat": 109,
+    "Democrat": 107,
+    "Republican": 113,
     "Unknown": 2,
     "Other": 6
   },
@@ -20,16 +20,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 109,
-      "Republican": 114
+      "Democrat": 107,
+      "Republican": 113
     },
-    "total_unopposed": 125,
+    "total_unopposed": 122,
     "unopposed_by_party": {
-      "Democrat": 80,
-      "Republican": 45
+      "Democrat": 78,
+      "Republican": 44
     }
   },
-  "scraped_at": "2026-02-24T04:55:30.211556+00:00",
+  "scraped_at": "2026-02-25T04:54:08.285763+00:00",
   "unopposed_candidates": [
     {
       "state": "WV",
@@ -296,15 +296,6 @@
       "state": "WV",
       "office": "State House",
       "district": "District 15",
-      "candidate": "Brandi Hall",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WV",
-      "office": "State House",
-      "district": "District 15",
       "candidate": "Erica Moore",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -432,15 +423,6 @@
       "office": "State House",
       "district": "District 25",
       "candidate": "Sean Hornbuckle",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WV",
-      "office": "State House",
-      "district": "District 26",
-      "candidate": "Bryan Adams",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -685,15 +667,6 @@
       "district": "District 54",
       "candidate": "Mike Pushkin",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WV",
-      "office": "State House",
-      "district": "District 54",
-      "candidate": "Julien Aklei",
-      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

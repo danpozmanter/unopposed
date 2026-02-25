@@ -2,15 +2,15 @@
   "state": "CO",
   "state_name": "Colorado",
   "year": 2026,
-  "total": 80,
+  "total": 81,
   "total_races": 93,
   "total_races_by_party": {
+    "Republican": 51,
     "Democrat": 77,
-    "Republican": 50,
     "Unknown": 6,
     "Libertarian": 1,
-    "American Constitution": 1,
     "No Labels": 1,
+    "American Constitution": 1,
     "Other": 5
   },
   "general": {
@@ -24,21 +24,30 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 77,
-      "Republican": 50
+      "Republican": 51
     },
-    "total_unopposed": 74,
+    "total_unopposed": 75,
     "unopposed_by_party": {
-      "Republican": 32,
+      "Republican": 33,
       "Democrat": 42
     }
   },
-  "scraped_at": "2026-02-24T04:42:24.303197+00:00",
+  "scraped_at": "2026-02-25T04:43:05.040403+00:00",
   "unopposed_candidates": [
     {
       "state": "CO",
       "office": "US House",
       "district": "District 1",
       "candidate": "Gregory Cutlip",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CO",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Christina Blunt",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

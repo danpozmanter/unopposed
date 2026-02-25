@@ -2,11 +2,11 @@
   "state": "MI",
   "state_name": "Michigan",
   "year": 2026,
-  "total": 39,
+  "total": 38,
   "total_races": 163,
   "total_races_by_party": {
+    "Democrat": 39,
     "Republican": 25,
-    "Democrat": 38,
     "Unknown": 5,
     "Other": 1
   },
@@ -20,16 +20,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 38,
+      "Democrat": 39,
       "Republican": 25
     },
-    "total_unopposed": 35,
+    "total_unopposed": 34,
     "unopposed_by_party": {
-      "Republican": 15,
+      "Republican": 14,
       "Democrat": 20
     }
   },
-  "scraped_at": "2026-02-24T04:47:12.856420+00:00",
+  "scraped_at": "2026-02-25T04:47:17.113362+00:00",
   "unopposed_candidates": [
     {
       "state": "MI",
@@ -106,15 +106,6 @@
     {
       "state": "MI",
       "office": "US House",
-      "district": "District 8",
-      "candidate": "Amir Hassan",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MI",
-      "office": "US House",
       "district": "District 13",
       "candidate": "Maurice Morton",
       "party": "Unknown",
@@ -172,15 +163,6 @@
       "district": "District 23",
       "candidate": "Donni Steele",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MI",
-      "office": "State Senate",
-      "district": "District 32",
-      "candidate": "Rebecca Amidon",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -343,6 +325,15 @@
       "district": "District 95",
       "candidate": "Bill G. Schuette",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 97",
+      "candidate": "Jack Bader",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

@@ -2,11 +2,11 @@
   "state": "MD",
   "state_name": "Maryland",
   "year": 2026,
-  "total": 62,
+  "total": 63,
   "total_races": 126,
   "total_races_by_party": {
-    "Republican": 35,
-    "Democrat": 61
+    "Democrat": 62,
+    "Republican": 36
   },
   "general": {
     "total_races": 118,
@@ -15,16 +15,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 61,
-      "Republican": 35
+      "Democrat": 62,
+      "Republican": 36
     },
-    "total_unopposed": 61,
+    "total_unopposed": 62,
     "unopposed_by_party": {
-      "Republican": 28,
+      "Republican": 29,
       "Democrat": 34
     }
   },
-  "scraped_at": "2026-02-24T04:46:28.751838+00:00",
+  "scraped_at": "2026-02-25T04:46:41.589562+00:00",
   "unopposed_candidates": [
     {
       "state": "MD",
@@ -130,6 +130,15 @@
       "office": "State Senate",
       "district": "District 6",
       "candidate": "Justin Holliday",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "Bill Geibler",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -299,6 +308,15 @@
     {
       "state": "MD",
       "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Jim Wass",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
       "district": "District 25",
       "candidate": "Nick Charles",
       "party": "Democrat",
@@ -419,15 +437,6 @@
       "district": "District 36",
       "candidate": "Stephen Hershey Jr.",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MD",
-      "office": "State Senate",
-      "district": "District 37",
-      "candidate": "Katie Clendaniel",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

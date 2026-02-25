@@ -2,12 +2,12 @@
   "state": "OH",
   "state_name": "Ohio",
   "year": 2026,
-  "total": 181,
+  "total": 185,
   "total_races": 131,
   "total_races_by_party": {
-    "Republican": 116,
+    "Republican": 118,
     "Unknown": 8,
-    "Democrat": 120,
+    "Democrat": 122,
     "Other": 12
   },
   "general": {
@@ -19,20 +19,20 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 120,
-      "Republican": 116,
+      "Democrat": 122,
+      "Republican": 118,
       "Unknown": 5,
       "Other": 12
     },
-    "total_unopposed": 177,
+    "total_unopposed": 181,
     "unopposed_by_party": {
       "Unknown": 3,
-      "Republican": 84,
-      "Democrat": 78,
+      "Republican": 86,
+      "Democrat": 80,
       "Other": 12
     }
   },
-  "scraped_at": "2026-02-24T04:51:12.510348+00:00",
+  "scraped_at": "2026-02-25T04:50:32.254913+00:00",
   "unopposed_candidates": [
     {
       "state": "OH",
@@ -499,6 +499,15 @@
       "district": "District 10",
       "candidate": "Mark Sigrist",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "Denise D'Angelo Steele",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -1586,6 +1595,15 @@
       "state": "OH",
       "office": "State House",
       "district": "District 92",
+      "candidate": "Sarah Senff",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 92",
       "candidate": "Mark Johnson",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -1597,6 +1615,24 @@
       "district": "District 93",
       "candidate": "Jessica Harper",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 94",
+      "candidate": "Wenda Sheard",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 94",
+      "candidate": "Kevin Ritter",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

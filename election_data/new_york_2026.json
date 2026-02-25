@@ -2,12 +2,12 @@
   "state": "NY",
   "state_name": "New York",
   "year": 2026,
-  "total": 44,
+  "total": 46,
   "total_races": 240,
   "total_races_by_party": {
-    "Democrat": 41,
-    "Republican": 27,
+    "Republican": 29,
     "Unknown": 9,
+    "Democrat": 42,
     "Conservative": 1,
     "American Independent": 1
   },
@@ -21,16 +21,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 41,
-      "Republican": 27
+      "Democrat": 42,
+      "Republican": 29
     },
-    "total_unopposed": 39,
+    "total_unopposed": 41,
     "unopposed_by_party": {
-      "Republican": 17,
+      "Republican": 19,
       "Democrat": 22
     }
   },
-  "scraped_at": "2026-02-24T04:50:20.282309+00:00",
+  "scraped_at": "2026-02-25T04:49:49.496828+00:00",
   "unopposed_candidates": [
     {
       "state": "NY",
@@ -47,15 +47,6 @@
       "district": "District 2",
       "candidate": "Andrew Garbarino",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NY",
-      "office": "US House",
-      "district": "District 3",
-      "candidate": "Tom Suozzi",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -260,6 +251,15 @@
     {
       "state": "NY",
       "office": "State Senate",
+      "district": "District 28",
+      "candidate": "Alina Bonsell",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "State Senate",
       "district": "District 39",
       "candidate": "Lisa Kaul",
       "party": "Democrat",
@@ -415,6 +415,24 @@
       "office": "State House",
       "district": "District 126",
       "candidate": "Dave Knapp",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "State House",
+      "district": "District 137",
+      "candidate": "Mercedes Vazquez Simmons",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "State House",
+      "district": "District 142",
+      "candidate": "Gary Dickson",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
