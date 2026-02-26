@@ -5,8 +5,8 @@
   "total": 148,
   "total_races": 94,
   "total_races_by_party": {
-    "Republican": 132,
     "Democrat": 113,
+    "Republican": 132,
     "Unknown": 3,
     "Other": 23
   },
@@ -30,7 +30,7 @@
       "Other": 20
     }
   },
-  "scraped_at": "2026-02-25T04:53:05.191148+00:00",
+  "scraped_at": "2026-02-26T04:51:18.219167+00:00",
   "unopposed_candidates": [
     {
       "state": "UT",

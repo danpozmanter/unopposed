@@ -2,18 +2,18 @@
   "state": "IN",
   "state_name": "Indiana",
   "year": 2026,
-  "total": 156,
+  "total": 157,
   "total_races": 109,
   "total_races_by_party": {
     "Democrat": 125,
     "Republican": 112,
-    "Unknown": 3
+    "Unknown": 4
   },
   "general": {
-    "total_races": 103,
-    "total_unopposed": 3,
+    "total_races": 104,
+    "total_unopposed": 4,
     "unopposed_by_party": {
-      "Unknown": 3
+      "Unknown": 4
     }
   },
   "primary": {
@@ -27,7 +27,7 @@
       "Democrat": 93
     }
   },
-  "scraped_at": "2026-02-25T04:45:07.245209+00:00",
+  "scraped_at": "2026-02-26T04:42:50.373959+00:00",
   "unopposed_candidates": [
     {
       "state": "IN",
@@ -45,6 +45,15 @@
       "candidate": "Rudy Yakym",
       "party": "Republican",
       "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Phillip Beachy",
+      "party": "Unknown",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {

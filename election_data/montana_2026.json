@@ -2,12 +2,12 @@
   "state": "MT",
   "state_name": "Montana",
   "year": 2026,
-  "total": 86,
+  "total": 88,
   "total_races": 128,
   "total_races_by_party": {
+    "Democrat": 40,
     "Republican": 71,
-    "Unknown": 2,
-    "Democrat": 39
+    "Unknown": 2
   },
   "general": {
     "total_races": 127,
@@ -18,16 +18,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 39,
+      "Democrat": 40,
       "Republican": 71
     },
-    "total_unopposed": 84,
+    "total_unopposed": 86,
     "unopposed_by_party": {
       "Republican": 55,
-      "Democrat": 29
+      "Democrat": 31
     }
   },
-  "scraped_at": "2026-02-25T04:48:15.055095+00:00",
+  "scraped_at": "2026-02-26T04:46:09.423749+00:00",
   "unopposed_candidates": [
     {
       "state": "MT",
@@ -161,6 +161,24 @@
       "district": "District 29",
       "candidate": "Jason Gunderson",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 31",
+      "candidate": "Wesley Siler",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 32",
+      "candidate": "Kelly Kortum",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

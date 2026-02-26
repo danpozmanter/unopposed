@@ -2,35 +2,49 @@
   "state": "MD",
   "state_name": "Maryland",
   "year": 2026,
-  "total": 63,
+  "total": 65,
   "total_races": 126,
   "total_races_by_party": {
-    "Democrat": 62,
-    "Republican": 36
+    "Unknown": 2,
+    "Republican": 39,
+    "Democrat": 63,
+    "Green/Rainbow": 2
   },
   "general": {
-    "total_races": 118,
-    "total_unopposed": 0,
-    "unopposed_by_party": {}
+    "total_races": 122,
+    "total_unopposed": 3,
+    "unopposed_by_party": {
+      "Unknown": 1,
+      "Green/Rainbow": 2
+    }
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 62,
-      "Republican": 36
+      "Democrat": 63,
+      "Republican": 39
     },
-    "total_unopposed": 62,
+    "total_unopposed": 61,
     "unopposed_by_party": {
-      "Republican": 29,
+      "Republican": 28,
       "Democrat": 34
     }
   },
-  "scraped_at": "2026-02-25T04:46:41.589562+00:00",
+  "scraped_at": "2026-02-26T04:44:26.787893+00:00",
   "unopposed_candidates": [
     {
       "state": "MD",
       "office": "US House",
       "district": "District 1",
-      "candidate": "Andrew Harris",
+      "candidate": "Edward Shlikas",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "George McDermott",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -38,8 +52,17 @@
     {
       "state": "MD",
       "office": "US House",
-      "district": "District 2",
-      "candidate": "Kim Klacik",
+      "district": "District 6",
+      "candidate": "Moshe Landman",
+      "party": "Green/Rainbow",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "US House",
+      "district": "District 7",
+      "candidate": "Scott Collier",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -47,18 +70,18 @@
     {
       "state": "MD",
       "office": "US House",
-      "district": "District 3",
-      "candidate": "Bernard Flowers",
-      "party": "Republican",
-      "unopposed_in": "Primary",
+      "district": "District 8",
+      "candidate": "Nancy Wallace",
+      "party": "Green/Rainbow",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
       "state": "MD",
-      "office": "US House",
-      "district": "District 5",
-      "candidate": "Michelle Talkington",
-      "party": "Republican",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Ashley Emerick",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -245,15 +268,6 @@
     {
       "state": "MD",
       "office": "State Senate",
-      "district": "District 17",
-      "candidate": "Cheryl Kagan",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MD",
-      "office": "State Senate",
       "district": "District 18",
       "candidate": "Jeff Waldstreicher",
       "party": "Democrat",
@@ -310,6 +324,15 @@
       "office": "State Senate",
       "district": "District 22",
       "candidate": "Jim Wass",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "James Amah",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

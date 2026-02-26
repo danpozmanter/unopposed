@@ -2,12 +2,12 @@
   "state": "NM",
   "state_name": "New Mexico",
   "year": 2026,
-  "total": 14,
+  "total": 13,
   "total_races": 75,
   "total_races_by_party": {
-    "Democrat": 9,
     "Unknown": 1,
-    "Republican": 11
+    "Democrat": 9,
+    "Republican": 10
   },
   "general": {
     "total_races": 71,
@@ -19,15 +19,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 9,
-      "Republican": 11
+      "Republican": 10
     },
-    "total_unopposed": 13,
+    "total_unopposed": 12,
     "unopposed_by_party": {
-      "Republican": 7,
-      "Democrat": 6
+      "Democrat": 6,
+      "Republican": 6
     }
   },
-  "scraped_at": "2026-02-25T04:49:31.809965+00:00",
+  "scraped_at": "2026-02-26T04:47:30.757095+00:00",
   "unopposed_candidates": [
     {
       "state": "NM",
@@ -36,15 +36,6 @@
       "candidate": "Submit photo",
       "party": "Unknown",
       "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NM",
-      "office": "US Senate",
-      "district": "Statewide",
-      "candidate": "Benjamin Luna",
-      "party": "Republican",
-      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
