@@ -2,11 +2,11 @@
   "state": "CT",
   "state_name": "Connecticut",
   "year": 2026,
-  "total": 13,
+  "total": 15,
   "total_races": 193,
   "total_races_by_party": {
-    "Democrat": 11,
-    "Republican": 11,
+    "Republican": 12,
+    "Democrat": 12,
     "Unknown": 1
   },
   "general": {
@@ -18,16 +18,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 11,
-      "Republican": 11
+      "Democrat": 12,
+      "Republican": 12
     },
-    "total_unopposed": 12,
+    "total_unopposed": 14,
     "unopposed_by_party": {
-      "Republican": 7,
-      "Democrat": 5
+      "Republican": 8,
+      "Democrat": 6
     }
   },
-  "scraped_at": "2026-02-26T04:41:03.975182+00:00",
+  "scraped_at": "2026-02-27T04:39:28.932358+00:00",
   "unopposed_candidates": [
     {
       "state": "CT",
@@ -77,6 +77,15 @@
     {
       "state": "CT",
       "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Andrew Ziemba",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
       "district": "District 13",
       "candidate": "Jonathan Fazzino",
       "party": "Democrat",
@@ -107,6 +116,15 @@
       "district": "District 34",
       "candidate": "Melissa Ziobron",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 52",
+      "candidate": "Vincent Tocci",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

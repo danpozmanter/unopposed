@@ -5,8 +5,8 @@
   "total": 47,
   "total_races": 83,
   "total_races_by_party": {
+    "Democrat": 40,
     "Republican": 31,
-    "Democrat": 37,
     "Libertarian": 1,
     "Unknown": 2,
     "Independent": 1,
@@ -24,16 +24,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 37,
+      "Democrat": 40,
       "Republican": 31
     },
     "total_unopposed": 43,
     "unopposed_by_party": {
-      "Democrat": 28,
-      "Republican": 15
+      "Democrat": 29,
+      "Republican": 14
     }
   },
-  "scraped_at": "2026-02-26T04:49:09.509934+00:00",
+  "scraped_at": "2026-02-27T04:48:04.923006+00:00",
   "unopposed_candidates": [
     {
       "state": "OR",
@@ -155,6 +155,15 @@
     {
       "state": "OR",
       "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Rachel Armitage",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State Senate",
       "district": "District 17",
       "candidate": "Lisa Reynolds",
       "party": "Democrat",
@@ -166,6 +175,15 @@
       "office": "State Senate",
       "district": "District 19",
       "candidate": "Rob Wagner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State Senate",
+      "district": "District 26",
+      "candidate": "Matthew Favro",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -257,15 +275,6 @@
       "district": "District 15",
       "candidate": "Joanna Robinson",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OR",
-      "office": "State House",
-      "district": "District 18",
-      "candidate": "Matthew Lawson",
-      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -409,15 +418,6 @@
       "office": "State House",
       "district": "District 50",
       "candidate": "Ricki Ruiz",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OR",
-      "office": "State House",
-      "district": "District 51",
-      "candidate": "Darrin Beagles",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

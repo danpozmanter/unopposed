@@ -5,8 +5,8 @@
   "total": 65,
   "total_races": 126,
   "total_races_by_party": {
-    "Unknown": 2,
     "Republican": 39,
+    "Unknown": 2,
     "Democrat": 63,
     "Green/Rainbow": 2
   },
@@ -29,7 +29,7 @@
       "Democrat": 34
     }
   },
-  "scraped_at": "2026-02-26T04:44:26.787893+00:00",
+  "scraped_at": "2026-02-27T04:43:08.465626+00:00",
   "unopposed_candidates": [
     {
       "state": "MD",

@@ -2,11 +2,11 @@
   "state": "OK",
   "state_name": "Oklahoma",
   "year": 2026,
-  "total": 46,
+  "total": 47,
   "total_races": 132,
   "total_races_by_party": {
     "Republican": 44,
-    "Democrat": 23,
+    "Democrat": 24,
     "Unknown": 2,
     "Other": 1
   },
@@ -20,16 +20,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 23,
+      "Democrat": 24,
       "Republican": 44
     },
-    "total_unopposed": 43,
+    "total_unopposed": 44,
     "unopposed_by_party": {
       "Republican": 27,
-      "Democrat": 16
+      "Democrat": 17
     }
   },
-  "scraped_at": "2026-02-26T04:48:48.177133+00:00",
+  "scraped_at": "2026-02-27T04:47:44.345774+00:00",
   "unopposed_candidates": [
     {
       "state": "OK",
@@ -333,6 +333,15 @@
       "office": "State House",
       "district": "District 41",
       "candidate": "Mike Bockus",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State House",
+      "district": "District 45",
+      "candidate": "Evan Shepherd",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

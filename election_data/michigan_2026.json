@@ -2,12 +2,12 @@
   "state": "MI",
   "state_name": "Michigan",
   "year": 2026,
-  "total": 38,
+  "total": 40,
   "total_races": 163,
   "total_races_by_party": {
-    "Republican": 25,
-    "Unknown": 5,
+    "Republican": 27,
     "Democrat": 39,
+    "Unknown": 5,
     "Other": 1
   },
   "general": {
@@ -21,15 +21,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 39,
-      "Republican": 25
+      "Republican": 27
     },
-    "total_unopposed": 34,
+    "total_unopposed": 36,
     "unopposed_by_party": {
-      "Republican": 14,
+      "Republican": 16,
       "Democrat": 20
     }
   },
-  "scraped_at": "2026-02-26T04:45:09.806586+00:00",
+  "scraped_at": "2026-02-27T04:43:47.372594+00:00",
   "unopposed_candidates": [
     {
       "state": "MI",
@@ -277,6 +277,15 @@
     {
       "state": "MI",
       "office": "State House",
+      "district": "District 68",
+      "candidate": "Deanna Martin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
       "district": "District 78",
       "candidate": "Rachel Gross",
       "party": "Democrat",
@@ -334,6 +343,15 @@
       "district": "District 97",
       "candidate": "Jack Bader",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 97",
+      "candidate": "Mark Piotrowski",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

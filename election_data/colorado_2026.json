@@ -2,23 +2,23 @@
   "state": "CO",
   "state_name": "Colorado",
   "year": 2026,
-  "total": 81,
+  "total": 80,
   "total_races": 93,
   "total_races_by_party": {
+    "Unknown": 6,
     "Republican": 51,
     "Democrat": 77,
-    "Unknown": 6,
     "Libertarian": 1,
-    "No Labels": 1,
     "American Constitution": 1,
+    "No Labels": 1,
     "Other": 5
   },
   "general": {
     "total_races": 89,
-    "total_unopposed": 6,
+    "total_unopposed": 5,
     "unopposed_by_party": {
       "Unknown": 1,
-      "Other": 5
+      "Other": 4
     }
   },
   "primary": {
@@ -32,7 +32,7 @@
       "Democrat": 42
     }
   },
-  "scraped_at": "2026-02-26T04:40:46.324861+00:00",
+  "scraped_at": "2026-02-27T04:39:12.813462+00:00",
   "unopposed_candidates": [
     {
       "state": "CO",
@@ -741,15 +741,6 @@
       "office": "State House",
       "district": "District 3",
       "candidate": "Davon Williams",
-      "party": "Other",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CO",
-      "office": "State House",
-      "district": "District 36",
-      "candidate": "Eric Mulder",
       "party": "Other",
       "unopposed_in": "General",
       "source": "Ballotpedia"

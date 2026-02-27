@@ -2,34 +2,34 @@
   "state": "ID",
   "state_name": "Idaho",
   "year": 2026,
-  "total": 109,
+  "total": 111,
   "total_races": 109,
   "total_races_by_party": {
-    "Unknown": 4,
+    "Democrat": 48,
     "Republican": 101,
-    "Democrat": 46,
-    "Other": 12
+    "Unknown": 4,
+    "Other": 13
   },
   "general": {
     "total_races": 109,
-    "total_unopposed": 12,
+    "total_unopposed": 13,
     "unopposed_by_party": {
       "Unknown": 2,
-      "Other": 12
+      "Other": 13
     }
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 46,
+      "Democrat": 48,
       "Republican": 101
     },
-    "total_unopposed": 78,
+    "total_unopposed": 79,
     "unopposed_by_party": {
-      "Democrat": 37,
+      "Democrat": 38,
       "Republican": 58
     }
   },
-  "scraped_at": "2026-02-26T04:42:25.076427+00:00",
+  "scraped_at": "2026-02-27T04:41:00.962619+00:00",
   "unopposed_candidates": [
     {
       "state": "ID",
@@ -65,15 +65,6 @@
       "candidate": "Tripp Hutchinson",
       "party": "Unknown",
       "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ID",
-      "office": "US House",
-      "district": "District 2",
-      "candidate": "Julie Wiley",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -385,6 +376,15 @@
     {
       "state": "ID",
       "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Steven Johnson",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "State Senate",
       "district": "District 17",
       "candidate": "Blaise Larrabee",
       "party": "Other",
@@ -577,6 +577,15 @@
       "district": "District 10",
       "candidate": "Bruce Skaug",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Marissa Wilson",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -901,6 +910,15 @@
       "district": "District 31",
       "candidate": "Jerald Raymond",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Kamber Anne Weninger",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

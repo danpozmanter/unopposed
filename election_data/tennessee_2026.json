@@ -2,13 +2,13 @@
   "state": "TN",
   "state_name": "Tennessee",
   "year": 2026,
-  "total": 129,
+  "total": 128,
   "total_races": 127,
   "total_races_by_party": {
-    "Unknown": 6,
     "Democrat": 44,
-    "Federalist": 1,
-    "Republican": 100
+    "Republican": 100,
+    "Unknown": 6,
+    "Federalist": 1
   },
   "general": {
     "total_races": 122,
@@ -22,13 +22,13 @@
       "Democrat": 44,
       "Republican": 100
     },
-    "total_unopposed": 127,
+    "total_unopposed": 126,
     "unopposed_by_party": {
-      "Democrat": 40,
+      "Democrat": 39,
       "Republican": 87
     }
   },
-  "scraped_at": "2026-02-26T04:50:50.224722+00:00",
+  "scraped_at": "2026-02-27T04:49:41.941416+00:00",
   "unopposed_candidates": [
     {
       "state": "TN",
@@ -99,15 +99,6 @@
       "district": "District 3",
       "candidate": "Charles J. Fleischmann",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TN",
-      "office": "US House",
-      "district": "District 4",
-      "candidate": "Victoria Broderick",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

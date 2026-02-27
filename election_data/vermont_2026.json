@@ -6,45 +6,37 @@
   "total_races": 126,
   "total_races_by_party": {
     "Republican": 24,
-    "Democrat": 27,
-    "Other": 5
+    "Democrat": 26,
+    "Other": 6
   },
   "general": {
     "total_races": 125,
-    "total_unopposed": 5,
+    "total_unopposed": 7,
     "unopposed_by_party": {
-      "Other": 5
+      "Republican": 1,
+      "Other": 6
     }
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 27,
-      "Republican": 24
+      "Republican": 24,
+      "Democrat": 26
     },
-    "total_unopposed": 41,
+    "total_unopposed": 40,
     "unopposed_by_party": {
-      "Democrat": 19,
-      "Republican": 22
+      "Republican": 22,
+      "Democrat": 18
     }
   },
-  "scraped_at": "2026-02-26T04:51:39.274022+00:00",
+  "scraped_at": "2026-02-27T04:50:27.110255+00:00",
   "unopposed_candidates": [
-    {
-      "state": "VT",
-      "office": "Governor",
-      "district": "Statewide",
-      "candidate": "Esther Charlestin",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
     {
       "state": "VT",
       "office": "Governor",
       "district": "Statewide",
       "candidate": "Phil Scott",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -124,6 +116,15 @@
       "office": "State Senate",
       "district": "Chittenden Central District(3 seats)",
       "candidate": "Tanya Vyhovsky",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State Senate",
+      "district": "Rutland District(3 seats)",
+      "candidate": "David Wolk",
       "party": "Other",
       "unopposed_in": "General",
       "source": "Ballotpedia"

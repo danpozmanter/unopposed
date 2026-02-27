@@ -2,37 +2,37 @@
   "state": "WA",
   "state_name": "Washington",
   "year": 2026,
-  "total": 114,
+  "total": 115,
   "total_races": 132,
   "total_races_by_party": {
     "Democrat": 85,
-    "Republican": 51,
+    "Republican": 52,
     "Unknown": 5,
     "Other": 1
   },
   "general": {
     "total_races": 122,
-    "total_unopposed": 2,
+    "total_unopposed": 1,
     "unopposed_by_party": {
-      "Democrat": 2
+      "Democrat": 1
     }
   },
   "primary": {
     "total_races_by_party": {
       "Democrat": 85,
-      "Republican": 51,
+      "Republican": 52,
       "Unknown": 5,
       "Other": 1
     },
-    "total_unopposed": 80,
+    "total_unopposed": 81,
     "unopposed_by_party": {
       "Democrat": 68,
       "Unknown": 2,
-      "Republican": 43,
+      "Republican": 44,
       "Other": 1
     }
   },
-  "scraped_at": "2026-02-26T04:52:09.177505+00:00",
+  "scraped_at": "2026-02-27T04:50:57.493205+00:00",
   "unopposed_candidates": [
     {
       "state": "WA",
@@ -58,7 +58,16 @@
       "district": "District 6",
       "candidate": "Emily Randall",
       "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "US House",
+      "district": "District 6",
+      "candidate": "Teresa Fox",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {

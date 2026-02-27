@@ -2,13 +2,13 @@
   "state": "OH",
   "state_name": "Ohio",
   "year": 2026,
-  "total": 185,
+  "total": 189,
   "total_races": 131,
   "total_races_by_party": {
     "Unknown": 8,
-    "Republican": 118,
-    "Democrat": 122,
-    "Other": 12
+    "Democrat": 124,
+    "Republican": 119,
+    "Other": 13
   },
   "general": {
     "total_races": 120,
@@ -19,20 +19,20 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 122,
-      "Republican": 118,
-      "Unknown": 5,
-      "Other": 12
+      "Democrat": 124,
+      "Republican": 119,
+      "Unknown": 6,
+      "Other": 13
     },
-    "total_unopposed": 181,
+    "total_unopposed": 185,
     "unopposed_by_party": {
-      "Unknown": 3,
-      "Republican": 86,
-      "Democrat": 80,
-      "Other": 12
+      "Unknown": 4,
+      "Republican": 87,
+      "Democrat": 81,
+      "Other": 13
     }
   },
-  "scraped_at": "2026-02-26T04:48:30.022677+00:00",
+  "scraped_at": "2026-02-27T04:47:26.244413+00:00",
   "unopposed_candidates": [
     {
       "state": "OH",
@@ -85,6 +85,15 @@
       "district": "District 5",
       "candidate": "Bob Latta",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "US House",
+      "district": "District 5",
+      "candidate": "Michael Veloff",
+      "party": "Unknown",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -795,6 +804,24 @@
       "office": "State House",
       "district": "District 31",
       "candidate": "J. Noah Spinner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "Julie Miller",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Djordjije Popovic",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -1516,6 +1543,15 @@
       "district": "District 82",
       "candidate": "Christopher Elder",
       "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 85",
+      "candidate": "Tim Barhorst",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

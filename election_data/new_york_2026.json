@@ -2,12 +2,12 @@
   "state": "NY",
   "state_name": "New York",
   "year": 2026,
-  "total": 46,
+  "total": 48,
   "total_races": 240,
   "total_races_by_party": {
-    "Republican": 29,
-    "Democrat": 42,
     "Unknown": 9,
+    "Democrat": 43,
+    "Republican": 30,
     "Conservative": 1,
     "American Independent": 1
   },
@@ -21,16 +21,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 42,
-      "Republican": 29
+      "Democrat": 43,
+      "Republican": 30
     },
-    "total_unopposed": 41,
+    "total_unopposed": 43,
     "unopposed_by_party": {
-      "Republican": 19,
-      "Democrat": 22
+      "Republican": 20,
+      "Democrat": 23
     }
   },
-  "scraped_at": "2026-02-26T04:47:46.278778+00:00",
+  "scraped_at": "2026-02-27T04:46:28.107761+00:00",
   "unopposed_candidates": [
     {
       "state": "NY",
@@ -314,6 +314,15 @@
     {
       "state": "NY",
       "office": "State Senate",
+      "district": "District 49",
+      "candidate": "Cassie Robbins-Forbus",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "State Senate",
       "district": "District 50",
       "candidate": "Christopher Ryan",
       "party": "Democrat",
@@ -407,6 +416,15 @@
       "district": "District 119",
       "candidate": "John Lipe",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "State House",
+      "district": "District 123",
+      "candidate": "Lynn Parker",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
