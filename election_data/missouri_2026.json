@@ -2,11 +2,11 @@
   "state": "MO",
   "state_name": "Missouri",
   "year": 2026,
-  "total": 136,
+  "total": 137,
   "total_races": 188,
   "total_races_by_party": {
     "Democrat": 82,
-    "Republican": 110,
+    "Republican": 111,
     "Unknown": 1,
     "Other": 1
   },
@@ -21,15 +21,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 82,
-      "Republican": 110
+      "Republican": 111
     },
-    "total_unopposed": 134,
+    "total_unopposed": 135,
     "unopposed_by_party": {
-      "Republican": 67,
+      "Republican": 68,
       "Democrat": 67
     }
   },
-  "scraped_at": "2026-02-27T04:44:28.599030+00:00",
+  "scraped_at": "2026-02-28T04:36:34.108656+00:00",
   "unopposed_candidates": [
     {
       "state": "MO",
@@ -927,6 +927,15 @@
       "office": "State House",
       "district": "District 115",
       "candidate": "Bill Lucas",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 116",
+      "candidate": "Jason Green",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

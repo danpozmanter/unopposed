@@ -2,41 +2,46 @@
   "state": "ID",
   "state_name": "Idaho",
   "year": 2026,
-  "total": 111,
+  "total": 110,
   "total_races": 109,
   "total_races_by_party": {
+    "Libertarian": 1,
     "Democrat": 48,
-    "Republican": 101,
     "Unknown": 4,
+    "Republican": 101,
     "Other": 13
   },
   "general": {
     "total_races": 109,
-    "total_unopposed": 13,
+    "total_unopposed": 12,
     "unopposed_by_party": {
-      "Unknown": 2,
+      "Unknown": 1,
       "Other": 13
     }
   },
   "primary": {
     "total_races_by_party": {
       "Democrat": 48,
-      "Republican": 101
+      "Republican": 101,
+      "Libertarian": 1,
+      "Unknown": 2
     },
     "total_unopposed": 79,
     "unopposed_by_party": {
-      "Democrat": 38,
-      "Republican": 58
+      "Libertarian": 1,
+      "Unknown": 1,
+      "Republican": 57,
+      "Democrat": 37
     }
   },
-  "scraped_at": "2026-02-27T04:41:00.962619+00:00",
+  "scraped_at": "2026-02-28T04:32:55.396923+00:00",
   "unopposed_candidates": [
     {
       "state": "ID",
       "office": "US Senate",
       "district": "Statewide",
-      "candidate": "David Roth",
-      "party": "Democrat",
+      "candidate": "Matt Loesby",
+      "party": "Libertarian",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -53,18 +58,9 @@
       "state": "ID",
       "office": "US House",
       "district": "District 1",
-      "candidate": "Russ Fulcher",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ID",
-      "office": "US House",
-      "district": "District 2",
-      "candidate": "Tripp Hutchinson",
+      "candidate": "Brendan Gomez",
       "party": "Unknown",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {

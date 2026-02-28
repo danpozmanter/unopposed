@@ -2,7 +2,7 @@
   "state": "MN",
   "state_name": "Minnesota",
   "year": 2026,
-  "total": 79,
+  "total": 78,
   "total_races": 210,
   "total_races_by_party": {
     "Republican": 48,
@@ -21,13 +21,13 @@
       "Democrat": 51,
       "Republican": 48
     },
-    "total_unopposed": 68,
+    "total_unopposed": 67,
     "unopposed_by_party": {
-      "Democrat": 38,
+      "Democrat": 37,
       "Republican": 37
     }
   },
-  "scraped_at": "2026-02-27T04:44:01.474621+00:00",
+  "scraped_at": "2026-02-28T04:35:57.868189+00:00",
   "unopposed_candidates": [
     {
       "state": "MN",
@@ -358,15 +358,6 @@
       "office": "State Senate",
       "district": "District 25",
       "candidate": "Liz Boldon",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MN",
-      "office": "State Senate",
-      "district": "District 26",
-      "candidate": "Michael Todd",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

@@ -2,13 +2,13 @@
   "state": "MA",
   "state_name": "Massachusetts",
   "year": 2026,
-  "total": 61,
+  "total": 60,
   "total_races": 211,
   "total_races_by_party": {
     "Republican": 16,
-    "American Independent": 1,
-    "Unknown": 6,
     "Democrat": 58,
+    "Unknown": 6,
+    "American Independent": 1,
     "Other": 1
   },
   "general": {
@@ -25,13 +25,13 @@
       "Democrat": 58,
       "Republican": 16
     },
-    "total_unopposed": 55,
+    "total_unopposed": 54,
     "unopposed_by_party": {
-      "Democrat": 44,
+      "Democrat": 43,
       "Republican": 11
     }
   },
-  "scraped_at": "2026-02-27T04:43:25.394003+00:00",
+  "scraped_at": "2026-02-28T04:35:26.358713+00:00",
   "unopposed_candidates": [
     {
       "state": "MA",
@@ -272,15 +272,6 @@
       "office": "State Senate",
       "district": "4th Middlesex District",
       "candidate": "Cindy Friedman",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MA",
-      "office": "State Senate",
-      "district": "5th Middlesex District",
-      "candidate": "Jason Lewis",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

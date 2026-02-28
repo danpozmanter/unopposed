@@ -2,11 +2,11 @@
   "state": "UT",
   "state_name": "Utah",
   "year": 2026,
-  "total": 148,
+  "total": 147,
   "total_races": 94,
   "total_races_by_party": {
-    "Republican": 132,
     "Democrat": 113,
+    "Republican": 132,
     "Unknown": 3,
     "Other": 23
   },
@@ -23,14 +23,14 @@
       "Republican": 132,
       "Other": 23
     },
-    "total_unopposed": 145,
+    "total_unopposed": 144,
     "unopposed_by_party": {
       "Republican": 67,
-      "Democrat": 58,
+      "Democrat": 57,
       "Other": 20
     }
   },
-  "scraped_at": "2026-02-27T04:50:06.365666+00:00",
+  "scraped_at": "2026-02-28T04:42:29.617701+00:00",
   "unopposed_candidates": [
     {
       "state": "UT",
@@ -1208,15 +1208,6 @@
       "district": "District 22",
       "candidate": "Char Varga",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "UT",
-      "office": "State House",
-      "district": "District 23",
-      "candidate": "Hoang Nguyen",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

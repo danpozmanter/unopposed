@@ -2,12 +2,12 @@
   "state": "WA",
   "state_name": "Washington",
   "year": 2026,
-  "total": 115,
+  "total": 116,
   "total_races": 132,
   "total_races_by_party": {
     "Democrat": 85,
-    "Republican": 52,
     "Unknown": 5,
+    "Republican": 53,
     "Other": 1
   },
   "general": {
@@ -20,19 +20,19 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 85,
-      "Republican": 52,
+      "Republican": 53,
       "Unknown": 5,
       "Other": 1
     },
-    "total_unopposed": 81,
+    "total_unopposed": 82,
     "unopposed_by_party": {
       "Democrat": 68,
       "Unknown": 2,
-      "Republican": 44,
+      "Republican": 45,
       "Other": 1
     }
   },
-  "scraped_at": "2026-02-27T04:50:57.493205+00:00",
+  "scraped_at": "2026-02-28T04:43:23.071786+00:00",
   "unopposed_candidates": [
     {
       "state": "WA",
@@ -193,6 +193,15 @@
       "district": "District 38",
       "candidate": "June Robinson",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 42",
+      "candidate": "Erika Creydt",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

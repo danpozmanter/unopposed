@@ -2,12 +2,12 @@
   "state": "MD",
   "state_name": "Maryland",
   "year": 2026,
-  "total": 65,
+  "total": 95,
   "total_races": 126,
   "total_races_by_party": {
-    "Republican": 39,
+    "Democrat": 120,
+    "Republican": 80,
     "Unknown": 2,
-    "Democrat": 63,
     "Green/Rainbow": 2
   },
   "general": {
@@ -20,16 +20,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 63,
-      "Republican": 39
+      "Democrat": 120,
+      "Republican": 80
     },
-    "total_unopposed": 61,
+    "total_unopposed": 81,
     "unopposed_by_party": {
-      "Republican": 28,
-      "Democrat": 34
+      "Republican": 49,
+      "Democrat": 43
     }
   },
-  "scraped_at": "2026-02-27T04:43:08.465626+00:00",
+  "scraped_at": "2026-02-28T04:35:06.640777+00:00",
   "unopposed_candidates": [
     {
       "state": "MD",
@@ -529,8 +529,8 @@
     {
       "state": "MD",
       "office": "State House",
-      "district": "District 4",
-      "candidate": "Alleria Stanley",
+      "district": "District 1",
+      "candidate": "Jason Jobe",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -538,8 +538,62 @@
     {
       "state": "MD",
       "office": "State House",
-      "district": "District 9",
-      "candidate": "Fitzgerald Mofor",
+      "district": "District 1",
+      "candidate": "Jason C. Buckel",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Terry Baker",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Sean Flaherty",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Ashley Nieves",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Candace Hart",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Lauren Arikan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "John Gordon",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -548,17 +602,71 @@
       "state": "MD",
       "office": "State House",
       "district": "District 12",
-      "candidate": "John Handley",
-      "party": "Democrat",
+      "candidate": "Frank Glover",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
       "state": "MD",
       "office": "State House",
-      "district": "District 18",
-      "candidate": "Aaron Kaufman",
-      "party": "Democrat",
+      "district": "District 12",
+      "candidate": "Blair Brannock",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Mark Fisher",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Peter Chan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Ann Guthrie Hingston",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Jim Crawford",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Dan Thomas",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Mark Fisher",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -592,8 +700,17 @@
     {
       "state": "MD",
       "office": "State House",
-      "district": "District 34",
-      "candidate": "Terrence Rogers",
+      "district": "District 30",
+      "candidate": "Seth Howard",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Chuck Cook",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -601,9 +718,144 @@
     {
       "state": "MD",
       "office": "State House",
-      "district": "District 40",
-      "candidate": "Crystal Jackson Parker",
+      "district": "District 33",
+      "candidate": "Stuart Schmidt Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Heather Bagnall",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "Blessing Oluwadare",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Sheree Sample-Hughes",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Shelley Johnson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Josh Hastings",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Barry Beauchamp",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Wayne Hartman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 42",
+      "candidate": "Jyoti Mohan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 42",
+      "candidate": "Michele Guyton",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 42",
+      "candidate": "Corynne Courpas",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 42",
+      "candidate": "Steve Patten",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Cathi Forbes",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Eric Ebersole",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Chuck Linton",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Domonic Martin",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -613,6 +865,24 @@
       "district": "District 46",
       "candidate": "Jeremy Amason",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "Fred Price Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "Deni Taveras",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     }

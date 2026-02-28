@@ -2,11 +2,11 @@
   "state": "OR",
   "state_name": "Oregon",
   "year": 2026,
-  "total": 47,
+  "total": 49,
   "total_races": 83,
   "total_races_by_party": {
-    "Democrat": 40,
-    "Republican": 31,
+    "Democrat": 41,
+    "Republican": 32,
     "Libertarian": 1,
     "Unknown": 2,
     "Independent": 1,
@@ -24,16 +24,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 40,
-      "Republican": 31
+      "Democrat": 41,
+      "Republican": 32
     },
-    "total_unopposed": 43,
+    "total_unopposed": 45,
     "unopposed_by_party": {
-      "Democrat": 29,
-      "Republican": 14
+      "Democrat": 30,
+      "Republican": 15
     }
   },
-  "scraped_at": "2026-02-27T04:48:04.923006+00:00",
+  "scraped_at": "2026-02-28T04:40:19.671900+00:00",
   "unopposed_candidates": [
     {
       "state": "OR",
@@ -155,6 +155,15 @@
     {
       "state": "OR",
       "office": "State Senate",
+      "district": "District 15",
+      "candidate": "Mike Niehuser",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State Senate",
       "district": "District 16",
       "candidate": "Rachel Armitage",
       "party": "Democrat",
@@ -193,6 +202,15 @@
       "office": "State House",
       "district": "District 1",
       "candidate": "Bret Cecil",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Brandon Polanco",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
