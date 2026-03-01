@@ -2,10 +2,10 @@
   "state": "GA",
   "state_name": "Georgia",
   "year": 2026,
-  "total": 159,
+  "total": 160,
   "total_races": 252,
   "total_races_by_party": {
-    "Republican": 109,
+    "Republican": 110,
     "Unknown": 5,
     "Democrat": 90,
     "Socialist Labor": 1,
@@ -23,15 +23,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 90,
-      "Republican": 109
+      "Republican": 110
     },
-    "total_unopposed": 153,
+    "total_unopposed": 154,
     "unopposed_by_party": {
-      "Republican": 88,
+      "Republican": 89,
       "Democrat": 65
     }
   },
-  "scraped_at": "2026-02-28T04:32:24.208731+00:00",
+  "scraped_at": "2026-03-01T04:45:25.578867+00:00",
   "unopposed_candidates": [
     {
       "state": "GA",
@@ -786,6 +786,15 @@
       "district": "District 53",
       "candidate": "Beth Fuller",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Deborah Silcox",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

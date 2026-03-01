@@ -2,12 +2,12 @@
   "state": "MI",
   "state_name": "Michigan",
   "year": 2026,
-  "total": 40,
+  "total": 41,
   "total_races": 163,
   "total_races_by_party": {
-    "Unknown": 5,
-    "Republican": 27,
     "Democrat": 39,
+    "Republican": 28,
+    "Unknown": 5,
     "Other": 1
   },
   "general": {
@@ -21,15 +21,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 39,
-      "Republican": 27
+      "Republican": 28
     },
-    "total_unopposed": 36,
+    "total_unopposed": 37,
     "unopposed_by_party": {
-      "Republican": 16,
+      "Republican": 17,
       "Democrat": 20
     }
   },
-  "scraped_at": "2026-02-28T04:35:43.742106+00:00",
+  "scraped_at": "2026-03-01T04:48:52.521409+00:00",
   "unopposed_candidates": [
     {
       "state": "MI",
@@ -162,6 +162,15 @@
       "office": "State Senate",
       "district": "District 23",
       "candidate": "Donni Steele",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 24",
+      "candidate": "Douglas Wozniak",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

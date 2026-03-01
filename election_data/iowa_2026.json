@@ -5,8 +5,8 @@
   "total": 42,
   "total_races": 131,
   "total_races_by_party": {
-    "Republican": 28,
     "Democrat": 25,
+    "Republican": 28,
     "Unknown": 2
   },
   "general": {
@@ -27,7 +27,7 @@
       "Democrat": 18
     }
   },
-  "scraped_at": "2026-02-28T04:33:42.567247+00:00",
+  "scraped_at": "2026-03-01T04:46:56.672628+00:00",
   "unopposed_candidates": [
     {
       "state": "IA",
