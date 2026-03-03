@@ -2,12 +2,12 @@
   "state": "GA",
   "state_name": "Georgia",
   "year": 2026,
-  "total": 160,
+  "total": 163,
   "total_races": 252,
   "total_races_by_party": {
-    "Republican": 110,
-    "Democrat": 90,
     "Unknown": 5,
+    "Republican": 110,
+    "Democrat": 94,
     "Socialist Labor": 1,
     "Communist": 1
   },
@@ -22,16 +22,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 90,
+      "Democrat": 94,
       "Republican": 110
     },
-    "total_unopposed": 154,
+    "total_unopposed": 157,
     "unopposed_by_party": {
-      "Republican": 89,
-      "Democrat": 65
+      "Republican": 88,
+      "Democrat": 69
     }
   },
-  "scraped_at": "2026-03-02T04:41:53.224440+00:00",
+  "scraped_at": "2026-03-03T04:40:52.407327+00:00",
   "unopposed_candidates": [
     {
       "state": "GA",
@@ -85,15 +85,6 @@
       "candidate": "Roman Coley Davis",
       "party": "Unknown",
       "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "GA",
-      "office": "US House",
-      "district": "District 10",
-      "candidate": "Houston Gaines",
-      "party": "Republican",
-      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -334,6 +325,15 @@
       "state": "GA",
       "office": "State Senate",
       "district": "District 32",
+      "candidate": "Michael Hettig",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State Senate",
+      "district": "District 32",
       "candidate": "Kay  Kirkpatrick",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -507,6 +507,15 @@
       "district": "District 5",
       "candidate": "Matt Barton",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Derrian Smith",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -1180,6 +1189,15 @@
       "state": "GA",
       "office": "State House",
       "district": "District 127",
+      "candidate": "Channing Taylor",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State House",
+      "district": "District 127",
       "candidate": "Mark Newton",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -1388,6 +1406,15 @@
       "office": "State House",
       "district": "District 165",
       "candidate": "Jay Morris",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State House",
+      "district": "District 167",
+      "candidate": "Laurie Thompson",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

@@ -2,12 +2,12 @@
   "state": "PA",
   "state_name": "Pennsylvania",
   "year": 2026,
-  "total": 28,
+  "total": 29,
   "total_races": 246,
   "total_races_by_party": {
-    "Democrat": 20,
-    "Republican": 22,
-    "Unknown": 5
+    "Republican": 23,
+    "Unknown": 5,
+    "Democrat": 20
   },
   "general": {
     "total_races": 233,
@@ -19,15 +19,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 20,
-      "Republican": 22
+      "Republican": 23
     },
-    "total_unopposed": 24,
+    "total_unopposed": 25,
     "unopposed_by_party": {
-      "Republican": 16,
+      "Republican": 17,
       "Democrat": 8
     }
   },
-  "scraped_at": "2026-03-02T04:49:58.138219+00:00",
+  "scraped_at": "2026-03-03T04:48:40.734984+00:00",
   "unopposed_candidates": [
     {
       "state": "PA",
@@ -223,6 +223,15 @@
       "office": "Governor",
       "district": "Statewide",
       "candidate": "Stacy Garrity",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Scott Janney",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

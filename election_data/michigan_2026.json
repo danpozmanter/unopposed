@@ -5,7 +5,7 @@
   "total": 41,
   "total_races": 163,
   "total_races_by_party": {
-    "Democrat": 39,
+    "Democrat": 40,
     "Unknown": 5,
     "Republican": 28,
     "Other": 1
@@ -20,16 +20,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 39,
+      "Democrat": 40,
       "Republican": 28
     },
     "total_unopposed": 37,
     "unopposed_by_party": {
-      "Republican": 17,
-      "Democrat": 20
+      "Republican": 16,
+      "Democrat": 21
     }
   },
-  "scraped_at": "2026-03-02T04:45:23.239605+00:00",
+  "scraped_at": "2026-03-03T04:44:14.324187+00:00",
   "unopposed_candidates": [
     {
       "state": "MI",
@@ -223,6 +223,15 @@
     {
       "state": "MI",
       "office": "State House",
+      "district": "District 10",
+      "candidate": "Andrew Cyburt",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
       "district": "District 37",
       "candidate": "Gerik Nasstrom",
       "party": "Democrat",
@@ -352,15 +361,6 @@
       "district": "District 97",
       "candidate": "Jack Bader",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MI",
-      "office": "State House",
-      "district": "District 97",
-      "candidate": "Mark Piotrowski",
-      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

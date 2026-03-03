@@ -2,13 +2,13 @@
   "state": "TN",
   "state_name": "Tennessee",
   "year": 2026,
-  "total": 128,
+  "total": 127,
   "total_races": 127,
   "total_races_by_party": {
     "Republican": 100,
-    "Democrat": 44,
+    "Unknown": 6,
     "Federalist": 1,
-    "Unknown": 6
+    "Democrat": 44
   },
   "general": {
     "total_races": 122,
@@ -22,13 +22,13 @@
       "Democrat": 44,
       "Republican": 100
     },
-    "total_unopposed": 126,
+    "total_unopposed": 125,
     "unopposed_by_party": {
-      "Democrat": 39,
+      "Democrat": 38,
       "Republican": 87
     }
   },
-  "scraped_at": "2026-03-02T04:51:11.584224+00:00",
+  "scraped_at": "2026-03-03T04:49:53.940686+00:00",
   "unopposed_candidates": [
     {
       "state": "TN",
@@ -1035,15 +1035,6 @@
       "district": "District 83",
       "candidate": "Mark White",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TN",
-      "office": "State House",
-      "district": "District 84",
-      "candidate": "Joe Towns Jr.",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
