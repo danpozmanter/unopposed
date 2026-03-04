@@ -2,7 +2,7 @@
   "state": "CT",
   "state_name": "Connecticut",
   "year": 2026,
-  "total": 14,
+  "total": 13,
   "total_races": 193,
   "total_races_by_party": {
     "Republican": 12,
@@ -21,13 +21,13 @@
       "Democrat": 12,
       "Republican": 12
     },
-    "total_unopposed": 13,
+    "total_unopposed": 12,
     "unopposed_by_party": {
-      "Republican": 8,
+      "Republican": 7,
       "Democrat": 5
     }
   },
-  "scraped_at": "2026-03-03T04:39:55.346492+00:00",
+  "scraped_at": "2026-03-04T04:38:37.333155+00:00",
   "unopposed_candidates": [
     {
       "state": "CT",
@@ -53,15 +53,6 @@
       "district": "District 4",
       "candidate": "Jim Himes",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CT",
-      "office": "US House",
-      "district": "District 4",
-      "candidate": "Michael Goldstein",
-      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

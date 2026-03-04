@@ -2,32 +2,32 @@
   "state": "AL",
   "state_name": "Alabama",
   "year": 2026,
-  "total": 149,
+  "total": 150,
   "total_races": 149,
   "total_races_by_party": {
-    "Democrat": 121,
-    "Republican": 193
+    "Republican": 212,
+    "Democrat": 144
   },
   "general": {
-    "total_races": 140,
-    "total_unopposed": 71,
+    "total_races": 146,
+    "total_unopposed": 97,
     "unopposed_by_party": {
-      "Republican": 51,
-      "Democrat": 20
+      "Democrat": 34,
+      "Republican": 63
     }
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 84,
-      "Republican": 125
+      "Democrat": 83,
+      "Republican": 124
     },
     "total_unopposed": 147,
     "unopposed_by_party": {
-      "Democrat": 61,
-      "Republican": 86
+      "Democrat": 60,
+      "Republican": 87
     }
   },
-  "scraped_at": "2026-03-03T04:38:22.966460+00:00",
+  "scraped_at": "2026-03-04T04:37:04.108232+00:00",
   "unopposed_candidates": [
     {
       "state": "AL",
@@ -35,7 +35,7 @@
       "district": "District 1",
       "candidate": "Clyde Jones",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -50,10 +50,28 @@
     {
       "state": "AL",
       "office": "US House",
+      "district": "District 2",
+      "candidate": "Hampton Harris",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "US House",
       "district": "District 3",
       "candidate": "Lee McInnis",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "US House",
+      "district": "District 5",
+      "candidate": "Dale Strong",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -62,7 +80,7 @@
       "district": "District 6",
       "candidate": "Keith Pilkington",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -71,7 +89,7 @@
       "district": "District 7",
       "candidate": "Terri Sewell",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -80,7 +98,7 @@
       "district": "District 1",
       "candidate": "Tim Melson",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -107,7 +125,7 @@
       "district": "District 5",
       "candidate": "Matt Woods",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -170,7 +188,7 @@
       "district": "District 9",
       "candidate": "Wes Kitchens",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -197,7 +215,7 @@
       "district": "District 12",
       "candidate": "Keith Kelley",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -206,7 +224,7 @@
       "district": "District 13",
       "candidate": "Jamie Forsyth",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -233,7 +251,7 @@
       "district": "District 16",
       "candidate": "Spencer Stone",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -242,7 +260,7 @@
       "district": "District 17",
       "candidate": "Shay Shelnutt",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -251,7 +269,7 @@
       "district": "District 18",
       "candidate": "Rodger Smitherman",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -260,7 +278,7 @@
       "district": "District 19",
       "candidate": "Merika Coleman",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -269,16 +287,7 @@
       "district": "District 20",
       "candidate": "Linda Coleman-Madison",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AL",
-      "office": "State Senate",
-      "district": "District 21",
-      "candidate": "Jodie Minor",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -287,7 +296,7 @@
       "district": "District 21",
       "candidate": "Gerald Allen",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -296,7 +305,7 @@
       "district": "District 22",
       "candidate": "Ashley Sharpe",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -323,16 +332,7 @@
       "district": "District 24",
       "candidate": "Bobby Singleton",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AL",
-      "office": "State Senate",
-      "district": "District 24",
-      "candidate": "Richard Benderson",
-      "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -341,7 +341,7 @@
       "district": "District 25",
       "candidate": "Russell Taylor",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -386,7 +386,7 @@
       "district": "District 29",
       "candidate": "Jimmy McCray",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -395,7 +395,7 @@
       "district": "District 30",
       "candidate": "Clyde Chambliss Jr.",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -404,7 +404,7 @@
       "district": "District 31",
       "candidate": "Josh Carnley",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -413,7 +413,7 @@
       "district": "District 32",
       "candidate": "Janet Appleby",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -422,7 +422,7 @@
       "district": "District 33",
       "candidate": "Vivian Figures",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -431,7 +431,16 @@
       "district": "District 35",
       "candidate": "David Sessions",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AL",
+      "office": "State Senate",
+      "district": "District 2",
+      "candidate": "John Roberts",
+      "party": "Republican",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {

@@ -2,10 +2,10 @@
   "state": "WA",
   "state_name": "Washington",
   "year": 2026,
-  "total": 116,
+  "total": 118,
   "total_races": 132,
   "total_races_by_party": {
-    "Democrat": 85,
+    "Democrat": 88,
     "Unknown": 5,
     "Republican": 53,
     "Other": 1
@@ -19,20 +19,20 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 85,
+      "Democrat": 88,
       "Republican": 53,
       "Unknown": 5,
       "Other": 1
     },
-    "total_unopposed": 82,
+    "total_unopposed": 83,
     "unopposed_by_party": {
-      "Democrat": 68,
+      "Democrat": 70,
       "Unknown": 2,
       "Republican": 45,
       "Other": 1
     }
   },
-  "scraped_at": "2026-03-03T04:51:13.608975+00:00",
+  "scraped_at": "2026-03-04T04:49:38.272293+00:00",
   "unopposed_candidates": [
     {
       "state": "WA",
@@ -892,15 +892,6 @@
     {
       "state": "WA",
       "office": "State House",
-      "district": "District 37",
-      "candidate": "Chipalo Street",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WA",
-      "office": "State House",
       "district": "District 38",
       "candidate": "Julio Cortes",
       "party": "Democrat",
@@ -948,6 +939,15 @@
       "office": "State House",
       "district": "District 40",
       "candidate": "Alex Ramel",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Janice Zahn",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -1019,6 +1019,15 @@
       "state": "WA",
       "office": "State House",
       "district": "District 45",
+      "candidate": "Roger Goodman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 45",
       "candidate": "Larry Springer",
       "party": "Democrat",
       "unopposed_in": "Primary",
@@ -1066,6 +1075,15 @@
       "district": "District 47",
       "candidate": "Ted Cooke",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Osman Salahuddin",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

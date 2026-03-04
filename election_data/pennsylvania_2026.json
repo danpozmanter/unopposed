@@ -2,12 +2,12 @@
   "state": "PA",
   "state_name": "Pennsylvania",
   "year": 2026,
-  "total": 29,
+  "total": 30,
   "total_races": 246,
   "total_races_by_party": {
     "Republican": 23,
     "Unknown": 5,
-    "Democrat": 20
+    "Democrat": 21
   },
   "general": {
     "total_races": 233,
@@ -18,16 +18,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 20,
+      "Democrat": 21,
       "Republican": 23
     },
-    "total_unopposed": 25,
+    "total_unopposed": 26,
     "unopposed_by_party": {
       "Republican": 17,
-      "Democrat": 8
+      "Democrat": 9
     }
   },
-  "scraped_at": "2026-03-03T04:48:40.734984+00:00",
+  "scraped_at": "2026-03-04T04:47:17.723060+00:00",
   "unopposed_candidates": [
     {
       "state": "PA",
@@ -242,6 +242,15 @@
       "district": "District 38",
       "candidate": "Thomas West",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Justin Byers",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

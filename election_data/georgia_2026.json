@@ -2,12 +2,12 @@
   "state": "GA",
   "state_name": "Georgia",
   "year": 2026,
-  "total": 163,
+  "total": 165,
   "total_races": 252,
   "total_races_by_party": {
     "Unknown": 5,
     "Republican": 110,
-    "Democrat": 94,
+    "Democrat": 97,
     "Socialist Labor": 1,
     "Communist": 1
   },
@@ -22,16 +22,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 94,
+      "Democrat": 97,
       "Republican": 110
     },
-    "total_unopposed": 157,
+    "total_unopposed": 159,
     "unopposed_by_party": {
       "Republican": 88,
-      "Democrat": 69
+      "Democrat": 71
     }
   },
-  "scraped_at": "2026-03-03T04:40:52.407327+00:00",
+  "scraped_at": "2026-03-04T04:39:26.641467+00:00",
   "unopposed_candidates": [
     {
       "state": "GA",
@@ -54,8 +54,8 @@
     {
       "state": "GA",
       "office": "US House",
-      "district": "District 2",
-      "candidate": "Chuck Hand",
+      "district": "District 3",
+      "candidate": "Brian Jack",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -138,6 +138,15 @@
       "district": "District 4",
       "candidate": "Billy Hickman",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State Senate",
+      "district": "District 5",
+      "candidate": "Robin McCoy",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -399,15 +408,6 @@
       "district": "District 45",
       "candidate": "Clint Dixon",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "GA",
-      "office": "State Senate",
-      "district": "District 46",
-      "candidate": "William Gaulden",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -777,6 +777,15 @@
       "district": "District 49",
       "candidate": "Charles Martin Jr.",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State House",
+      "district": "District 51",
+      "candidate": "Aaron Baker",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -1344,6 +1353,15 @@
       "district": "District 155",
       "candidate": "Matt Hatchett",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State House",
+      "district": "District 157",
+      "candidate": "Micah King",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

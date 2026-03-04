@@ -2,7 +2,7 @@
   "state": "OK",
   "state_name": "Oklahoma",
   "year": 2026,
-  "total": 47,
+  "total": 46,
   "total_races": 132,
   "total_races_by_party": {
     "Republican": 44,
@@ -23,13 +23,13 @@
       "Democrat": 24,
       "Republican": 44
     },
-    "total_unopposed": 44,
+    "total_unopposed": 43,
     "unopposed_by_party": {
-      "Republican": 27,
+      "Republican": 26,
       "Democrat": 17
     }
   },
-  "scraped_at": "2026-03-03T04:48:01.451039+00:00",
+  "scraped_at": "2026-03-04T04:46:42.679388+00:00",
   "unopposed_candidates": [
     {
       "state": "OK",
@@ -73,15 +73,6 @@
       "district": "District 3",
       "candidate": "Jules Roberson",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OK",
-      "office": "US House",
-      "district": "District 3",
-      "candidate": "Frank Lucas",
-      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

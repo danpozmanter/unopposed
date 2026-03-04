@@ -2,11 +2,11 @@
   "state": "CA",
   "state_name": "California",
   "year": 2026,
-  "total": 77,
+  "total": 75,
   "total_races": 153,
   "total_races_by_party": {
-    "Democrat": 74,
     "Republican": 54,
+    "Democrat": 74,
     "Unknown": 19,
     "Green/Rainbow": 1,
     "American Independent": 1,
@@ -28,17 +28,17 @@
       "American Independent": 1,
       "Libertarian": 1
     },
-    "total_unopposed": 77,
+    "total_unopposed": 75,
     "unopposed_by_party": {
       "Republican": 29,
       "Unknown": 13,
-      "Democrat": 32,
+      "Democrat": 30,
       "Green/Rainbow": 1,
       "American Independent": 1,
       "Libertarian": 1
     }
   },
-  "scraped_at": "2026-03-03T04:39:19.833217+00:00",
+  "scraped_at": "2026-03-04T04:38:04.897959+00:00",
   "unopposed_candidates": [
     {
       "state": "CA",
@@ -100,15 +100,6 @@
       "district": "District 11",
       "candidate": "David Ganezer",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CA",
-      "office": "US House",
-      "district": "District 12",
-      "candidate": "Lateefah Simon",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -567,15 +558,6 @@
       "office": "State Senate",
       "district": "District 14",
       "candidate": "Esmeralda Soria",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CA",
-      "office": "State Senate",
-      "district": "District 16",
-      "candidate": "Melissa Hurtado",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

@@ -2,21 +2,21 @@
   "state": "AZ",
   "state_name": "Arizona",
   "year": 2026,
-  "total": 29,
+  "total": 28,
   "total_races": 70,
   "total_races_by_party": {
-    "Democrat": 20,
-    "Republican": 17,
     "Unknown": 4,
-    "Green/Rainbow": 2,
+    "Green/Rainbow": 3,
+    "Republican": 17,
+    "Democrat": 20,
     "Arizona Independent": 1,
     "Other": 3
   },
   "general": {
     "total_races": 65,
-    "total_unopposed": 6,
+    "total_unopposed": 5,
     "unopposed_by_party": {
-      "Unknown": 2,
+      "Unknown": 1,
       "Green/Rainbow": 1,
       "Other": 3
     }
@@ -32,17 +32,8 @@
       "Democrat": 12
     }
   },
-  "scraped_at": "2026-03-03T04:38:50.896975+00:00",
+  "scraped_at": "2026-03-04T04:37:42.851890+00:00",
   "unopposed_candidates": [
-    {
-      "state": "AZ",
-      "office": "US House",
-      "district": "District 1",
-      "candidate": "Christopher Ajluni",
-      "party": "Unknown",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
     {
       "state": "AZ",
       "office": "US House",

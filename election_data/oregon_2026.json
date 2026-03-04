@@ -2,11 +2,11 @@
   "state": "OR",
   "state_name": "Oregon",
   "year": 2026,
-  "total": 49,
+  "total": 79,
   "total_races": 83,
   "total_races_by_party": {
-    "Democrat": 41,
-    "Republican": 32,
+    "Republican": 53,
+    "Democrat": 63,
     "Libertarian": 1,
     "Unknown": 2,
     "Independent": 1,
@@ -24,16 +24,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 41,
-      "Republican": 32
+      "Democrat": 63,
+      "Republican": 53
     },
-    "total_unopposed": 45,
+    "total_unopposed": 75,
     "unopposed_by_party": {
-      "Democrat": 30,
-      "Republican": 15
+      "Democrat": 43,
+      "Republican": 32
     }
   },
-  "scraped_at": "2026-03-03T04:48:20.224063+00:00",
+  "scraped_at": "2026-03-04T04:47:00.874289+00:00",
   "unopposed_candidates": [
     {
       "state": "OR",
@@ -209,6 +209,15 @@
     {
       "state": "OR",
       "office": "State House",
+      "district": "District 1",
+      "candidate": "Court Boice",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
       "district": "District 2",
       "candidate": "Brandon Polanco",
       "party": "Democrat",
@@ -218,9 +227,18 @@
     {
       "state": "OR",
       "office": "State House",
-      "district": "District 3",
-      "candidate": "Seth Benham",
+      "district": "District 2",
+      "candidate": "Virgle Osborne",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Susan Fischer-Maki",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -255,7 +273,43 @@
       "state": "OR",
       "office": "State House",
       "district": "District 7",
-      "candidate": "Ky Fireside",
+      "candidate": "Adam Wilson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Lisa Fragala",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Bill Vivian",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "John Scheirman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "David Gomberg",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -272,9 +326,18 @@
     {
       "state": "OR",
       "office": "State House",
+      "district": "District 12",
+      "candidate": "Darin Harbick",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
       "district": "District 13",
-      "candidate": "Nancy Nathanson",
-      "party": "Democrat",
+      "candidate": "Jonathan Abrahamsen",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -299,9 +362,45 @@
     {
       "state": "OR",
       "office": "State House",
+      "district": "District 15",
+      "candidate": "Shelly Boshart Davis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Sarah McDonald",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Tom Andersen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
       "district": "District 19",
       "candidate": "Anna Munson",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Paul Evans",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -317,9 +416,27 @@
     {
       "state": "OR",
       "office": "State House",
+      "district": "District 22",
+      "candidate": "Noemi Legaspi",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
       "district": "District 23",
       "candidate": "Kriss Wright",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "Anna Scharf",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -336,6 +453,15 @@
       "state": "OR",
       "office": "State House",
       "district": "District 25",
+      "candidate": "Ben Bowman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 25",
       "candidate": "Bob Niemeyer",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -344,9 +470,63 @@
     {
       "state": "OR",
       "office": "State House",
-      "district": "District 32",
-      "candidate": "Christian Honl",
+      "district": "District 26",
+      "candidate": "Sue Rieke Smith",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Stephanie Carkin",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Dacia Grayber",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "Nathan Sosa",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "Darcey Edwards",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Cyrus Javadi",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Shannon Isadore",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -356,24 +536,6 @@
       "district": "District 33",
       "candidate": "Ciatta Thompson",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OR",
-      "office": "State House",
-      "district": "District 34",
-      "candidate": "Alexandria Goddard",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OR",
-      "office": "State House",
-      "district": "District 35",
-      "candidate": "Johan Arteaga",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -407,6 +569,15 @@
     {
       "state": "OR",
       "office": "State House",
+      "district": "District 41",
+      "candidate": "Mark Gamba",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
       "district": "District 42",
       "candidate": "Rob Nosse",
       "party": "Democrat",
@@ -417,7 +588,61 @@
       "state": "OR",
       "office": "State House",
       "district": "District 43",
-      "candidate": "Alexander Wodzinski",
+      "candidate": "Tim LeMaster",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Travis Nelson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Margo Logan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 45",
+      "candidate": "Thuy Tran",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 45",
+      "candidate": "Jason Boyce",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "Willy Chotzen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "Andrea Valderrama",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -434,8 +659,17 @@
     {
       "state": "OR",
       "office": "State House",
-      "district": "District 50",
-      "candidate": "Ricki Ruiz",
+      "district": "District 48",
+      "candidate": "Andrew Morrison",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 49",
+      "candidate": "Zach Hudson",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -446,6 +680,42 @@
       "district": "District 53",
       "candidate": "Emerson Levy",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 55",
+      "candidate": "E. Werner Reschke",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 56",
+      "candidate": "Emily McIntire",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 58",
+      "candidate": "Bobby Levy",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State House",
+      "district": "District 59",
+      "candidate": "Vikki Breese-Iverson",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

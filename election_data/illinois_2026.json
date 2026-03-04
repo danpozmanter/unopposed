@@ -2,12 +2,12 @@
   "state": "IL",
   "state_name": "Illinois",
   "year": 2026,
-  "total": 211,
+  "total": 218,
   "total_races": 175,
   "total_races_by_party": {
+    "Republican": 129,
+    "Democrat": 150,
     "Unknown": 4,
-    "Republican": 125,
-    "Democrat": 147,
     "Working Class": 1
   },
   "general": {
@@ -20,16 +20,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 147,
-      "Republican": 125
+      "Democrat": 150,
+      "Republican": 129
     },
-    "total_unopposed": 208,
+    "total_unopposed": 215,
     "unopposed_by_party": {
-      "Republican": 96,
-      "Democrat": 112
+      "Republican": 100,
+      "Democrat": 115
     }
   },
-  "scraped_at": "2026-03-03T04:41:40.021358+00:00",
+  "scraped_at": "2026-03-04T04:40:09.737464+00:00",
   "unopposed_candidates": [
     {
       "state": "IL",
@@ -655,6 +655,15 @@
     {
       "state": "IL",
       "office": "State House",
+      "district": "District 3",
+      "candidate": "Juvandy Rivera",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
       "district": "District 5",
       "candidate": "Kimberly du Buclet",
       "party": "Democrat",
@@ -835,6 +844,15 @@
     {
       "state": "IL",
       "office": "State House",
+      "district": "District 22",
+      "candidate": "Charles Spizzirri",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
       "district": "District 23",
       "candidate": "Edgar Gonzalez Jr.",
       "party": "Democrat",
@@ -853,6 +871,15 @@
     {
       "state": "IL",
       "office": "State House",
+      "district": "District 24",
+      "candidate": "Francisco Rodriguez",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
       "district": "District 25",
       "candidate": "Curtis Tarver II",
       "party": "Democrat",
@@ -864,6 +891,15 @@
       "office": "State House",
       "district": "District 25",
       "candidate": "Antoinette Simmons",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Joan McGloin",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -1269,6 +1305,15 @@
       "office": "State House",
       "district": "District 62",
       "candidate": "Laura Dias",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 63",
+      "candidate": "Brian Meyers",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -1691,6 +1736,15 @@
       "state": "IL",
       "office": "State House",
       "district": "District 93",
+      "candidate": "Zoey Carter",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 93",
       "candidate": "Travis Weaver",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -1819,6 +1873,15 @@
       "district": "District 104",
       "candidate": "Brandun Schweizer",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "State House",
+      "district": "District 105",
+      "candidate": "Lisa Tejeda",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

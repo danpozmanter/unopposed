@@ -2,18 +2,18 @@
   "state": "VA",
   "state_name": "Virginia",
   "year": 2026,
-  "total": 6,
+  "total": 7,
   "total_races": 12,
   "total_races_by_party": {
     "Democrat": 12,
     "Republican": 10,
-    "Unknown": 5
+    "Unknown": 6
   },
   "general": {
-    "total_races": 5,
-    "total_unopposed": 2,
+    "total_races": 6,
+    "total_unopposed": 3,
     "unopposed_by_party": {
-      "Unknown": 2
+      "Unknown": 3
     }
   },
   "primary": {
@@ -27,7 +27,7 @@
       "Democrat": 2
     }
   },
-  "scraped_at": "2026-03-03T04:50:56.897120+00:00",
+  "scraped_at": "2026-03-04T04:49:24.180961+00:00",
   "unopposed_candidates": [
     {
       "state": "VA",
@@ -70,6 +70,15 @@
       "office": "US House",
       "district": "District 9",
       "candidate": "Michael Jackson",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VA",
+      "office": "US House",
+      "district": "District 10",
+      "candidate": "Steven Goforth",
       "party": "Unknown",
       "unopposed_in": "General",
       "source": "Ballotpedia"

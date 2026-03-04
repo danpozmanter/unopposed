@@ -5,9 +5,9 @@
   "total": 277,
   "total_races": 185,
   "total_races_by_party": {
-    "Democrat": 333,
     "Unknown": 12,
     "Republican": 248,
+    "Democrat": 333,
     "Libertarian": 9,
     "Green/Rainbow": 1,
     "Other": 31
@@ -37,7 +37,7 @@
       "Other": 15
     }
   },
-  "scraped_at": "2026-03-03T04:47:08.100045+00:00",
+  "scraped_at": "2026-03-04T04:45:43.137031+00:00",
   "unopposed_candidates": [
     {
       "state": "NC",
@@ -213,6 +213,132 @@
     {
       "state": "NC",
       "office": "State Senate",
+      "district": "District 5",
+      "candidate": "Kandie Smith",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Helen Bronson",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 20",
+      "candidate": "Natalie Murdock",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Paul Taylor",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Lakeshia Alston",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 26",
+      "candidate": "Steve Luking",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "Michael Garrett",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 28",
+      "candidate": "Gladys Robinson",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 30",
+      "candidate": "Pamela D. McAfee",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 32",
+      "candidate": "Peter Antinozzi",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 34",
+      "candidate": "April Cook",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 37",
+      "candidate": "Vickie Sawyer",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 38",
+      "candidate": "Mujtaba Mohammed",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 39",
+      "candidate": "DeAndrea Salvador",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
       "district": "District 2",
       "candidate": "Roy Surrett",
       "party": "Democrat",
@@ -262,15 +388,6 @@
       "candidate": "Eldon Sharpe Newton III",
       "party": "Republican",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NC",
-      "office": "State Senate",
-      "district": "District 5",
-      "candidate": "Kandie Smith",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -334,15 +451,6 @@
       "candidate": "Tim White",
       "party": "Other",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NC",
-      "office": "State Senate",
-      "district": "District 9",
-      "candidate": "Helen Bronson",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -528,33 +636,6 @@
     {
       "state": "NC",
       "office": "State Senate",
-      "district": "District 20",
-      "candidate": "Natalie Murdock",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NC",
-      "office": "State Senate",
-      "district": "District 21",
-      "candidate": "Paul Taylor",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NC",
-      "office": "State Senate",
-      "district": "District 22",
-      "candidate": "Lakeshia Alston",
-      "party": "Republican",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NC",
-      "office": "State Senate",
       "district": "District 23",
       "candidate": "Graig R. Meyer",
       "party": "Democrat",
@@ -609,33 +690,6 @@
     {
       "state": "NC",
       "office": "State Senate",
-      "district": "District 26",
-      "candidate": "Steve Luking",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NC",
-      "office": "State Senate",
-      "district": "District 27",
-      "candidate": "Michael Garrett",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NC",
-      "office": "State Senate",
-      "district": "District 28",
-      "candidate": "Gladys Robinson",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NC",
-      "office": "State Senate",
       "district": "District 29",
       "candidate": "Bob Morrison",
       "party": "Democrat",
@@ -649,15 +703,6 @@
       "candidate": "Dave Craven",
       "party": "Republican",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NC",
-      "office": "State Senate",
-      "district": "District 30",
-      "candidate": "Pamela D. McAfee",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -681,15 +726,6 @@
     {
       "state": "NC",
       "office": "State Senate",
-      "district": "District 32",
-      "candidate": "Peter Antinozzi",
-      "party": "Republican",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NC",
-      "office": "State Senate",
       "district": "District 33",
       "candidate": "Gary Weart",
       "party": "Democrat",
@@ -703,15 +739,6 @@
       "candidate": "Carl Ford",
       "party": "Republican",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NC",
-      "office": "State Senate",
-      "district": "District 34",
-      "candidate": "April Cook",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -748,33 +775,6 @@
       "candidate": "Eddie Settle",
       "party": "Republican",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NC",
-      "office": "State Senate",
-      "district": "District 37",
-      "candidate": "Vickie Sawyer",
-      "party": "Republican",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NC",
-      "office": "State Senate",
-      "district": "District 38",
-      "candidate": "Mujtaba Mohammed",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NC",
-      "office": "State Senate",
-      "district": "District 39",
-      "candidate": "DeAndrea Salvador",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {

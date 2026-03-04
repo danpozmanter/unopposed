@@ -2,35 +2,34 @@
   "state": "NY",
   "state_name": "New York",
   "year": 2026,
-  "total": 49,
+  "total": 51,
   "total_races": 240,
   "total_races_by_party": {
-    "Republican": 30,
     "Unknown": 9,
     "Democrat": 44,
+    "Republican": 33,
     "Conservative": 1,
     "American Independent": 1
   },
   "general": {
     "total_races": 222,
-    "total_unopposed": 6,
+    "total_unopposed": 4,
     "unopposed_by_party": {
-      "Unknown": 5,
-      "Democrat": 1
+      "Unknown": 4
     }
   },
   "primary": {
     "total_races_by_party": {
       "Democrat": 44,
-      "Republican": 30
+      "Republican": 33
     },
-    "total_unopposed": 44,
+    "total_unopposed": 47,
     "unopposed_by_party": {
-      "Republican": 20,
+      "Republican": 23,
       "Democrat": 24
     }
   },
-  "scraped_at": "2026-03-03T04:46:54.507188+00:00",
+  "scraped_at": "2026-03-04T04:45:31.797236+00:00",
   "unopposed_candidates": [
     {
       "state": "NY",
@@ -55,6 +54,15 @@
       "office": "US House",
       "district": "District 6",
       "candidate": "Juan Pagan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "US House",
+      "district": "District 8",
+      "candidate": "Richard Simmons",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -137,7 +145,16 @@
       "district": "District 20",
       "candidate": "Paul Tonko",
       "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "US House",
+      "district": "District 20",
+      "candidate": "Ralph Ambrosio",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -165,15 +182,6 @@
       "candidate": "Nick Langworthy",
       "party": "Republican",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NY",
-      "office": "US House",
-      "district": "District 24",
-      "candidate": "Ken Estes",
-      "party": "Unknown",
-      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
@@ -353,6 +361,15 @@
       "district": "District 52",
       "candidate": "Lea Webb",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "State Senate",
+      "district": "District 52",
+      "candidate": "Mike Bolles",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
