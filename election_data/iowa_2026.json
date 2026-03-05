@@ -2,11 +2,11 @@
   "state": "IA",
   "state_name": "Iowa",
   "year": 2026,
-  "total": 44,
+  "total": 43,
   "total_races": 131,
   "total_races_by_party": {
-    "Democrat": 26,
     "Republican": 29,
+    "Democrat": 26,
     "Unknown": 2
   },
   "general": {
@@ -21,13 +21,13 @@
       "Democrat": 26,
       "Republican": 29
     },
-    "total_unopposed": 42,
+    "total_unopposed": 41,
     "unopposed_by_party": {
-      "Republican": 23,
+      "Republican": 22,
       "Democrat": 19
     }
   },
-  "scraped_at": "2026-03-04T04:40:38.401624+00:00",
+  "scraped_at": "2026-03-05T04:41:44.865914+00:00",
   "unopposed_candidates": [
     {
       "state": "IA",
@@ -61,15 +61,6 @@
       "office": "State Senate",
       "district": "District 3",
       "candidate": "K. Lynn Evans",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "IA",
-      "office": "State Senate",
-      "district": "District 5",
-      "candidate": "Stacy Besch",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

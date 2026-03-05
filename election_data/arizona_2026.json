@@ -2,13 +2,13 @@
   "state": "AZ",
   "state_name": "Arizona",
   "year": 2026,
-  "total": 28,
+  "total": 29,
   "total_races": 70,
   "total_races_by_party": {
-    "Unknown": 4,
-    "Green/Rainbow": 3,
+    "Democrat": 21,
     "Republican": 17,
-    "Democrat": 20,
+    "Green/Rainbow": 3,
+    "Unknown": 4,
     "Arizona Independent": 1,
     "Other": 3
   },
@@ -23,16 +23,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 20,
+      "Democrat": 21,
       "Republican": 17
     },
-    "total_unopposed": 23,
+    "total_unopposed": 24,
     "unopposed_by_party": {
       "Republican": 11,
-      "Democrat": 12
+      "Democrat": 13
     }
   },
-  "scraped_at": "2026-03-04T04:37:42.851890+00:00",
+  "scraped_at": "2026-03-05T04:38:36.341681+00:00",
   "unopposed_candidates": [
     {
       "state": "AZ",
@@ -165,6 +165,15 @@
       "office": "State Senate",
       "district": "District 17",
       "candidate": "Hunter Holt",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 20",
+      "candidate": "Rocque Perez",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

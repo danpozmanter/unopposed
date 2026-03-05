@@ -2,7 +2,7 @@
   "state": "IN",
   "state_name": "Indiana",
   "year": 2026,
-  "total": 157,
+  "total": 158,
   "total_races": 109,
   "total_races_by_party": {
     "Republican": 112,
@@ -21,13 +21,13 @@
       "Democrat": 125,
       "Republican": 112
     },
-    "total_unopposed": 153,
+    "total_unopposed": 154,
     "unopposed_by_party": {
-      "Republican": 60,
+      "Republican": 61,
       "Democrat": 93
     }
   },
-  "scraped_at": "2026-03-04T04:40:21.022336+00:00",
+  "scraped_at": "2026-03-05T04:41:25.172449+00:00",
   "unopposed_candidates": [
     {
       "state": "IN",
@@ -72,6 +72,15 @@
       "candidate": "James Burke",
       "party": "Unknown",
       "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "US House",
+      "district": "District 8",
+      "candidate": "Mark Messmer",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {

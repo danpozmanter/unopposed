@@ -2,11 +2,11 @@
   "state": "KS",
   "state_name": "Kansas",
   "year": 2026,
-  "total": 94,
+  "total": 93,
   "total_races": 130,
   "total_races_by_party": {
-    "Democrat": 39,
     "Republican": 65,
+    "Democrat": 39,
     "Unknown": 1
   },
   "general": {
@@ -21,13 +21,13 @@
       "Democrat": 39,
       "Republican": 65
     },
-    "total_unopposed": 93,
+    "total_unopposed": 92,
     "unopposed_by_party": {
       "Republican": 59,
-      "Democrat": 34
+      "Democrat": 33
     }
   },
-  "scraped_at": "2026-03-04T04:40:52.383279+00:00",
+  "scraped_at": "2026-03-05T04:41:59.853630+00:00",
   "unopposed_candidates": [
     {
       "state": "KS",
@@ -53,15 +53,6 @@
       "district": "District 2",
       "candidate": "Derek Schmidt",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "KS",
-      "office": "US House",
-      "district": "District 3",
-      "candidate": "Sharice Davids",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

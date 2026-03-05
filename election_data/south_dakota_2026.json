@@ -5,8 +5,8 @@
   "total": 25,
   "total_races": 73,
   "total_races_by_party": {
-    "Republican": 23,
     "Democrat": 4,
+    "Republican": 24,
     "Unknown": 1
   },
   "general": {
@@ -19,7 +19,7 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 4,
-      "Republican": 23
+      "Republican": 24
     },
     "total_unopposed": 24,
     "unopposed_by_party": {
@@ -27,7 +27,7 @@
       "Republican": 20
     }
   },
-  "scraped_at": "2026-03-04T04:48:07.607663+00:00",
+  "scraped_at": "2026-03-05T04:49:10.854924+00:00",
   "unopposed_candidates": [
     {
       "state": "SD",
@@ -113,8 +113,8 @@
     {
       "state": "SD",
       "office": "State House",
-      "district": "District 3",
-      "candidate": "Spencer Sommers",
+      "district": "District 5",
+      "candidate": "Matt Roby",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

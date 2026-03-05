@@ -2,7 +2,7 @@
   "state": "WA",
   "state_name": "Washington",
   "year": 2026,
-  "total": 118,
+  "total": 117,
   "total_races": 132,
   "total_races_by_party": {
     "Democrat": 88,
@@ -26,13 +26,13 @@
     },
     "total_unopposed": 83,
     "unopposed_by_party": {
-      "Democrat": 70,
+      "Democrat": 69,
       "Unknown": 2,
       "Republican": 45,
       "Other": 1
     }
   },
-  "scraped_at": "2026-03-04T04:49:38.272293+00:00",
+  "scraped_at": "2026-03-05T04:50:49.481640+00:00",
   "unopposed_candidates": [
     {
       "state": "WA",
@@ -615,15 +615,6 @@
       "office": "State House",
       "district": "District 20",
       "candidate": "Ed Orcutt",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WA",
-      "office": "State House",
-      "district": "District 21",
-      "candidate": "Strom Peterson",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

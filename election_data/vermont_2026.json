@@ -2,11 +2,11 @@
   "state": "VT",
   "state_name": "Vermont",
   "year": 2026,
-  "total": 46,
+  "total": 47,
   "total_races": 126,
   "total_races_by_party": {
     "Republican": 24,
-    "Democrat": 26,
+    "Democrat": 27,
     "Other": 6
   },
   "general": {
@@ -20,15 +20,15 @@
   "primary": {
     "total_races_by_party": {
       "Republican": 24,
-      "Democrat": 26
+      "Democrat": 27
     },
-    "total_unopposed": 40,
+    "total_unopposed": 41,
     "unopposed_by_party": {
       "Republican": 22,
-      "Democrat": 18
+      "Democrat": 19
     }
   },
-  "scraped_at": "2026-03-04T04:49:12.538574+00:00",
+  "scraped_at": "2026-03-05T04:50:20.295035+00:00",
   "unopposed_candidates": [
     {
       "state": "VT",
@@ -296,6 +296,15 @@
       "office": "State House",
       "district": "Orange-Caledonia District",
       "candidate": "James Merriam",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Orange-2 District",
+      "candidate": "Monique Priestley",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

@@ -2,21 +2,21 @@
   "state": "AR",
   "state_name": "Arkansas",
   "year": 2026,
-  "total": 130,
+  "total": 142,
   "total_races": 123,
   "total_races_by_party": {
     "Unknown": 3,
-    "Republican": 185,
-    "Democrat": 107,
+    "Democrat": 114,
+    "Republican": 201,
     "Libertarian": 2,
     "Other": 4
   },
   "general": {
-    "total_races": 122,
-    "total_unopposed": 66,
+    "total_races": 123,
+    "total_unopposed": 72,
     "unopposed_by_party": {
-      "Republican": 49,
-      "Democrat": 17
+      "Republican": 57,
+      "Democrat": 15
     }
   },
   "primary": {
@@ -30,7 +30,7 @@
       "Republican": 79
     }
   },
-  "scraped_at": "2026-03-04T04:37:53.779019+00:00",
+  "scraped_at": "2026-03-05T04:38:49.086117+00:00",
   "unopposed_candidates": [
     {
       "state": "AR",
@@ -70,18 +70,9 @@
     },
     {
       "state": "AR",
-      "office": "US House",
-      "district": "District 4",
-      "candidate": "Bruce Westerman",
-      "party": "Republican",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AR",
       "office": "Governor",
       "district": "Statewide",
-      "candidate": "Submit photo",
+      "candidate": "Colt Shelby",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -107,19 +98,10 @@
     {
       "state": "AR",
       "office": "State Senate",
-      "district": "District 9",
-      "candidate": "Jessie McGruder",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AR",
-      "office": "State Senate",
-      "district": "District 9",
-      "candidate": "Kenny Phillips",
+      "district": "District 10",
+      "candidate": "Ronald Caldwell",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
@@ -143,10 +125,10 @@
     {
       "state": "AR",
       "office": "State Senate",
-      "district": "District 16",
-      "candidate": "Joshua Irby",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "district": "District 21",
+      "candidate": "Jeremy Wooldridge",
+      "party": "Republican",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
@@ -161,19 +143,10 @@
     {
       "state": "AR",
       "office": "State Senate",
-      "district": "District 27",
-      "candidate": "Eduardo Guzman",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AR",
-      "office": "State Senate",
-      "district": "District 27",
-      "candidate": "Justin Boyd",
+      "district": "District 28",
+      "candidate": "Bryan King",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
@@ -210,6 +183,60 @@
       "candidate": "Tyler Dees",
       "party": "Republican",
       "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AR",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Jessie McGruder",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AR",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Kenny Phillips",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AR",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Joshua Irby",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AR",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "Eduardo Guzman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AR",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "Justin Boyd",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AR",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Mark Nichols",
+      "party": "Republican",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
@@ -314,15 +341,6 @@
     {
       "state": "AR",
       "office": "State House",
-      "district": "District 24",
-      "candidate": "Ryan Intchauspe",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AR",
-      "office": "State House",
       "district": "District 26",
       "candidate": "James Eaton",
       "party": "Republican",
@@ -350,17 +368,17 @@
     {
       "state": "AR",
       "office": "State House",
-      "district": "District 31",
-      "candidate": "Jimmy Gazaway",
+      "district": "District 30",
+      "candidate": "Josh Longmire",
       "party": "Republican",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
       "state": "AR",
       "office": "State House",
-      "district": "District 32",
-      "candidate": "Jack Ladyman",
+      "district": "District 31",
+      "candidate": "Jimmy Gazaway",
       "party": "Republican",
       "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
@@ -404,6 +422,15 @@
     {
       "state": "AR",
       "office": "State House",
+      "district": "District 39",
+      "candidate": "Wayne Long",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AR",
+      "office": "State House",
       "district": "District 40",
       "candidate": "Shad Pearce",
       "party": "Republican",
@@ -417,6 +444,15 @@
       "candidate": "Alyssa Brown",
       "party": "Republican",
       "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AR",
+      "office": "State House",
+      "district": "District 42",
+      "candidate": "Jeremy Riddle",
+      "party": "Republican",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
@@ -467,10 +503,19 @@
     {
       "state": "AR",
       "office": "State House",
-      "district": "District 53",
-      "candidate": "Jennifer Lewter",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "district": "District 57",
+      "candidate": "Cameron Cooper",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AR",
+      "office": "State House",
+      "district": "District 59",
+      "candidate": "Jim Wooten",
+      "party": "Republican",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
@@ -521,10 +566,10 @@
     {
       "state": "AR",
       "office": "State House",
-      "district": "District 70",
-      "candidate": "Bryan Renshaw",
-      "party": "Republican",
-      "unopposed_in": "Primary & General",
+      "district": "District 72",
+      "candidate": "Talesha Dokes",
+      "party": "Democrat",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
@@ -575,10 +620,10 @@
     {
       "state": "AR",
       "office": "State House",
-      "district": "District 81",
-      "candidate": "RJ Hawk",
+      "district": "District 82",
+      "candidate": "Tony Furman",
       "party": "Republican",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
@@ -629,6 +674,15 @@
     {
       "state": "AR",
       "office": "State House",
+      "district": "District 88",
+      "candidate": "Dolly Henley",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AR",
+      "office": "State House",
       "district": "District 89",
       "candidate": "Justin Gonzales",
       "party": "Republican",
@@ -660,6 +714,15 @@
       "candidate": "Mike Holcomb",
       "party": "Republican",
       "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AR",
+      "office": "State House",
+      "district": "District 94",
+      "candidate": "John Day",
+      "party": "Republican",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
@@ -863,6 +926,15 @@
     {
       "state": "AR",
       "office": "State House",
+      "district": "District 24",
+      "candidate": "Ryan Intchauspe",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AR",
+      "office": "State House",
       "district": "District 25",
       "candidate": "Courtney King",
       "party": "Democrat",
@@ -892,6 +964,15 @@
       "office": "State House",
       "district": "District 29",
       "candidate": "Rick McClure",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AR",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Jack Ladyman",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -974,6 +1055,15 @@
       "district": "District 51",
       "candidate": "Cindy Crawford",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AR",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Jennifer Lewter",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -1124,6 +1214,15 @@
     {
       "state": "AR",
       "office": "State House",
+      "district": "District 70",
+      "candidate": "Bryan Renshaw",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AR",
+      "office": "State House",
       "district": "District 71",
       "candidate": "Cassandra Green",
       "party": "Democrat",
@@ -1181,6 +1280,15 @@
       "district": "District 80",
       "candidate": "Denise Ennett",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AR",
+      "office": "State House",
+      "district": "District 81",
+      "candidate": "RJ Hawk",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

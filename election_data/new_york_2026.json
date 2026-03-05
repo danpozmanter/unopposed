@@ -2,12 +2,12 @@
   "state": "NY",
   "state_name": "New York",
   "year": 2026,
-  "total": 51,
+  "total": 52,
   "total_races": 240,
   "total_races_by_party": {
-    "Unknown": 9,
+    "Republican": 34,
     "Democrat": 44,
-    "Republican": 33,
+    "Unknown": 9,
     "Conservative": 1,
     "American Independent": 1
   },
@@ -21,15 +21,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 44,
-      "Republican": 33
+      "Republican": 34
     },
-    "total_unopposed": 47,
+    "total_unopposed": 48,
     "unopposed_by_party": {
-      "Republican": 23,
+      "Republican": 24,
       "Democrat": 24
     }
   },
-  "scraped_at": "2026-03-04T04:45:31.797236+00:00",
+  "scraped_at": "2026-03-05T04:46:26.146493+00:00",
   "unopposed_candidates": [
     {
       "state": "NY",
@@ -433,6 +433,15 @@
       "district": "District 82",
       "candidate": "Jake Kuhl",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "State House",
+      "district": "District 102",
+      "candidate": "Marcus Molinaro",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

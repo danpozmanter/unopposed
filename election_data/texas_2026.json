@@ -2,23 +2,21 @@
   "state": "TX",
   "state_name": "Texas",
   "year": 2026,
-  "total": 244,
+  "total": 234,
   "total_races": 206,
   "total_races_by_party": {
-    "Democrat": 206,
-    "Unknown": 14,
-    "Republican": 187,
+    "Republican": 323,
+    "Unknown": 21,
+    "Democrat": 389,
     "American Independent": 1,
     "Other": 3
   },
   "general": {
-    "total_races": 182,
-    "total_unopposed": 17,
+    "total_races": 206,
+    "total_unopposed": 38,
     "unopposed_by_party": {
-      "Unknown": 12,
-      "Republican": 1,
-      "American Independent": 1,
-      "Other": 3
+      "Democrat": 27,
+      "Republican": 11
     }
   },
   "primary": {
@@ -32,17 +30,8 @@
       "Democrat": 127
     }
   },
-  "scraped_at": "2026-03-04T04:48:35.198270+00:00",
+  "scraped_at": "2026-03-05T04:49:40.325538+00:00",
   "unopposed_candidates": [
-    {
-      "state": "TX",
-      "office": "US House",
-      "district": "District 1",
-      "candidate": "Sonia Canchola",
-      "party": "Unknown",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
     {
       "state": "TX",
       "office": "US House",
@@ -65,27 +54,9 @@
       "state": "TX",
       "office": "US House",
       "district": "District 3",
-      "candidate": "Keith Self",
-      "party": "Republican",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "US House",
-      "district": "District 3",
       "candidate": "Evan Hunt",
       "party": "Democrat",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "US House",
-      "district": "District 5",
-      "candidate": "Dea Foy",
-      "party": "Unknown",
-      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
@@ -113,15 +84,6 @@
       "candidate": "Lizzie Pannill Fletcher",
       "party": "Democrat",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "US House",
-      "district": "District 9",
-      "candidate": "Roy Morales",
-      "party": "Unknown",
-      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
@@ -184,16 +146,7 @@
       "district": "District 19",
       "candidate": "Kyle Rable",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "US House",
-      "district": "District 20",
-      "candidate": "Anthony Tristan",
-      "party": "Unknown",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -208,28 +161,10 @@
     {
       "state": "TX",
       "office": "US House",
-      "district": "District 21",
-      "candidate": "Dan McQueen",
-      "party": "Unknown",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "US House",
-      "district": "District 22",
-      "candidate": "Demile James",
-      "party": "American Independent",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "US House",
       "district": "District 24",
       "candidate": "Beth Van Duyne",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -244,24 +179,6 @@
     {
       "state": "TX",
       "office": "US House",
-      "district": "District 27",
-      "candidate": "Dan McQueen",
-      "party": "Unknown",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "US House",
-      "district": "District 28",
-      "candidate": "Adriel Ventura Lopez",
-      "party": "Unknown",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "US House",
       "district": "District 29",
       "candidate": "Martha Fierro",
       "party": "Republican",
@@ -271,46 +188,46 @@
     {
       "state": "TX",
       "office": "US House",
-      "district": "District 30",
-      "candidate": "Oxford Nordberg",
-      "party": "Unknown",
+      "district": "District 36",
+      "candidate": "Brian Babin",
+      "party": "Republican",
       "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
       "state": "TX",
-      "office": "US House",
-      "district": "District 32",
-      "candidate": "Charles Harper",
-      "party": "Unknown",
+      "office": "State Senate",
+      "district": "District 5",
+      "candidate": "Charles Schwertner",
+      "party": "Republican",
       "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
       "state": "TX",
-      "office": "US House",
-      "district": "District 37",
-      "candidate": "James Kinney",
-      "party": "Unknown",
-      "unopposed_in": "General",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Borris Miles",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
       "state": "TX",
-      "office": "US House",
-      "district": "District 38",
-      "candidate": "William Taggart",
-      "party": "Unknown",
-      "unopposed_in": "General",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Roland Gutierrez",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
       "state": "TX",
-      "office": "Governor",
-      "district": "Statewide",
-      "candidate": "Jenn Mack Raphoon",
-      "party": "Unknown",
-      "unopposed_in": "General",
+      "office": "State Senate",
+      "district": "District 26",
+      "candidate": "Jos\u00e9 Men\u00e9ndez",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -379,15 +296,6 @@
     {
       "state": "TX",
       "office": "State Senate",
-      "district": "District 13",
-      "candidate": "Borris Miles",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State Senate",
       "district": "District 18",
       "candidate": "Erica Gillum",
       "party": "Democrat",
@@ -400,15 +308,6 @@
       "district": "District 18",
       "candidate": "Lois Kolkhorst",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State Senate",
-      "district": "District 19",
-      "candidate": "Roland Gutierrez",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -445,15 +344,6 @@
       "district": "District 24",
       "candidate": "Peter P. Flores",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State Senate",
-      "district": "District 26",
-      "candidate": "Jos\u00e9 Men\u00e9ndez",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -499,7 +389,277 @@
       "district": "District 1",
       "candidate": "Sean Huffman",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Christian Manuel",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Sergio Munoz Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Janie Lopez",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Armando Martinez",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Terry Canales",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "Sheryl Cole",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 50",
+      "candidate": "Howard Olsen IV",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 52",
+      "candidate": "Chris Jimenez",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 74",
+      "candidate": "Eddie Morales Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 75",
+      "candidate": "Mary Gonzalez",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 78",
+      "candidate": "Joseph Moody",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 85",
+      "candidate": "Lawrence Brandyburg",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 90",
+      "candidate": "Ramon Romero Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 94",
+      "candidate": "Katie O'Brien Duzan",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 95",
+      "candidate": "Nicole Collier",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 97",
+      "candidate": "John McQueeney",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 98",
+      "candidate": "Cate Brennan",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 100",
+      "candidate": "Jordan Hoffnagle",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 104",
+      "candidate": "Jessica Gonzalez",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 105",
+      "candidate": "Terry Meza",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 107",
+      "candidate": "Linda Garcia",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 110",
+      "candidate": "Toni Rose",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 111",
+      "candidate": "Yvonne Davis",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 118",
+      "candidate": "Kristian Carranza",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 120",
+      "candidate": "Barbara Gervin-Hawkins",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 123",
+      "candidate": "Diego Bernal",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 125",
+      "candidate": "Ricardo Martinez",
+      "party": "Republican",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 131",
+      "candidate": "Scott Whitmarsh",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 142",
+      "candidate": "Heidi Hall",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 149",
+      "candidate": "Dave Bennett",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -730,15 +890,6 @@
     {
       "state": "TX",
       "office": "State House",
-      "district": "District 22",
-      "candidate": "Christian Manuel",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
       "district": "District 24",
       "candidate": "Frank Carr",
       "party": "Democrat",
@@ -910,15 +1061,6 @@
     {
       "state": "TX",
       "office": "State House",
-      "district": "District 36",
-      "candidate": "Sergio Munoz Jr.",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
       "district": "District 38",
       "candidate": "Erin Gamez",
       "party": "Democrat",
@@ -931,24 +1073,6 @@
       "district": "District 38",
       "candidate": "Laura Cisneros",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
-      "district": "District 39",
-      "candidate": "Armando Martinez",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
-      "district": "District 40",
-      "candidate": "Terry Canales",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -1000,15 +1124,6 @@
     {
       "state": "TX",
       "office": "State House",
-      "district": "District 46",
-      "candidate": "Sheryl Cole",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
       "district": "District 47",
       "candidate": "Jennifer Mushtaler",
       "party": "Republican",
@@ -1036,15 +1151,6 @@
     {
       "state": "TX",
       "office": "State House",
-      "district": "District 50",
-      "candidate": "Howard Olsen IV",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
       "district": "District 51",
       "candidate": "Maria Luisa Flores",
       "party": "Democrat",
@@ -1057,15 +1163,6 @@
       "district": "District 51",
       "candidate": "Jessica Martinez",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
-      "district": "District 52",
-      "candidate": "Chris Jimenez",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -1333,24 +1430,6 @@
     {
       "state": "TX",
       "office": "State House",
-      "district": "District 74",
-      "candidate": "Eddie Morales Jr.",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
-      "district": "District 75",
-      "candidate": "Mary Gonzalez",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
       "district": "District 77",
       "candidate": "Vincent Perez",
       "party": "Democrat",
@@ -1363,15 +1442,6 @@
       "district": "District 77",
       "candidate": "Humberto Perez",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
-      "district": "District 78",
-      "candidate": "Joseph Moody",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -1522,15 +1592,6 @@
     {
       "state": "TX",
       "office": "State House",
-      "district": "District 90",
-      "candidate": "Ramon Romero Jr.",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
       "district": "District 91",
       "candidate": "Yisak Worku",
       "party": "Democrat",
@@ -1558,24 +1619,6 @@
     {
       "state": "TX",
       "office": "State House",
-      "district": "District 94",
-      "candidate": "Katie O'Brien Duzan",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
-      "district": "District 95",
-      "candidate": "Nicole Collier",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
       "district": "District 96",
       "candidate": "Ebony Turner",
       "party": "Democrat",
@@ -1594,15 +1637,6 @@
     {
       "state": "TX",
       "office": "State House",
-      "district": "District 97",
-      "candidate": "John McQueeney",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
       "district": "District 99",
       "candidate": "Michelle Winder",
       "party": "Democrat",
@@ -1614,15 +1648,6 @@
       "office": "State House",
       "district": "District 99",
       "candidate": "Charlie Geren",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
-      "district": "District 100",
-      "candidate": "Jordan Hoffnagle",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -1666,33 +1691,6 @@
     {
       "state": "TX",
       "office": "State House",
-      "district": "District 104",
-      "candidate": "Jessica Gonzalez",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
-      "district": "District 105",
-      "candidate": "Terry Meza",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
-      "district": "District 107",
-      "candidate": "Linda Garcia",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
       "district": "District 108",
       "candidate": "Allison Mitchell",
       "party": "Democrat",
@@ -1714,24 +1712,6 @@
       "district": "District 109",
       "candidate": "Will Campbell",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
-      "district": "District 110",
-      "candidate": "Toni Rose",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
-      "district": "District 111",
-      "candidate": "Yvonne Davis",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -1828,15 +1808,6 @@
     {
       "state": "TX",
       "office": "State House",
-      "district": "District 118",
-      "candidate": "Kristian Carranza",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
       "district": "District 119",
       "candidate": "Melva Perez",
       "party": "Republican",
@@ -1857,15 +1828,6 @@
       "office": "State House",
       "district": "District 122",
       "candidate": "Shelly Nickels",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
-      "district": "District 123",
-      "candidate": "Diego Bernal",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -1929,15 +1891,6 @@
       "office": "State House",
       "district": "District 130",
       "candidate": "Tom Oliverson",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
-      "district": "District 131",
-      "candidate": "Scott Whitmarsh",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -2080,15 +2033,6 @@
     {
       "state": "TX",
       "office": "State House",
-      "district": "District 142",
-      "candidate": "Heidi Hall",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
       "district": "District 143",
       "candidate": "Ana Hernandez",
       "party": "Democrat",
@@ -2188,46 +2132,10 @@
     {
       "state": "TX",
       "office": "State House",
-      "district": "District 149",
-      "candidate": "Dave Bennett",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
       "district": "District 150",
       "candidate": "Valoree Swanson",
       "party": "Republican",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
-      "district": "District 115",
-      "candidate": "Kane Kelly",
-      "party": "Other",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
-      "district": "District 124",
-      "candidate": "L.D. Howard",
-      "party": "Other",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
-      "district": "District 126",
-      "candidate": "Lisa Emerson",
-      "party": "Other",
-      "unopposed_in": "General",
       "source": "Ballotpedia"
     }
   ]
