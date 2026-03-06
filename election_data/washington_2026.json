@@ -2,12 +2,12 @@
   "state": "WA",
   "state_name": "Washington",
   "year": 2026,
-  "total": 117,
+  "total": 118,
   "total_races": 132,
   "total_races_by_party": {
     "Democrat": 88,
     "Unknown": 5,
-    "Republican": 53,
+    "Republican": 54,
     "Other": 1
   },
   "general": {
@@ -20,19 +20,19 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 88,
-      "Republican": 53,
+      "Republican": 54,
       "Unknown": 5,
       "Other": 1
     },
-    "total_unopposed": 83,
+    "total_unopposed": 84,
     "unopposed_by_party": {
       "Democrat": 69,
       "Unknown": 2,
-      "Republican": 45,
+      "Republican": 46,
       "Other": 1
     }
   },
-  "scraped_at": "2026-03-05T04:50:49.481640+00:00",
+  "scraped_at": "2026-03-06T04:49:20.311980+00:00",
   "unopposed_candidates": [
     {
       "state": "WA",
@@ -130,6 +130,15 @@
       "district": "District 21",
       "candidate": "Marko Liias",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 26",
+      "candidate": "Gary Parker",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

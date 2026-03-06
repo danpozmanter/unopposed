@@ -2,13 +2,13 @@
   "state": "FL",
   "state_name": "Florida",
   "year": 2026,
-  "total": 153,
+  "total": 154,
   "total_races": 169,
   "total_races_by_party": {
     "Republican": 124,
-    "Democrat": 95,
-    "Unknown": 13,
+    "Democrat": 96,
     "Libertarian": 2,
+    "Unknown": 13,
     "Constitution": 1,
     "Other": 10
   },
@@ -23,16 +23,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 95,
+      "Democrat": 96,
       "Republican": 124
     },
-    "total_unopposed": 134,
+    "total_unopposed": 135,
     "unopposed_by_party": {
-      "Democrat": 53,
+      "Democrat": 54,
       "Republican": 81
     }
   },
-  "scraped_at": "2026-03-05T04:40:09.970400+00:00",
+  "scraped_at": "2026-03-06T04:39:34.020745+00:00",
   "unopposed_candidates": [
     {
       "state": "FL",
@@ -1048,6 +1048,15 @@
       "district": "District 84",
       "candidate": "Dana Trabulsy",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "FL",
+      "office": "State House",
+      "district": "District 85",
+      "candidate": "Wayne Richter",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

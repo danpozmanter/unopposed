@@ -2,12 +2,12 @@
   "state": "MN",
   "state_name": "Minnesota",
   "year": 2026,
-  "total": 78,
+  "total": 79,
   "total_races": 210,
   "total_races_by_party": {
+    "Unknown": 4,
     "Republican": 48,
-    "Democrat": 51,
-    "Unknown": 4
+    "Democrat": 52
   },
   "general": {
     "total_races": 205,
@@ -18,16 +18,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 51,
+      "Democrat": 52,
       "Republican": 48
     },
     "total_unopposed": 67,
     "unopposed_by_party": {
-      "Democrat": 37,
+      "Democrat": 38,
       "Republican": 37
     }
   },
-  "scraped_at": "2026-03-05T04:44:06.165356+00:00",
+  "scraped_at": "2026-03-06T04:43:14.555681+00:00",
   "unopposed_candidates": [
     {
       "state": "MN",
@@ -628,6 +628,15 @@
       "office": "State House",
       "district": "District 20",
       "candidate": "Brandon King",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Michael Hutchinson",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

@@ -2,20 +2,20 @@
   "state": "TX",
   "state_name": "Texas",
   "year": 2026,
-  "total": 234,
+  "total": 232,
   "total_races": 206,
   "total_races_by_party": {
-    "Republican": 323,
     "Unknown": 21,
+    "Republican": 327,
     "Democrat": 389,
     "American Independent": 1,
     "Other": 3
   },
   "general": {
     "total_races": 206,
-    "total_unopposed": 38,
+    "total_unopposed": 34,
     "unopposed_by_party": {
-      "Democrat": 27,
+      "Democrat": 23,
       "Republican": 11
     }
   },
@@ -30,7 +30,7 @@
       "Democrat": 127
     }
   },
-  "scraped_at": "2026-03-05T04:49:40.325538+00:00",
+  "scraped_at": "2026-03-06T04:48:18.167923+00:00",
   "unopposed_candidates": [
     {
       "state": "TX",
@@ -458,15 +458,6 @@
     {
       "state": "TX",
       "office": "State House",
-      "district": "District 52",
-      "candidate": "Chris Jimenez",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
       "district": "District 74",
       "candidate": "Eddie Morales Jr.",
       "party": "Democrat",
@@ -494,26 +485,8 @@
     {
       "state": "TX",
       "office": "State House",
-      "district": "District 85",
-      "candidate": "Lawrence Brandyburg",
-      "party": "Democrat",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
       "district": "District 90",
       "candidate": "Ramon Romero Jr.",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
-      "district": "District 94",
-      "candidate": "Katie O'Brien Duzan",
       "party": "Democrat",
       "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
@@ -534,15 +507,6 @@
       "candidate": "John McQueeney",
       "party": "Republican",
       "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
-      "district": "District 98",
-      "candidate": "Cate Brennan",
-      "party": "Democrat",
-      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
@@ -1169,6 +1133,15 @@
     {
       "state": "TX",
       "office": "State House",
+      "district": "District 52",
+      "candidate": "Chris Jimenez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
       "district": "District 53",
       "candidate": "Kathryn Hartmann",
       "party": "Democrat",
@@ -1612,6 +1585,15 @@
       "office": "State House",
       "district": "District 93",
       "candidate": "Ericka Lomick",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 94",
+      "candidate": "Katie O'Brien Duzan",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

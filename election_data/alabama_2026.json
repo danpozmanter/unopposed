@@ -5,8 +5,8 @@
   "total": 150,
   "total_races": 149,
   "total_races_by_party": {
-    "Democrat": 144,
-    "Republican": 212
+    "Republican": 212,
+    "Democrat": 144
   },
   "general": {
     "total_races": 146,
@@ -27,7 +27,7 @@
       "Republican": 87
     }
   },
-  "scraped_at": "2026-03-05T04:38:00.691157+00:00",
+  "scraped_at": "2026-03-06T04:37:02.977574+00:00",
   "unopposed_candidates": [
     {
       "state": "AL",

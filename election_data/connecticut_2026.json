@@ -2,19 +2,17 @@
   "state": "CT",
   "state_name": "Connecticut",
   "year": 2026,
-  "total": 13,
+  "total": 12,
   "total_races": 193,
   "total_races_by_party": {
-    "Democrat": 12,
     "Republican": 12,
+    "Democrat": 12,
     "Unknown": 1
   },
   "general": {
     "total_races": 188,
-    "total_unopposed": 1,
-    "unopposed_by_party": {
-      "Unknown": 1
-    }
+    "total_unopposed": 0,
+    "unopposed_by_party": {}
   },
   "primary": {
     "total_races_by_party": {
@@ -27,7 +25,7 @@
       "Democrat": 5
     }
   },
-  "scraped_at": "2026-03-05T04:39:31.903983+00:00",
+  "scraped_at": "2026-03-06T04:38:59.795058+00:00",
   "unopposed_candidates": [
     {
       "state": "CT",
@@ -36,15 +34,6 @@
       "candidate": "Amy Chai",
       "party": "Republican",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CT",
-      "office": "US House",
-      "district": "District 4",
-      "candidate": "Damon Cerreta",
-      "party": "Unknown",
-      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {

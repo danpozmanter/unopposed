@@ -3,14 +3,14 @@
   "state_name": "Indiana",
   "year": 2026,
   "total": 158,
-  "total_races": 109,
+  "total_races": 134,
   "total_races_by_party": {
-    "Republican": 112,
     "Democrat": 125,
+    "Republican": 112,
     "Unknown": 4
   },
   "general": {
-    "total_races": 104,
+    "total_races": 129,
     "total_unopposed": 4,
     "unopposed_by_party": {
       "Unknown": 4
@@ -27,7 +27,7 @@
       "Democrat": 93
     }
   },
-  "scraped_at": "2026-03-05T04:41:25.172449+00:00",
+  "scraped_at": "2026-03-06T04:40:46.974704+00:00",
   "unopposed_candidates": [
     {
       "state": "IN",

@@ -2,11 +2,11 @@
   "state": "OK",
   "state_name": "Oklahoma",
   "year": 2026,
-  "total": 46,
+  "total": 45,
   "total_races": 132,
   "total_races_by_party": {
-    "Republican": 44,
     "Democrat": 24,
+    "Republican": 44,
     "Unknown": 2,
     "Other": 1
   },
@@ -23,13 +23,13 @@
       "Democrat": 24,
       "Republican": 44
     },
-    "total_unopposed": 43,
+    "total_unopposed": 42,
     "unopposed_by_party": {
-      "Republican": 26,
+      "Republican": 25,
       "Democrat": 17
     }
   },
-  "scraped_at": "2026-03-05T04:47:36.342427+00:00",
+  "scraped_at": "2026-03-06T04:46:29.907612+00:00",
   "unopposed_candidates": [
     {
       "state": "OK",
@@ -153,15 +153,6 @@
       "office": "State Senate",
       "district": "District 20",
       "candidate": "Karmin Grider",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OK",
-      "office": "State Senate",
-      "district": "District 26",
-      "candidate": "Rick Koch",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
