@@ -2,12 +2,12 @@
   "state": "MD",
   "state_name": "Maryland",
   "year": 2026,
-  "total": 95,
+  "total": 98,
   "total_races": 126,
   "total_races_by_party": {
+    "Democrat": 122,
     "Unknown": 2,
-    "Republican": 80,
-    "Democrat": 120,
+    "Republican": 81,
     "Green/Rainbow": 2
   },
   "general": {
@@ -20,16 +20,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 120,
-      "Republican": 80
+      "Democrat": 122,
+      "Republican": 81
     },
-    "total_unopposed": 81,
+    "total_unopposed": 84,
     "unopposed_by_party": {
-      "Republican": 49,
-      "Democrat": 43
+      "Republican": 50,
+      "Democrat": 45
     }
   },
-  "scraped_at": "2026-03-06T04:42:23.442320+00:00",
+  "scraped_at": "2026-03-07T04:39:45.652984+00:00",
   "unopposed_candidates": [
     {
       "state": "MD",
@@ -143,6 +143,15 @@
       "state": "MD",
       "office": "State Senate",
       "district": "District 5",
+      "candidate": "Gary Foote",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 5",
       "candidate": "Justin Ready",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -226,6 +235,15 @@
       "district": "District 11",
       "candidate": "Shelly Hettleman",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Jim Simpson",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -469,6 +487,15 @@
       "district": "District 37",
       "candidate": "Johnny Mautz",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 38",
+      "candidate": "Lino Cressotti",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

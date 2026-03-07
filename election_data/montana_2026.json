@@ -2,14 +2,14 @@
   "state": "MT",
   "state_name": "Montana",
   "year": 2026,
-  "total": 164,
+  "total": 176,
   "total_races": 128,
   "total_races_by_party": {
-    "Democrat": 102,
+    "Republican": 117,
     "Unknown": 3,
     "Libertarian": 1,
-    "Republican": 111,
-    "Other": 7
+    "Democrat": 121,
+    "Other": 8
   },
   "general": {
     "total_races": 128,
@@ -21,21 +21,21 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 102,
-      "Republican": 111,
+      "Democrat": 121,
+      "Republican": 117,
       "Libertarian": 1,
       "Unknown": 2,
-      "Other": 4
+      "Other": 5
     },
-    "total_unopposed": 158,
+    "total_unopposed": 170,
     "unopposed_by_party": {
       "Unknown": 1,
-      "Republican": 72,
-      "Democrat": 81,
-      "Other": 4
+      "Republican": 70,
+      "Democrat": 94,
+      "Other": 5
     }
   },
-  "scraped_at": "2026-03-06T04:43:52.683553+00:00",
+  "scraped_at": "2026-03-07T04:41:19.106649+00:00",
   "unopposed_candidates": [
     {
       "state": "MT",
@@ -86,8 +86,17 @@
       "state": "MT",
       "office": "State Senate",
       "district": "District 1",
-      "candidate": "Steve Gunderson",
-      "party": "Republican",
+      "candidate": "Jonathan Jameson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "Kyle Waterman",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -104,8 +113,35 @@
       "state": "MT",
       "office": "State Senate",
       "district": "District 6",
+      "candidate": "Patrick Fitzpatrick",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 6",
       "candidate": "Mark Noland",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Christopher Paul Buckles",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Noy Holland",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -121,18 +157,9 @@
     {
       "state": "MT",
       "office": "State Senate",
-      "district": "District 11",
-      "candidate": "George Nikolakakos",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MT",
-      "office": "State Senate",
-      "district": "District 12",
-      "candidate": "Wendy McKamey",
-      "party": "Republican",
+      "district": "District 14",
+      "candidate": "Blake Borst",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -140,8 +167,8 @@
       "state": "MT",
       "office": "State Senate",
       "district": "District 18",
-      "candidate": "Greg Kmetz",
-      "party": "Republican",
+      "candidate": "Stan Taylor",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -149,8 +176,17 @@
       "state": "MT",
       "office": "State Senate",
       "district": "District 19",
-      "candidate": "Barry Usher",
-      "party": "Republican",
+      "candidate": "Deanna Daigrepont",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Lyle Hedin",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -166,9 +202,27 @@
     {
       "state": "MT",
       "office": "State Senate",
-      "district": "District 25",
-      "candidate": "Dennis Lenz",
+      "district": "District 23",
+      "candidate": "Joanna Oblander",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 25",
+      "candidate": "Julie Hippler",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 28",
+      "candidate": "Kelly Hale",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -185,6 +239,15 @@
       "state": "MT",
       "office": "State Senate",
       "district": "District 29",
+      "candidate": "Scott Rosenzweig",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 29",
       "candidate": "Jason Gunderson",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -194,8 +257,8 @@
       "state": "MT",
       "office": "State Senate",
       "district": "District 31",
-      "candidate": "Wesley Siler",
-      "party": "Democrat",
+      "candidate": "Richard Aungier",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -203,8 +266,26 @@
       "state": "MT",
       "office": "State Senate",
       "district": "District 32",
-      "candidate": "Kelly Kortum",
+      "candidate": "Neal Ganser",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 34",
+      "candidate": "Carl Anderson",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 41",
+      "candidate": "Dru Koester",
+      "party": "Other",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -220,9 +301,9 @@
     {
       "state": "MT",
       "office": "State Senate",
-      "district": "District 42",
-      "candidate": "Nick Lancette",
-      "party": "Republican",
+      "district": "District 43",
+      "candidate": "Stephen Leuchtman",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -231,6 +312,33 @@
       "office": "State Senate",
       "district": "District 48",
       "candidate": "Andrea Olsen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 49",
+      "candidate": "Willis Curdy",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 49",
+      "candidate": "Brad Tschida",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 50",
+      "candidate": "Shane Morigeau",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

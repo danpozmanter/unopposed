@@ -5,8 +5,8 @@
   "total": 45,
   "total_races": 132,
   "total_races_by_party": {
-    "Democrat": 24,
     "Republican": 44,
+    "Democrat": 24,
     "Unknown": 2,
     "Other": 1
   },
@@ -29,7 +29,7 @@
       "Democrat": 17
     }
   },
-  "scraped_at": "2026-03-06T04:46:29.907612+00:00",
+  "scraped_at": "2026-03-07T04:44:04.803659+00:00",
   "unopposed_candidates": [
     {
       "state": "OK",

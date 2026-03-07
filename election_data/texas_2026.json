@@ -5,18 +5,18 @@
   "total": 232,
   "total_races": 206,
   "total_races_by_party": {
+    "Republican": 329,
     "Unknown": 21,
-    "Republican": 327,
-    "Democrat": 389,
+    "Democrat": 393,
     "American Independent": 1,
     "Other": 3
   },
   "general": {
     "total_races": 206,
-    "total_unopposed": 34,
+    "total_unopposed": 30,
     "unopposed_by_party": {
-      "Democrat": 23,
-      "Republican": 11
+      "Democrat": 22,
+      "Republican": 8
     }
   },
   "primary": {
@@ -30,7 +30,7 @@
       "Democrat": 127
     }
   },
-  "scraped_at": "2026-03-06T04:48:18.167923+00:00",
+  "scraped_at": "2026-03-07T04:46:09.004697+00:00",
   "unopposed_candidates": [
     {
       "state": "TX",
@@ -190,15 +190,6 @@
       "office": "US House",
       "district": "District 36",
       "candidate": "Brian Babin",
-      "party": "Republican",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State Senate",
-      "district": "District 5",
-      "candidate": "Charles Schwertner",
       "party": "Republican",
       "unopposed_in": "General",
       "source": "Ballotpedia"
@@ -386,15 +377,6 @@
     {
       "state": "TX",
       "office": "State House",
-      "district": "District 1",
-      "candidate": "Sean Huffman",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
       "district": "District 22",
       "candidate": "Christian Manuel",
       "party": "Democrat",
@@ -443,15 +425,6 @@
       "district": "District 46",
       "candidate": "Sheryl Cole",
       "party": "Democrat",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
-      "district": "District 50",
-      "candidate": "Howard Olsen IV",
-      "party": "Republican",
       "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
@@ -521,6 +494,15 @@
     {
       "state": "TX",
       "office": "State House",
+      "district": "District 101",
+      "candidate": "Junior Ezeonu",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
       "district": "District 104",
       "candidate": "Jessica Gonzalez",
       "party": "Democrat",
@@ -566,15 +548,6 @@
     {
       "state": "TX",
       "office": "State House",
-      "district": "District 118",
-      "candidate": "Kristian Carranza",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
       "district": "District 120",
       "candidate": "Barbara Gervin-Hawkins",
       "party": "Democrat",
@@ -611,8 +584,8 @@
     {
       "state": "TX",
       "office": "State House",
-      "district": "District 142",
-      "candidate": "Heidi Hall",
+      "district": "District 149",
+      "candidate": "Dave Bennett",
       "party": "Republican",
       "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
@@ -620,10 +593,10 @@
     {
       "state": "TX",
       "office": "State House",
-      "district": "District 149",
-      "candidate": "Dave Bennett",
-      "party": "Republican",
-      "unopposed_in": "Primary & General",
+      "district": "District 1",
+      "candidate": "Sean Huffman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -1108,6 +1081,15 @@
       "office": "State House",
       "district": "District 48",
       "candidate": "Anthony Gupta",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 50",
+      "candidate": "Howard Olsen IV",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -1790,6 +1772,15 @@
     {
       "state": "TX",
       "office": "State House",
+      "district": "District 118",
+      "candidate": "Kristian Carranza",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
       "district": "District 119",
       "candidate": "Melva Perez",
       "party": "Republican",
@@ -2008,6 +1999,15 @@
       "office": "State House",
       "district": "District 141",
       "candidate": "Julie Hunt",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 142",
+      "candidate": "Heidi Hall",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

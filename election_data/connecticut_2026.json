@@ -2,11 +2,11 @@
   "state": "CT",
   "state_name": "Connecticut",
   "year": 2026,
-  "total": 12,
+  "total": 13,
   "total_races": 193,
   "total_races_by_party": {
+    "Democrat": 13,
     "Republican": 12,
-    "Democrat": 12,
     "Unknown": 1
   },
   "general": {
@@ -16,16 +16,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 12,
+      "Democrat": 13,
       "Republican": 12
     },
-    "total_unopposed": 12,
+    "total_unopposed": 13,
     "unopposed_by_party": {
       "Republican": 7,
-      "Democrat": 5
+      "Democrat": 6
     }
   },
-  "scraped_at": "2026-03-06T04:38:59.795058+00:00",
+  "scraped_at": "2026-03-07T04:36:15.670842+00:00",
   "unopposed_candidates": [
     {
       "state": "CT",
@@ -104,6 +104,15 @@
       "office": "State House",
       "district": "District 58",
       "candidate": "John Santanella",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State House",
+      "district": "District 66",
+      "candidate": "Suzanne Lovig",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

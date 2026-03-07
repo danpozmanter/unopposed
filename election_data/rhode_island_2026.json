@@ -2,12 +2,12 @@
   "state": "RI",
   "state_name": "Rhode Island",
   "year": 2026,
-  "total": 7,
+  "total": 9,
   "total_races": 117,
   "total_races_by_party": {
-    "Unknown": 3,
-    "Republican": 3,
-    "Democrat": 6
+    "Democrat": 7,
+    "Republican": 4,
+    "Unknown": 3
   },
   "general": {
     "total_races": 116,
@@ -18,15 +18,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 6,
-      "Republican": 3
+      "Democrat": 7,
+      "Republican": 4
     },
-    "total_unopposed": 4,
+    "total_unopposed": 6,
     "unopposed_by_party": {
-      "Democrat": 4
+      "Democrat": 5,
+      "Republican": 1
     }
   },
-  "scraped_at": "2026-03-06T04:47:15.596613+00:00",
+  "scraped_at": "2026-03-07T04:44:57.823974+00:00",
   "unopposed_candidates": [
     {
       "state": "RI",
@@ -79,6 +80,24 @@
       "district": "District 36",
       "candidate": "Mark Mesrobian",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Suzy Alba",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Paul Santucci",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

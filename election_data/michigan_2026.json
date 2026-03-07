@@ -2,12 +2,12 @@
   "state": "MI",
   "state_name": "Michigan",
   "year": 2026,
-  "total": 43,
+  "total": 46,
   "total_races": 163,
   "total_races_by_party": {
+    "Democrat": 44,
+    "Republican": 29,
     "Unknown": 5,
-    "Democrat": 42,
-    "Republican": 28,
     "Other": 1
   },
   "general": {
@@ -20,16 +20,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 42,
-      "Republican": 28
+      "Democrat": 44,
+      "Republican": 29
     },
-    "total_unopposed": 39,
+    "total_unopposed": 42,
     "unopposed_by_party": {
-      "Republican": 16,
-      "Democrat": 23
+      "Republican": 17,
+      "Democrat": 25
     }
   },
-  "scraped_at": "2026-03-06T04:42:59.940315+00:00",
+  "scraped_at": "2026-03-07T04:40:22.991991+00:00",
   "unopposed_candidates": [
     {
       "state": "MI",
@@ -178,6 +178,15 @@
     {
       "state": "MI",
       "office": "State Senate",
+      "district": "District 26",
+      "candidate": "John Hall",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
       "district": "District 32",
       "candidate": "Kim Cole",
       "party": "Republican",
@@ -232,6 +241,15 @@
     {
       "state": "MI",
       "office": "State House",
+      "district": "District 22",
+      "candidate": "Ezekiel Chojnacki",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
       "district": "District 37",
       "candidate": "Gerik Nasstrom",
       "party": "Democrat",
@@ -271,6 +289,15 @@
       "district": "District 44",
       "candidate": "Jim Haadsma",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 54",
+      "candidate": "Roman Gaskey",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

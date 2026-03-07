@@ -5,10 +5,10 @@
   "total": 127,
   "total_races": 127,
   "total_races_by_party": {
-    "Democrat": 45,
-    "Republican": 100,
     "Federalist": 1,
-    "Unknown": 6
+    "Unknown": 6,
+    "Democrat": 45,
+    "Republican": 101
   },
   "general": {
     "total_races": 122,
@@ -20,7 +20,7 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 45,
-      "Republican": 100
+      "Republican": 101
     },
     "total_unopposed": 125,
     "unopposed_by_party": {
@@ -28,7 +28,7 @@
       "Republican": 86
     }
   },
-  "scraped_at": "2026-03-06T04:48:06.434012+00:00",
+  "scraped_at": "2026-03-07T04:45:51.057502+00:00",
   "unopposed_candidates": [
     {
       "state": "TN",
@@ -753,6 +753,15 @@
     {
       "state": "TN",
       "office": "State House",
+      "district": "District 52",
+      "candidate": "Michele Vetter",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
       "district": "District 53",
       "candidate": "Jason Powell",
       "party": "Democrat",
@@ -963,15 +972,6 @@
       "district": "District 75",
       "candidate": "Allie Phillips",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TN",
-      "office": "State House",
-      "district": "District 75",
-      "candidate": "Jeff Burkhart",
-      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

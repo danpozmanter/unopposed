@@ -2,12 +2,12 @@
   "state": "NV",
   "state_name": "Nevada",
   "year": 2026,
-  "total": 10,
+  "total": 11,
   "total_races": 58,
   "total_races_by_party": {
-    "Republican": 11,
-    "Democrat": 8,
-    "Unknown": 1
+    "Unknown": 1,
+    "Democrat": 9,
+    "Republican": 11
   },
   "general": {
     "total_races": 54,
@@ -16,16 +16,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 8,
+      "Democrat": 9,
       "Republican": 11
     },
-    "total_unopposed": 10,
+    "total_unopposed": 11,
     "unopposed_by_party": {
-      "Democrat": 4,
+      "Democrat": 5,
       "Republican": 6
     }
   },
-  "scraped_at": "2026-03-06T04:44:23.741779+00:00",
+  "scraped_at": "2026-03-07T04:41:47.206241+00:00",
   "unopposed_candidates": [
     {
       "state": "NV",
@@ -69,6 +69,15 @@
       "district": "District 2",
       "candidate": "Drew Teitelbaum",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Ryan Hampton",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

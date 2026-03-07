@@ -2,41 +2,41 @@
   "state": "ID",
   "state_name": "Idaho",
   "year": 2026,
-  "total": 127,
+  "total": 140,
   "total_races": 109,
   "total_races_by_party": {
-    "Republican": 105,
     "Libertarian": 2,
-    "Democrat": 77,
+    "Republican": 107,
+    "Democrat": 96,
     "Unknown": 4,
-    "Other": 12
+    "Other": 15
   },
   "general": {
     "total_races": 109,
-    "total_unopposed": 9,
+    "total_unopposed": 10,
     "unopposed_by_party": {
       "Unknown": 2,
-      "Other": 7
+      "Other": 8
     }
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 77,
-      "Republican": 105,
+      "Democrat": 96,
+      "Republican": 107,
       "Libertarian": 2,
       "Unknown": 2,
-      "Other": 4
+      "Other": 6
     },
-    "total_unopposed": 94,
+    "total_unopposed": 106,
     "unopposed_by_party": {
       "Libertarian": 1,
       "Unknown": 1,
-      "Republican": 51,
-      "Democrat": 61,
-      "Other": 4
+      "Democrat": 76,
+      "Republican": 46,
+      "Other": 6
     }
   },
-  "scraped_at": "2026-03-06T04:40:18.955965+00:00",
+  "scraped_at": "2026-03-07T04:37:43.392823+00:00",
   "unopposed_candidates": [
     {
       "state": "ID",
@@ -78,6 +78,15 @@
       "state": "ID",
       "office": "State Senate",
       "district": "District 2",
+      "candidate": "Valerie Wade",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "State Senate",
+      "district": "District 2",
       "candidate": "Phil Hart",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -105,8 +114,26 @@
       "state": "ID",
       "office": "State Senate",
       "district": "District 4",
+      "candidate": "Carissa Brewer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "State Senate",
+      "district": "District 4",
       "candidate": "Ben Toews",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "State Senate",
+      "district": "District 5",
+      "candidate": "Adam Chapman",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -123,6 +150,15 @@
       "state": "ID",
       "office": "State Senate",
       "district": "District 7",
+      "candidate": "Patrice Yeatter",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "State Senate",
+      "district": "District 7",
       "candidate": "Cindy Carlson",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -131,8 +167,8 @@
     {
       "state": "ID",
       "office": "State Senate",
-      "district": "District 9",
-      "candidate": "Rachel Buck",
+      "district": "District 8",
+      "candidate": "John Garrett",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -141,7 +177,7 @@
       "state": "ID",
       "office": "State Senate",
       "district": "District 10",
-      "candidate": "Letishia Silva",
+      "candidate": "Nancy Parker",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -158,9 +194,36 @@
     {
       "state": "ID",
       "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Susan Counsil",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Esther Ma",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "State Senate",
       "district": "District 12",
-      "candidate": "Ben Adams",
-      "party": "Republican",
+      "candidate": "Krystal Flippence",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Letishia Silva",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -168,8 +231,17 @@
       "state": "ID",
       "office": "State Senate",
       "district": "District 14",
-      "candidate": "C. Scott Grow",
-      "party": "Republican",
+      "candidate": "Ariel Olvera",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Kirsten Faith Richardson",
+      "party": "Other",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -185,27 +257,9 @@
     {
       "state": "ID",
       "office": "State Senate",
-      "district": "District 15",
-      "candidate": "Codi Galloway",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ID",
-      "office": "State Senate",
-      "district": "District 16",
-      "candidate": "Alison Rabe",
+      "district": "District 17",
+      "candidate": "Carrie Semmelroth",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ID",
-      "office": "State Senate",
-      "district": "District 16",
-      "candidate": "Leland Lay",
-      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -213,8 +267,8 @@
       "state": "ID",
       "office": "State Senate",
       "district": "District 17",
-      "candidate": "Carrie Semmelroth",
-      "party": "Democrat",
+      "candidate": "Benjamin Chafetz",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -248,8 +302,17 @@
     {
       "state": "ID",
       "office": "State Senate",
-      "district": "District 20",
-      "candidate": "Andy Arriaga",
+      "district": "District 19",
+      "candidate": "Melissa Christian",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Brenda Quick",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -267,8 +330,8 @@
       "state": "ID",
       "office": "State Senate",
       "district": "District 22",
-      "candidate": "Lori Den Hartog",
-      "party": "Republican",
+      "candidate": "Karlie Easley",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -293,6 +356,15 @@
     {
       "state": "ID",
       "office": "State Senate",
+      "district": "District 24",
+      "candidate": "Mary Jo Durfee",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "State Senate",
       "district": "District 25",
       "candidate": "W. Lane Startin",
       "party": "Democrat",
@@ -311,9 +383,9 @@
     {
       "state": "ID",
       "office": "State Senate",
-      "district": "District 26",
-      "candidate": "Christine Marie Ivie",
-      "party": "Republican",
+      "district": "District 27",
+      "candidate": "Margo Saunders",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -339,8 +411,17 @@
       "state": "ID",
       "office": "State Senate",
       "district": "District 30",
-      "candidate": "Julie VanOrden",
-      "party": "Republican",
+      "candidate": "Joni Sorensen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "State Senate",
+      "district": "District 31",
+      "candidate": "Kevin Gerrard",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -357,8 +438,26 @@
       "state": "ID",
       "office": "State Senate",
       "district": "District 32",
+      "candidate": "Konnor Whitfield",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "State Senate",
+      "district": "District 32",
       "candidate": "Kevin Cook",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "State Senate",
+      "district": "District 33",
+      "candidate": "Jan Brown",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -375,7 +474,7 @@
       "state": "ID",
       "office": "State Senate",
       "district": "District 34",
-      "candidate": "Ethan Golden Sanford",
+      "candidate": "Ethan Sanford",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -392,8 +491,17 @@
     {
       "state": "ID",
       "office": "State Senate",
+      "district": "District 35",
+      "candidate": "Marty Kilhefner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "State Senate",
       "district": "District 1",
-      "candidate": "Steven Johnson",
+      "candidate": "Steve Johnson",
       "party": "Other",
       "unopposed_in": "General",
       "source": "Ballotpedia"
@@ -403,6 +511,15 @@
       "office": "State Senate",
       "district": "District 17",
       "candidate": "Blaise Larrabee",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ID",
+      "office": "State Senate",
+      "district": "District 24",
+      "candidate": "Anna Germana Scholes",
       "party": "Other",
       "unopposed_in": "General",
       "source": "Ballotpedia"

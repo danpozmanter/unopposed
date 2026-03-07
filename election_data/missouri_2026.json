@@ -2,10 +2,10 @@
   "state": "MO",
   "state_name": "Missouri",
   "year": 2026,
-  "total": 137,
+  "total": 148,
   "total_races": 188,
   "total_races_by_party": {
-    "Democrat": 82,
+    "Democrat": 94,
     "Republican": 112,
     "Unknown": 1,
     "Other": 1
@@ -20,16 +20,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 82,
+      "Democrat": 94,
       "Republican": 112
     },
-    "total_unopposed": 135,
+    "total_unopposed": 146,
     "unopposed_by_party": {
       "Republican": 68,
-      "Democrat": 67
+      "Democrat": 78
     }
   },
-  "scraped_at": "2026-03-06T04:43:39.582254+00:00",
+  "scraped_at": "2026-03-07T04:41:03.646964+00:00",
   "unopposed_candidates": [
     {
       "state": "MO",
@@ -268,6 +268,24 @@
     {
       "state": "MO",
       "office": "State House",
+      "district": "District 16",
+      "candidate": "Daniel Kinate",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Susan Hoisington",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
       "district": "District 17",
       "candidate": "Bill Allen",
       "party": "Republican",
@@ -368,6 +386,15 @@
       "state": "MO",
       "office": "State House",
       "district": "District 31",
+      "candidate": "Justin Geiser",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 31",
       "candidate": "Ron Fowler",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -414,6 +441,15 @@
       "office": "State House",
       "district": "District 35",
       "candidate": "Michael Scott",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Karissa Varga",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -529,6 +565,15 @@
     {
       "state": "MO",
       "office": "State House",
+      "district": "District 56",
+      "candidate": "Staci Czar",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
       "district": "District 57",
       "candidate": "Matthew Sergent",
       "party": "Republican",
@@ -549,6 +594,15 @@
       "office": "State House",
       "district": "District 60",
       "candidate": "Suzanne Luther",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 61",
+      "candidate": "Stacy Bax",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -691,6 +745,15 @@
     {
       "state": "MO",
       "office": "State House",
+      "district": "District 88",
+      "candidate": "Jennifer Trickey",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
       "district": "District 89",
       "candidate": "Luke Barber",
       "party": "Democrat",
@@ -755,6 +818,15 @@
       "state": "MO",
       "office": "State House",
       "district": "District 96",
+      "candidate": "Matt Vitale",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 96",
       "candidate": "Brad Christ",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -793,6 +865,15 @@
       "district": "District 100",
       "candidate": "Philip Oehlerking",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 101",
+      "candidate": "Sherry Kopischke",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -926,6 +1007,15 @@
       "state": "MO",
       "office": "State House",
       "district": "District 116",
+      "candidate": "Whitney Wisker-Brooks",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 116",
       "candidate": "Jason Green",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -1044,6 +1134,15 @@
       "office": "State House",
       "district": "District 130",
       "candidate": "Leslie Jones",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 131",
+      "candidate": "Ashley Cossins",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -1222,6 +1321,15 @@
     {
       "state": "MO",
       "office": "State House",
+      "district": "District 154",
+      "candidate": "JoJo Stewart",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
       "district": "District 155",
       "candidate": "Joshua Berzins",
       "party": "Democrat",
@@ -1234,15 +1342,6 @@
       "district": "District 155",
       "candidate": "Matthew Overcast",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MO",
-      "office": "State House",
-      "district": "District 156",
-      "candidate": "Willard Harris",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
