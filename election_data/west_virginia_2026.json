@@ -5,8 +5,8 @@
   "total": 129,
   "total_races": 120,
   "total_races_by_party": {
-    "Democrat": 107,
     "Republican": 113,
+    "Democrat": 107,
     "Unknown": 2,
     "Other": 6
   },
@@ -29,7 +29,7 @@
       "Republican": 44
     }
   },
-  "scraped_at": "2026-03-07T04:47:29.959430+00:00",
+  "scraped_at": "2026-03-08T04:49:24.311620+00:00",
   "unopposed_candidates": [
     {
       "state": "WV",

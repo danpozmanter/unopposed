@@ -5,10 +5,10 @@
   "total": 62,
   "total_races": 211,
   "total_races_by_party": {
-    "Republican": 18,
-    "American Independent": 1,
     "Unknown": 6,
+    "Republican": 18,
     "Democrat": 59,
+    "American Independent": 1,
     "Other": 1
   },
   "general": {
@@ -31,7 +31,7 @@
       "Republican": 13
     }
   },
-  "scraped_at": "2026-03-07T04:40:04.538436+00:00",
+  "scraped_at": "2026-03-08T04:42:07.853936+00:00",
   "unopposed_candidates": [
     {
       "state": "MA",

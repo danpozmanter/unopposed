@@ -2,27 +2,28 @@
   "state": "CA",
   "state_name": "California",
   "year": 2026,
-  "total": 75,
+  "total": 76,
   "total_races": 153,
   "total_races_by_party": {
+    "Republican": 53,
     "Democrat": 74,
-    "Republican": 54,
-    "Unknown": 19,
+    "Unknown": 20,
     "Green/Rainbow": 1,
     "American Independent": 1,
     "Libertarian": 1
   },
   "general": {
-    "total_races": 100,
-    "total_unopposed": 1,
+    "total_races": 101,
+    "total_unopposed": 2,
     "unopposed_by_party": {
+      "Unknown": 1,
       "Democrat": 1
     }
   },
   "primary": {
     "total_races_by_party": {
       "Democrat": 74,
-      "Republican": 54,
+      "Republican": 53,
       "Unknown": 19,
       "Green/Rainbow": 1,
       "American Independent": 1,
@@ -38,7 +39,7 @@
       "Libertarian": 1
     }
   },
-  "scraped_at": "2026-03-07T04:35:38.115873+00:00",
+  "scraped_at": "2026-03-08T04:38:04.192510+00:00",
   "unopposed_candidates": [
     {
       "state": "CA",
@@ -54,6 +55,24 @@
       "office": "US House",
       "district": "District 2",
       "candidate": "Paul Saulsbury",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Kevin Kiley",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Robb Tucker",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -451,15 +470,6 @@
       "district": "District 47",
       "candidate": "Eric Troutman",
       "party": "Unknown",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CA",
-      "office": "US House",
-      "district": "District 48",
-      "candidate": "Darrell Issa",
-      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
