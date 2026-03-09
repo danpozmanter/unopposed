@@ -2,10 +2,10 @@
   "state": "OR",
   "state_name": "Oregon",
   "year": 2026,
-  "total": 79,
+  "total": 83,
   "total_races": 83,
   "total_races_by_party": {
-    "Democrat": 63,
+    "Democrat": 68,
     "Republican": 53,
     "Libertarian": 1,
     "Unknown": 2,
@@ -24,16 +24,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 63,
+      "Democrat": 68,
       "Republican": 53
     },
-    "total_unopposed": 75,
+    "total_unopposed": 79,
     "unopposed_by_party": {
-      "Democrat": 43,
+      "Democrat": 47,
       "Republican": 32
     }
   },
-  "scraped_at": "2026-03-08T04:46:26.418167+00:00",
+  "scraped_at": "2026-03-09T04:50:07.410751+00:00",
   "unopposed_candidates": [
     {
       "state": "OR",
@@ -83,6 +83,15 @@
     {
       "state": "OR",
       "office": "State Senate",
+      "district": "District 4",
+      "candidate": "Floyd Prozanski",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State Senate",
       "district": "District 7",
       "candidate": "James Manning",
       "party": "Democrat",
@@ -93,8 +102,26 @@
       "state": "OR",
       "office": "State Senate",
       "district": "District 8",
+      "candidate": "Sara Gelser Blouin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State Senate",
+      "district": "District 8",
       "candidate": "Valerie Draper Woldeit",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Deb Patterson",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -147,15 +174,6 @@
       "state": "OR",
       "office": "State Senate",
       "district": "District 15",
-      "candidate": "Myrna Munoz",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OR",
-      "office": "State Senate",
-      "district": "District 15",
       "candidate": "Mike Niehuser",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -184,6 +202,24 @@
       "office": "State Senate",
       "district": "District 19",
       "candidate": "Rob Wagner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State Senate",
+      "district": "District 20",
+      "candidate": "Mark Meek",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OR",
+      "office": "State Senate",
+      "district": "District 24",
+      "candidate": "Kayse Jama",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
