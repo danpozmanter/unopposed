@@ -2,21 +2,19 @@
   "state": "CA",
   "state_name": "California",
   "year": 2026,
-  "total": 76,
+  "total": 75,
   "total_races": 153,
   "total_races_by_party": {
-    "Democrat": 74,
     "Republican": 53,
+    "Democrat": 74,
     "Unknown": 20,
-    "Green/Rainbow": 1,
     "American Independent": 1,
     "Libertarian": 1
   },
   "general": {
-    "total_races": 101,
-    "total_unopposed": 2,
+    "total_races": 100,
+    "total_unopposed": 1,
     "unopposed_by_party": {
-      "Unknown": 1,
       "Democrat": 1
     }
   },
@@ -24,22 +22,20 @@
     "total_races_by_party": {
       "Democrat": 74,
       "Republican": 53,
-      "Unknown": 19,
-      "Green/Rainbow": 1,
+      "Unknown": 20,
       "American Independent": 1,
       "Libertarian": 1
     },
     "total_unopposed": 75,
     "unopposed_by_party": {
       "Republican": 29,
-      "Unknown": 13,
+      "Unknown": 14,
       "Democrat": 30,
-      "Green/Rainbow": 1,
       "American Independent": 1,
       "Libertarian": 1
     }
   },
-  "scraped_at": "2026-03-09T04:41:44.846488+00:00",
+  "scraped_at": "2026-03-10T04:38:36.367668+00:00",
   "unopposed_candidates": [
     {
       "state": "CA",
@@ -63,15 +59,6 @@
       "state": "CA",
       "office": "US House",
       "district": "District 3",
-      "candidate": "Kevin Kiley",
-      "party": "Unknown",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CA",
-      "office": "US House",
-      "district": "District 3",
       "candidate": "Robb Tucker",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -82,6 +69,15 @@
       "office": "US House",
       "district": "District 4",
       "candidate": "John Wesley Tyler",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 6",
+      "candidate": "Kevin Kiley",
       "party": "Unknown",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -218,15 +214,6 @@
       "district": "District 19",
       "candidate": "Ana Luz Acevedo-Cabrera",
       "party": "Unknown",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CA",
-      "office": "US House",
-      "district": "District 19",
-      "candidate": "Sean Dougherty",
-      "party": "Green/Rainbow",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

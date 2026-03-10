@@ -2,12 +2,12 @@
   "state": "MN",
   "state_name": "Minnesota",
   "year": 2026,
-  "total": 79,
+  "total": 80,
   "total_races": 210,
   "total_races_by_party": {
-    "Democrat": 52,
-    "Republican": 48,
-    "Unknown": 4
+    "Unknown": 4,
+    "Democrat": 53,
+    "Republican": 48
   },
   "general": {
     "total_races": 205,
@@ -18,16 +18,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 52,
+      "Democrat": 53,
       "Republican": 48
     },
-    "total_unopposed": 67,
+    "total_unopposed": 68,
     "unopposed_by_party": {
-      "Democrat": 38,
+      "Democrat": 39,
       "Republican": 37
     }
   },
-  "scraped_at": "2026-03-09T04:46:36.629154+00:00",
+  "scraped_at": "2026-03-10T04:43:49.814154+00:00",
   "unopposed_candidates": [
     {
       "state": "MN",
@@ -440,6 +440,15 @@
       "district": "District 54",
       "candidate": "Ben Bakeberg",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State Senate",
+      "district": "District 58",
+      "candidate": "Mark Legvold",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

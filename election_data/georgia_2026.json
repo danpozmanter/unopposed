@@ -2,12 +2,12 @@
   "state": "GA",
   "state_name": "Georgia",
   "year": 2026,
-  "total": 167,
+  "total": 171,
   "total_races": 252,
   "total_races_by_party": {
-    "Democrat": 98,
     "Unknown": 5,
-    "Republican": 111,
+    "Democrat": 100,
+    "Republican": 112,
     "Socialist Labor": 1,
     "Communist": 1
   },
@@ -22,16 +22,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 98,
-      "Republican": 111
+      "Democrat": 100,
+      "Republican": 112
     },
-    "total_unopposed": 161,
+    "total_unopposed": 165,
     "unopposed_by_party": {
-      "Republican": 89,
-      "Democrat": 72
+      "Republican": 91,
+      "Democrat": 74
     }
   },
-  "scraped_at": "2026-03-09T04:43:08.568286+00:00",
+  "scraped_at": "2026-03-10T04:40:03.647065+00:00",
   "unopposed_candidates": [
     {
       "state": "GA",
@@ -613,6 +613,15 @@
       "state": "GA",
       "office": "State House",
       "district": "District 23",
+      "candidate": "Rob Epstein",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State House",
+      "district": "District 23",
       "candidate": "Mandi Ballinger",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -659,6 +668,15 @@
       "office": "State House",
       "district": "District 32",
       "candidate": "Chris Erwin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Alan Powell",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -945,15 +963,6 @@
     {
       "state": "GA",
       "office": "State House",
-      "district": "District 74",
-      "candidate": "Yasmin Neal",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "GA",
-      "office": "State House",
       "district": "District 76",
       "candidate": "Sandra Scott",
       "party": "Democrat",
@@ -965,6 +974,15 @@
       "office": "State House",
       "district": "District 78",
       "candidate": "Demetrius Douglas",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State House",
+      "district": "District 79",
+      "candidate": "Yasmin Neal",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -999,15 +1017,6 @@
     {
       "state": "GA",
       "office": "State House",
-      "district": "District 84",
-      "candidate": "Omari Crawford",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "GA",
-      "office": "State House",
       "district": "District 85",
       "candidate": "Karla Drenner",
       "party": "Democrat",
@@ -1028,6 +1037,15 @@
       "office": "State House",
       "district": "District 88",
       "candidate": "Billy Mitchell",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State House",
+      "district": "District 89",
+      "candidate": "Omari Crawford",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -1179,6 +1197,15 @@
     {
       "state": "GA",
       "office": "State House",
+      "district": "District 117",
+      "candidate": "Kim Thomas Smith",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State House",
       "district": "District 118",
       "candidate": "Jodi Lewis",
       "party": "Democrat",
@@ -1209,6 +1236,15 @@
       "district": "District 122",
       "candidate": "Spencer Frye",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State House",
+      "district": "District 123",
+      "candidate": "Rob Leverett",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

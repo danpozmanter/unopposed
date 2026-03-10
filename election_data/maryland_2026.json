@@ -2,12 +2,12 @@
   "state": "MD",
   "state_name": "Maryland",
   "year": 2026,
-  "total": 98,
+  "total": 99,
   "total_races": 126,
   "total_races_by_party": {
-    "Unknown": 2,
-    "Democrat": 122,
     "Republican": 81,
+    "Democrat": 123,
+    "Unknown": 2,
     "Green/Rainbow": 2
   },
   "general": {
@@ -20,16 +20,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 122,
+      "Democrat": 123,
       "Republican": 81
     },
-    "total_unopposed": 84,
+    "total_unopposed": 85,
     "unopposed_by_party": {
       "Republican": 50,
-      "Democrat": 45
+      "Democrat": 46
     }
   },
-  "scraped_at": "2026-03-09T04:45:45.751130+00:00",
+  "scraped_at": "2026-03-10T04:42:51.756848+00:00",
   "unopposed_candidates": [
     {
       "state": "MD",
@@ -460,6 +460,15 @@
       "district": "District 34",
       "candidate": "Raj Goel",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 35",
+      "candidate": "Neil Jennings",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
