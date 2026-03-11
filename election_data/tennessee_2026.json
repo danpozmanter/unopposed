@@ -2,13 +2,13 @@
   "state": "TN",
   "state_name": "Tennessee",
   "year": 2026,
-  "total": 127,
+  "total": 126,
   "total_races": 127,
   "total_races_by_party": {
-    "Democrat": 45,
+    "Federalist": 1,
     "Unknown": 6,
     "Republican": 101,
-    "Federalist": 1
+    "Democrat": 45
   },
   "general": {
     "total_races": 122,
@@ -22,13 +22,13 @@
       "Democrat": 45,
       "Republican": 101
     },
-    "total_unopposed": 125,
+    "total_unopposed": 124,
     "unopposed_by_party": {
-      "Democrat": 39,
+      "Democrat": 38,
       "Republican": 86
     }
   },
-  "scraped_at": "2026-03-10T04:49:18.649177+00:00",
+  "scraped_at": "2026-03-11T04:48:25.508215+00:00",
   "unopposed_candidates": [
     {
       "state": "TN",
@@ -135,15 +135,6 @@
       "district": "District 8",
       "candidate": "David Kustoff",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TN",
-      "office": "US House",
-      "district": "District 9",
-      "candidate": "Justin Pearson",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

@@ -2,14 +2,15 @@
   "state": "CA",
   "state_name": "California",
   "year": 2026,
-  "total": 75,
+  "total": 77,
   "total_races": 153,
   "total_races_by_party": {
-    "Republican": 53,
     "Democrat": 74,
+    "Republican": 54,
     "Unknown": 20,
     "American Independent": 1,
-    "Libertarian": 1
+    "Libertarian": 1,
+    "Other": 1
   },
   "general": {
     "total_races": 100,
@@ -21,21 +22,23 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 74,
-      "Republican": 53,
+      "Republican": 54,
       "Unknown": 20,
       "American Independent": 1,
-      "Libertarian": 1
+      "Libertarian": 1,
+      "Other": 1
     },
-    "total_unopposed": 75,
+    "total_unopposed": 77,
     "unopposed_by_party": {
-      "Republican": 29,
+      "Republican": 30,
       "Unknown": 14,
       "Democrat": 30,
       "American Independent": 1,
-      "Libertarian": 1
+      "Libertarian": 1,
+      "Other": 1
     }
   },
-  "scraped_at": "2026-03-10T04:38:36.367668+00:00",
+  "scraped_at": "2026-03-11T04:39:00.947637+00:00",
   "unopposed_candidates": [
     {
       "state": "CA",
@@ -463,6 +466,15 @@
     {
       "state": "CA",
       "office": "US House",
+      "district": "District 48",
+      "candidate": "Jim Desmond",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
       "district": "District 50",
       "candidate": "Adam Huntington",
       "party": "Republican",
@@ -682,6 +694,15 @@
       "district": "District 9",
       "candidate": "Matthew Adams",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Chirag Kathrani",
+      "party": "Other",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

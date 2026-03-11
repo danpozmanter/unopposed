@@ -5,8 +5,8 @@
   "total": 232,
   "total_races": 206,
   "total_races_by_party": {
-    "Democrat": 393,
     "Republican": 329,
+    "Democrat": 393,
     "Unknown": 21,
     "American Independent": 1,
     "Other": 3
@@ -30,7 +30,7 @@
       "Democrat": 127
     }
   },
-  "scraped_at": "2026-03-10T04:49:40.282135+00:00",
+  "scraped_at": "2026-03-11T04:48:38.369056+00:00",
   "unopposed_candidates": [
     {
       "state": "TX",
