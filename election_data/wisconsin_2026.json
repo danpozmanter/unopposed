@@ -2,12 +2,12 @@
   "state": "WI",
   "state_name": "Wisconsin",
   "year": 2026,
-  "total": 50,
+  "total": 53,
   "total_races": 125,
   "total_races_by_party": {
-    "Republican": 33,
-    "Democrat": 33,
     "Unknown": 4,
+    "Democrat": 33,
+    "Republican": 36,
     "Common Sense": 1,
     "Other": 1
   },
@@ -22,15 +22,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 33,
-      "Republican": 33
+      "Republican": 36
     },
-    "total_unopposed": 47,
+    "total_unopposed": 50,
     "unopposed_by_party": {
       "Democrat": 22,
-      "Republican": 25
+      "Republican": 28
     }
   },
-  "scraped_at": "2026-03-11T04:50:06.431078+00:00",
+  "scraped_at": "2026-03-12T04:50:46.608759+00:00",
   "unopposed_candidates": [
     {
       "state": "WI",
@@ -280,6 +280,33 @@
       "office": "State Senate",
       "district": "District 33",
       "candidate": "Chris Kapenga",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Joel Kitchens",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Ron Tusler",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "David Steffen",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

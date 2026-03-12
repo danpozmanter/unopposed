@@ -2,11 +2,11 @@
   "state": "VT",
   "state_name": "Vermont",
   "year": 2026,
-  "total": 49,
+  "total": 54,
   "total_races": 126,
   "total_races_by_party": {
-    "Republican": 24,
-    "Democrat": 29,
+    "Republican": 28,
+    "Democrat": 30,
     "Other": 6
   },
   "general": {
@@ -19,16 +19,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Republican": 24,
-      "Democrat": 29
+      "Republican": 28,
+      "Democrat": 30
     },
-    "total_unopposed": 43,
+    "total_unopposed": 48,
     "unopposed_by_party": {
-      "Republican": 22,
-      "Democrat": 21
+      "Republican": 26,
+      "Democrat": 22
     }
   },
-  "scraped_at": "2026-03-11T04:49:11.900299+00:00",
+  "scraped_at": "2026-03-12T04:49:51.174944+00:00",
   "unopposed_candidates": [
     {
       "state": "VT",
@@ -207,6 +207,51 @@
       "district": "Bennington-4 District(2 seats)",
       "candidate": "Rob Hunter",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Caledonia-Essex District(2 seats)",
+      "candidate": "Scott Campbell",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Caledonia-Essex District(2 seats)",
+      "candidate": "Deborah Cordz Dolgin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Caledonia-Washington District",
+      "candidate": "Greg Burtt",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Caledonia-2 District",
+      "candidate": "Michael Southworth",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Caledonia-3 District(2 seats)",
+      "candidate": "Beth Quimby",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

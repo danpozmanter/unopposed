@@ -2,16 +2,16 @@
   "state": "TN",
   "state_name": "Tennessee",
   "year": 2026,
-  "total": 126,
+  "total": 121,
   "total_races": 127,
   "total_races_by_party": {
-    "Federalist": 1,
-    "Unknown": 6,
+    "Democrat": 45,
+    "Unknown": 10,
     "Republican": 101,
-    "Democrat": 45
+    "Federalist": 1
   },
   "general": {
-    "total_races": 122,
+    "total_races": 126,
     "total_unopposed": 2,
     "unopposed_by_party": {
       "Unknown": 2
@@ -22,23 +22,14 @@
       "Democrat": 45,
       "Republican": 101
     },
-    "total_unopposed": 124,
+    "total_unopposed": 119,
     "unopposed_by_party": {
-      "Democrat": 38,
-      "Republican": 86
+      "Republican": 86,
+      "Democrat": 33
     }
   },
-  "scraped_at": "2026-03-11T04:48:25.508215+00:00",
+  "scraped_at": "2026-03-12T04:49:05.358567+00:00",
   "unopposed_candidates": [
-    {
-      "state": "TN",
-      "office": "US Senate",
-      "district": "Statewide",
-      "candidate": "Diana Onyejiaka",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
     {
       "state": "TN",
       "office": "US Senate",
@@ -46,24 +37,6 @@
       "candidate": "Bill Hagerty",
       "party": "Republican",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TN",
-      "office": "US House",
-      "district": "District 1",
-      "candidate": "Kristi Burke",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TN",
-      "office": "US House",
-      "district": "District 2",
-      "candidate": "Oliver Freeman Pogue",
-      "party": "Unknown",
-      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
@@ -88,15 +61,6 @@
       "state": "TN",
       "office": "US House",
       "district": "District 3",
-      "candidate": "Derek Hawn",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TN",
-      "office": "US House",
-      "district": "District 3",
       "candidate": "Charles J. Fleischmann",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -114,28 +78,19 @@
     {
       "state": "TN",
       "office": "US House",
-      "district": "District 7",
-      "candidate": "David Jones",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TN",
-      "office": "US House",
-      "district": "District 8",
-      "candidate": "William Wicker",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TN",
-      "office": "US House",
       "district": "District 8",
       "candidate": "David Kustoff",
       "party": "Republican",
       "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "US House",
+      "district": "District 9",
+      "candidate": "Wendell Blankenship",
+      "party": "Unknown",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {

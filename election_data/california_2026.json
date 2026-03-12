@@ -2,12 +2,12 @@
   "state": "CA",
   "state_name": "California",
   "year": 2026,
-  "total": 77,
+  "total": 76,
   "total_races": 153,
   "total_races_by_party": {
-    "Democrat": 74,
     "Republican": 54,
-    "Unknown": 20,
+    "Democrat": 75,
+    "Unknown": 19,
     "American Independent": 1,
     "Libertarian": 1,
     "Other": 1
@@ -21,24 +21,24 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 74,
+      "Democrat": 75,
       "Republican": 54,
-      "Unknown": 20,
+      "Unknown": 19,
       "American Independent": 1,
       "Libertarian": 1,
       "Other": 1
     },
-    "total_unopposed": 77,
+    "total_unopposed": 76,
     "unopposed_by_party": {
       "Republican": 30,
-      "Unknown": 14,
-      "Democrat": 30,
+      "Unknown": 12,
+      "Democrat": 31,
       "American Independent": 1,
       "Libertarian": 1,
       "Other": 1
     }
   },
-  "scraped_at": "2026-03-11T04:39:00.947637+00:00",
+  "scraped_at": "2026-03-12T04:39:39.983630+00:00",
   "unopposed_candidates": [
     {
       "state": "CA",
@@ -268,15 +268,6 @@
     {
       "state": "CA",
       "office": "US House",
-      "district": "District 23",
-      "candidate": "Karen Matthews",
-      "party": "Unknown",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CA",
-      "office": "US House",
       "district": "District 24",
       "candidate": "Salud Carbajal",
       "party": "Democrat",
@@ -298,15 +289,6 @@
       "district": "District 25",
       "candidate": "Raul Ruiz",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CA",
-      "office": "US House",
-      "district": "District 25",
-      "candidate": "Eli Owens",
-      "party": "Unknown",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -712,6 +694,15 @@
       "district": "District 27",
       "candidate": "Mike Murphy",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "Jason Byors",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

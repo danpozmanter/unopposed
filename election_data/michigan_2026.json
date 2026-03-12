@@ -2,12 +2,12 @@
   "state": "MI",
   "state_name": "Michigan",
   "year": 2026,
-  "total": 46,
+  "total": 45,
   "total_races": 163,
   "total_races_by_party": {
-    "Unknown": 5,
     "Republican": 29,
     "Democrat": 44,
+    "Unknown": 5,
     "Other": 1
   },
   "general": {
@@ -23,13 +23,13 @@
       "Democrat": 44,
       "Republican": 29
     },
-    "total_unopposed": 42,
+    "total_unopposed": 41,
     "unopposed_by_party": {
-      "Republican": 17,
+      "Republican": 16,
       "Democrat": 25
     }
   },
-  "scraped_at": "2026-03-11T04:43:23.727356+00:00",
+  "scraped_at": "2026-03-12T04:43:50.260168+00:00",
   "unopposed_candidates": [
     {
       "state": "MI",
@@ -45,15 +45,6 @@
       "office": "US House",
       "district": "District 2",
       "candidate": "John Moolenaar",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MI",
-      "office": "US House",
-      "district": "District 3",
-      "candidate": "J. Allen Fiorletta",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
