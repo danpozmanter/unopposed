@@ -2,23 +2,23 @@
   "state": "FL",
   "state_name": "Florida",
   "year": 2026,
-  "total": 154,
+  "total": 153,
   "total_races": 169,
   "total_races_by_party": {
     "Democrat": 96,
     "Republican": 124,
-    "Unknown": 13,
     "Libertarian": 2,
+    "Unknown": 13,
     "Constitution": 1,
     "Other": 10
   },
   "general": {
     "total_races": 154,
-    "total_unopposed": 19,
+    "total_unopposed": 18,
     "unopposed_by_party": {
       "Unknown": 8,
       "Libertarian": 1,
-      "Other": 10
+      "Other": 9
     }
   },
   "primary": {
@@ -32,7 +32,7 @@
       "Republican": 81
     }
   },
-  "scraped_at": "2026-03-12T04:40:43.189175+00:00",
+  "scraped_at": "2026-03-13T04:40:10.318397+00:00",
   "unopposed_candidates": [
     {
       "state": "FL",
@@ -1371,15 +1371,6 @@
       "office": "State House",
       "district": "District 10",
       "candidate": "Joseph Thornton",
-      "party": "Other",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "State House",
-      "district": "District 28",
-      "candidate": "Joseph Hannoush",
       "party": "Other",
       "unopposed_in": "General",
       "source": "Ballotpedia"

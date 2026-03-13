@@ -2,18 +2,18 @@
   "state": "NJ",
   "state_name": "New Jersey",
   "year": 2026,
-  "total": 13,
-  "total_races": 12,
+  "total": 14,
+  "total_races": 13,
   "total_races_by_party": {
-    "Unknown": 6,
+    "Republican": 10,
     "Democrat": 12,
-    "Republican": 10
+    "Unknown": 7
   },
   "general": {
-    "total_races": 6,
-    "total_unopposed": 6,
+    "total_races": 7,
+    "total_unopposed": 7,
     "unopposed_by_party": {
-      "Unknown": 6
+      "Unknown": 7
     }
   },
   "primary": {
@@ -27,7 +27,7 @@
       "Democrat": 1
     }
   },
-  "scraped_at": "2026-03-12T04:45:49.810258+00:00",
+  "scraped_at": "2026-03-13T04:45:31.654647+00:00",
   "unopposed_candidates": [
     {
       "state": "NJ",
@@ -135,6 +135,15 @@
       "candidate": "Carmen Bucco",
       "party": "Republican",
       "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "US House",
+      "district": "District 11",
+      "candidate": "Vincent Matrisciano",
+      "party": "Unknown",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {

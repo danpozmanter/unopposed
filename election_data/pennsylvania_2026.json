@@ -2,11 +2,11 @@
   "state": "PA",
   "state_name": "Pennsylvania",
   "year": 2026,
-  "total": 29,
+  "total": 27,
   "total_races": 246,
   "total_races_by_party": {
-    "Republican": 23,
     "Democrat": 21,
+    "Republican": 23,
     "Unknown": 5
   },
   "general": {
@@ -21,13 +21,13 @@
       "Democrat": 21,
       "Republican": 23
     },
-    "total_unopposed": 25,
+    "total_unopposed": 23,
     "unopposed_by_party": {
-      "Republican": 16,
+      "Republican": 14,
       "Democrat": 9
     }
   },
-  "scraped_at": "2026-03-12T04:47:57.967520+00:00",
+  "scraped_at": "2026-03-13T04:47:52.321382+00:00",
   "unopposed_candidates": [
     {
       "state": "PA",
@@ -62,24 +62,6 @@
       "district": "District 4",
       "candidate": "Madeleine Dean",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "PA",
-      "office": "US House",
-      "district": "District 4",
-      "candidate": "Ismaine Ayouaz",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "PA",
-      "office": "US House",
-      "district": "District 5",
-      "candidate": "Joshua Brown",
-      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -168,7 +150,7 @@
       "state": "PA",
       "office": "US House",
       "district": "District 14",
-      "candidate": "David Alan Bradstock",
+      "candidate": "Alan Bradstock",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
