@@ -2,12 +2,12 @@
   "state": "OH",
   "state_name": "Ohio",
   "year": 2026,
-  "total": 193,
+  "total": 194,
   "total_races": 131,
   "total_races_by_party": {
+    "Democrat": 127,
     "Republican": 121,
     "Unknown": 8,
-    "Democrat": 126,
     "Other": 14
   },
   "general": {
@@ -20,20 +20,20 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 126,
+      "Democrat": 127,
       "Republican": 121,
       "Unknown": 6,
       "Other": 13
     },
-    "total_unopposed": 188,
+    "total_unopposed": 189,
     "unopposed_by_party": {
       "Republican": 89,
-      "Democrat": 83,
+      "Democrat": 84,
       "Unknown": 3,
       "Other": 13
     }
   },
-  "scraped_at": "2026-03-13T04:46:54.216788+00:00",
+  "scraped_at": "2026-03-14T04:46:11.970182+00:00",
   "unopposed_candidates": [
     {
       "state": "OH",
@@ -1588,6 +1588,15 @@
       "office": "State House",
       "district": "District 86",
       "candidate": "Kent Halloran",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 87",
+      "candidate": "Lora Covrett",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

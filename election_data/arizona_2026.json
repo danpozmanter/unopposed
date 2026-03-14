@@ -2,13 +2,13 @@
   "state": "AZ",
   "state_name": "Arizona",
   "year": 2026,
-  "total": 29,
+  "total": 30,
   "total_races": 70,
   "total_races_by_party": {
+    "Republican": 17,
+    "Democrat": 22,
     "Green/Rainbow": 3,
     "Unknown": 4,
-    "Republican": 17,
-    "Democrat": 21,
     "Arizona Independent": 1,
     "Other": 3
   },
@@ -23,16 +23,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 21,
+      "Democrat": 22,
       "Republican": 17
     },
-    "total_unopposed": 24,
+    "total_unopposed": 25,
     "unopposed_by_party": {
       "Republican": 11,
-      "Democrat": 13
+      "Democrat": 14
     }
   },
-  "scraped_at": "2026-03-13T04:38:25.437338+00:00",
+  "scraped_at": "2026-03-14T04:37:40.743856+00:00",
   "unopposed_candidates": [
     {
       "state": "AZ",
@@ -237,6 +237,15 @@
       "office": "State House",
       "district": "District 5",
       "candidate": "Lela Alston",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Deborah Nardozzi",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

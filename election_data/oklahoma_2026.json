@@ -5,8 +5,8 @@
   "total": 45,
   "total_races": 132,
   "total_races_by_party": {
-    "Democrat": 24,
     "Republican": 44,
+    "Democrat": 24,
     "Unknown": 2,
     "Other": 1
   },
@@ -29,7 +29,7 @@
       "Democrat": 17
     }
   },
-  "scraped_at": "2026-03-13T04:47:07.259003+00:00",
+  "scraped_at": "2026-03-14T04:46:26.318552+00:00",
   "unopposed_candidates": [
     {
       "state": "OK",
@@ -44,7 +44,7 @@
       "state": "OK",
       "office": "US House",
       "district": "District 1",
-      "candidate": "Kevin Hern",
+      "candidate": "Mark Tedford",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

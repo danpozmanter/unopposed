@@ -2,11 +2,11 @@
   "state": "FL",
   "state_name": "Florida",
   "year": 2026,
-  "total": 153,
+  "total": 161,
   "total_races": 169,
   "total_races_by_party": {
-    "Democrat": 96,
     "Republican": 124,
+    "Democrat": 104,
     "Libertarian": 2,
     "Unknown": 13,
     "Constitution": 1,
@@ -23,16 +23,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 96,
+      "Democrat": 104,
       "Republican": 124
     },
-    "total_unopposed": 135,
+    "total_unopposed": 143,
     "unopposed_by_party": {
-      "Democrat": 54,
+      "Democrat": 62,
       "Republican": 81
     }
   },
-  "scraped_at": "2026-03-13T04:40:10.318397+00:00",
+  "scraped_at": "2026-03-14T04:39:14.999390+00:00",
   "unopposed_candidates": [
     {
       "state": "FL",
@@ -425,6 +425,15 @@
       "state": "FL",
       "office": "State House",
       "district": "District 1",
+      "candidate": "Francesca Yabraian",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "FL",
+      "office": "State House",
+      "district": "District 1",
       "candidate": "Michelle Salzman",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -596,6 +605,15 @@
       "state": "FL",
       "office": "State House",
       "district": "District 29",
+      "candidate": "Donald Kanfer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "FL",
+      "office": "State House",
+      "district": "District 29",
       "candidate": "Jason Michael Leslie",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -678,6 +696,15 @@
       "office": "State House",
       "district": "District 38",
       "candidate": "Michelle DeJesus",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "FL",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Jarod Fox",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -776,6 +803,15 @@
       "state": "FL",
       "office": "State House",
       "district": "District 49",
+      "candidate": "Robert Anzalone",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "FL",
+      "office": "State House",
+      "district": "District 49",
       "candidate": "Jennifer Kincart Jonsson",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -796,6 +832,15 @@
       "district": "District 50",
       "candidate": "Jennifer Canady",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "FL",
+      "office": "State House",
+      "district": "District 52",
+      "candidate": "Pamala Bivins",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -911,6 +956,15 @@
       "state": "FL",
       "office": "State House",
       "district": "District 69",
+      "candidate": "Ashley Herrmann",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "FL",
+      "office": "State House",
+      "district": "District 69",
       "candidate": "Danny Alvarez",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -973,6 +1027,15 @@
     {
       "state": "FL",
       "office": "State House",
+      "district": "District 76",
+      "candidate": "Phillip Carter",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "FL",
+      "office": "State House",
       "district": "District 77",
       "candidate": "Cornelius Fowler",
       "party": "Democrat",
@@ -1012,6 +1075,15 @@
       "district": "District 80",
       "candidate": "Adam Botana",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "FL",
+      "office": "State House",
+      "district": "District 81",
+      "candidate": "Kim Finer",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

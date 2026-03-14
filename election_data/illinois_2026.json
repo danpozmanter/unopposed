@@ -2,20 +2,19 @@
   "state": "IL",
   "state_name": "Illinois",
   "year": 2026,
-  "total": 218,
+  "total": 217,
   "total_races": 175,
   "total_races_by_party": {
-    "Democrat": 150,
     "Republican": 129,
-    "Unknown": 4,
+    "Democrat": 150,
+    "Unknown": 5,
     "Working Class": 1
   },
   "general": {
     "total_races": 162,
-    "total_unopposed": 3,
+    "total_unopposed": 2,
     "unopposed_by_party": {
-      "Unknown": 2,
-      "Working Class": 1
+      "Unknown": 2
     }
   },
   "primary": {
@@ -29,7 +28,7 @@
       "Democrat": 115
     }
   },
-  "scraped_at": "2026-03-13T04:41:13.700091+00:00",
+  "scraped_at": "2026-03-14T04:40:21.188770+00:00",
   "unopposed_candidates": [
     {
       "state": "IL",
@@ -65,15 +64,6 @@
       "candidate": "Angel Oakley",
       "party": "Republican",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "IL",
-      "office": "US House",
-      "district": "District 4",
-      "candidate": "Ed Hershey",
-      "party": "Working Class",
-      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {

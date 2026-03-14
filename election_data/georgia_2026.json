@@ -2,7 +2,7 @@
   "state": "GA",
   "state_name": "Georgia",
   "year": 2026,
-  "total": 285,
+  "total": 284,
   "total_races": 252,
   "total_races_by_party": {
     "Unknown": 4,
@@ -25,13 +25,13 @@
       "Democrat": 198,
       "Republican": 184
     },
-    "total_unopposed": 280,
+    "total_unopposed": 279,
     "unopposed_by_party": {
-      "Democrat": 132,
+      "Democrat": 131,
       "Republican": 148
     }
   },
-  "scraped_at": "2026-03-13T04:40:25.416447+00:00",
+  "scraped_at": "2026-03-14T04:39:32.167069+00:00",
   "unopposed_candidates": [
     {
       "state": "GA",
@@ -261,15 +261,6 @@
     {
       "state": "GA",
       "office": "State Senate",
-      "district": "District 15",
-      "candidate": "Ed Harbison",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "GA",
-      "office": "State Senate",
       "district": "District 16",
       "candidate": "Pauline Henley",
       "party": "Democrat",
@@ -360,15 +351,6 @@
     {
       "state": "GA",
       "office": "State Senate",
-      "district": "District 28",
-      "candidate": "Mel Keyton",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "GA",
-      "office": "State Senate",
       "district": "District 29",
       "candidate": "Randy Robertson",
       "party": "Republican",
@@ -405,15 +387,6 @@
     {
       "state": "GA",
       "office": "State Senate",
-      "district": "District 35",
-      "candidate": "Donzella James",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "GA",
-      "office": "State Senate",
       "district": "District 37",
       "candidate": "Ed Setzler",
       "party": "Republican",
@@ -443,6 +416,15 @@
       "office": "State Senate",
       "district": "District 41",
       "candidate": "Kim Jackson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State Senate",
+      "district": "District 43",
+      "candidate": "Sharon Henderson",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -2145,6 +2127,15 @@
       "district": "District 139",
       "candidate": "Carmen Rice",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State House",
+      "district": "District 140",
+      "candidate": "Marquese Averett",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

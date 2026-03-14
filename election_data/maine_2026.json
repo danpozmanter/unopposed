@@ -2,12 +2,12 @@
   "state": "ME",
   "state_name": "Maine",
   "year": 2026,
-  "total": 90,
+  "total": 92,
   "total_races": 190,
   "total_races_by_party": {
-    "Democrat": 38,
+    "Democrat": 39,
+    "Republican": 62,
     "Unknown": 2,
-    "Republican": 61,
     "Other": 9
   },
   "general": {
@@ -19,16 +19,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 38,
-      "Republican": 61
+      "Democrat": 39,
+      "Republican": 62
     },
-    "total_unopposed": 81,
+    "total_unopposed": 83,
     "unopposed_by_party": {
-      "Democrat": 30,
-      "Republican": 51
+      "Democrat": 31,
+      "Republican": 52
     }
   },
-  "scraped_at": "2026-03-13T04:42:47.469033+00:00",
+  "scraped_at": "2026-03-14T04:41:57.236980+00:00",
   "unopposed_candidates": [
     {
       "state": "ME",
@@ -537,6 +537,15 @@
     {
       "state": "ME",
       "office": "State House",
+      "district": "District 40",
+      "candidate": "Joseph McLaughlin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
       "district": "District 43",
       "candidate": "Peter Jenks",
       "party": "Democrat",
@@ -711,6 +720,15 @@
       "district": "District 90",
       "candidate": "Laurel Libby",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 95",
+      "candidate": "Kiernan Majerus-Collins",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

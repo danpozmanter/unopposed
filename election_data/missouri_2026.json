@@ -2,11 +2,11 @@
   "state": "MO",
   "state_name": "Missouri",
   "year": 2026,
-  "total": 148,
+  "total": 149,
   "total_races": 188,
   "total_races_by_party": {
     "Democrat": 94,
-    "Republican": 112,
+    "Republican": 113,
     "Unknown": 1,
     "Other": 1
   },
@@ -21,15 +21,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 94,
-      "Republican": 112
+      "Republican": 113
     },
-    "total_unopposed": 146,
+    "total_unopposed": 147,
     "unopposed_by_party": {
-      "Republican": 68,
+      "Republican": 69,
       "Democrat": 78
     }
   },
-  "scraped_at": "2026-03-13T04:44:17.884396+00:00",
+  "scraped_at": "2026-03-14T04:43:33.191533+00:00",
   "unopposed_candidates": [
     {
       "state": "MO",
@@ -846,6 +846,15 @@
       "office": "State House",
       "district": "District 97",
       "candidate": "David Robertson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 98",
+      "candidate": "Tim Bosch",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

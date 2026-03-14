@@ -2,36 +2,36 @@
   "state": "MA",
   "state_name": "Massachusetts",
   "year": 2026,
-  "total": 62,
+  "total": 63,
   "total_races": 211,
   "total_races_by_party": {
-    "Democrat": 59,
-    "Unknown": 6,
+    "Democrat": 58,
     "Republican": 18,
+    "Unknown": 7,
     "American Independent": 1,
-    "Other": 1
+    "Other": 2
   },
   "general": {
-    "total_races": 206,
-    "total_unopposed": 7,
+    "total_races": 207,
+    "total_unopposed": 9,
     "unopposed_by_party": {
-      "Unknown": 5,
+      "Unknown": 6,
       "Democrat": 1,
-      "Other": 1
+      "Other": 2
     }
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 59,
+      "Democrat": 58,
       "Republican": 18
     },
-    "total_unopposed": 56,
+    "total_unopposed": 55,
     "unopposed_by_party": {
-      "Democrat": 43,
+      "Democrat": 42,
       "Republican": 13
     }
   },
-  "scraped_at": "2026-03-13T04:43:19.889166+00:00",
+  "scraped_at": "2026-03-14T04:42:29.445003+00:00",
   "unopposed_candidates": [
     {
       "state": "MA",
@@ -94,6 +94,15 @@
       "candidate": "Ayanna Pressley",
       "party": "Democrat",
       "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "US House",
+      "district": "District 8",
+      "candidate": "Michael Hammond",
+      "party": "Unknown",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
@@ -450,15 +459,6 @@
     {
       "state": "MA",
       "office": "State House",
-      "district": "2nd Middlesex District",
-      "candidate": "Matt McLaughlin",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MA",
-      "office": "State House",
       "district": "2nd Plymouth District",
       "candidate": "Sarah Hewins",
       "party": "Democrat",
@@ -587,6 +587,15 @@
       "office": "State House",
       "district": "1st Franklin District",
       "candidate": "Amy Lavallee",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "3rd Hampden District",
+      "candidate": "Jason Perron",
       "party": "Other",
       "unopposed_in": "General",
       "source": "Ballotpedia"

@@ -2,11 +2,11 @@
   "state": "CT",
   "state_name": "Connecticut",
   "year": 2026,
-  "total": 13,
+  "total": 15,
   "total_races": 193,
   "total_races_by_party": {
-    "Republican": 12,
-    "Democrat": 13,
+    "Republican": 13,
+    "Democrat": 14,
     "Unknown": 1
   },
   "general": {
@@ -16,16 +16,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 13,
-      "Republican": 12
+      "Democrat": 14,
+      "Republican": 13
     },
-    "total_unopposed": 13,
+    "total_unopposed": 15,
     "unopposed_by_party": {
-      "Republican": 7,
-      "Democrat": 6
+      "Republican": 8,
+      "Democrat": 7
     }
   },
-  "scraped_at": "2026-03-13T04:39:32.504989+00:00",
+  "scraped_at": "2026-03-14T04:38:45.521272+00:00",
   "unopposed_candidates": [
     {
       "state": "CT",
@@ -66,8 +66,26 @@
     {
       "state": "CT",
       "office": "State Senate",
+      "district": "District 26",
+      "candidate": "Lucy Dathan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
       "district": "District 33",
       "candidate": "Charles Ferraro",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 36",
+      "candidate": "Joe Kelly",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

@@ -2,10 +2,10 @@
   "state": "NY",
   "state_name": "New York",
   "year": 2026,
-  "total": 52,
+  "total": 53,
   "total_races": 240,
   "total_races_by_party": {
-    "Democrat": 45,
+    "Democrat": 46,
     "Republican": 34,
     "Unknown": 9,
     "Conservative": 1,
@@ -20,16 +20,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 45,
+      "Democrat": 46,
       "Republican": 34
     },
-    "total_unopposed": 49,
+    "total_unopposed": 50,
     "unopposed_by_party": {
       "Republican": 24,
-      "Democrat": 25
+      "Democrat": 26
     }
   },
-  "scraped_at": "2026-03-13T04:46:04.693872+00:00",
+  "scraped_at": "2026-03-14T04:45:24.909962+00:00",
   "unopposed_candidates": [
     {
       "state": "NY",
@@ -449,17 +449,17 @@
       "state": "NY",
       "office": "State House",
       "district": "District 123",
-      "candidate": "Anna Kelles",
-      "party": "Democrat",
+      "candidate": "Lynn Parker",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
       "state": "NY",
       "office": "State House",
-      "district": "District 123",
-      "candidate": "Lynn Parker",
-      "party": "Republican",
+      "district": "District 125",
+      "candidate": "Anna Kelles",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -487,6 +487,15 @@
       "district": "District 142",
       "candidate": "Gary Dickson",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NY",
+      "office": "State House",
+      "district": "District 145",
+      "candidate": "Nate McMurray",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

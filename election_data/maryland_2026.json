@@ -2,10 +2,10 @@
   "state": "MD",
   "state_name": "Maryland",
   "year": 2026,
-  "total": 99,
+  "total": 100,
   "total_races": 126,
   "total_races_by_party": {
-    "Republican": 81,
+    "Republican": 82,
     "Democrat": 123,
     "Unknown": 2,
     "Green/Rainbow": 2
@@ -21,15 +21,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 123,
-      "Republican": 81
+      "Republican": 82
     },
-    "total_unopposed": 85,
+    "total_unopposed": 86,
     "unopposed_by_party": {
-      "Republican": 50,
+      "Republican": 51,
       "Democrat": 46
     }
   },
-  "scraped_at": "2026-03-13T04:43:03.761600+00:00",
+  "scraped_at": "2026-03-14T04:42:13.197405+00:00",
   "unopposed_candidates": [
     {
       "state": "MD",
@@ -280,6 +280,15 @@
       "district": "District 15",
       "candidate": "Brian Feldman",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Helene Meister",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

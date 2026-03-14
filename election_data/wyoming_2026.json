@@ -2,28 +2,29 @@
   "state": "WY",
   "state_name": "Wyoming",
   "year": 2026,
-  "total": 1,
-  "total_races": 18,
+  "total": 2,
+  "total_races": 80,
   "total_races_by_party": {
-    "Republican": 2,
+    "Republican": 3,
     "Democrat": 1
   },
   "general": {
-    "total_races": 16,
+    "total_races": 78,
     "total_unopposed": 0,
     "unopposed_by_party": {}
   },
   "primary": {
     "total_races_by_party": {
       "Democrat": 1,
-      "Republican": 2
+      "Republican": 3
     },
-    "total_unopposed": 1,
+    "total_unopposed": 2,
     "unopposed_by_party": {
-      "Democrat": 1
+      "Democrat": 1,
+      "Republican": 1
     }
   },
-  "scraped_at": "2026-03-13T04:52:56.030288+00:00",
+  "scraped_at": "2026-03-14T04:50:20.421354+00:00",
   "unopposed_candidates": [
     {
       "state": "WY",
@@ -31,6 +32,15 @@
       "district": "Statewide",
       "candidate": "James Byrd",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 57",
+      "candidate": "Julie Jarvis",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     }

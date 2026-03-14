@@ -6,7 +6,7 @@
   "total_races": 163,
   "total_races_by_party": {
     "Unknown": 5,
-    "Democrat": 45,
+    "Democrat": 46,
     "Republican": 32,
     "Other": 1
   },
@@ -20,16 +20,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 45,
+      "Democrat": 46,
       "Republican": 32
     },
     "total_unopposed": 46,
     "unopposed_by_party": {
-      "Republican": 19,
-      "Democrat": 27
+      "Republican": 18,
+      "Democrat": 28
     }
   },
-  "scraped_at": "2026-03-13T04:43:34.896913+00:00",
+  "scraped_at": "2026-03-14T04:42:47.150735+00:00",
   "unopposed_candidates": [
     {
       "state": "MI",
@@ -250,6 +250,15 @@
     {
       "state": "MI",
       "office": "State House",
+      "district": "District 6",
+      "candidate": "Melanie Macey",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
       "district": "District 10",
       "candidate": "Andrew Cyburt",
       "party": "Democrat",
@@ -459,15 +468,6 @@
       "office": "State House",
       "district": "District 101",
       "candidate": "Jaxon Deur",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MI",
-      "office": "State House",
-      "district": "District 108",
-      "candidate": "Christopher Reynolds",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

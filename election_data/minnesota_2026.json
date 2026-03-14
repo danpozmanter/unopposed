@@ -2,12 +2,12 @@
   "state": "MN",
   "state_name": "Minnesota",
   "year": 2026,
-  "total": 80,
+  "total": 79,
   "total_races": 210,
   "total_races_by_party": {
-    "Unknown": 4,
-    "Republican": 48,
-    "Democrat": 53
+    "Republican": 49,
+    "Democrat": 53,
+    "Unknown": 4
   },
   "general": {
     "total_races": 205,
@@ -19,15 +19,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 53,
-      "Republican": 48
+      "Republican": 49
     },
-    "total_unopposed": 68,
+    "total_unopposed": 67,
     "unopposed_by_party": {
-      "Democrat": 39,
+      "Democrat": 38,
       "Republican": 37
     }
   },
-  "scraped_at": "2026-03-13T04:43:48.751457+00:00",
+  "scraped_at": "2026-03-14T04:43:03.425500+00:00",
   "unopposed_candidates": [
     {
       "state": "MN",
@@ -329,6 +329,15 @@
     {
       "state": "MN",
       "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Nathan Peterson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State Senate",
       "district": "District 22",
       "candidate": "Jeremy Munson",
       "party": "Republican",
@@ -394,15 +403,6 @@
       "office": "State Senate",
       "district": "District 37",
       "candidate": "Kristy Janigo",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MN",
-      "office": "State Senate",
-      "district": "District 38",
-      "candidate": "Susan Pha",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -565,15 +565,6 @@
       "office": "State House",
       "district": "District 8",
       "candidate": "Shawn Savela",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MN",
-      "office": "State House",
-      "district": "District 10",
-      "candidate": "Brian Lindquist",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

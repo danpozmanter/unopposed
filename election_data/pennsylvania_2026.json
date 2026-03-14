@@ -2,12 +2,12 @@
   "state": "PA",
   "state_name": "Pennsylvania",
   "year": 2026,
-  "total": 27,
+  "total": 191,
   "total_races": 246,
   "total_races_by_party": {
-    "Democrat": 21,
-    "Republican": 23,
-    "Unknown": 5
+    "Democrat": 141,
+    "Unknown": 5,
+    "Republican": 103
   },
   "general": {
     "total_races": 233,
@@ -18,16 +18,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 21,
-      "Republican": 23
+      "Democrat": 141,
+      "Republican": 103
     },
-    "total_unopposed": 23,
+    "total_unopposed": 187,
     "unopposed_by_party": {
-      "Republican": 14,
-      "Democrat": 9
+      "Republican": 85,
+      "Democrat": 102
     }
   },
-  "scraped_at": "2026-03-13T04:47:52.321382+00:00",
+  "scraped_at": "2026-03-14T04:47:00.497790+00:00",
   "unopposed_candidates": [
     {
       "state": "PA",
@@ -203,6 +203,105 @@
     {
       "state": "PA",
       "office": "State Senate",
+      "district": "District 2",
+      "candidate": "Christine Tartaglione",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "Todd Johnson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Eileen Hartnett Albillar",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Frank Farry",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Steve Santarsiero",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Gregory Bankos Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Maria Collett",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Robert Costello III",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Nick Miller",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Omy Maldonado",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Jarrett Coleman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
       "district": "District 18",
       "candidate": "Scott Janney",
       "party": "Republican",
@@ -212,8 +311,188 @@
     {
       "state": "PA",
       "office": "State Senate",
+      "district": "District 20",
+      "candidate": "Jaclyn Baker",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Sharon Soltis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 24",
+      "candidate": "Christopher Thomas",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 24",
+      "candidate": "Tracy Pennycuick",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 26",
+      "candidate": "Timothy Kearney",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 26",
+      "candidate": "Alfe Goodwin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 28",
+      "candidate": "Thomas Johnson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 28",
+      "candidate": "Kristin Phillips-Hill",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 30",
+      "candidate": "Sean Steeg",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 30",
+      "candidate": "Judith Ward",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 32",
+      "candidate": "Jacob Cecil",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 34",
+      "candidate": "Greg Rothman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 36",
+      "candidate": "James Malone",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 38",
+      "candidate": "Lindsey Williams",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
       "district": "District 38",
       "candidate": "Thomas West",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 40",
+      "candidate": "Brian Wrightson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 40",
+      "candidate": "Rosemary Brown",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 44",
+      "candidate": "Katie Muth",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 44",
+      "candidate": "Melissa Dicranian",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 46",
+      "candidate": "Evan Snyder",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State Senate",
+      "district": "District 50",
+      "candidate": "Michele Brooks",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -248,8 +527,224 @@
     {
       "state": "PA",
       "office": "State House",
+      "district": "District 103",
+      "candidate": "Nate Davidson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 105",
+      "candidate": "Justin Fleming",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
       "district": "District 106",
       "candidate": "Thomas Mehaffie",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 107",
+      "candidate": "Ryan Coleman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 107",
+      "candidate": "Joanne Stehr",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 108",
+      "candidate": "Amber Neidig",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 108",
+      "candidate": "Michael Stender",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 109",
+      "candidate": "Justin Hummel",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 109",
+      "candidate": "Robert Leadbeter",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 110",
+      "candidate": "Pamela Hemann",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 110",
+      "candidate": "Tina Pickett",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 111",
+      "candidate": "Kyle Devlin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 111",
+      "candidate": "Jonathan Fritz",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 112",
+      "candidate": "Kyle Mullins",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 112",
+      "candidate": "Joseph Sabia Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 113",
+      "candidate": "Kyle Donahue",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 113",
+      "candidate": "Lucas O'Brien",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 114",
+      "candidate": "Bridget Malloy Kosierowski",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 115",
+      "candidate": "Rich Szabo",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 116",
+      "candidate": "Dane Watro Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 117",
+      "candidate": "Jeremy Benscoter",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 118",
+      "candidate": "James Haddock",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 118",
+      "candidate": "John Lombardo",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 119",
+      "candidate": "Lauren McCurdy",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 119",
+      "candidate": "Alec Ryncavage",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -266,8 +761,989 @@
     {
       "state": "PA",
       "office": "State House",
+      "district": "District 121",
+      "candidate": "Mike Harostock",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 122",
+      "candidate": "Doyle Heffley",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 123",
+      "candidate": "John Deatrich",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 123",
+      "candidate": "Tim Twardzik",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 124",
+      "candidate": "Tina Burns",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 124",
+      "candidate": "Jamie Barton",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 125",
+      "candidate": "Kathryn Waters",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 125",
+      "candidate": "Joe Kerwin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 126",
+      "candidate": "Miguel Vasquez",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 127",
+      "candidate": "Manuel Guzman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 128",
+      "candidate": "Andy Wagner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 129",
+      "candidate": "Johanny Cepeda-Freytiz",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 130",
+      "candidate": "Erik Bonnett",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 131",
+      "candidate": "Meriam Sabih",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 131",
+      "candidate": "Milou Mackenzie",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 132",
+      "candidate": "Michael Schlossberg",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 132",
+      "candidate": "Caren Lowrey",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 133",
+      "candidate": "Jeanne McNeill",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 134",
+      "candidate": "Peter Schweyer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 134",
+      "candidate": "Miriam Maldonado",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 135",
+      "candidate": "Steve Samuelson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 135",
+      "candidate": "Joe Poplawski",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 136",
+      "candidate": "Robert Freeman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 136",
+      "candidate": "Pilar Cavallo-Campisi",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 137",
+      "candidate": "Jeff Warren",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 137",
+      "candidate": "Joe Emrick",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 138",
+      "candidate": "Jared Bitting",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 138",
+      "candidate": "Ann Flood",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
       "district": "District 139",
       "candidate": "Dominique Azzollini",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 139",
+      "candidate": "Jeff Olsommer",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 140",
+      "candidate": "Jim Prokopiak",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 140",
+      "candidate": "Michael Gettis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 141",
+      "candidate": "Tina Davis",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 141",
+      "candidate": "Ken Velez",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 142",
+      "candidate": "Kristin Egan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 142",
+      "candidate": "Joseph Hogan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 143",
+      "candidate": "Tim Hayes",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 143",
+      "candidate": "Shelby Labs",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 144",
+      "candidate": "Brian Munroe",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 144",
+      "candidate": "Mike Murphy",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 145",
+      "candidate": "Les Mavus",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 145",
+      "candidate": "Craig Staats",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 146",
+      "candidate": "Joseph Ciresi",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 147",
+      "candidate": "Margaret Burke",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 147",
+      "candidate": "Donna Scheuren",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 149",
+      "candidate": "Tim Briggs",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 150",
+      "candidate": "Joseph Webster",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 151",
+      "candidate": "Melissa Cerrato",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 152",
+      "candidate": "Nancy Guenst",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 153",
+      "candidate": "Ben Sanchez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 153",
+      "candidate": "Cory Toner",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 154",
+      "candidate": "Napoleon Nelson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 155",
+      "candidate": "Danielle Friel Otten",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 156",
+      "candidate": "Christopher Pielli",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 156",
+      "candidate": "Kris R. Vollrath",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 157",
+      "candidate": "Melissa Shusterman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 157",
+      "candidate": "Justin Pak",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 158",
+      "candidate": "Christina Sappey",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 160",
+      "candidate": "Elizabeth Moro",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 160",
+      "candidate": "Craig Williams",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 161",
+      "candidate": "Leanne Krueger",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 162",
+      "candidate": "David Delloso",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 162",
+      "candidate": "Mike Murphy",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 163",
+      "candidate": "Heather Boyd",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 164",
+      "candidate": "Gina Curry",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 165",
+      "candidate": "Jennifer O'Mara",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 165",
+      "candidate": "Deirdre McCleary",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 166",
+      "candidate": "Joe Walker",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 167",
+      "candidate": "Kristine Howard",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 167",
+      "candidate": "Joe Lewis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 168",
+      "candidate": "Lisa Borowski",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 168",
+      "candidate": "Kathryn Buckley",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 169",
+      "candidate": "Austin Graham",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 169",
+      "candidate": "Kate Klunk",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 170",
+      "candidate": "Rob Gurtcheff II",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 170",
+      "candidate": "Martina White",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 171",
+      "candidate": "John Zangari",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 171",
+      "candidate": "Kerry Benninghoff",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 172",
+      "candidate": "Sean Dougherty",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 172",
+      "candidate": "Wallace Quinlan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 173",
+      "candidate": "Patrick Gallagher",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 173",
+      "candidate": "Bill Griffin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 174",
+      "candidate": "Ed Neilson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 175",
+      "candidate": "MaryLouise Isaacson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 176",
+      "candidate": "Jack Rader",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 177",
+      "candidate": "Robyn Bird",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 178",
+      "candidate": "Monica Weninger",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 178",
+      "candidate": "Kristin Marcell",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 179",
+      "candidate": "Jason Dawkins",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 180",
+      "candidate": "Jose Giral",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 182",
+      "candidate": "Benjamin Waxman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 183",
+      "candidate": "Deirdre Kamber Todd",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 183",
+      "candidate": "Zachary Mako",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 184",
+      "candidate": "Elizabeth Fiedler",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 186",
+      "candidate": "Jordan Harris",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 187",
+      "candidate": "Gary Day",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 189",
+      "candidate": "Tarah Probst",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 189",
+      "candidate": "Danica Hartenfels",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 190",
+      "candidate": "G. Roni Green",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 191",
+      "candidate": "Joanna McClinton",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 192",
+      "candidate": "Tiffany Brown",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 193",
+      "candidate": "Todd Crawley",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 193",
+      "candidate": "Catherine Wallen",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 194",
+      "candidate": "Tarik Khan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 196",
+      "candidate": "Ron Ruman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 196",
+      "candidate": "George Margetas",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 197",
+      "candidate": "Danilo Burgos",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 198",
+      "candidate": "Darisha Parker",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 199",
+      "candidate": "Barbara Gleim",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "State House",
+      "district": "District 203",
+      "candidate": "Anthony Bellmon",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

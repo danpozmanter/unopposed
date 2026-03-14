@@ -7,7 +7,7 @@
   "total_races_by_party": {
     "Republican": 55,
     "Democrat": 77,
-    "Unknown": 20,
+    "Unknown": 21,
     "American Independent": 1,
     "Libertarian": 1,
     "Other": 1
@@ -23,7 +23,7 @@
     "total_races_by_party": {
       "Democrat": 77,
       "Republican": 55,
-      "Unknown": 20,
+      "Unknown": 21,
       "American Independent": 1,
       "Libertarian": 1,
       "Other": 1
@@ -38,7 +38,7 @@
       "Other": 1
     }
   },
-  "scraped_at": "2026-03-13T04:38:59.330837+00:00",
+  "scraped_at": "2026-03-14T04:38:11.684672+00:00",
   "unopposed_candidates": [
     {
       "state": "CA",
@@ -109,6 +109,15 @@
       "district": "District 9",
       "candidate": "Josh Harder",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 11",
+      "candidate": "Nathan Deer",
+      "party": "Unknown",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -235,15 +244,6 @@
       "district": "District 20",
       "candidate": "Vince Fong",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CA",
-      "office": "US House",
-      "district": "District 20",
-      "candidate": "Jeremy Fox",
-      "party": "Unknown",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
