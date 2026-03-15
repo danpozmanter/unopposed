@@ -2,10 +2,10 @@
   "state": "KS",
   "state_name": "Kansas",
   "year": 2026,
-  "total": 93,
+  "total": 94,
   "total_races": 130,
   "total_races_by_party": {
-    "Republican": 65,
+    "Republican": 66,
     "Democrat": 39,
     "Unknown": 1
   },
@@ -19,15 +19,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 39,
-      "Republican": 65
+      "Republican": 66
     },
-    "total_unopposed": 92,
+    "total_unopposed": 93,
     "unopposed_by_party": {
-      "Republican": 59,
+      "Republican": 60,
       "Democrat": 33
     }
   },
-  "scraped_at": "2026-03-14T04:41:09.762223+00:00",
+  "scraped_at": "2026-03-15T04:54:49.898208+00:00",
   "unopposed_candidates": [
     {
       "state": "KS",
@@ -521,6 +521,15 @@
       "district": "District 70",
       "candidate": "Kylie Kilmer",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "KS",
+      "office": "State House",
+      "district": "District 70",
+      "candidate": "Greg Wilson",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

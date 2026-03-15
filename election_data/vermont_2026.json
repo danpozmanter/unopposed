@@ -2,41 +2,49 @@
   "state": "VT",
   "state_name": "Vermont",
   "year": 2026,
-  "total": 54,
+  "total": 55,
   "total_races": 126,
   "total_races_by_party": {
     "Republican": 28,
-    "Democrat": 30,
+    "Democrat": 31,
     "Other": 6
   },
   "general": {
     "total_races": 125,
-    "total_unopposed": 7,
+    "total_unopposed": 6,
     "unopposed_by_party": {
-      "Republican": 1,
       "Other": 6
     }
   },
   "primary": {
     "total_races_by_party": {
-      "Republican": 28,
-      "Democrat": 30
+      "Democrat": 31,
+      "Republican": 28
     },
-    "total_unopposed": 48,
+    "total_unopposed": 49,
     "unopposed_by_party": {
-      "Republican": 26,
-      "Democrat": 22
+      "Democrat": 23,
+      "Republican": 26
     }
   },
-  "scraped_at": "2026-03-14T04:48:58.514117+00:00",
+  "scraped_at": "2026-03-15T05:02:33.768530+00:00",
   "unopposed_candidates": [
+    {
+      "state": "VT",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Submit photo",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "VT",
       "office": "Governor",
       "district": "Statewide",
       "candidate": "Phil Scott",
       "party": "Republican",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {

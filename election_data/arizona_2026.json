@@ -2,12 +2,12 @@
   "state": "AZ",
   "state_name": "Arizona",
   "year": 2026,
-  "total": 30,
+  "total": 29,
   "total_races": 70,
   "total_races_by_party": {
-    "Republican": 17,
     "Democrat": 22,
     "Green/Rainbow": 3,
+    "Republican": 17,
     "Unknown": 4,
     "Arizona Independent": 1,
     "Other": 3
@@ -26,13 +26,13 @@
       "Democrat": 22,
       "Republican": 17
     },
-    "total_unopposed": 25,
+    "total_unopposed": 24,
     "unopposed_by_party": {
       "Republican": 11,
-      "Democrat": 14
+      "Democrat": 13
     }
   },
-  "scraped_at": "2026-03-14T04:37:40.743856+00:00",
+  "scraped_at": "2026-03-15T04:51:28.708257+00:00",
   "unopposed_candidates": [
     {
       "state": "AZ",
@@ -59,15 +59,6 @@
       "candidate": "Andromeda Crum",
       "party": "Unknown",
       "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AZ",
-      "office": "US House",
-      "district": "District 4",
-      "candidate": "Greg Stanton",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {

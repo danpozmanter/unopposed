@@ -2,12 +2,12 @@
   "state": "SC",
   "state_name": "South Carolina",
   "year": 2026,
-  "total": 11,
+  "total": 12,
   "total_races": 133,
   "total_races_by_party": {
+    "Republican": 11,
     "Unknown": 2,
     "Democrat": 9,
-    "Republican": 10,
     "Libertarian": 2
   },
   "general": {
@@ -21,15 +21,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 9,
-      "Republican": 10
+      "Republican": 11
     },
-    "total_unopposed": 8,
+    "total_unopposed": 9,
     "unopposed_by_party": {
-      "Republican": 4,
+      "Republican": 5,
       "Democrat": 4
     }
   },
-  "scraped_at": "2026-03-14T04:47:34.966089+00:00",
+  "scraped_at": "2026-03-15T05:01:11.752730+00:00",
   "unopposed_candidates": [
     {
       "state": "SC",
@@ -119,6 +119,15 @@
       "candidate": "Mike Reichenbach",
       "party": "Unknown",
       "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Rick Shealy",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {

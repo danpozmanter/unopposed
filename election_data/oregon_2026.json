@@ -5,8 +5,8 @@
   "total": 104,
   "total_races": 68,
   "total_races_by_party": {
-    "Republican": 75,
     "Democrat": 80,
+    "Republican": 75,
     "Libertarian": 1,
     "Unknown": 2,
     "Independent": 1,
@@ -32,7 +32,7 @@
       "Democrat": 49
     }
   },
-  "scraped_at": "2026-03-14T04:46:41.858702+00:00",
+  "scraped_at": "2026-03-15T05:00:23.377724+00:00",
   "unopposed_candidates": [
     {
       "state": "OR",
