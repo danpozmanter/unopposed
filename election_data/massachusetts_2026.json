@@ -2,13 +2,13 @@
   "state": "MA",
   "state_name": "Massachusetts",
   "year": 2026,
-  "total": 66,
+  "total": 67,
   "total_races": 211,
   "total_races_by_party": {
     "Republican": 19,
-    "Democrat": 60,
     "American Independent": 1,
     "Unknown": 7,
+    "Democrat": 62,
     "Other": 2
   },
   "general": {
@@ -22,16 +22,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 60,
+      "Democrat": 62,
       "Republican": 19
     },
-    "total_unopposed": 58,
+    "total_unopposed": 59,
     "unopposed_by_party": {
-      "Democrat": 44,
+      "Democrat": 45,
       "Republican": 14
     }
   },
-  "scraped_at": "2026-03-15T04:56:12.949981+00:00",
+  "scraped_at": "2026-03-16T05:02:07.552500+00:00",
   "unopposed_candidates": [
     {
       "state": "MA",
@@ -245,6 +245,15 @@
       "office": "State Senate",
       "district": "2nd Worcester District",
       "candidate": "Michael Moore",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "3rd Bristol and Plymouth District",
+      "candidate": "Marc Pacheco",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -523,15 +532,6 @@
       "state": "MA",
       "office": "State House",
       "district": "9th Bristol District",
-      "candidate": "Steve Medeiros",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MA",
-      "office": "State House",
-      "district": "9th Bristol District",
       "candidate": "Chester Tam",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -605,6 +605,15 @@
       "office": "State House",
       "district": "22nd Middlesex District",
       "candidate": "Daniel Darris-O'Connor",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "32nd Middlesex District",
+      "candidate": "Leila Migliorelli",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
