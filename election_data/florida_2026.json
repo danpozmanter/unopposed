@@ -5,10 +5,10 @@
   "total": 161,
   "total_races": 169,
   "total_races_by_party": {
+    "Democrat": 105,
     "Republican": 124,
-    "Democrat": 104,
-    "Libertarian": 2,
     "Unknown": 13,
+    "Libertarian": 2,
     "Constitution": 1,
     "Other": 10
   },
@@ -23,7 +23,7 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 104,
+      "Democrat": 105,
       "Republican": 124
     },
     "total_unopposed": 143,
@@ -32,7 +32,7 @@
       "Republican": 81
     }
   },
-  "scraped_at": "2026-03-16T04:59:31.851434+00:00",
+  "scraped_at": "2026-03-17T04:42:37.963409+00:00",
   "unopposed_candidates": [
     {
       "state": "FL",
@@ -228,15 +228,6 @@
       "office": "US House",
       "district": "District 25",
       "candidate": "Debbie Wasserman Schultz",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "US House",
-      "district": "District 26",
-      "candidate": "Yurina Gil",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -1210,6 +1201,15 @@
       "district": "District 93",
       "candidate": "Anne Gerwig",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "FL",
+      "office": "State House",
+      "district": "District 94",
+      "candidate": "Bobby Williams",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

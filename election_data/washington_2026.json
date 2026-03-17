@@ -2,12 +2,13 @@
   "state": "WA",
   "state_name": "Washington",
   "year": 2026,
-  "total": 117,
+  "total": 118,
   "total_races": 132,
   "total_races_by_party": {
     "Democrat": 88,
     "Unknown": 6,
     "Republican": 54,
+    "Cascade": 1,
     "Other": 1
   },
   "general": {
@@ -21,18 +22,20 @@
     "total_races_by_party": {
       "Democrat": 88,
       "Unknown": 6,
+      "Cascade": 1,
       "Republican": 54,
       "Other": 1
     },
-    "total_unopposed": 83,
+    "total_unopposed": 84,
     "unopposed_by_party": {
       "Unknown": 3,
+      "Cascade": 1,
       "Democrat": 68,
       "Republican": 45,
       "Other": 1
     }
   },
-  "scraped_at": "2026-03-16T05:08:18.840008+00:00",
+  "scraped_at": "2026-03-17T04:51:41.371304+00:00",
   "unopposed_candidates": [
     {
       "state": "WA",
@@ -40,6 +43,15 @@
       "district": "District 1",
       "candidate": "James Etzkorn",
       "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Antony Barran",
+      "party": "Cascade",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

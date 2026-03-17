@@ -2,7 +2,7 @@
   "state": "KS",
   "state_name": "Kansas",
   "year": 2026,
-  "total": 94,
+  "total": 93,
   "total_races": 130,
   "total_races_by_party": {
     "Democrat": 39,
@@ -21,13 +21,13 @@
       "Democrat": 39,
       "Republican": 66
     },
-    "total_unopposed": 93,
+    "total_unopposed": 92,
     "unopposed_by_party": {
-      "Republican": 60,
+      "Republican": 59,
       "Democrat": 33
     }
   },
-  "scraped_at": "2026-03-16T05:01:00.845409+00:00",
+  "scraped_at": "2026-03-17T04:44:22.664846+00:00",
   "unopposed_candidates": [
     {
       "state": "KS",
@@ -52,15 +52,6 @@
       "office": "US House",
       "district": "District 2",
       "candidate": "Derek Schmidt",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "KS",
-      "office": "US House",
-      "district": "District 3",
-      "candidate": "Blake Stanley",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

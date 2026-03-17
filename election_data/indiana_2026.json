@@ -2,18 +2,20 @@
   "state": "IN",
   "state_name": "Indiana",
   "year": 2026,
-  "total": 158,
+  "total": 159,
   "total_races": 134,
   "total_races_by_party": {
-    "Republican": 112,
     "Democrat": 125,
-    "Unknown": 4
+    "Republican": 112,
+    "Unknown": 4,
+    "Other": 1
   },
   "general": {
     "total_races": 129,
-    "total_unopposed": 4,
+    "total_unopposed": 5,
     "unopposed_by_party": {
-      "Unknown": 4
+      "Unknown": 4,
+      "Other": 1
     }
   },
   "primary": {
@@ -27,7 +29,7 @@
       "Democrat": 93
     }
   },
-  "scraped_at": "2026-03-16T05:00:33.771289+00:00",
+  "scraped_at": "2026-03-17T04:43:53.208085+00:00",
   "unopposed_candidates": [
     {
       "state": "IN",
@@ -89,6 +91,15 @@
       "district": "District 9",
       "candidate": "Floyd Taylor",
       "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IN",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Joshua Brant",
+      "party": "Other",
       "unopposed_in": "General",
       "source": "Ballotpedia"
     },

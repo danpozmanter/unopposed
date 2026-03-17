@@ -2,17 +2,21 @@
   "state": "NV",
   "state_name": "Nevada",
   "year": 2026,
-  "total": 11,
+  "total": 12,
   "total_races": 58,
   "total_races_by_party": {
-    "Unknown": 1,
     "Democrat": 9,
-    "Republican": 11
+    "Republican": 11,
+    "No Political": 3,
+    "Unknown": 1,
+    "Independent American": 3
   },
   "general": {
-    "total_races": 54,
-    "total_unopposed": 0,
-    "unopposed_by_party": {}
+    "total_races": 57,
+    "total_unopposed": 1,
+    "unopposed_by_party": {
+      "Independent American": 1
+    }
   },
   "primary": {
     "total_races_by_party": {
@@ -25,8 +29,17 @@
       "Republican": 6
     }
   },
-  "scraped_at": "2026-03-16T05:03:42.846013+00:00",
+  "scraped_at": "2026-03-17T04:47:16.399272+00:00",
   "unopposed_candidates": [
+    {
+      "state": "NV",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Lynn Chapman",
+      "party": "Independent American",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
     {
       "state": "NV",
       "office": "US House",

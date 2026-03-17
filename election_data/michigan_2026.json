@@ -2,12 +2,12 @@
   "state": "MI",
   "state_name": "Michigan",
   "year": 2026,
-  "total": 50,
+  "total": 49,
   "total_races": 163,
   "total_races_by_party": {
     "Democrat": 46,
-    "Republican": 32,
     "Unknown": 5,
+    "Republican": 32,
     "Other": 1
   },
   "general": {
@@ -23,13 +23,13 @@
       "Democrat": 46,
       "Republican": 32
     },
-    "total_unopposed": 46,
+    "total_unopposed": 45,
     "unopposed_by_party": {
       "Republican": 18,
-      "Democrat": 28
+      "Democrat": 27
     }
   },
-  "scraped_at": "2026-03-16T05:02:22.424528+00:00",
+  "scraped_at": "2026-03-17T04:45:56.120108+00:00",
   "unopposed_candidates": [
     {
       "state": "MI",
@@ -234,15 +234,6 @@
       "office": "State House",
       "district": "District 4",
       "candidate": "Roslyn Ogburn",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MI",
-      "office": "State House",
-      "district": "District 5",
-      "candidate": "Kali Scales",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

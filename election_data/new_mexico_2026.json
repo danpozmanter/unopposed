@@ -2,12 +2,12 @@
   "state": "NM",
   "state_name": "New Mexico",
   "year": 2026,
-  "total": 13,
+  "total": 14,
   "total_races": 75,
   "total_races_by_party": {
-    "Democrat": 9,
     "Unknown": 1,
-    "Republican": 10
+    "Democrat": 9,
+    "Republican": 11
   },
   "general": {
     "total_races": 71,
@@ -19,15 +19,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 9,
-      "Republican": 10
+      "Republican": 11
     },
-    "total_unopposed": 12,
+    "total_unopposed": 13,
     "unopposed_by_party": {
       "Democrat": 6,
-      "Republican": 6
+      "Republican": 7
     }
   },
-  "scraped_at": "2026-03-16T05:04:26.456182+00:00",
+  "scraped_at": "2026-03-17T04:47:59.459117+00:00",
   "unopposed_candidates": [
     {
       "state": "NM",
@@ -107,6 +107,15 @@
       "district": "District 40",
       "candidate": "Nancy Jane Wright",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NM",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Landon Dooley",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

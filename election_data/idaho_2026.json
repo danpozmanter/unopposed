@@ -2,12 +2,12 @@
   "state": "ID",
   "state_name": "Idaho",
   "year": 2026,
-  "total": 137,
+  "total": 135,
   "total_races": 109,
   "total_races_by_party": {
-    "Democrat": 95,
+    "Democrat": 94,
+    "Republican": 106,
     "Libertarian": 2,
-    "Republican": 107,
     "Unknown": 4,
     "Other": 13
   },
@@ -21,22 +21,22 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 95,
-      "Republican": 107,
+      "Democrat": 94,
+      "Republican": 106,
       "Libertarian": 2,
       "Unknown": 2,
       "Other": 4
     },
-    "total_unopposed": 104,
+    "total_unopposed": 102,
     "unopposed_by_party": {
       "Libertarian": 1,
       "Unknown": 1,
-      "Democrat": 75,
-      "Republican": 46,
+      "Democrat": 74,
+      "Republican": 45,
       "Other": 4
     }
   },
-  "scraped_at": "2026-03-16T05:00:11.151603+00:00",
+  "scraped_at": "2026-03-17T04:43:24.839354+00:00",
   "unopposed_candidates": [
     {
       "state": "ID",
@@ -231,15 +231,6 @@
       "state": "ID",
       "office": "State Senate",
       "district": "District 14",
-      "candidate": "Ariel Olvera",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ID",
-      "office": "State Senate",
-      "district": "District 14",
       "candidate": "Kirsten Faith Richardson",
       "party": "Other",
       "unopposed_in": "Primary",
@@ -278,15 +269,6 @@
       "district": "District 18",
       "candidate": "Janie Ward-Engelking",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ID",
-      "office": "State Senate",
-      "district": "District 18",
-      "candidate": "Dan Bridges",
-      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

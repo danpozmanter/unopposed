@@ -2,12 +2,12 @@
   "state": "GA",
   "state_name": "Georgia",
   "year": 2026,
-  "total": 284,
+  "total": 288,
   "total_races": 252,
   "total_races_by_party": {
+    "Republican": 187,
     "Unknown": 4,
-    "Republican": 184,
-    "Democrat": 198,
+    "Democrat": 203,
     "Socialist Labor": 1,
     "Communist": 1
   },
@@ -22,16 +22,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 198,
-      "Republican": 184
+      "Democrat": 203,
+      "Republican": 187
     },
-    "total_unopposed": 279,
+    "total_unopposed": 283,
     "unopposed_by_party": {
-      "Democrat": 131,
-      "Republican": 148
+      "Democrat": 133,
+      "Republican": 150
     }
   },
-  "scraped_at": "2026-03-16T04:59:46.031169+00:00",
+  "scraped_at": "2026-03-17T04:42:53.959160+00:00",
   "unopposed_candidates": [
     {
       "state": "GA",
@@ -162,6 +162,15 @@
     {
       "state": "GA",
       "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Ben Watson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State Senate",
       "district": "District 2",
       "candidate": "Derek Mallow",
       "party": "Democrat",
@@ -189,8 +198,8 @@
     {
       "state": "GA",
       "office": "State Senate",
-      "district": "District 5",
-      "candidate": "Robin McCoy",
+      "district": "District 6",
+      "candidate": "Jermarkus Jacobs",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -216,8 +225,26 @@
     {
       "state": "GA",
       "office": "State Senate",
-      "district": "District 8",
-      "candidate": "Russ Goodman",
+      "district": "District 9",
+      "candidate": "Nikki Merritt",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Michael Johnson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Furquan Stafford",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -228,15 +255,6 @@
       "district": "District 11",
       "candidate": "Sam Watson",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "GA",
-      "office": "State Senate",
-      "district": "District 12",
-      "candidate": "Freddie Sims",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -387,6 +405,15 @@
     {
       "state": "GA",
       "office": "State Senate",
+      "district": "District 35",
+      "candidate": "Elfreda Desvignes",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State Senate",
       "district": "District 37",
       "candidate": "Ed Setzler",
       "party": "Republican",
@@ -435,6 +462,15 @@
       "district": "District 45",
       "candidate": "Clint Dixon",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State Senate",
+      "district": "District 48",
+      "candidate": "Nathan Hombroek",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

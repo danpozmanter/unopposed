@@ -2,12 +2,12 @@
   "state": "ME",
   "state_name": "Maine",
   "year": 2026,
-  "total": 92,
+  "total": 101,
   "total_races": 190,
   "total_races_by_party": {
+    "Democrat": 44,
+    "Republican": 67,
     "Unknown": 2,
-    "Republican": 62,
-    "Democrat": 39,
     "Other": 9
   },
   "general": {
@@ -19,16 +19,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 39,
-      "Republican": 62
+      "Democrat": 44,
+      "Republican": 67
     },
-    "total_unopposed": 83,
+    "total_unopposed": 92,
     "unopposed_by_party": {
-      "Democrat": 31,
-      "Republican": 52
+      "Democrat": 36,
+      "Republican": 56
     }
   },
-  "scraped_at": "2026-03-16T05:01:38.606606+00:00",
+  "scraped_at": "2026-03-17T04:45:08.491141+00:00",
   "unopposed_candidates": [
     {
       "state": "ME",
@@ -447,6 +447,33 @@
     {
       "state": "ME",
       "office": "State House",
+      "district": "District 10",
+      "candidate": "William Tuell",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Tiffany Strout",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Russell White",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
       "district": "District 17",
       "candidate": "Steven Bishop",
       "party": "Republican",
@@ -583,6 +610,15 @@
       "state": "ME",
       "office": "State House",
       "district": "District 62",
+      "candidate": "Pamela Swift",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 62",
       "candidate": "Katrina Smith",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -627,6 +663,15 @@
     {
       "state": "ME",
       "office": "State House",
+      "district": "District 70",
+      "candidate": "Jennifer Poirier",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
       "district": "District 72",
       "candidate": "Douglas Thomas",
       "party": "Republican",
@@ -638,6 +683,15 @@
       "office": "State House",
       "district": "District 75",
       "candidate": "Randall Gauvin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 77",
+      "candidate": "Tammy Schmersal-Burgess",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -717,17 +771,17 @@
     {
       "state": "ME",
       "office": "State House",
-      "district": "District 90",
-      "candidate": "Laurel Libby",
-      "party": "Republican",
+      "district": "District 95",
+      "candidate": "Kiernan Majerus-Collins",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
       "state": "ME",
       "office": "State House",
-      "district": "District 95",
-      "candidate": "Kiernan Majerus-Collins",
+      "district": "District 98",
+      "candidate": "Kilton Webb",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -738,6 +792,24 @@
       "district": "District 107",
       "candidate": "Mark Cooper",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 108",
+      "candidate": "Parnell Terry",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 116",
+      "candidate": "Samuel Zager",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -801,6 +873,15 @@
       "district": "District 143",
       "candidate": "Eric Small",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State House",
+      "district": "District 147",
+      "candidate": "Holly Sargent",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

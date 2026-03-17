@@ -2,11 +2,11 @@
   "state": "IA",
   "state_name": "Iowa",
   "year": 2026,
-  "total": 44,
+  "total": 64,
   "total_races": 131,
   "total_races_by_party": {
-    "Democrat": 27,
-    "Republican": 30,
+    "Democrat": 42,
+    "Republican": 42,
     "Unknown": 2
   },
   "general": {
@@ -18,16 +18,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 27,
-      "Republican": 30
+      "Democrat": 42,
+      "Republican": 42
     },
-    "total_unopposed": 42,
+    "total_unopposed": 62,
     "unopposed_by_party": {
-      "Republican": 22,
-      "Democrat": 20
+      "Republican": 29,
+      "Democrat": 33
     }
   },
-  "scraped_at": "2026-03-16T05:00:49.273977+00:00",
+  "scraped_at": "2026-03-17T04:44:08.913640+00:00",
   "unopposed_candidates": [
     {
       "state": "IA",
@@ -59,8 +59,44 @@
     {
       "state": "IA",
       "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Catelin Drey",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Christopher Prosch",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
       "district": "District 3",
-      "candidate": "K. Lynn Evans",
+      "candidate": "Mike Frantz",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "Kevin Alons",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Steve Baier",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -77,9 +113,36 @@
     {
       "state": "IA",
       "office": "State Senate",
-      "district": "District 19",
-      "candidate": "Barb Kniff McCulla",
+      "district": "District 13",
+      "candidate": "Brenda Case",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 15",
+      "candidate": "Tony Bisignano",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Ronald Langston",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Zachary Mecham",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -87,7 +150,25 @@
       "state": "IA",
       "office": "State Senate",
       "district": "District 21",
-      "candidate": "Mike Bousselot",
+      "candidate": "Heather Matson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Tony Thompson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Wes Enos",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -95,9 +176,36 @@
     {
       "state": "IA",
       "office": "State Senate",
-      "district": "District 27",
-      "candidate": "Annette Sweeney",
+      "district": "District 25",
+      "candidate": "Herman Quirmbach",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Jim Vowels",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Sandy Salmon",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 31",
+      "candidate": "Timi Brown-Powers",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -105,8 +213,8 @@
       "state": "IA",
       "office": "State Senate",
       "district": "District 33",
-      "candidate": "Blake Clyde",
-      "party": "Democrat",
+      "candidate": "Carrie Koelker",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -131,9 +239,54 @@
     {
       "state": "IA",
       "office": "State Senate",
+      "district": "District 37",
+      "candidate": "Molly Donahue",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 37",
+      "candidate": "Randy Marzen",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 39",
+      "candidate": "Liz Bennett",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 41",
+      "candidate": "Tom Wieck",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
       "district": "District 41",
       "candidate": "Kerry Gruenhagen",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 43",
+      "candidate": "Meghann Foster",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -152,6 +305,15 @@
       "district": "District 47",
       "candidate": "Nikhil Wagle",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 47",
+      "candidate": "Scott Webster",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -185,6 +347,15 @@
     {
       "state": "IA",
       "office": "State House",
+      "district": "District 5",
+      "candidate": "Keith Glienke",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
       "district": "District 12",
       "candidate": "Brady Meyer",
       "party": "Democrat",
@@ -203,9 +374,9 @@
     {
       "state": "IA",
       "office": "State House",
-      "district": "District 33",
-      "candidate": "Cody Smith",
-      "party": "Democrat",
+      "district": "District 15",
+      "candidate": "Jason Sherer",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -267,8 +438,8 @@
       "state": "IA",
       "office": "State House",
       "district": "District 60",
-      "candidate": "Jane Bloomingdale",
-      "party": "Republican",
+      "candidate": "Alexander Schmidt",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -296,6 +467,15 @@
       "district": "District 65",
       "candidate": "Shannon Lundgren",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 67",
+      "candidate": "Michael Coonrad",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

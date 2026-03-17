@@ -2,11 +2,11 @@
   "state": "MN",
   "state_name": "Minnesota",
   "year": 2026,
-  "total": 80,
+  "total": 81,
   "total_races": 210,
   "total_races_by_party": {
-    "Democrat": 53,
     "Republican": 50,
+    "Democrat": 54,
     "Unknown": 4
   },
   "general": {
@@ -18,16 +18,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 53,
+      "Democrat": 54,
       "Republican": 50
     },
-    "total_unopposed": 68,
+    "total_unopposed": 69,
     "unopposed_by_party": {
-      "Democrat": 38,
+      "Democrat": 39,
       "Republican": 38
     }
   },
-  "scraped_at": "2026-03-16T05:02:35.867029+00:00",
+  "scraped_at": "2026-03-17T04:46:10.598650+00:00",
   "unopposed_candidates": [
     {
       "state": "MN",
@@ -701,6 +701,15 @@
       "district": "District 26",
       "candidate": "Greg Davids",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "Keenan Gentry",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
