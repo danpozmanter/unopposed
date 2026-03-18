@@ -2,12 +2,12 @@
   "state": "GA",
   "state_name": "Georgia",
   "year": 2026,
-  "total": 288,
+  "total": 302,
   "total_races": 252,
   "total_races_by_party": {
-    "Republican": 187,
     "Unknown": 4,
-    "Democrat": 203,
+    "Republican": 202,
+    "Democrat": 223,
     "Socialist Labor": 1,
     "Communist": 1
   },
@@ -22,16 +22,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 203,
-      "Republican": 187
+      "Democrat": 223,
+      "Republican": 202
     },
-    "total_unopposed": 283,
+    "total_unopposed": 297,
     "unopposed_by_party": {
-      "Democrat": 133,
-      "Republican": 150
+      "Democrat": 140,
+      "Republican": 157
     }
   },
-  "scraped_at": "2026-03-17T04:42:53.959160+00:00",
+  "scraped_at": "2026-03-18T04:46:46.366955+00:00",
   "unopposed_candidates": [
     {
       "state": "GA",
@@ -279,9 +279,9 @@
     {
       "state": "GA",
       "office": "State Senate",
-      "district": "District 16",
-      "candidate": "Pauline Henley",
-      "party": "Democrat",
+      "district": "District 15",
+      "candidate": "Chuck Hand",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -297,17 +297,8 @@
     {
       "state": "GA",
       "office": "State Senate",
-      "district": "District 17",
-      "candidate": "Gail Davenport",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "GA",
-      "office": "State Senate",
-      "district": "District 19",
-      "candidate": "Dwayne H. Gillis",
+      "district": "District 20",
+      "candidate": "Larry Walker",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -315,8 +306,17 @@
     {
       "state": "GA",
       "office": "State Senate",
-      "district": "District 20",
-      "candidate": "Larry Walker",
+      "district": "District 21",
+      "candidate": "Kori Simmons",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Jason Dickerson",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -351,6 +351,15 @@
     {
       "state": "GA",
       "office": "State Senate",
+      "district": "District 25",
+      "candidate": "Ricky Williams",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State Senate",
       "district": "District 26",
       "candidate": "David Lucas Sr.",
       "party": "Democrat",
@@ -361,8 +370,17 @@
       "state": "GA",
       "office": "State Senate",
       "district": "District 27",
-      "candidate": "Mike Dudgeon",
-      "party": "Republican",
+      "candidate": "Jessica Roper",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Jeff Lowe",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -372,6 +390,15 @@
       "district": "District 29",
       "candidate": "Randy Robertson",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State Senate",
+      "district": "District 30",
+      "candidate": "Wanda Cooper",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -405,9 +432,18 @@
     {
       "state": "GA",
       "office": "State Senate",
-      "district": "District 35",
-      "candidate": "Elfreda Desvignes",
+      "district": "District 36",
+      "candidate": "Nan Orrock",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State Senate",
+      "district": "District 36",
+      "candidate": "Katie Corkren",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -432,6 +468,24 @@
     {
       "state": "GA",
       "office": "State Senate",
+      "district": "District 39",
+      "candidate": "Sonya Halpern",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State Senate",
+      "district": "District 39",
+      "candidate": "John Franklin Guest, Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State Senate",
       "district": "District 40",
       "candidate": "Sally Harrell",
       "party": "Democrat",
@@ -441,8 +495,26 @@
     {
       "state": "GA",
       "office": "State Senate",
+      "district": "District 40",
+      "candidate": "Melina Mast",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State Senate",
       "district": "District 41",
-      "candidate": "Kim Jackson",
+      "candidate": "Jeff Newlin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State Senate",
+      "district": "District 42",
+      "candidate": "Eric Lee",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -450,8 +522,26 @@
     {
       "state": "GA",
       "office": "State Senate",
-      "district": "District 43",
-      "candidate": "Sharon Henderson",
+      "district": "District 42",
+      "candidate": "Bret Dunn",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State Senate",
+      "district": "District 44",
+      "candidate": "Ngozi Orabueze",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State Senate",
+      "district": "District 45",
+      "candidate": "Anthony Tippetts",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -468,8 +558,8 @@
     {
       "state": "GA",
       "office": "State Senate",
-      "district": "District 48",
-      "candidate": "Nathan Hombroek",
+      "district": "District 47",
+      "candidate": "Justin Gillespie",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -487,8 +577,26 @@
       "state": "GA",
       "office": "State Senate",
       "district": "District 49",
+      "candidate": "William Wallace",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State Senate",
+      "district": "District 49",
       "candidate": "Drew Echols",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State Senate",
+      "district": "District 50",
+      "candidate": "Dave Cooper",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -513,8 +621,8 @@
     {
       "state": "GA",
       "office": "State Senate",
-      "district": "District 51",
-      "candidate": "Will Wade",
+      "district": "District 52",
+      "candidate": "Chuck Hufstetler",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -531,9 +639,27 @@
     {
       "state": "GA",
       "office": "State Senate",
-      "district": "District 53",
-      "candidate": "Colton Moore",
+      "district": "District 55",
+      "candidate": "Randal Mangham",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State Senate",
+      "district": "District 55",
+      "candidate": "Mary Williams Benefield",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "State Senate",
+      "district": "District 56",
+      "candidate": "Patrick Thompson",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

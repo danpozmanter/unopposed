@@ -2,35 +2,35 @@
   "state": "TN",
   "state_name": "Tennessee",
   "year": 2026,
-  "total": 120,
+  "total": 151,
   "total_races": 127,
   "total_races_by_party": {
     "Unknown": 10,
-    "Democrat": 52,
-    "Republican": 101,
+    "Republican": 105,
+    "Democrat": 99,
     "Federalist": 1,
-    "Other": 1
+    "Other": 12
   },
   "general": {
     "total_races": 126,
-    "total_unopposed": 3,
+    "total_unopposed": 11,
     "unopposed_by_party": {
       "Unknown": 2,
-      "Other": 1
+      "Other": 9
     }
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 52,
-      "Republican": 101
+      "Democrat": 99,
+      "Republican": 105
     },
-    "total_unopposed": 117,
+    "total_unopposed": 140,
     "unopposed_by_party": {
-      "Republican": 80,
-      "Democrat": 37
+      "Republican": 68,
+      "Democrat": 72
     }
   },
-  "scraped_at": "2026-03-17T04:50:32.087852+00:00",
+  "scraped_at": "2026-03-18T04:54:56.429737+00:00",
   "unopposed_candidates": [
     {
       "state": "TN",
@@ -233,18 +233,9 @@
     {
       "state": "TN",
       "office": "State House",
-      "district": "District 1",
-      "candidate": "John Crawford",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TN",
-      "office": "State House",
-      "district": "District 2",
-      "candidate": "Adam Stallings",
-      "party": "Republican",
+      "district": "District 3",
+      "candidate": "Lori Love",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -270,8 +261,17 @@
       "state": "TN",
       "office": "State House",
       "district": "District 5",
-      "candidate": "David Hawk",
-      "party": "Republican",
+      "candidate": "Catherine Bacon",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Brad Batt",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -281,6 +281,15 @@
       "district": "District 6",
       "candidate": "Tim Hicks",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Sarah Jayne Della Vecchia",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -323,8 +332,8 @@
     {
       "state": "TN",
       "office": "State House",
-      "district": "District 11",
-      "candidate": "Jeremy Faison",
+      "district": "District 12",
+      "candidate": "Fred Atchley",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -332,9 +341,9 @@
     {
       "state": "TN",
       "office": "State House",
-      "district": "District 12",
-      "candidate": "Fred Atchley",
-      "party": "Republican",
+      "district": "District 13",
+      "candidate": "Brett Windrow",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -369,6 +378,15 @@
       "state": "TN",
       "office": "State House",
       "district": "District 16",
+      "candidate": "Eliza Boles",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 16",
       "candidate": "Michele Carringer",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -395,9 +413,9 @@
     {
       "state": "TN",
       "office": "State House",
-      "district": "District 18",
-      "candidate": "Elaine Davis",
-      "party": "Republican",
+      "district": "District 19",
+      "candidate": "Jenny Fowler",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -407,6 +425,15 @@
       "district": "District 19",
       "candidate": "Dave Wright",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Karen Gertz",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -441,8 +468,26 @@
       "state": "TN",
       "office": "State House",
       "district": "District 24",
+      "candidate": "Daniel Jones",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 24",
       "candidate": "Kevin Raper",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Monica Mowdy",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -459,6 +504,15 @@
       "state": "TN",
       "office": "State House",
       "district": "District 26",
+      "candidate": "Nathan Denton",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 26",
       "candidate": "Greg Martin",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -468,8 +522,8 @@
       "state": "TN",
       "office": "State House",
       "district": "District 27",
-      "candidate": "Michele Reneau",
-      "party": "Republican",
+      "candidate": "Paige Quirin",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -486,8 +540,26 @@
       "state": "TN",
       "office": "State House",
       "district": "District 29",
+      "candidate": "Ryan Scofield",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 29",
       "candidate": "Greg Vital",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "Art Rymer",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -512,15 +584,6 @@
     {
       "state": "TN",
       "office": "State House",
-      "district": "District 31",
-      "candidate": "Ron Travis",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TN",
-      "office": "State House",
       "district": "District 32",
       "candidate": "Ali Simpson",
       "party": "Democrat",
@@ -530,8 +593,8 @@
     {
       "state": "TN",
       "office": "State House",
-      "district": "District 32",
-      "candidate": "Monty Fritts",
+      "district": "District 33",
+      "candidate": "Richard Scarbrough",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -539,9 +602,9 @@
     {
       "state": "TN",
       "office": "State House",
-      "district": "District 33",
-      "candidate": "Richard Scarbrough",
-      "party": "Republican",
+      "district": "District 34",
+      "candidate": "Owen Farnsworth",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -566,8 +629,8 @@
     {
       "state": "TN",
       "office": "State House",
-      "district": "District 36",
-      "candidate": "Dennis Powers",
+      "district": "District 37",
+      "candidate": "Charlie Baum",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -575,9 +638,9 @@
     {
       "state": "TN",
       "office": "State House",
-      "district": "District 37",
-      "candidate": "Charlie Baum",
-      "party": "Republican",
+      "district": "District 38",
+      "candidate": "Seth McMillan",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -594,8 +657,26 @@
       "state": "TN",
       "office": "State House",
       "district": "District 40",
+      "candidate": "Daniel Hawthorne",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 40",
       "candidate": "Michael Hale",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "R. Jason Goodman",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -612,6 +693,15 @@
       "state": "TN",
       "office": "State House",
       "district": "District 42",
+      "candidate": "Trenton Strode",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 42",
       "candidate": "Ryan Williams",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -621,8 +711,8 @@
       "state": "TN",
       "office": "State House",
       "district": "District 43",
-      "candidate": "Paul Sherrell",
-      "party": "Republican",
+      "candidate": "Samantha Petit",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -630,8 +720,26 @@
       "state": "TN",
       "office": "State House",
       "district": "District 44",
-      "candidate": "William Lamberth",
-      "party": "Republican",
+      "candidate": "Latoya Holcomb",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 45",
+      "candidate": "Mandy Cook",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "Dominic Howard",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -648,8 +756,17 @@
       "state": "TN",
       "office": "State House",
       "district": "District 47",
-      "candidate": "Rush Bricken",
-      "party": "Republican",
+      "candidate": "Mike Stein",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Matt Ferry",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -659,6 +776,15 @@
       "district": "District 48",
       "candidate": "Bryan Terry",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 49",
+      "candidate": "Connie Casha",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -765,8 +891,8 @@
       "state": "TN",
       "office": "State House",
       "district": "District 59",
-      "candidate": "Caleb Hemmer",
-      "party": "Democrat",
+      "candidate": "Bill Hancock",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -782,9 +908,36 @@
     {
       "state": "TN",
       "office": "State House",
+      "district": "District 60",
+      "candidate": "Eva Romero",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 61",
+      "candidate": "Becca Ripley",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
       "district": "District 61",
       "candidate": "Gino Bulso",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 62",
+      "candidate": "Brieanna Akers",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -819,6 +972,15 @@
       "state": "TN",
       "office": "State House",
       "district": "District 64",
+      "candidate": "Craig D'Apolito",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 64",
       "candidate": "Scott Cepicky",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -828,8 +990,17 @@
       "state": "TN",
       "office": "State House",
       "district": "District 65",
-      "candidate": "Lee Reeves",
-      "party": "Republican",
+      "candidate": "Julian Pierre-Griffin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 66",
+      "candidate": "Tamara Bavendam",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -847,6 +1018,24 @@
       "office": "State House",
       "district": "District 67",
       "candidate": "Ronnie Glynn",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 67",
+      "candidate": "Chris Lanier",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 68",
+      "candidate": "Garfield Scott",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -873,6 +1062,15 @@
       "state": "TN",
       "office": "State House",
       "district": "District 70",
+      "candidate": "Rayanne Moos",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 70",
       "candidate": "Clay Doggett",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -882,8 +1080,8 @@
       "state": "TN",
       "office": "State House",
       "district": "District 71",
-      "candidate": "Kip Capley",
-      "party": "Republican",
+      "candidate": "Matt Day",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -962,8 +1160,8 @@
     {
       "state": "TN",
       "office": "State House",
-      "district": "District 81",
-      "candidate": "Debra Moody",
+      "district": "District 82",
+      "candidate": "Chris Hurt",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -971,9 +1169,9 @@
     {
       "state": "TN",
       "office": "State House",
-      "district": "District 82",
-      "candidate": "Chris Hurt",
-      "party": "Republican",
+      "district": "District 83",
+      "candidate": "Margaret Price",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -998,15 +1196,6 @@
     {
       "state": "TN",
       "office": "State House",
-      "district": "District 86",
-      "candidate": "Justin Pearson",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TN",
-      "office": "State House",
       "district": "District 87",
       "candidate": "Karen Camper",
       "party": "Democrat",
@@ -1016,8 +1205,26 @@
     {
       "state": "TN",
       "office": "State House",
+      "district": "District 87",
+      "candidate": "Reggie Hall",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
       "district": "District 88",
       "candidate": "Larry Miller",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 89",
+      "candidate": "Randy Debord",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -1043,18 +1250,9 @@
     {
       "state": "TN",
       "office": "State House",
-      "district": "District 91",
-      "candidate": "Torrey Harris",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TN",
-      "office": "State House",
       "district": "District 92",
-      "candidate": "Todd Warner",
-      "party": "Republican",
+      "candidate": "Teri Mai",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -1063,6 +1261,15 @@
       "office": "State House",
       "district": "District 93",
       "candidate": "G.A. Hardaway",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 94",
+      "candidate": "Francine Johnson",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -1088,8 +1295,8 @@
     {
       "state": "TN",
       "office": "State House",
-      "district": "District 96",
-      "candidate": "Gabby Salinas",
+      "district": "District 97",
+      "candidate": "Jesse Huseth",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -1110,6 +1317,78 @@
       "candidate": "Antonio Parkinson",
       "party": "Democrat",
       "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Rodger Broadwater",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Larry Brown",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Jeff Coggin",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 52",
+      "candidate": "Martez Coleman",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 73",
+      "candidate": "Justin Chandler",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 77",
+      "candidate": "Erin Reid",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 79",
+      "candidate": "Kirk Carter",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "State House",
+      "district": "District 99",
+      "candidate": "William Mouzon",
+      "party": "Other",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     }
   ]

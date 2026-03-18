@@ -2,35 +2,35 @@
   "state": "WI",
   "state_name": "Wisconsin",
   "year": 2026,
-  "total": 53,
+  "total": 52,
   "total_races": 125,
   "total_races_by_party": {
+    "Republican": 37,
     "Unknown": 4,
-    "Republican": 36,
-    "Democrat": 33,
+    "Democrat": 34,
     "Common Sense": 1,
-    "Other": 1
+    "Other": 2
   },
   "general": {
     "total_races": 120,
-    "total_unopposed": 3,
+    "total_unopposed": 4,
     "unopposed_by_party": {
       "Unknown": 2,
-      "Other": 1
+      "Other": 2
     }
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 33,
-      "Republican": 36
+      "Democrat": 34,
+      "Republican": 37
     },
-    "total_unopposed": 50,
+    "total_unopposed": 48,
     "unopposed_by_party": {
-      "Democrat": 22,
-      "Republican": 28
+      "Democrat": 19,
+      "Republican": 29
     }
   },
-  "scraped_at": "2026-03-17T04:52:08.457538+00:00",
+  "scraped_at": "2026-03-18T04:56:43.021189+00:00",
   "unopposed_candidates": [
     {
       "state": "WI",
@@ -119,6 +119,15 @@
       "district": "District 3",
       "candidate": "Tim Carpenter",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State Senate",
+      "district": "District 5",
+      "candidate": "Mike Roberts",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -286,6 +295,15 @@
     },
     {
       "state": "WI",
+      "office": "State Senate",
+      "district": "District 15",
+      "candidate": "Christopher Dean",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
       "office": "State House",
       "district": "District 1",
       "candidate": "Joel Kitchens",
@@ -332,27 +350,9 @@
     {
       "state": "WI",
       "office": "State House",
-      "district": "District 13",
-      "candidate": "Amy Zimmerman",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WI",
-      "office": "State House",
       "district": "District 15",
       "candidate": "Adam Neylon",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WI",
-      "office": "State House",
-      "district": "District 21",
-      "candidate": "Jessica Seawright",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -467,8 +467,8 @@
     {
       "state": "WI",
       "office": "State House",
-      "district": "District 76",
-      "candidate": "Zoe Sullivan",
+      "district": "District 82",
+      "candidate": "Enrique Camacho",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -488,15 +488,6 @@
       "district": "District 87",
       "candidate": "Brent Jacobson",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WI",
-      "office": "State House",
-      "district": "District 92",
-      "candidate": "Sydney Brennan",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

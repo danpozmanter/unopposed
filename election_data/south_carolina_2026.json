@@ -2,12 +2,12 @@
   "state": "SC",
   "state_name": "South Carolina",
   "year": 2026,
-  "total": 12,
+  "total": 17,
   "total_races": 133,
   "total_races_by_party": {
-    "Republican": 11,
+    "Democrat": 13,
+    "Republican": 12,
     "Unknown": 2,
-    "Democrat": 9,
     "Libertarian": 2
   },
   "general": {
@@ -20,16 +20,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 9,
-      "Republican": 11
+      "Democrat": 13,
+      "Republican": 12
     },
-    "total_unopposed": 9,
+    "total_unopposed": 14,
     "unopposed_by_party": {
-      "Republican": 5,
-      "Democrat": 4
+      "Republican": 6,
+      "Democrat": 8
     }
   },
-  "scraped_at": "2026-03-17T04:50:09.512486+00:00",
+  "scraped_at": "2026-03-18T04:54:22.864230+00:00",
   "unopposed_candidates": [
     {
       "state": "SC",
@@ -133,9 +133,54 @@
     {
       "state": "SC",
       "office": "State House",
+      "district": "District 21",
+      "candidate": "Dianne Mitchell",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
       "district": "District 41",
       "candidate": "Tibi Czentye",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 52",
+      "candidate": "Malcolm Taylor",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 110",
+      "candidate": "K.J. Atwood",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 114",
+      "candidate": "Kelly Hough",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 121",
+      "candidate": "Shannon DeLoach",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     }

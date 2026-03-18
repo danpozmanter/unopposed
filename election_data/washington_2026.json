@@ -5,10 +5,10 @@
   "total": 118,
   "total_races": 132,
   "total_races_by_party": {
-    "Democrat": 88,
+    "Democrat": 89,
     "Unknown": 6,
-    "Republican": 54,
     "Cascade": 1,
+    "Republican": 54,
     "Other": 1
   },
   "general": {
@@ -20,22 +20,22 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 88,
+      "Democrat": 89,
       "Unknown": 6,
       "Cascade": 1,
       "Republican": 54,
       "Other": 1
     },
-    "total_unopposed": 84,
+    "total_unopposed": 85,
     "unopposed_by_party": {
       "Unknown": 3,
       "Cascade": 1,
-      "Democrat": 68,
-      "Republican": 45,
+      "Democrat": 69,
+      "Republican": 44,
       "Other": 1
     }
   },
-  "scraped_at": "2026-03-17T04:51:41.371304+00:00",
+  "scraped_at": "2026-03-18T04:56:09.613495+00:00",
   "unopposed_candidates": [
     {
       "state": "WA",
@@ -364,15 +364,6 @@
     {
       "state": "WA",
       "office": "State House",
-      "district": "District 6",
-      "candidate": "Jenny Graham",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WA",
-      "office": "State House",
       "district": "District 7",
       "candidate": "David Engell",
       "party": "Republican",
@@ -583,6 +574,15 @@
       "district": "District 18",
       "candidate": "Stephanie McClintock",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Deken Letinich",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

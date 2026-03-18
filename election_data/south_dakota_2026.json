@@ -2,7 +2,7 @@
   "state": "SD",
   "state_name": "South Dakota",
   "year": 2026,
-  "total": 24,
+  "total": 23,
   "total_races": 73,
   "total_races_by_party": {
     "Democrat": 4,
@@ -21,13 +21,13 @@
       "Democrat": 4,
       "Republican": 24
     },
-    "total_unopposed": 23,
+    "total_unopposed": 22,
     "unopposed_by_party": {
       "Democrat": 4,
-      "Republican": 19
+      "Republican": 18
     }
   },
-  "scraped_at": "2026-03-17T04:50:20.680584+00:00",
+  "scraped_at": "2026-03-18T04:54:40.290659+00:00",
   "unopposed_candidates": [
     {
       "state": "SD",
@@ -187,15 +187,6 @@
       "office": "State House",
       "district": "District 22",
       "candidate": "Lana Greenfield",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "SD",
-      "office": "State House",
-      "district": "District 24",
-      "candidate": "Laurie Gill",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
