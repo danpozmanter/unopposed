@@ -2,12 +2,12 @@
   "state": "MN",
   "state_name": "Minnesota",
   "year": 2026,
-  "total": 81,
+  "total": 82,
   "total_races": 210,
   "total_races_by_party": {
-    "Republican": 50,
     "Unknown": 4,
-    "Democrat": 55
+    "Democrat": 56,
+    "Republican": 50
   },
   "general": {
     "total_races": 205,
@@ -18,16 +18,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 55,
+      "Democrat": 56,
       "Republican": 50
     },
     "total_unopposed": 69,
     "unopposed_by_party": {
-      "Democrat": 39,
+      "Democrat": 40,
       "Republican": 38
     }
   },
-  "scraped_at": "2026-03-18T04:49:57.144569+00:00",
+  "scraped_at": "2026-03-19T04:49:03.435744+00:00",
   "unopposed_candidates": [
     {
       "state": "MN",
@@ -458,6 +458,15 @@
       "district": "District 2",
       "candidate": "Bidal Duran",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Emily Thabes",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

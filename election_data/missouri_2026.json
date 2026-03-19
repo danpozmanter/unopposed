@@ -2,7 +2,7 @@
   "state": "MO",
   "state_name": "Missouri",
   "year": 2026,
-  "total": 152,
+  "total": 151,
   "total_races": 188,
   "total_races_by_party": {
     "Democrat": 97,
@@ -23,13 +23,13 @@
       "Democrat": 97,
       "Republican": 116
     },
-    "total_unopposed": 150,
+    "total_unopposed": 149,
     "unopposed_by_party": {
-      "Republican": 69,
+      "Republican": 68,
       "Democrat": 81
     }
   },
-  "scraped_at": "2026-03-18T04:50:25.332088+00:00",
+  "scraped_at": "2026-03-19T04:49:29.838943+00:00",
   "unopposed_candidates": [
     {
       "state": "MO",
@@ -171,15 +171,6 @@
       "office": "State House",
       "district": "District 4",
       "candidate": "Keith Gudehus",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MO",
-      "office": "State House",
-      "district": "District 6",
-      "candidate": "Ed Lewis",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

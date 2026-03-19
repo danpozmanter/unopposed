@@ -2,17 +2,17 @@
   "state": "NV",
   "state_name": "Nevada",
   "year": 2026,
-  "total": 12,
+  "total": 11,
   "total_races": 58,
   "total_races_by_party": {
+    "No Political": 4,
     "Democrat": 9,
     "Republican": 11,
-    "No Political": 3,
     "Unknown": 1,
     "Independent American": 3
   },
   "general": {
-    "total_races": 57,
+    "total_races": 58,
     "total_unopposed": 1,
     "unopposed_by_party": {
       "Independent American": 1
@@ -23,13 +23,13 @@
       "Democrat": 9,
       "Republican": 11
     },
-    "total_unopposed": 11,
+    "total_unopposed": 10,
     "unopposed_by_party": {
-      "Democrat": 5,
+      "Democrat": 4,
       "Republican": 6
     }
   },
-  "scraped_at": "2026-03-18T04:51:07.042903+00:00",
+  "scraped_at": "2026-03-19T04:50:13.332098+00:00",
   "unopposed_candidates": [
     {
       "state": "NV",
@@ -45,15 +45,6 @@
       "office": "US House",
       "district": "District 4",
       "candidate": "Steven Horsford",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NV",
-      "office": "Governor",
-      "district": "Statewide",
-      "candidate": "Aaron Ford",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

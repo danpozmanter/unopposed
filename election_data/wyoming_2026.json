@@ -5,8 +5,8 @@
   "total": 2,
   "total_races": 80,
   "total_races_by_party": {
-    "Republican": 4,
-    "Democrat": 1
+    "Democrat": 1,
+    "Republican": 4
   },
   "general": {
     "total_races": 78,
@@ -24,7 +24,7 @@
       "Republican": 1
     }
   },
-  "scraped_at": "2026-03-18T04:57:02.730947+00:00",
+  "scraped_at": "2026-03-19T04:55:40.988136+00:00",
   "unopposed_candidates": [
     {
       "state": "WY",

@@ -2,12 +2,12 @@
   "state": "GA",
   "state_name": "Georgia",
   "year": 2026,
-  "total": 302,
+  "total": 303,
   "total_races": 252,
   "total_races_by_party": {
+    "Democrat": 223,
     "Unknown": 4,
     "Republican": 202,
-    "Democrat": 223,
     "Socialist Labor": 1,
     "Communist": 1
   },
@@ -25,14 +25,23 @@
       "Democrat": 223,
       "Republican": 202
     },
-    "total_unopposed": 297,
+    "total_unopposed": 298,
     "unopposed_by_party": {
-      "Democrat": 140,
+      "Democrat": 141,
       "Republican": 157
     }
   },
-  "scraped_at": "2026-03-18T04:46:46.366955+00:00",
+  "scraped_at": "2026-03-19T04:45:55.243926+00:00",
   "unopposed_candidates": [
+    {
+      "state": "GA",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Jon Ossoff",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "GA",
       "office": "US House",

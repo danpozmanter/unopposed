@@ -2,12 +2,12 @@
   "state": "NY",
   "state_name": "New York",
   "year": 2026,
-  "total": 53,
+  "total": 52,
   "total_races": 240,
   "total_races_by_party": {
     "Unknown": 9,
-    "Republican": 34,
     "Democrat": 46,
+    "Republican": 34,
     "Conservative": 1,
     "American Independent": 1
   },
@@ -23,13 +23,13 @@
       "Democrat": 46,
       "Republican": 34
     },
-    "total_unopposed": 50,
+    "total_unopposed": 49,
     "unopposed_by_party": {
       "Republican": 24,
-      "Democrat": 26
+      "Democrat": 25
     }
   },
-  "scraped_at": "2026-03-18T04:52:09.318723+00:00",
+  "scraped_at": "2026-03-19T04:51:14.634154+00:00",
   "unopposed_candidates": [
     {
       "state": "NY",
@@ -217,15 +217,6 @@
       "district": "Statewide",
       "candidate": "Bruce Blakeman",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NY",
-      "office": "State Senate",
-      "district": "District 1",
-      "candidate": "Farzeen Bham",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

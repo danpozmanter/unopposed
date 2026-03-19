@@ -2,7 +2,7 @@
   "state": "OK",
   "state_name": "Oklahoma",
   "year": 2026,
-  "total": 45,
+  "total": 44,
   "total_races": 132,
   "total_races_by_party": {
     "Democrat": 24,
@@ -23,13 +23,13 @@
       "Democrat": 24,
       "Republican": 44
     },
-    "total_unopposed": 42,
+    "total_unopposed": 41,
     "unopposed_by_party": {
-      "Republican": 25,
-      "Democrat": 17
+      "Democrat": 17,
+      "Republican": 24
     }
   },
-  "scraped_at": "2026-03-18T04:53:12.377097+00:00",
+  "scraped_at": "2026-03-19T04:52:10.192833+00:00",
   "unopposed_candidates": [
     {
       "state": "OK",
@@ -38,15 +38,6 @@
       "candidate": "Ryan Parschauer",
       "party": "Unknown",
       "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OK",
-      "office": "US House",
-      "district": "District 1",
-      "candidate": "Mark Tedford",
-      "party": "Republican",
-      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
