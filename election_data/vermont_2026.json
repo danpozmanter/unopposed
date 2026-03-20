@@ -2,32 +2,32 @@
   "state": "VT",
   "state_name": "Vermont",
   "year": 2026,
-  "total": 55,
+  "total": 65,
   "total_races": 126,
   "total_races_by_party": {
-    "Democrat": 31,
-    "Republican": 28,
+    "Democrat": 43,
+    "Republican": 29,
     "Other": 6
   },
   "general": {
     "total_races": 125,
-    "total_unopposed": 6,
+    "total_unopposed": 5,
     "unopposed_by_party": {
-      "Other": 6
+      "Other": 5
     }
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 31,
-      "Republican": 28
+      "Democrat": 43,
+      "Republican": 29
     },
-    "total_unopposed": 49,
+    "total_unopposed": 60,
     "unopposed_by_party": {
-      "Democrat": 23,
-      "Republican": 26
+      "Democrat": 33,
+      "Republican": 27
     }
   },
-  "scraped_at": "2026-03-19T04:54:29.494357+00:00",
+  "scraped_at": "2026-03-20T04:48:45.219000+00:00",
   "unopposed_candidates": [
     {
       "state": "VT",
@@ -221,6 +221,15 @@
     {
       "state": "VT",
       "office": "State House",
+      "district": "Bennington-Rutland District",
+      "candidate": "Sandy Pinsonault",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
       "district": "Caledonia-Essex District(2 seats)",
       "candidate": "Scott Campbell",
       "party": "Democrat",
@@ -275,8 +284,35 @@
     {
       "state": "VT",
       "office": "State House",
+      "district": "Chittenden-1 District",
+      "candidate": "Jana Brown",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Chittenden 3 District(2 seats)",
+      "candidate": "Edye Graning",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
       "district": "Chittenden-4 District",
       "candidate": "Phil Pouech",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Chittenden-5 District",
+      "candidate": "Chea Waters Evans",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -302,8 +338,71 @@
     {
       "state": "VT",
       "office": "State House",
+      "district": "Chittenden-8 District",
+      "candidate": "Bridget Burkhardt",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Chittenden-10 District",
+      "candidate": "Kate Nugent",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
       "district": "Chittenden-11 District",
       "candidate": "Brian Minier",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Chittenden-12 District",
+      "candidate": "Martin LaLonde",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Chittenden-13 District(2 seats)",
+      "candidate": "Bram Kleppner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Chittenden-16 District(2 seats)",
+      "candidate": "Jill Krowinski",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Chittenden-17 District",
+      "candidate": "Abbey Duke",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Chittenden-18 District(2 seats)",
+      "candidate": "Carol Ode",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -486,15 +585,6 @@
       "candidate": "VL Coffin",
       "party": "Republican",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "VT",
-      "office": "State House",
-      "district": "Chittenden-15 District(2 seats)",
-      "candidate": "Troy Headrick",
-      "party": "Other",
-      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {

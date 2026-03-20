@@ -2,12 +2,12 @@
   "state": "DE",
   "state_name": "Delaware",
   "year": 2026,
-  "total": 4,
+  "total": 5,
   "total_races": 53,
   "total_races_by_party": {
+    "Democrat": 4,
     "Republican": 2,
-    "Unknown": 1,
-    "Democrat": 3
+    "Unknown": 1
   },
   "general": {
     "total_races": 53,
@@ -18,16 +18,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 3,
+      "Democrat": 4,
       "Republican": 2
     },
-    "total_unopposed": 3,
+    "total_unopposed": 4,
     "unopposed_by_party": {
-      "Democrat": 2,
+      "Democrat": 3,
       "Republican": 1
     }
   },
-  "scraped_at": "2026-03-19T04:45:24.885726+00:00",
+  "scraped_at": "2026-03-20T04:39:49.932490+00:00",
   "unopposed_candidates": [
     {
       "state": "DE",
@@ -43,6 +43,15 @@
       "office": "State Senate",
       "district": "District 8",
       "candidate": "Mara Gorman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State Senate",
+      "district": "District 15",
+      "candidate": "Nisha Lodhavia",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

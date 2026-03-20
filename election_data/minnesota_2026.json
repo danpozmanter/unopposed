@@ -2,18 +2,18 @@
   "state": "MN",
   "state_name": "Minnesota",
   "year": 2026,
-  "total": 82,
+  "total": 81,
   "total_races": 210,
   "total_races_by_party": {
-    "Unknown": 4,
+    "Republican": 50,
     "Democrat": 56,
-    "Republican": 50
+    "Unknown": 4
   },
   "general": {
     "total_races": 205,
-    "total_unopposed": 4,
+    "total_unopposed": 3,
     "unopposed_by_party": {
-      "Unknown": 4
+      "Unknown": 3
     }
   },
   "primary": {
@@ -27,7 +27,7 @@
       "Republican": 38
     }
   },
-  "scraped_at": "2026-03-19T04:49:03.435744+00:00",
+  "scraped_at": "2026-03-20T04:43:24.233636+00:00",
   "unopposed_candidates": [
     {
       "state": "MN",
@@ -88,15 +88,6 @@
       "office": "US House",
       "district": "District 5",
       "candidate": "DeVelle Jackson",
-      "party": "Unknown",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MN",
-      "office": "US House",
-      "district": "District 6",
-      "candidate": "Austin Winkelman",
       "party": "Unknown",
       "unopposed_in": "General",
       "source": "Ballotpedia"

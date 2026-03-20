@@ -2,11 +2,11 @@
   "state": "WY",
   "state_name": "Wyoming",
   "year": 2026,
-  "total": 2,
+  "total": 3,
   "total_races": 80,
   "total_races_by_party": {
-    "Democrat": 1,
-    "Republican": 4
+    "Republican": 5,
+    "Democrat": 1
   },
   "general": {
     "total_races": 78,
@@ -16,15 +16,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 1,
-      "Republican": 4
+      "Republican": 5
     },
-    "total_unopposed": 2,
+    "total_unopposed": 3,
     "unopposed_by_party": {
       "Democrat": 1,
-      "Republican": 1
+      "Republican": 2
     }
   },
-  "scraped_at": "2026-03-19T04:55:40.988136+00:00",
+  "scraped_at": "2026-03-20T04:49:59.051156+00:00",
   "unopposed_candidates": [
     {
       "state": "WY",
@@ -32,6 +32,15 @@
       "district": "Statewide",
       "candidate": "James Byrd",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Ogden Driskill",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

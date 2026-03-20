@@ -2,11 +2,11 @@
   "state": "IA",
   "state_name": "Iowa",
   "year": 2026,
-  "total": 162,
+  "total": 163,
   "total_races": 131,
   "total_races_by_party": {
     "Democrat": 106,
-    "Republican": 102,
+    "Republican": 103,
     "Unknown": 2
   },
   "general": {
@@ -19,15 +19,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 106,
-      "Republican": 102
+      "Republican": 103
     },
-    "total_unopposed": 160,
+    "total_unopposed": 161,
     "unopposed_by_party": {
-      "Republican": 74,
+      "Republican": 75,
       "Democrat": 86
     }
   },
-  "scraped_at": "2026-03-19T04:47:09.832325+00:00",
+  "scraped_at": "2026-03-20T04:41:27.461873+00:00",
   "unopposed_candidates": [
     {
       "state": "IA",
@@ -323,6 +323,15 @@
       "district": "District 49",
       "candidate": "Cindy Winckler",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State Senate",
+      "district": "District 49",
+      "candidate": "Cynthia Mensendick",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

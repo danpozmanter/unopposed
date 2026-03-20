@@ -5,8 +5,8 @@
   "total": 159,
   "total_races": 134,
   "total_races_by_party": {
-    "Democrat": 125,
     "Republican": 112,
+    "Democrat": 125,
     "Unknown": 4,
     "Other": 1
   },
@@ -29,7 +29,7 @@
       "Democrat": 93
     }
   },
-  "scraped_at": "2026-03-19T04:46:53.132260+00:00",
+  "scraped_at": "2026-03-20T04:41:13.160975+00:00",
   "unopposed_candidates": [
     {
       "state": "IN",

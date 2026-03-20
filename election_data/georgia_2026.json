@@ -2,12 +2,12 @@
   "state": "GA",
   "state_name": "Georgia",
   "year": 2026,
-  "total": 303,
+  "total": 302,
   "total_races": 252,
   "total_races_by_party": {
-    "Democrat": 223,
-    "Unknown": 4,
     "Republican": 202,
+    "Unknown": 4,
+    "Democrat": 222,
     "Socialist Labor": 1,
     "Communist": 1
   },
@@ -22,16 +22,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 223,
+      "Democrat": 222,
       "Republican": 202
     },
-    "total_unopposed": 298,
+    "total_unopposed": 297,
     "unopposed_by_party": {
-      "Democrat": 141,
+      "Democrat": 140,
       "Republican": 157
     }
   },
-  "scraped_at": "2026-03-19T04:45:55.243926+00:00",
+  "scraped_at": "2026-03-20T04:40:18.114869+00:00",
   "unopposed_candidates": [
     {
       "state": "GA",
@@ -1524,15 +1524,6 @@
       "district": "District 71",
       "candidate": "Justin Howard",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "GA",
-      "office": "State House",
-      "district": "District 72",
-      "candidate": "Scott Hamby",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
