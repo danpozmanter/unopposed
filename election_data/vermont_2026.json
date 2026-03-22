@@ -5,8 +5,8 @@
   "total": 65,
   "total_races": 126,
   "total_races_by_party": {
-    "Republican": 29,
     "Democrat": 43,
+    "Republican": 29,
     "Other": 6
   },
   "general": {
@@ -27,7 +27,7 @@
       "Republican": 27
     }
   },
-  "scraped_at": "2026-03-21T04:46:43.597697+00:00",
+  "scraped_at": "2026-03-22T04:52:43.388150+00:00",
   "unopposed_candidates": [
     {
       "state": "VT",
