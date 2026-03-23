@@ -2,11 +2,11 @@
   "state": "MO",
   "state_name": "Missouri",
   "year": 2026,
-  "total": 151,
+  "total": 154,
   "total_races": 188,
   "total_races_by_party": {
-    "Democrat": 97,
-    "Republican": 116,
+    "Democrat": 101,
+    "Republican": 117,
     "Unknown": 1,
     "Other": 1
   },
@@ -20,16 +20,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 97,
-      "Republican": 116
+      "Democrat": 101,
+      "Republican": 117
     },
-    "total_unopposed": 149,
+    "total_unopposed": 152,
     "unopposed_by_party": {
       "Republican": 68,
-      "Democrat": 81
+      "Democrat": 84
     }
   },
-  "scraped_at": "2026-03-22T04:47:42.890179+00:00",
+  "scraped_at": "2026-03-23T04:55:52.093395+00:00",
   "unopposed_candidates": [
     {
       "state": "MO",
@@ -583,6 +583,15 @@
     {
       "state": "MO",
       "office": "State House",
+      "district": "District 59",
+      "candidate": "Rebecca Kroll",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
       "district": "District 60",
       "candidate": "Suzanne Luther",
       "party": "Democrat",
@@ -700,6 +709,15 @@
     {
       "state": "MO",
       "office": "State House",
+      "district": "District 75",
+      "candidate": "Brandon Wilke",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
       "district": "District 76",
       "candidate": "Marlon Anderson",
       "party": "Democrat",
@@ -720,15 +738,6 @@
       "office": "State House",
       "district": "District 79",
       "candidate": "Rachel D'Souza",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MO",
-      "office": "State House",
-      "district": "District 83",
-      "candidate": "Raymond Reed",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -982,6 +991,15 @@
       "district": "District 112",
       "candidate": "Ed Callahan",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 113",
+      "candidate": "Ashley Drury",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -1321,8 +1339,8 @@
     {
       "state": "MO",
       "office": "State House",
-      "district": "District 151",
-      "candidate": "Chenoa Burns",
+      "district": "District 149",
+      "candidate": "John Armbruster",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -1330,9 +1348,9 @@
     {
       "state": "MO",
       "office": "State House",
-      "district": "District 152",
-      "candidate": "Jeff Shawan",
-      "party": "Republican",
+      "district": "District 151",
+      "candidate": "Chenoa Burns",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -1369,6 +1387,15 @@
       "district": "District 155",
       "candidate": "Matthew Overcast",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 157",
+      "candidate": "Bradley Bos",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

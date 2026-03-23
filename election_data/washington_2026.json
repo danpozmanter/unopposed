@@ -7,8 +7,8 @@
   "total_races_by_party": {
     "Unknown": 6,
     "Democrat": 89,
+    "Republican": 55,
     "Cascade": 1,
-    "Republican": 54,
     "Other": 1
   },
   "general": {
@@ -23,10 +23,10 @@
       "Democrat": 89,
       "Unknown": 6,
       "Cascade": 1,
-      "Republican": 54,
+      "Republican": 55,
       "Other": 1
     },
-    "total_unopposed": 85,
+    "total_unopposed": 86,
     "unopposed_by_party": {
       "Unknown": 3,
       "Cascade": 1,
@@ -35,7 +35,7 @@
       "Other": 1
     }
   },
-  "scraped_at": "2026-03-22T04:53:10.653446+00:00",
+  "scraped_at": "2026-03-23T05:01:31.121556+00:00",
   "unopposed_candidates": [
     {
       "state": "WA",
@@ -465,15 +465,6 @@
       "office": "State House",
       "district": "District 12",
       "candidate": "Brian Burnett",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WA",
-      "office": "State House",
-      "district": "District 12",
-      "candidate": "Mike Steele",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -1006,6 +997,15 @@
       "district": "District 44",
       "candidate": "Brandy Donaghy",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Chris Elder",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
