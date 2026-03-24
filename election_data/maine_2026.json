@@ -2,7 +2,7 @@
   "state": "ME",
   "state_name": "Maine",
   "year": 2026,
-  "total": 286,
+  "total": 289,
   "total_races": 190,
   "total_races_by_party": {
     "Democrat": 164,
@@ -23,15 +23,42 @@
       "Republican": 154,
       "Other": 1
     },
-    "total_unopposed": 277,
+    "total_unopposed": 280,
     "unopposed_by_party": {
-      "Democrat": 149,
-      "Republican": 127,
+      "Republican": 129,
+      "Democrat": 150,
       "Other": 1
     }
   },
-  "scraped_at": "2026-03-23T04:54:21.187100+00:00",
+  "scraped_at": "2026-03-24T04:46:08.417023+00:00",
   "unopposed_candidates": [
+    {
+      "state": "ME",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Susan Collins",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Chellie Pingree",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Paul LePage",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "ME",
       "office": "State Senate",

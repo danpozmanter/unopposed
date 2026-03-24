@@ -2,21 +2,21 @@
   "state": "IL",
   "state_name": "Illinois",
   "year": 2026,
-  "total": 232,
+  "total": 231,
   "total_races": 175,
   "total_races_by_party": {
-    "Republican": 235,
-    "Democrat": 292,
+    "Democrat": 294,
     "Unknown": 5,
+    "Republican": 235,
     "Working Class": 1,
     "Other": 1
   },
   "general": {
     "total_races": 175,
-    "total_unopposed": 82,
+    "total_unopposed": 81,
     "unopposed_by_party": {
-      "Republican": 31,
-      "Democrat": 51
+      "Democrat": 51,
+      "Republican": 30
     }
   },
   "primary": {
@@ -30,17 +30,8 @@
       "Democrat": 115
     }
   },
-  "scraped_at": "2026-03-23T04:52:44.566352+00:00",
+  "scraped_at": "2026-03-24T04:44:39.766400+00:00",
   "unopposed_candidates": [
-    {
-      "state": "IL",
-      "office": "US House",
-      "district": "District 1",
-      "candidate": "Christian Maxwell",
-      "party": "Republican",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
     {
       "state": "IL",
       "office": "US House",

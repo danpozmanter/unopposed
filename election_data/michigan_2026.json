@@ -2,12 +2,12 @@
   "state": "MI",
   "state_name": "Michigan",
   "year": 2026,
-  "total": 51,
+  "total": 52,
   "total_races": 163,
   "total_races_by_party": {
-    "Republican": 32,
-    "Democrat": 48,
     "Unknown": 5,
+    "Democrat": 49,
+    "Republican": 32,
     "Other": 1
   },
   "general": {
@@ -20,16 +20,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 48,
+      "Democrat": 49,
       "Republican": 32
     },
-    "total_unopposed": 47,
+    "total_unopposed": 48,
     "unopposed_by_party": {
       "Republican": 18,
-      "Democrat": 29
+      "Democrat": 30
     }
   },
-  "scraped_at": "2026-03-23T04:55:08.981716+00:00",
+  "scraped_at": "2026-03-24T04:46:52.670880+00:00",
   "unopposed_candidates": [
     {
       "state": "MI",
@@ -207,6 +207,15 @@
       "office": "State Senate",
       "district": "District 26",
       "candidate": "John Hall",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Abbie Groff-Blaszak",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

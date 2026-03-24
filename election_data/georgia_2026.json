@@ -2,11 +2,11 @@
   "state": "GA",
   "state_name": "Georgia",
   "year": 2026,
-  "total": 302,
+  "total": 303,
   "total_races": 252,
   "total_races_by_party": {
-    "Unknown": 4,
     "Democrat": 222,
+    "Unknown": 4,
     "Republican": 202,
     "Socialist Labor": 1,
     "Communist": 1
@@ -25,13 +25,13 @@
       "Democrat": 222,
       "Republican": 202
     },
-    "total_unopposed": 297,
+    "total_unopposed": 298,
     "unopposed_by_party": {
       "Democrat": 140,
-      "Republican": 157
+      "Republican": 158
     }
   },
-  "scraped_at": "2026-03-23T04:51:56.883805+00:00",
+  "scraped_at": "2026-03-24T04:43:53.544164+00:00",
   "unopposed_candidates": [
     {
       "state": "GA",
@@ -66,6 +66,15 @@
       "district": "District 2",
       "candidate": "Sanford Bishop Jr.",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "GA",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Matt Day",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

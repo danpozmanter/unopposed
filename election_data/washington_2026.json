@@ -2,13 +2,13 @@
   "state": "WA",
   "state_name": "Washington",
   "year": 2026,
-  "total": 118,
+  "total": 117,
   "total_races": 132,
   "total_races_by_party": {
-    "Unknown": 6,
     "Democrat": 89,
-    "Republican": 55,
+    "Unknown": 6,
     "Cascade": 1,
+    "Republican": 55,
     "Other": 1
   },
   "general": {
@@ -30,12 +30,12 @@
     "unopposed_by_party": {
       "Unknown": 3,
       "Cascade": 1,
-      "Democrat": 69,
+      "Democrat": 68,
       "Republican": 44,
       "Other": 1
     }
   },
-  "scraped_at": "2026-03-23T05:01:31.121556+00:00",
+  "scraped_at": "2026-03-24T04:53:07.216248+00:00",
   "unopposed_candidates": [
     {
       "state": "WA",
@@ -879,15 +879,6 @@
       "office": "State House",
       "district": "District 37",
       "candidate": "Sharon Tomiko Santos",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WA",
-      "office": "State House",
-      "district": "District 38",
-      "candidate": "Julio Cortes",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

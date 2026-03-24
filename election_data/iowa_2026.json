@@ -2,11 +2,11 @@
   "state": "IA",
   "state_name": "Iowa",
   "year": 2026,
-  "total": 163,
+  "total": 162,
   "total_races": 131,
   "total_races_by_party": {
-    "Republican": 103,
     "Democrat": 106,
+    "Republican": 103,
     "Unknown": 2
   },
   "general": {
@@ -21,13 +21,13 @@
       "Democrat": 106,
       "Republican": 103
     },
-    "total_unopposed": 161,
+    "total_unopposed": 160,
     "unopposed_by_party": {
-      "Republican": 75,
+      "Republican": 74,
       "Democrat": 86
     }
   },
-  "scraped_at": "2026-03-23T04:53:16.152286+00:00",
+  "scraped_at": "2026-03-24T04:45:10.913038+00:00",
   "unopposed_candidates": [
     {
       "state": "IA",
@@ -161,15 +161,6 @@
       "district": "District 23",
       "candidate": "Tony Thompson",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "IA",
-      "office": "State Senate",
-      "district": "District 23",
-      "candidate": "Wes Enos",
-      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

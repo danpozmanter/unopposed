@@ -2,12 +2,12 @@
   "state": "NJ",
   "state_name": "New Jersey",
   "year": 2026,
-  "total": 14,
+  "total": 16,
   "total_races": 13,
   "total_races_by_party": {
-    "Republican": 10,
     "Unknown": 7,
-    "Democrat": 12
+    "Democrat": 13,
+    "Republican": 12
   },
   "general": {
     "total_races": 7,
@@ -18,16 +18,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 12,
-      "Republican": 10
+      "Democrat": 13,
+      "Republican": 12
     },
-    "total_unopposed": 7,
+    "total_unopposed": 9,
     "unopposed_by_party": {
-      "Republican": 6,
+      "Republican": 8,
       "Democrat": 1
     }
   },
-  "scraped_at": "2026-03-23T04:57:07.154602+00:00",
+  "scraped_at": "2026-03-24T04:48:45.788092+00:00",
   "unopposed_candidates": [
     {
       "state": "NJ",
@@ -36,6 +36,15 @@
       "candidate": "Submit photo",
       "party": "Unknown",
       "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Damon Galdo",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -144,6 +153,15 @@
       "candidate": "Vincent Matrisciano",
       "party": "Unknown",
       "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NJ",
+      "office": "US House",
+      "district": "District 11",
+      "candidate": "Joe Hathaway",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {

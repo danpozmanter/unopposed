@@ -2,36 +2,36 @@
   "state": "NV",
   "state_name": "Nevada",
   "year": 2026,
-  "total": 55,
+  "total": 69,
   "total_races": 58,
   "total_races_by_party": {
-    "Democrat": 43,
-    "Unknown": 1,
     "No Political": 4,
-    "Republican": 38,
+    "Democrat": 53,
+    "Unknown": 1,
+    "Republican": 45,
     "Independent American": 3,
-    "Other": 10
+    "Other": 12
   },
   "general": {
     "total_races": 58,
-    "total_unopposed": 10,
+    "total_unopposed": 11,
     "unopposed_by_party": {
       "Independent American": 1,
-      "Other": 9
+      "Other": 10
     }
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 43,
-      "Republican": 38
+      "Democrat": 53,
+      "Republican": 45
     },
-    "total_unopposed": 45,
+    "total_unopposed": 58,
     "unopposed_by_party": {
-      "Democrat": 23,
-      "Republican": 22
+      "Democrat": 31,
+      "Republican": 27
     }
   },
-  "scraped_at": "2026-03-23T04:56:36.808755+00:00",
+  "scraped_at": "2026-03-24T04:48:17.878968+00:00",
   "unopposed_candidates": [
     {
       "state": "NV",
@@ -54,6 +54,78 @@
     {
       "state": "NV",
       "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Marilyn Dondero Loop",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Melanie Scheible",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Maria Thompson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Fabian Donate",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Julie Pazina",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Rafael Arroyo-Montalvo",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Skip Daly",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Matthew Buehler",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State Senate",
       "district": "District 14",
       "candidate": "Ira Hansen",
       "party": "Republican",
@@ -64,9 +136,63 @@
       "state": "NV",
       "office": "State Senate",
       "district": "District 16",
-      "candidate": "Lisa Krasner",
+      "candidate": "Chrystal Roll",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Lynne Ballatore",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Robin Titus",
       "party": "Republican",
       "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State Senate",
+      "district": "District 20",
+      "candidate": "Calvin Sandoval",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State Senate",
+      "district": "District 20",
+      "candidate": "Danielle Gallant",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Al Rojas",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Charlene Young",
+      "party": "Other",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {

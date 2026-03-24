@@ -2,13 +2,13 @@
   "state": "OH",
   "state_name": "Ohio",
   "year": 2026,
-  "total": 195,
+  "total": 192,
   "total_races": 131,
   "total_races_by_party": {
+    "Republican": 120,
     "Democrat": 127,
     "Unknown": 8,
-    "Republican": 121,
-    "Other": 15
+    "Other": 14
   },
   "general": {
     "total_races": 120,
@@ -21,19 +21,19 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 127,
-      "Republican": 121,
+      "Republican": 120,
       "Unknown": 6,
-      "Other": 14
+      "Other": 13
     },
-    "total_unopposed": 190,
+    "total_unopposed": 187,
     "unopposed_by_party": {
-      "Republican": 89,
-      "Democrat": 84,
+      "Republican": 88,
+      "Democrat": 83,
       "Unknown": 3,
-      "Other": 14
+      "Other": 13
     }
   },
-  "scraped_at": "2026-03-23T04:58:24.581183+00:00",
+  "scraped_at": "2026-03-24T04:49:59.975904+00:00",
   "unopposed_candidates": [
     {
       "state": "OH",
@@ -677,15 +677,6 @@
     {
       "state": "OH",
       "office": "State House",
-      "district": "District 22",
-      "candidate": "Michele Erney",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OH",
-      "office": "State House",
       "district": "District 23",
       "candidate": "Dan Troy",
       "party": "Democrat",
@@ -851,15 +842,6 @@
       "district": "District 33",
       "candidate": "Napoleon Rodgers Jr.",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OH",
-      "office": "State House",
-      "district": "District 33",
-      "candidate": "Keith Castillo",
-      "party": "Other",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -1516,15 +1498,6 @@
       "office": "State House",
       "district": "District 81",
       "candidate": "David Swanson",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OH",
-      "office": "State House",
-      "district": "District 82",
-      "candidate": "David Plant",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

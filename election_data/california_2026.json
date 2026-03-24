@@ -2,15 +2,15 @@
   "state": "CA",
   "state_name": "California",
   "year": 2026,
-  "total": 78,
+  "total": 86,
   "total_races": 153,
   "total_races_by_party": {
-    "Democrat": 77,
-    "Republican": 55,
-    "Unknown": 21,
+    "Republican": 71,
+    "Democrat": 79,
+    "Unknown": 22,
     "American Independent": 1,
     "Libertarian": 1,
-    "Other": 1
+    "Other": 5
   },
   "general": {
     "total_races": 100,
@@ -21,24 +21,24 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 77,
-      "Republican": 55,
-      "Unknown": 21,
+      "Democrat": 79,
+      "Republican": 71,
+      "Unknown": 22,
       "American Independent": 1,
       "Libertarian": 1,
-      "Other": 1
+      "Other": 5
     },
-    "total_unopposed": 78,
+    "total_unopposed": 86,
     "unopposed_by_party": {
-      "Republican": 30,
-      "Unknown": 13,
-      "Democrat": 32,
+      "Republican": 39,
+      "Unknown": 12,
+      "Democrat": 28,
       "American Independent": 1,
       "Libertarian": 1,
-      "Other": 1
+      "Other": 5
     }
   },
-  "scraped_at": "2026-03-23T04:50:27.353174+00:00",
+  "scraped_at": "2026-03-24T04:42:31.725268+00:00",
   "unopposed_candidates": [
     {
       "state": "CA",
@@ -314,6 +314,15 @@
       "state": "CA",
       "office": "US House",
       "district": "District 32",
+      "candidate": "Douglas Smith",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 32",
       "candidate": "Larry Thompson",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -350,8 +359,8 @@
       "state": "CA",
       "office": "US House",
       "district": "District 37",
-      "candidate": "Steve Hill",
-      "party": "Unknown",
+      "candidate": "Baltazar Fedalizo",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -439,15 +448,6 @@
     {
       "state": "CA",
       "office": "US House",
-      "district": "District 47",
-      "candidate": "Eric Troutman",
-      "party": "Unknown",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CA",
-      "office": "US House",
       "district": "District 48",
       "candidate": "Jim Desmond",
       "party": "Republican",
@@ -484,15 +484,6 @@
     {
       "state": "CA",
       "office": "US House",
-      "district": "District 51",
-      "candidate": "John-Samuel Etheridge Williams",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CA",
-      "office": "US House",
       "district": "District 52",
       "candidate": "Juan Vargas",
       "party": "Democrat",
@@ -502,18 +493,9 @@
     {
       "state": "CA",
       "office": "State Senate",
-      "district": "District 2",
-      "candidate": "James Gore",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CA",
-      "office": "State Senate",
       "district": "District 4",
-      "candidate": "Marie Alvarado-Gil",
-      "party": "Republican",
+      "candidate": "Jaron Brandon",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -538,8 +520,8 @@
     {
       "state": "CA",
       "office": "State Senate",
-      "district": "District 12",
-      "candidate": "Michael Maher",
+      "district": "District 8",
+      "candidate": "Susan Mason",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -547,9 +529,45 @@
     {
       "state": "CA",
       "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Linda Roberts",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Linda Price",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "William Brown Jr.",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
       "district": "District 14",
-      "candidate": "Esmeralda Soria",
-      "party": "Democrat",
+      "candidate": "Darin DuPont",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Guillermo Gonzalez",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -565,9 +583,18 @@
     {
       "state": "CA",
       "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Art Hodges",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
       "district": "District 20",
-      "candidate": "Caroline Menjivar",
-      "party": "Democrat",
+      "candidate": "Tony Rodriguez",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -583,9 +610,18 @@
     {
       "state": "CA",
       "office": "State Senate",
-      "district": "District 26",
-      "candidate": "Maria Elena Durazo",
-      "party": "Democrat",
+      "district": "District 22",
+      "candidate": "Mike Netter",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "R. R. Jimenez",
+      "party": "Other",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -601,9 +637,36 @@
     {
       "state": "CA",
       "office": "State Senate",
+      "district": "District 28",
+      "candidate": "Joe Lisuzzo",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 28",
+      "candidate": "Daphne Bradford",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
       "district": "District 30",
       "candidate": "Bob Archuleta",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 30",
+      "candidate": "Araceli Martinez",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -628,9 +691,18 @@
     {
       "state": "CA",
       "office": "State Senate",
-      "district": "District 36",
-      "candidate": "Richard Foster",
+      "district": "District 34",
+      "candidate": "Avelino Valencia",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 34",
+      "candidate": "Rhonda Shader",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -655,9 +727,9 @@
     {
       "state": "CA",
       "office": "State Senate",
-      "district": "District 40",
-      "candidate": "Sabrina Bazzo",
-      "party": "Democrat",
+      "district": "District 38",
+      "candidate": "Laura Bassett",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

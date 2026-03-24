@@ -2,12 +2,12 @@
   "state": "MD",
   "state_name": "Maryland",
   "year": 2026,
-  "total": 100,
+  "total": 101,
   "total_races": 126,
   "total_races_by_party": {
-    "Unknown": 2,
     "Republican": 82,
-    "Democrat": 123,
+    "Unknown": 2,
+    "Democrat": 124,
     "Green/Rainbow": 2
   },
   "general": {
@@ -20,16 +20,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 123,
+      "Democrat": 124,
       "Republican": 82
     },
     "total_unopposed": 86,
     "unopposed_by_party": {
       "Republican": 51,
-      "Democrat": 46
+      "Democrat": 47
     }
   },
-  "scraped_at": "2026-03-23T04:54:37.296785+00:00",
+  "scraped_at": "2026-03-24T04:46:22.329191+00:00",
   "unopposed_candidates": [
     {
       "state": "MD",
@@ -586,6 +586,15 @@
       "district": "District 1",
       "candidate": "Jason C. Buckel",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MD",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Seth Funk",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

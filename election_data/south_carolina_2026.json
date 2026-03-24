@@ -5,31 +5,30 @@
   "total": 17,
   "total_races": 133,
   "total_races_by_party": {
-    "Democrat": 13,
-    "Republican": 12,
     "Unknown": 2,
+    "Republican": 13,
+    "Democrat": 13,
     "Libertarian": 2
   },
   "general": {
     "total_races": 128,
-    "total_unopposed": 3,
+    "total_unopposed": 2,
     "unopposed_by_party": {
-      "Libertarian": 2,
-      "Unknown": 1
+      "Libertarian": 2
     }
   },
   "primary": {
     "total_races_by_party": {
       "Democrat": 13,
-      "Republican": 12
+      "Republican": 13
     },
-    "total_unopposed": 14,
+    "total_unopposed": 15,
     "unopposed_by_party": {
-      "Republican": 6,
+      "Republican": 7,
       "Democrat": 8
     }
   },
-  "scraped_at": "2026-03-23T04:59:39.431230+00:00",
+  "scraped_at": "2026-03-24T04:51:16.513207+00:00",
   "unopposed_candidates": [
     {
       "state": "SC",
@@ -114,15 +113,6 @@
     },
     {
       "state": "SC",
-      "office": "Governor",
-      "district": "Statewide",
-      "candidate": "Mike Reichenbach",
-      "party": "Unknown",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "SC",
       "office": "State House",
       "district": "District 14",
       "candidate": "Rick Shealy",
@@ -135,6 +125,15 @@
       "office": "State House",
       "district": "District 21",
       "candidate": "Dianne Mitchell",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Steven Long",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

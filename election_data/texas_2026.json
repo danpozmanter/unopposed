@@ -5,18 +5,18 @@
   "total": 231,
   "total_races": 206,
   "total_races_by_party": {
+    "Republican": 330,
+    "Unknown": 23,
     "Democrat": 394,
-    "Unknown": 21,
-    "Republican": 329,
     "American Independent": 1,
     "Other": 3
   },
   "general": {
     "total_races": 206,
-    "total_unopposed": 29,
+    "total_unopposed": 26,
     "unopposed_by_party": {
-      "Democrat": 22,
-      "Republican": 7
+      "Democrat": 20,
+      "Republican": 6
     }
   },
   "primary": {
@@ -30,7 +30,7 @@
       "Democrat": 127
     }
   },
-  "scraped_at": "2026-03-23T05:00:32.191612+00:00",
+  "scraped_at": "2026-03-24T04:52:07.219496+00:00",
   "unopposed_candidates": [
     {
       "state": "TX",
@@ -146,7 +146,7 @@
       "district": "District 19",
       "candidate": "Kyle Rable",
       "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -164,7 +164,7 @@
       "district": "District 24",
       "candidate": "Beth Van Duyne",
       "party": "Republican",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -415,15 +415,6 @@
       "office": "State House",
       "district": "District 46",
       "candidate": "Sheryl Cole",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TX",
-      "office": "State House",
-      "district": "District 74",
-      "candidate": "Eddie Morales Jr.",
       "party": "Democrat",
       "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
@@ -1370,6 +1361,15 @@
       "district": "District 73",
       "candidate": "Carrie Isaac",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TX",
+      "office": "State House",
+      "district": "District 74",
+      "candidate": "Eddie Morales Jr.",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

@@ -2,14 +2,13 @@
   "state": "AZ",
   "state_name": "Arizona",
   "year": 2026,
-  "total": 29,
+  "total": 30,
   "total_races": 70,
   "total_races_by_party": {
-    "Republican": 17,
-    "Green/Rainbow": 3,
     "Democrat": 22,
+    "Republican": 17,
     "Unknown": 4,
-    "Arizona Independent": 1,
+    "Green/Rainbow": 3,
     "Other": 3
   },
   "general": {
@@ -24,15 +23,17 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 22,
-      "Republican": 17
+      "Republican": 17,
+      "Unknown": 1
     },
-    "total_unopposed": 24,
+    "total_unopposed": 25,
     "unopposed_by_party": {
       "Republican": 11,
-      "Democrat": 13
+      "Democrat": 13,
+      "Unknown": 1
     }
   },
-  "scraped_at": "2026-03-23T04:49:55.435934+00:00",
+  "scraped_at": "2026-03-24T04:42:02.768058+00:00",
   "unopposed_candidates": [
     {
       "state": "AZ",
@@ -103,6 +104,15 @@
       "district": "Statewide",
       "candidate": "Katie Hobbs",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Teri Hourihan",
+      "party": "Unknown",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
