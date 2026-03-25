@@ -5,10 +5,10 @@
   "total": 163,
   "total_races": 134,
   "total_races_by_party": {
-    "Democrat": 125,
     "Republican": 112,
-    "Libertarian": 3,
+    "Democrat": 125,
     "Unknown": 4,
+    "Libertarian": 3,
     "Other": 5
   },
   "general": {
@@ -31,7 +31,7 @@
       "Democrat": 93
     }
   },
-  "scraped_at": "2026-03-24T04:44:53.879000+00:00",
+  "scraped_at": "2026-03-25T04:46:05.105740+00:00",
   "unopposed_candidates": [
     {
       "state": "IN",

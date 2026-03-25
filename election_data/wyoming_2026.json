@@ -2,11 +2,11 @@
   "state": "WY",
   "state_name": "Wyoming",
   "year": 2026,
-  "total": 3,
+  "total": 4,
   "total_races": 80,
   "total_races_by_party": {
-    "Republican": 5,
-    "Democrat": 1
+    "Democrat": 1,
+    "Republican": 6
   },
   "general": {
     "total_races": 78,
@@ -16,15 +16,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 1,
-      "Republican": 5
+      "Republican": 6
     },
-    "total_unopposed": 3,
+    "total_unopposed": 4,
     "unopposed_by_party": {
       "Democrat": 1,
-      "Republican": 2
+      "Republican": 3
     }
   },
-  "scraped_at": "2026-03-24T04:53:57.299280+00:00",
+  "scraped_at": "2026-03-25T04:54:57.408892+00:00",
   "unopposed_candidates": [
     {
       "state": "WY",
@@ -49,6 +49,15 @@
       "office": "State Senate",
       "district": "District 3",
       "candidate": "Cheri Steinmetz",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Abby Angelos",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

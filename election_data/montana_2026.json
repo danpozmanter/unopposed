@@ -2,12 +2,12 @@
   "state": "MT",
   "state_name": "Montana",
   "year": 2026,
-  "total": 176,
+  "total": 175,
   "total_races": 128,
   "total_races_by_party": {
-    "Libertarian": 1,
-    "Unknown": 3,
     "Democrat": 121,
+    "Unknown": 3,
+    "Libertarian": 1,
     "Republican": 117,
     "Other": 8
   },
@@ -27,15 +27,15 @@
       "Unknown": 2,
       "Other": 5
     },
-    "total_unopposed": 170,
+    "total_unopposed": 169,
     "unopposed_by_party": {
       "Unknown": 1,
       "Republican": 70,
-      "Democrat": 94,
+      "Democrat": 93,
       "Other": 5
     }
   },
-  "scraped_at": "2026-03-24T04:47:52.203276+00:00",
+  "scraped_at": "2026-03-25T04:49:04.576996+00:00",
   "unopposed_candidates": [
     {
       "state": "MT",
@@ -1375,15 +1375,6 @@
       "district": "District 82",
       "candidate": "Clinton McKay",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MT",
-      "office": "State House",
-      "district": "District 83",
-      "candidate": "Jill Cohenour",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

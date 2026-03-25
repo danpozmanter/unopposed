@@ -2,22 +2,22 @@
   "state": "NV",
   "state_name": "Nevada",
   "year": 2026,
-  "total": 69,
+  "total": 68,
   "total_races": 58,
   "total_races_by_party": {
-    "No Political": 4,
-    "Democrat": 53,
     "Unknown": 1,
+    "No Political": 4,
     "Republican": 45,
+    "Democrat": 53,
     "Independent American": 3,
-    "Other": 12
+    "Other": 11
   },
   "general": {
     "total_races": 58,
-    "total_unopposed": 11,
+    "total_unopposed": 10,
     "unopposed_by_party": {
       "Independent American": 1,
-      "Other": 10
+      "Other": 9
     }
   },
   "primary": {
@@ -31,7 +31,7 @@
       "Republican": 27
     }
   },
-  "scraped_at": "2026-03-24T04:48:17.878968+00:00",
+  "scraped_at": "2026-03-25T04:49:32.814333+00:00",
   "unopposed_candidates": [
     {
       "state": "NV",
@@ -208,7 +208,7 @@
       "state": "NV",
       "office": "State House",
       "district": "District 3",
-      "candidate": "Selena Torres",
+      "candidate": "Selena Torres-Fossett",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -641,15 +641,6 @@
       "office": "State House",
       "district": "District 24",
       "candidate": "Andrew Schaefer",
-      "party": "Other",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NV",
-      "office": "State House",
-      "district": "District 29",
-      "candidate": "Kathryn Nix",
       "party": "Other",
       "unopposed_in": "General",
       "source": "Ballotpedia"

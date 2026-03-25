@@ -2,12 +2,12 @@
   "state": "MI",
   "state_name": "Michigan",
   "year": 2026,
-  "total": 52,
+  "total": 53,
   "total_races": 163,
   "total_races_by_party": {
-    "Unknown": 5,
-    "Democrat": 49,
     "Republican": 32,
+    "Democrat": 49,
+    "Unknown": 5,
     "Other": 1
   },
   "general": {
@@ -23,13 +23,13 @@
       "Democrat": 49,
       "Republican": 32
     },
-    "total_unopposed": 48,
+    "total_unopposed": 49,
     "unopposed_by_party": {
-      "Republican": 18,
+      "Republican": 19,
       "Democrat": 30
     }
   },
-  "scraped_at": "2026-03-24T04:46:52.670880+00:00",
+  "scraped_at": "2026-03-25T04:48:03.730337+00:00",
   "unopposed_candidates": [
     {
       "state": "MI",
@@ -100,6 +100,15 @@
       "district": "District 8",
       "candidate": "Kristen McDonald Rivet",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "US House",
+      "district": "District 9",
+      "candidate": "Lisa McClain",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

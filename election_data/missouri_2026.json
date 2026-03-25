@@ -2,11 +2,11 @@
   "state": "MO",
   "state_name": "Missouri",
   "year": 2026,
-  "total": 153,
+  "total": 156,
   "total_races": 188,
   "total_races_by_party": {
-    "Democrat": 101,
-    "Republican": 117,
+    "Democrat": 103,
+    "Republican": 118,
     "Unknown": 1,
     "Other": 1
   },
@@ -20,16 +20,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 101,
-      "Republican": 117
+      "Democrat": 103,
+      "Republican": 118
     },
-    "total_unopposed": 151,
+    "total_unopposed": 154,
     "unopposed_by_party": {
-      "Republican": 68,
-      "Democrat": 83
+      "Republican": 69,
+      "Democrat": 85
     }
   },
-  "scraped_at": "2026-03-24T04:47:36.992888+00:00",
+  "scraped_at": "2026-03-25T04:48:47.497077+00:00",
   "unopposed_candidates": [
     {
       "state": "MO",
@@ -217,6 +217,15 @@
       "district": "District 12",
       "candidate": "Mike Jones",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Ashley Aune",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -943,6 +952,15 @@
     {
       "state": "MO",
       "office": "State House",
+      "district": "District 105",
+      "candidate": "Colin Wellenkamp",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
       "district": "District 106",
       "candidate": "Jewel Kelly, Jr.",
       "party": "Democrat",
@@ -1072,6 +1090,15 @@
       "district": "District 119",
       "candidate": "Brad Banderman",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 121",
+      "candidate": "Miguel Arellanes",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

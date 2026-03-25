@@ -2,10 +2,10 @@
   "state": "WI",
   "state_name": "Wisconsin",
   "year": 2026,
-  "total": 52,
+  "total": 53,
   "total_races": 125,
   "total_races_by_party": {
-    "Democrat": 34,
+    "Democrat": 35,
     "Republican": 37,
     "Unknown": 4,
     "Common Sense": 1,
@@ -21,16 +21,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 34,
+      "Democrat": 35,
       "Republican": 37
     },
-    "total_unopposed": 48,
+    "total_unopposed": 49,
     "unopposed_by_party": {
-      "Democrat": 19,
+      "Democrat": 20,
       "Republican": 29
     }
   },
-  "scraped_at": "2026-03-24T04:53:40.874697+00:00",
+  "scraped_at": "2026-03-25T04:54:41.255789+00:00",
   "unopposed_candidates": [
     {
       "state": "WI",
@@ -443,6 +443,15 @@
       "district": "District 57",
       "candidate": "Kevin Petersen",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 67",
+      "candidate": "Indiana Thompson",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

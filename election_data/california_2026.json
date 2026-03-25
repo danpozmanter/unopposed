@@ -2,77 +2,51 @@
   "state": "CA",
   "state_name": "California",
   "year": 2026,
-  "total": 86,
+  "total": 82,
   "total_races": 153,
   "total_races_by_party": {
-    "Republican": 71,
+    "Unknown": 29,
+    "Republican": 74,
     "Democrat": 79,
-    "Unknown": 22,
+    "Green/Rainbow": 1,
+    "Libertarian": 5,
     "American Independent": 1,
-    "Libertarian": 1,
     "Other": 5
   },
   "general": {
     "total_races": 100,
-    "total_unopposed": 1,
-    "unopposed_by_party": {
-      "Democrat": 1
-    }
+    "total_unopposed": 0,
+    "unopposed_by_party": {}
   },
   "primary": {
     "total_races_by_party": {
       "Democrat": 79,
-      "Republican": 71,
-      "Unknown": 22,
+      "Republican": 74,
+      "Unknown": 29,
+      "Green/Rainbow": 1,
+      "Libertarian": 5,
       "American Independent": 1,
-      "Libertarian": 1,
       "Other": 5
     },
-    "total_unopposed": 86,
+    "total_unopposed": 82,
     "unopposed_by_party": {
-      "Republican": 39,
-      "Unknown": 12,
-      "Democrat": 28,
+      "Green/Rainbow": 1,
+      "Unknown": 16,
+      "Republican": 32,
+      "Democrat": 22,
+      "Libertarian": 5,
       "American Independent": 1,
-      "Libertarian": 1,
       "Other": 5
     }
   },
-  "scraped_at": "2026-03-24T04:42:31.725268+00:00",
+  "scraped_at": "2026-03-25T04:43:55.281160+00:00",
   "unopposed_candidates": [
     {
       "state": "CA",
       "office": "US House",
-      "district": "District 1",
-      "candidate": "Angelita Valles",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CA",
-      "office": "US House",
-      "district": "District 2",
-      "candidate": "Paul Saulsbury",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CA",
-      "office": "US House",
       "district": "District 3",
-      "candidate": "Robb Tucker",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CA",
-      "office": "US House",
-      "district": "District 4",
-      "candidate": "John Wesley Tyler",
-      "party": "Unknown",
+      "candidate": "Chris Richardson",
+      "party": "Green/Rainbow",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -82,15 +56,6 @@
       "district": "District 6",
       "candidate": "Kevin Kiley",
       "party": "Unknown",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CA",
-      "office": "US House",
-      "district": "District 7",
-      "candidate": "Kathryn Ming",
-      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -124,27 +89,9 @@
     {
       "state": "CA",
       "office": "US House",
-      "district": "District 11",
-      "candidate": "David Ganezer",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CA",
-      "office": "US House",
       "district": "District 12",
       "candidate": "Heath Fulkerson",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CA",
-      "office": "US House",
-      "district": "District 13",
-      "candidate": "Adam Gray",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -161,8 +108,17 @@
       "state": "CA",
       "office": "US House",
       "district": "District 14",
-      "candidate": "Wendy Huang",
-      "party": "Republican",
+      "candidate": "Suzanne Chenault",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 15",
+      "candidate": "Jim Garrity",
+      "party": "Unknown",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -196,9 +152,9 @@
     {
       "state": "CA",
       "office": "US House",
-      "district": "District 18",
-      "candidate": "Zoe Lofgren",
-      "party": "Democrat",
+      "district": "District 17",
+      "candidate": "Joe Dehn",
+      "party": "Libertarian",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -215,17 +171,8 @@
       "state": "CA",
       "office": "US House",
       "district": "District 19",
-      "candidate": "Ana Luz Acevedo-Cabrera",
-      "party": "Unknown",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CA",
-      "office": "US House",
-      "district": "District 19",
-      "candidate": "Peter Verbica",
-      "party": "Republican",
+      "candidate": "Lars Mapstead",
+      "party": "Libertarian",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -235,6 +182,15 @@
       "district": "District 20",
       "candidate": "Vince Fong",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 21",
+      "candidate": "Lance Kruse",
+      "party": "Unknown",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -260,8 +216,8 @@
       "state": "CA",
       "office": "US House",
       "district": "District 24",
-      "candidate": "Salud Carbajal",
-      "party": "Democrat",
+      "candidate": "Helena Pasquarella",
+      "party": "Unknown",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -332,8 +288,8 @@
       "state": "CA",
       "office": "US House",
       "district": "District 33",
-      "candidate": "Pete Aguilar",
-      "party": "Democrat",
+      "candidate": "Ling Ling Shi",
+      "party": "Unknown",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -367,10 +323,28 @@
     {
       "state": "CA",
       "office": "US House",
+      "district": "District 38",
+      "candidate": "Pedro Casas",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
       "district": "District 39",
       "candidate": "Mark Takano",
       "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 39",
+      "candidate": "Steve Manos",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -388,15 +362,6 @@
       "district": "District 41",
       "candidate": "Shaaf Patel",
       "party": "Libertarian",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CA",
-      "office": "US House",
-      "district": "District 41",
-      "candidate": "Cody Wiebelhaus",
-      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -448,9 +413,9 @@
     {
       "state": "CA",
       "office": "US House",
-      "district": "District 48",
-      "candidate": "Jim Desmond",
-      "party": "Republican",
+      "district": "District 47",
+      "candidate": "Derrick Michael Reid",
+      "party": "Libertarian",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -458,17 +423,17 @@
       "state": "CA",
       "office": "US House",
       "district": "District 50",
-      "candidate": "Adam Huntington",
-      "party": "Republican",
+      "candidate": "Lucinda Jahn",
+      "party": "Unknown",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
       "state": "CA",
       "office": "US House",
-      "district": "District 51",
-      "candidate": "Sara Jacobs",
-      "party": "Democrat",
+      "district": "District 50",
+      "candidate": "Joseph Shea",
+      "party": "Libertarian",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -485,8 +450,8 @@
       "state": "CA",
       "office": "US House",
       "district": "District 52",
-      "candidate": "Juan Vargas",
-      "party": "Democrat",
+      "candidate": "Jeff Belle",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

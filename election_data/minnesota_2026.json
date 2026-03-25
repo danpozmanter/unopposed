@@ -2,12 +2,12 @@
   "state": "MN",
   "state_name": "Minnesota",
   "year": 2026,
-  "total": 81,
+  "total": 80,
   "total_races": 210,
   "total_races_by_party": {
+    "Unknown": 4,
     "Republican": 50,
-    "Democrat": 56,
-    "Unknown": 4
+    "Democrat": 56
   },
   "general": {
     "total_races": 205,
@@ -21,13 +21,13 @@
       "Democrat": 56,
       "Republican": 50
     },
-    "total_unopposed": 69,
+    "total_unopposed": 68,
     "unopposed_by_party": {
-      "Democrat": 40,
+      "Democrat": 39,
       "Republican": 38
     }
   },
-  "scraped_at": "2026-03-24T04:47:07.751776+00:00",
+  "scraped_at": "2026-03-25T04:48:16.830409+00:00",
   "unopposed_candidates": [
     {
       "state": "MN",
@@ -403,15 +403,6 @@
       "office": "State Senate",
       "district": "District 48",
       "candidate": "Mark von Oven",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MN",
-      "office": "State Senate",
-      "district": "District 50",
-      "candidate": "Karla Hult",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
