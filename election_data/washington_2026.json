@@ -2,11 +2,11 @@
   "state": "WA",
   "state_name": "Washington",
   "year": 2026,
-  "total": 117,
+  "total": 116,
   "total_races": 132,
   "total_races_by_party": {
-    "Democrat": 89,
     "Unknown": 6,
+    "Democrat": 90,
     "Republican": 55,
     "Cascade": 1,
     "Other": 1
@@ -20,7 +20,7 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 89,
+      "Democrat": 90,
       "Unknown": 6,
       "Cascade": 1,
       "Republican": 55,
@@ -31,11 +31,11 @@
       "Unknown": 3,
       "Cascade": 1,
       "Democrat": 68,
-      "Republican": 44,
+      "Republican": 43,
       "Other": 1
     }
   },
-  "scraped_at": "2026-03-25T04:54:09.252249+00:00",
+  "scraped_at": "2026-03-26T05:03:00.654381+00:00",
   "unopposed_candidates": [
     {
       "state": "WA",
@@ -337,15 +337,6 @@
     {
       "state": "WA",
       "office": "State House",
-      "district": "District 4",
-      "candidate": "Suzanne Schmidt",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WA",
-      "office": "State House",
       "district": "District 5",
       "candidate": "Lisa Callan",
       "party": "Democrat",
@@ -456,6 +447,15 @@
       "office": "State House",
       "district": "District 11",
       "candidate": "Steve Bergquist",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Stacy Willoughby",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -1014,15 +1014,6 @@
       "office": "State House",
       "district": "District 45",
       "candidate": "Roger Goodman",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WA",
-      "office": "State House",
-      "district": "District 45",
-      "candidate": "Larry Springer",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

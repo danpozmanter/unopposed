@@ -2,7 +2,7 @@
   "state": "FL",
   "state_name": "Florida",
   "year": 2026,
-  "total": 160,
+  "total": 159,
   "total_races": 169,
   "total_races_by_party": {
     "Republican": 124,
@@ -26,13 +26,13 @@
       "Democrat": 106,
       "Republican": 124
     },
-    "total_unopposed": 142,
+    "total_unopposed": 141,
     "unopposed_by_party": {
       "Democrat": 61,
-      "Republican": 81
+      "Republican": 80
     }
   },
-  "scraped_at": "2026-03-25T04:44:56.028734+00:00",
+  "scraped_at": "2026-03-26T04:53:38.073740+00:00",
   "unopposed_candidates": [
     {
       "state": "FL",
@@ -1281,15 +1281,6 @@
       "office": "State House",
       "district": "District 101",
       "candidate": "Hillary Cassel",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "FL",
-      "office": "State House",
-      "district": "District 102",
-      "candidate": "Mery Lopez-Palma",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

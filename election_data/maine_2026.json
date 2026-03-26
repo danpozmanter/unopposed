@@ -2,35 +2,35 @@
   "state": "ME",
   "state_name": "Maine",
   "year": 2026,
-  "total": 289,
+  "total": 300,
   "total_races": 190,
   "total_races_by_party": {
+    "Republican": 160,
+    "Democrat": 175,
     "Unknown": 2,
-    "Democrat": 164,
-    "Republican": 154,
-    "Other": 10
+    "Other": 6
   },
   "general": {
     "total_races": 188,
-    "total_unopposed": 9,
+    "total_unopposed": 5,
     "unopposed_by_party": {
-      "Other": 9
+      "Other": 5
     }
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 164,
-      "Republican": 154,
+      "Democrat": 175,
+      "Republican": 160,
       "Other": 1
     },
-    "total_unopposed": 280,
+    "total_unopposed": 295,
     "unopposed_by_party": {
-      "Republican": 129,
-      "Democrat": 150,
+      "Republican": 134,
+      "Democrat": 160,
       "Other": 1
     }
   },
-  "scraped_at": "2026-03-25T04:47:17.277916+00:00",
+  "scraped_at": "2026-03-26T04:56:06.401380+00:00",
   "unopposed_candidates": [
     {
       "state": "ME",
@@ -71,9 +71,45 @@
     {
       "state": "ME",
       "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Lucien Daigle",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State Senate",
+      "district": "District 2",
+      "candidate": "Harold Hull",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State Senate",
       "district": "District 2",
       "candidate": "Harold Stewart",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "Stanley Short",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "Lisa Kalp",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -89,9 +125,9 @@
     {
       "state": "ME",
       "office": "State Senate",
-      "district": "District 6",
-      "candidate": "Kenneth Davis",
-      "party": "Republican",
+      "district": "District 7",
+      "candidate": "Nicole Grohoski",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -99,8 +135,8 @@
       "state": "ME",
       "office": "State Senate",
       "district": "District 7",
-      "candidate": "Nicole Grohoski",
-      "party": "Democrat",
+      "candidate": "Cheryl Hewes",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -127,6 +163,15 @@
       "office": "State Senate",
       "district": "District 9",
       "candidate": "Amy Roeder",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Kevin O'Connell",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -188,6 +233,24 @@
     {
       "state": "ME",
       "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Steven McGee",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State Senate",
+      "district": "District 15",
+      "candidate": "Amanda Heath",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State Senate",
       "district": "District 15",
       "candidate": "Kati McCormick",
       "party": "Republican",
@@ -198,8 +261,26 @@
       "state": "ME",
       "office": "State Senate",
       "district": "District 16",
+      "candidate": "Patric Moore",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State Senate",
+      "district": "District 16",
       "candidate": "Scott Cyrway",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Jo-Jean Keller",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -332,6 +413,42 @@
     {
       "state": "ME",
       "office": "State Senate",
+      "district": "District 28",
+      "candidate": "Rachel Talbot Ross",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Anne Carney",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Vincent Maietta",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State Senate",
+      "district": "District 30",
+      "candidate": "Harry White",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State Senate",
       "district": "District 31",
       "candidate": "Donna Bailey",
       "party": "Democrat",
@@ -341,8 +458,26 @@
     {
       "state": "ME",
       "office": "State Senate",
+      "district": "District 31",
+      "candidate": "Gary Plummer",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State Senate",
       "district": "District 32",
       "candidate": "Henry Ingwersen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State Senate",
+      "district": "District 33",
+      "candidate": "Mark Vigliotta",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -386,44 +521,8 @@
     {
       "state": "ME",
       "office": "State Senate",
-      "district": "District 12",
-      "candidate": "Nicole Kalloch",
-      "party": "Other",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ME",
-      "office": "State Senate",
       "district": "District 13",
       "candidate": "Edwin Mitchell",
-      "party": "Other",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ME",
-      "office": "State Senate",
-      "district": "District 31",
-      "candidate": "Lauren Grenier",
-      "party": "Other",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ME",
-      "office": "State Senate",
-      "district": "District 32",
-      "candidate": "Jason Litalien",
-      "party": "Other",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ME",
-      "office": "State Senate",
-      "district": "District 34",
-      "candidate": "Paul Bennett",
       "party": "Other",
       "unopposed_in": "General",
       "source": "Ballotpedia"

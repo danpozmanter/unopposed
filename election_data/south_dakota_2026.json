@@ -5,9 +5,9 @@
   "total": 23,
   "total_races": 73,
   "total_races_by_party": {
+    "Unknown": 1,
     "Democrat": 4,
-    "Republican": 24,
-    "Unknown": 1
+    "Republican": 24
   },
   "general": {
     "total_races": 73,
@@ -27,7 +27,7 @@
       "Republican": 18
     }
   },
-  "scraped_at": "2026-03-25T04:52:39.735569+00:00",
+  "scraped_at": "2026-03-26T05:01:31.255723+00:00",
   "unopposed_candidates": [
     {
       "state": "SD",

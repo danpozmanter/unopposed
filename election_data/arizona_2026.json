@@ -2,38 +2,40 @@
   "state": "AZ",
   "state_name": "Arizona",
   "year": 2026,
-  "total": 86,
+  "total": 88,
   "total_races": 70,
   "total_races_by_party": {
-    "Democrat": 65,
     "Unknown": 6,
-    "Republican": 56,
-    "Other": 5
+    "Democrat": 67,
+    "Republican": 59,
+    "Green/Rainbow": 1,
+    "Other": 6
   },
   "general": {
     "total_races": 64,
-    "total_unopposed": 6,
+    "total_unopposed": 7,
     "unopposed_by_party": {
-      "Unknown": 3,
+      "Unknown": 4,
       "Other": 3
     }
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 65,
-      "Republican": 56,
+      "Democrat": 67,
+      "Republican": 59,
       "Unknown": 5,
-      "Other": 2
+      "Green/Rainbow": 1,
+      "Other": 3
     },
-    "total_unopposed": 80,
+    "total_unopposed": 81,
     "unopposed_by_party": {
-      "Unknown": 5,
-      "Republican": 35,
+      "Unknown": 4,
+      "Republican": 36,
       "Democrat": 38,
-      "Other": 2
+      "Other": 3
     }
   },
-  "scraped_at": "2026-03-25T04:43:29.191532+00:00",
+  "scraped_at": "2026-03-26T04:52:01.342497+00:00",
   "unopposed_candidates": [
     {
       "state": "AZ",
@@ -147,17 +149,17 @@
       "state": "AZ",
       "office": "Governor",
       "district": "Statewide",
-      "candidate": "Katie Hobbs",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
+      "candidate": "Leezah Sun",
+      "party": "Unknown",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
       "state": "AZ",
       "office": "Governor",
       "district": "Statewide",
-      "candidate": "Teri Hourihan",
-      "party": "Unknown",
+      "candidate": "Katie Hobbs",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -185,15 +187,6 @@
       "district": "District 3",
       "candidate": "Jeff Fortney",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AZ",
-      "office": "State Senate",
-      "district": "District 3",
-      "candidate": "John Kavanagh",
-      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -228,15 +221,6 @@
       "state": "AZ",
       "office": "State Senate",
       "district": "District 5",
-      "candidate": "Lloyd Johnson",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AZ",
-      "office": "State Senate",
-      "district": "District 5",
       "candidate": "Jason LaForest",
       "party": "Other",
       "unopposed_in": "Primary",
@@ -246,8 +230,8 @@
       "state": "AZ",
       "office": "State Senate",
       "district": "District 6",
-      "candidate": "Jamescita Peshlakai",
-      "party": "Democrat",
+      "candidate": "Lloyd Johnson",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -326,6 +310,15 @@
     {
       "state": "AZ",
       "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Anthony Ramirez",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
       "district": "District 13",
       "candidate": "Kristie O'Brien",
       "party": "Democrat",
@@ -362,6 +355,24 @@
     {
       "state": "AZ",
       "office": "State Senate",
+      "district": "District 15",
+      "candidate": "Jayme Accalia",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 15",
+      "candidate": "Jake Hoffman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
       "district": "District 16",
       "candidate": "Elaine Aldrete",
       "party": "Democrat",
@@ -373,15 +384,6 @@
       "office": "State Senate",
       "district": "District 16",
       "candidate": "Thomas Shope",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AZ",
-      "office": "State Senate",
-      "district": "District 17",
-      "candidate": "Christopher King",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -425,15 +427,6 @@
     {
       "state": "AZ",
       "office": "State Senate",
-      "district": "District 20",
-      "candidate": "Rocque Perez",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AZ",
-      "office": "State Senate",
       "district": "District 21",
       "candidate": "Rosanna Gabald\u00f3n",
       "party": "Democrat",
@@ -470,6 +463,15 @@
     {
       "state": "AZ",
       "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Michelle Altherr",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
       "district": "District 24",
       "candidate": "Analise Ortiz",
       "party": "Democrat",
@@ -499,6 +501,24 @@
       "office": "State Senate",
       "district": "District 25",
       "candidate": "Tim Dunn",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 26",
+      "candidate": "Flavio Bravo",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "State Senate",
+      "district": "District 26",
+      "candidate": "Jim Bishop",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

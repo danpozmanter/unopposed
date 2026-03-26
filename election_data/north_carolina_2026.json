@@ -5,18 +5,18 @@
   "total": 283,
   "total_races": 185,
   "total_races_by_party": {
-    "Republican": 286,
-    "Unknown": 12,
     "Democrat": 365,
+    "Republican": 287,
+    "Unknown": 12,
     "Libertarian": 9,
     "Green/Rainbow": 1,
     "Other": 31
   },
   "general": {
     "total_races": 185,
-    "total_unopposed": 32,
+    "total_unopposed": 31,
     "unopposed_by_party": {
-      "Democrat": 30,
+      "Democrat": 29,
       "Republican": 2
     }
   },
@@ -35,7 +35,7 @@
       "Other": 15
     }
   },
-  "scraped_at": "2026-03-25T04:50:41.715122+00:00",
+  "scraped_at": "2026-03-26T04:59:25.951644+00:00",
   "unopposed_candidates": [
     {
       "state": "NC",
@@ -204,15 +204,6 @@
       "office": "State Senate",
       "district": "District 20",
       "candidate": "Natalie Murdock",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NC",
-      "office": "State Senate",
-      "district": "District 26",
-      "candidate": "Steve Luking",
       "party": "Democrat",
       "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
@@ -646,6 +637,15 @@
       "district": "District 25",
       "candidate": "Amy Galey",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NC",
+      "office": "State Senate",
+      "district": "District 26",
+      "candidate": "Steve Luking",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

@@ -2,29 +2,32 @@
   "state": "WY",
   "state_name": "Wyoming",
   "year": 2026,
-  "total": 4,
+  "total": 6,
   "total_races": 80,
   "total_races_by_party": {
+    "Republican": 7,
     "Democrat": 1,
-    "Republican": 6
+    "Unknown": 1
   },
   "general": {
-    "total_races": 78,
-    "total_unopposed": 0,
-    "unopposed_by_party": {}
+    "total_races": 79,
+    "total_unopposed": 1,
+    "unopposed_by_party": {
+      "Unknown": 1
+    }
   },
   "primary": {
     "total_races_by_party": {
       "Democrat": 1,
-      "Republican": 6
+      "Republican": 7
     },
-    "total_unopposed": 4,
+    "total_unopposed": 5,
     "unopposed_by_party": {
       "Democrat": 1,
-      "Republican": 3
+      "Republican": 4
     }
   },
-  "scraped_at": "2026-03-25T04:54:57.408892+00:00",
+  "scraped_at": "2026-03-26T05:03:50.119418+00:00",
   "unopposed_candidates": [
     {
       "state": "WY",
@@ -33,6 +36,15 @@
       "candidate": "James Byrd",
       "party": "Democrat",
       "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Joseph Kibler",
+      "party": "Unknown",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
@@ -58,6 +70,15 @@
       "office": "State Senate",
       "district": "District 23",
       "candidate": "Abby Angelos",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 51",
+      "candidate": "Laurie Bratten",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

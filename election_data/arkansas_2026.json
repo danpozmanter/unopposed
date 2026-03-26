@@ -2,20 +2,20 @@
   "state": "AR",
   "state_name": "Arkansas",
   "year": 2026,
-  "total": 142,
+  "total": 143,
   "total_races": 123,
   "total_races_by_party": {
-    "Unknown": 3,
-    "Republican": 201,
+    "Republican": 202,
     "Democrat": 114,
+    "Unknown": 3,
     "Libertarian": 2,
     "Other": 4
   },
   "general": {
     "total_races": 123,
-    "total_unopposed": 72,
+    "total_unopposed": 73,
     "unopposed_by_party": {
-      "Republican": 57,
+      "Republican": 58,
       "Democrat": 15
     }
   },
@@ -30,7 +30,7 @@
       "Republican": 79
     }
   },
-  "scraped_at": "2026-03-25T04:43:44.264928+00:00",
+  "scraped_at": "2026-03-26T04:52:18.925911+00:00",
   "unopposed_candidates": [
     {
       "state": "AR",
@@ -705,6 +705,15 @@
       "candidate": "Bruce Cozart",
       "party": "Republican",
       "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AR",
+      "office": "State House",
+      "district": "District 92",
+      "candidate": "Dawn Creekmore",
+      "party": "Republican",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
