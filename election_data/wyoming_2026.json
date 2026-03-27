@@ -2,7 +2,7 @@
   "state": "WY",
   "state_name": "Wyoming",
   "year": 2026,
-  "total": 6,
+  "total": 5,
   "total_races": 80,
   "total_races_by_party": {
     "Republican": 7,
@@ -21,13 +21,13 @@
       "Democrat": 1,
       "Republican": 7
     },
-    "total_unopposed": 5,
+    "total_unopposed": 4,
     "unopposed_by_party": {
       "Democrat": 1,
-      "Republican": 4
+      "Republican": 3
     }
   },
-  "scraped_at": "2026-03-26T05:03:50.119418+00:00",
+  "scraped_at": "2026-03-27T05:04:32.118116+00:00",
   "unopposed_candidates": [
     {
       "state": "WY",
@@ -45,15 +45,6 @@
       "candidate": "Joseph Kibler",
       "party": "Unknown",
       "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WY",
-      "office": "State Senate",
-      "district": "District 1",
-      "candidate": "Ogden Driskill",
-      "party": "Republican",
-      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {

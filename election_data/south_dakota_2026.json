@@ -2,12 +2,12 @@
   "state": "SD",
   "state_name": "South Dakota",
   "year": 2026,
-  "total": 23,
+  "total": 24,
   "total_races": 73,
   "total_races_by_party": {
-    "Unknown": 1,
     "Democrat": 4,
-    "Republican": 24
+    "Unknown": 1,
+    "Republican": 25
   },
   "general": {
     "total_races": 73,
@@ -19,15 +19,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 4,
-      "Republican": 24
+      "Republican": 25
     },
-    "total_unopposed": 22,
+    "total_unopposed": 23,
     "unopposed_by_party": {
       "Democrat": 4,
-      "Republican": 18
+      "Republican": 19
     }
   },
-  "scraped_at": "2026-03-26T05:01:31.255723+00:00",
+  "scraped_at": "2026-03-27T05:02:09.702598+00:00",
   "unopposed_candidates": [
     {
       "state": "SD",
@@ -52,6 +52,15 @@
       "office": "State Senate",
       "district": "District 3",
       "candidate": "Katherine Washnok",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SD",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "Stephanie Sauder",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

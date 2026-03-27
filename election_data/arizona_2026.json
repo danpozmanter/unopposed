@@ -2,14 +2,14 @@
   "state": "AZ",
   "state_name": "Arizona",
   "year": 2026,
-  "total": 88,
+  "total": 79,
   "total_races": 70,
   "total_races_by_party": {
     "Unknown": 6,
-    "Democrat": 67,
-    "Republican": 59,
+    "Democrat": 68,
+    "Republican": 61,
     "Green/Rainbow": 1,
-    "Other": 6
+    "Other": 7
   },
   "general": {
     "total_races": 64,
@@ -21,21 +21,21 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 67,
-      "Republican": 59,
+      "Democrat": 68,
+      "Republican": 61,
       "Unknown": 5,
       "Green/Rainbow": 1,
-      "Other": 3
+      "Other": 4
     },
-    "total_unopposed": 81,
+    "total_unopposed": 72,
     "unopposed_by_party": {
       "Unknown": 4,
-      "Republican": 36,
-      "Democrat": 38,
-      "Other": 3
+      "Republican": 31,
+      "Democrat": 33,
+      "Other": 4
     }
   },
-  "scraped_at": "2026-03-26T04:52:01.342497+00:00",
+  "scraped_at": "2026-03-27T04:52:11.291535+00:00",
   "unopposed_candidates": [
     {
       "state": "AZ",
@@ -607,18 +607,18 @@
     {
       "state": "AZ",
       "office": "State House",
-      "district": "District 2",
-      "candidate": "Danielle Skranak",
-      "party": "Republican",
+      "district": "District 7",
+      "candidate": "Samuel Martin",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
       "state": "AZ",
       "office": "State House",
-      "district": "District 7",
-      "candidate": "Samuel Martin",
-      "party": "Democrat",
+      "district": "District 8",
+      "candidate": "Donald Hawker",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -635,24 +635,6 @@
       "state": "AZ",
       "office": "State House",
       "district": "District 10",
-      "candidate": "Brian Calaway",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AZ",
-      "office": "State House",
-      "district": "District 10",
-      "candidate": "Ciara Anderson",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AZ",
-      "office": "State House",
-      "district": "District 10",
       "candidate": "David Scott",
       "party": "Other",
       "unopposed_in": "Primary",
@@ -661,9 +643,9 @@
     {
       "state": "AZ",
       "office": "State House",
-      "district": "District 11",
-      "candidate": "Oscar De Los Santos",
-      "party": "Democrat",
+      "district": "District 12",
+      "candidate": "David Richardson",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -688,15 +670,6 @@
     {
       "state": "AZ",
       "office": "State House",
-      "district": "District 17",
-      "candidate": "John Winchester",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AZ",
-      "office": "State House",
       "district": "District 18",
       "candidate": "Bob Dohse",
       "party": "Republican",
@@ -715,15 +688,6 @@
     {
       "state": "AZ",
       "office": "State House",
-      "district": "District 23",
-      "candidate": "James Holmes",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AZ",
-      "office": "State House",
       "district": "District 24",
       "candidate": "Delores McLaughlin",
       "party": "Republican",
@@ -733,36 +697,9 @@
     {
       "state": "AZ",
       "office": "State House",
-      "district": "District 25",
-      "candidate": "Tiffany Byrne",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AZ",
-      "office": "State House",
-      "district": "District 25",
-      "candidate": "Nick Kupper",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AZ",
-      "office": "State House",
       "district": "District 26",
-      "candidate": "Cesar Aguilar",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AZ",
-      "office": "State House",
-      "district": "District 26",
-      "candidate": "Jonathan McKenna",
-      "party": "Republican",
+      "candidate": "Hector Gomez",
+      "party": "Other",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -771,24 +708,6 @@
       "office": "State House",
       "district": "District 27",
       "candidate": "Deborah Howard",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AZ",
-      "office": "State House",
-      "district": "District 27",
-      "candidate": "Lisa Fink",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AZ",
-      "office": "State House",
-      "district": "District 28",
-      "candidate": "Marc Graham",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

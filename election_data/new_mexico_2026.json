@@ -5,8 +5,8 @@
   "total": 86,
   "total_races": 75,
   "total_races_by_party": {
-    "Democrat": 60,
     "Unknown": 1,
+    "Democrat": 60,
     "Republican": 52
   },
   "general": {
@@ -27,7 +27,7 @@
       "Republican": 43
     }
   },
-  "scraped_at": "2026-03-26T04:59:01.131126+00:00",
+  "scraped_at": "2026-03-27T04:59:23.783867+00:00",
   "unopposed_candidates": [
     {
       "state": "NM",
