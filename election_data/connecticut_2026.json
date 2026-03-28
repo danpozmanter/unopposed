@@ -2,11 +2,11 @@
   "state": "CT",
   "state_name": "Connecticut",
   "year": 2026,
-  "total": 16,
+  "total": 17,
   "total_races": 193,
   "total_races_by_party": {
+    "Republican": 14,
     "Democrat": 17,
-    "Republican": 13,
     "Unknown": 1
   },
   "general": {
@@ -17,15 +17,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 17,
-      "Republican": 13
+      "Republican": 14
     },
-    "total_unopposed": 16,
+    "total_unopposed": 17,
     "unopposed_by_party": {
-      "Republican": 8,
+      "Republican": 9,
       "Democrat": 8
     }
   },
-  "scraped_at": "2026-03-27T04:53:12.315835+00:00",
+  "scraped_at": "2026-03-28T04:43:22.516562+00:00",
   "unopposed_candidates": [
     {
       "state": "CT",
@@ -59,6 +59,15 @@
       "office": "State Senate",
       "district": "District 8",
       "candidate": "Andrew Ziemba",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CT",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Owen Weaver",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

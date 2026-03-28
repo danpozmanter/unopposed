@@ -2,12 +2,12 @@
   "state": "MN",
   "state_name": "Minnesota",
   "year": 2026,
-  "total": 80,
+  "total": 81,
   "total_races": 210,
   "total_races_by_party": {
-    "Democrat": 56,
     "Unknown": 4,
-    "Republican": 50
+    "Republican": 51,
+    "Democrat": 57
   },
   "general": {
     "total_races": 205,
@@ -18,16 +18,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 56,
-      "Republican": 50
+      "Democrat": 57,
+      "Republican": 51
     },
     "total_unopposed": 68,
     "unopposed_by_party": {
-      "Democrat": 39,
+      "Democrat": 40,
       "Republican": 38
     }
   },
-  "scraped_at": "2026-03-27T04:57:23.746050+00:00",
+  "scraped_at": "2026-03-28T04:47:27.532850+00:00",
   "unopposed_candidates": [
     {
       "state": "MN",
@@ -151,15 +151,6 @@
       "office": "State Senate",
       "district": "District 4",
       "candidate": "Austin Peterson",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MN",
-      "office": "State Senate",
-      "district": "District 5",
-      "candidate": "Paul Utke",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -314,6 +305,15 @@
       "district": "District 21",
       "candidate": "Nathan Peterson",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Marisa Ulmen",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -601,6 +601,15 @@
       "office": "State House",
       "district": "District 14",
       "candidate": "Sue Ek",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Brad Hennen",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

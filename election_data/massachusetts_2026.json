@@ -5,9 +5,9 @@
   "total": 67,
   "total_races": 211,
   "total_races_by_party": {
-    "Democrat": 62,
     "Unknown": 7,
     "American Independent": 1,
+    "Democrat": 63,
     "Republican": 19,
     "Other": 2
   },
@@ -22,7 +22,7 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 62,
+      "Democrat": 63,
       "Republican": 19
     },
     "total_unopposed": 59,
@@ -31,7 +31,7 @@
       "Republican": 14
     }
   },
-  "scraped_at": "2026-03-27T04:56:53.773031+00:00",
+  "scraped_at": "2026-03-28T04:46:57.837504+00:00",
   "unopposed_candidates": [
     {
       "state": "MA",
@@ -165,15 +165,6 @@
       "district": "1st Plymouth and Norfolk District",
       "candidate": "Patrick O'Connor",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MA",
-      "office": "State Senate",
-      "district": "1st Suffolk District",
-      "candidate": "Nick Collins",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -479,6 +470,15 @@
       "office": "State House",
       "district": "2nd Plymouth District",
       "candidate": "Sarah Hewins",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "3rd Barnstable District",
+      "candidate": "Jack Richardson",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

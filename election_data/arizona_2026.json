@@ -2,20 +2,20 @@
   "state": "AZ",
   "state_name": "Arizona",
   "year": 2026,
-  "total": 79,
+  "total": 78,
   "total_races": 70,
   "total_races_by_party": {
-    "Unknown": 6,
-    "Democrat": 68,
+    "Unknown": 8,
     "Republican": 61,
+    "Democrat": 68,
     "Green/Rainbow": 1,
     "Other": 7
   },
   "general": {
-    "total_races": 64,
-    "total_unopposed": 7,
+    "total_races": 63,
+    "total_unopposed": 6,
     "unopposed_by_party": {
-      "Unknown": 4,
+      "Unknown": 3,
       "Other": 3
     }
   },
@@ -23,35 +23,26 @@
     "total_races_by_party": {
       "Democrat": 68,
       "Republican": 61,
-      "Unknown": 5,
+      "Unknown": 8,
       "Green/Rainbow": 1,
       "Other": 4
     },
     "total_unopposed": 72,
     "unopposed_by_party": {
-      "Unknown": 4,
       "Republican": 31,
+      "Unknown": 4,
       "Democrat": 33,
       "Other": 4
     }
   },
-  "scraped_at": "2026-03-27T04:52:11.291535+00:00",
+  "scraped_at": "2026-03-28T04:42:25.586895+00:00",
   "unopposed_candidates": [
     {
       "state": "AZ",
       "office": "US House",
-      "district": "District 1",
-      "candidate": "Christopher Ajluni",
-      "party": "Unknown",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AZ",
-      "office": "US House",
-      "district": "District 1",
-      "candidate": "David Redkey",
-      "party": "Unknown",
+      "district": "District 2",
+      "candidate": "Eli Crane",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -59,8 +50,8 @@
       "state": "AZ",
       "office": "US House",
       "district": "District 2",
-      "candidate": "Eli Crane",
-      "party": "Republican",
+      "candidate": "Curtis Goodwin",
+      "party": "Unknown",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -121,15 +112,6 @@
     {
       "state": "AZ",
       "office": "US House",
-      "district": "District 6",
-      "candidate": "Gary Swing",
-      "party": "Unknown",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "AZ",
-      "office": "US House",
       "district": "District 7",
       "candidate": "Adelita Grijalva",
       "party": "Democrat",
@@ -140,8 +122,17 @@
       "state": "AZ",
       "office": "US House",
       "district": "District 7",
-      "candidate": "Daniel Butierez",
+      "candidate": "Daniel Butierez Sr.",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AZ",
+      "office": "US House",
+      "district": "District 8",
+      "candidate": "Jessie Martines",
+      "party": "Unknown",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

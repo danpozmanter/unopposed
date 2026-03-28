@@ -2,15 +2,14 @@
   "state": "CA",
   "state_name": "California",
   "year": 2026,
-  "total": 195,
+  "total": 209,
   "total_races": 153,
   "total_races_by_party": {
+    "Unknown": 27,
+    "Republican": 142,
     "Democrat": 145,
-    "Unknown": 29,
-    "Republican": 143,
     "Green/Rainbow": 1,
-    "Libertarian": 5,
-    "American Independent": 1,
+    "Libertarian": 4,
     "Other": 18
   },
   "general": {
@@ -21,26 +20,33 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 145,
-      "Republican": 143,
-      "Unknown": 29,
+      "Republican": 142,
+      "Unknown": 27,
       "Green/Rainbow": 1,
-      "Libertarian": 5,
-      "American Independent": 1,
+      "Libertarian": 4,
       "Other": 18
     },
-    "total_unopposed": 195,
+    "total_unopposed": 209,
     "unopposed_by_party": {
+      "Republican": 96,
       "Green/Rainbow": 1,
-      "Unknown": 16,
-      "Republican": 86,
-      "Democrat": 69,
-      "Libertarian": 5,
-      "American Independent": 1,
+      "Unknown": 18,
+      "Democrat": 73,
+      "Libertarian": 4,
       "Other": 17
     }
   },
-  "scraped_at": "2026-03-27T04:52:41.667907+00:00",
+  "scraped_at": "2026-03-28T04:42:52.022153+00:00",
   "unopposed_candidates": [
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "James Gallagher",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "CA",
       "office": "US House",
@@ -53,9 +59,36 @@
     {
       "state": "CA",
       "office": "US House",
+      "district": "District 4",
+      "candidate": "Thomas Roach",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 5",
+      "candidate": "Tom McClintock",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
       "district": "District 6",
       "candidate": "Kevin Kiley",
       "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 6",
+      "candidate": "Michael Stansfield",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -82,24 +115,6 @@
       "office": "US House",
       "district": "District 11",
       "candidate": "Nathan Deer",
-      "party": "Unknown",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CA",
-      "office": "US House",
-      "district": "District 12",
-      "candidate": "Heath Fulkerson",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "CA",
-      "office": "US House",
-      "district": "District 13",
-      "candidate": "Alberto Escobedo",
       "party": "Unknown",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -170,6 +185,15 @@
     {
       "state": "CA",
       "office": "US House",
+      "district": "District 18",
+      "candidate": "Shane Lewis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
       "district": "District 19",
       "candidate": "Lars Mapstead",
       "party": "Libertarian",
@@ -182,6 +206,15 @@
       "district": "District 20",
       "candidate": "Vince Fong",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 20",
+      "candidate": "Sandra Van Scotter",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -242,8 +275,26 @@
     {
       "state": "CA",
       "office": "US House",
+      "district": "District 27",
+      "candidate": "Jason Gibbs",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
       "district": "District 28",
       "candidate": "April Verlato",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 29",
+      "candidate": "Rudy Melendez",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -297,7 +348,34 @@
       "state": "CA",
       "office": "US House",
       "district": "District 34",
+      "candidate": "Loren Colin",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 34",
       "candidate": "Calvin Lee",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 35",
+      "candidate": "Norma Torres",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 35",
+      "candidate": "Mike Cargile",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -351,8 +429,8 @@
       "state": "CA",
       "office": "US House",
       "district": "District 40",
-      "candidate": "Maricar Payad",
-      "party": "American Independent",
+      "candidate": "Nina Linh",
+      "party": "Unknown",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -360,8 +438,8 @@
       "state": "CA",
       "office": "US House",
       "district": "District 41",
-      "candidate": "Shaaf Patel",
-      "party": "Libertarian",
+      "candidate": "Mitch Clemmons",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -386,6 +464,15 @@
     {
       "state": "CA",
       "office": "US House",
+      "district": "District 43",
+      "candidate": "Cristian Morales",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
       "district": "District 44",
       "candidate": "Nanette Barrag\u00e1n",
       "party": "Democrat",
@@ -404,6 +491,15 @@
     {
       "state": "CA",
       "office": "US House",
+      "district": "District 45",
+      "candidate": "Derek Tran",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
       "district": "District 46",
       "candidate": "David Pan",
       "party": "Republican",
@@ -416,6 +512,33 @@
       "district": "District 47",
       "candidate": "Derrick Michael Reid",
       "party": "Libertarian",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 48",
+      "candidate": "Luis Reyna",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 49",
+      "candidate": "Mike Levin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 50",
+      "candidate": "Steve Cohen",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -441,8 +564,8 @@
       "state": "CA",
       "office": "US House",
       "district": "District 51",
-      "candidate": "Mike Bucy",
-      "party": "Unknown",
+      "candidate": "Ricardo Cabrera",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

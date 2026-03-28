@@ -2,10 +2,10 @@
   "state": "OK",
   "state_name": "Oklahoma",
   "year": 2026,
-  "total": 44,
+  "total": 45,
   "total_races": 132,
   "total_races_by_party": {
-    "Republican": 44,
+    "Republican": 45,
     "Democrat": 24,
     "Unknown": 2,
     "Other": 1
@@ -21,15 +21,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 24,
-      "Republican": 44
+      "Republican": 45
     },
-    "total_unopposed": 41,
+    "total_unopposed": 42,
     "unopposed_by_party": {
       "Democrat": 17,
-      "Republican": 24
+      "Republican": 25
     }
   },
-  "scraped_at": "2026-03-27T05:00:47.150356+00:00",
+  "scraped_at": "2026-03-28T04:50:36.207594+00:00",
   "unopposed_candidates": [
     {
       "state": "OK",
@@ -117,6 +117,15 @@
       "office": "State Senate",
       "district": "District 8",
       "candidate": "Bryan Logan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Jadan Terrazas",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
