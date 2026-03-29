@@ -2,11 +2,11 @@
   "state": "MO",
   "state_name": "Missouri",
   "year": 2026,
-  "total": 156,
+  "total": 158,
   "total_races": 188,
   "total_races_by_party": {
-    "Democrat": 103,
-    "Republican": 118,
+    "Democrat": 104,
+    "Republican": 119,
     "Unknown": 1,
     "Other": 1
   },
@@ -20,16 +20,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 103,
-      "Republican": 118
+      "Democrat": 104,
+      "Republican": 119
     },
-    "total_unopposed": 154,
+    "total_unopposed": 156,
     "unopposed_by_party": {
-      "Republican": 69,
-      "Democrat": 85
+      "Republican": 70,
+      "Democrat": 86
     }
   },
-  "scraped_at": "2026-03-28T04:47:52.355375+00:00",
+  "scraped_at": "2026-03-29T05:00:07.547342+00:00",
   "unopposed_candidates": [
     {
       "state": "MO",
@@ -514,6 +514,15 @@
       "district": "District 45",
       "candidate": "Kathy Steinhoff",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Tim Taylor",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -1423,6 +1432,15 @@
       "district": "District 157",
       "candidate": "Mitch Boggs",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 160",
+      "candidate": "Angela Thomas",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

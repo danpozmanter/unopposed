@@ -2,12 +2,12 @@
   "state": "MN",
   "state_name": "Minnesota",
   "year": 2026,
-  "total": 81,
+  "total": 80,
   "total_races": 210,
   "total_races_by_party": {
-    "Unknown": 4,
+    "Democrat": 57,
     "Republican": 51,
-    "Democrat": 57
+    "Unknown": 4
   },
   "general": {
     "total_races": 205,
@@ -24,10 +24,10 @@
     "total_unopposed": 68,
     "unopposed_by_party": {
       "Democrat": 40,
-      "Republican": 38
+      "Republican": 37
     }
   },
-  "scraped_at": "2026-03-28T04:47:27.532850+00:00",
+  "scraped_at": "2026-03-29T04:59:43.086644+00:00",
   "unopposed_candidates": [
     {
       "state": "MN",
@@ -601,15 +601,6 @@
       "office": "State House",
       "district": "District 14",
       "candidate": "Sue Ek",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MN",
-      "office": "State House",
-      "district": "District 15",
-      "candidate": "Brad Hennen",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

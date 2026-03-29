@@ -2,11 +2,11 @@
   "state": "FL",
   "state_name": "Florida",
   "year": 2026,
-  "total": 160,
+  "total": 161,
   "total_races": 169,
   "total_races_by_party": {
-    "Democrat": 107,
     "Republican": 124,
+    "Democrat": 108,
     "Libertarian": 2,
     "Unknown": 13,
     "Constitution": 1,
@@ -23,16 +23,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 107,
+      "Democrat": 108,
       "Republican": 124
     },
-    "total_unopposed": 141,
+    "total_unopposed": 142,
     "unopposed_by_party": {
-      "Democrat": 61,
+      "Democrat": 62,
       "Republican": 80
     }
   },
-  "scraped_at": "2026-03-28T04:43:58.443468+00:00",
+  "scraped_at": "2026-03-29T04:56:09.468609+00:00",
   "unopposed_candidates": [
     {
       "state": "FL",
@@ -364,6 +364,15 @@
       "district": "District 26",
       "candidate": "Rick Roth",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "FL",
+      "office": "State Senate",
+      "district": "District 28",
+      "candidate": "David Silverberg",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
