@@ -3,17 +3,16 @@
   "state_name": "Florida",
   "year": 2026,
   "total": 161,
-  "total_races": 169,
+  "total_races": 168,
   "total_races_by_party": {
-    "Republican": 124,
-    "Democrat": 108,
+    "Republican": 123,
+    "Democrat": 107,
+    "Unknown": 12,
     "Libertarian": 2,
-    "Unknown": 13,
-    "Constitution": 1,
     "Other": 11
   },
   "general": {
-    "total_races": 154,
+    "total_races": 153,
     "total_unopposed": 19,
     "unopposed_by_party": {
       "Unknown": 8,
@@ -23,8 +22,8 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 108,
-      "Republican": 124
+      "Democrat": 107,
+      "Republican": 123
     },
     "total_unopposed": 142,
     "unopposed_by_party": {
@@ -32,7 +31,7 @@
       "Republican": 80
     }
   },
-  "scraped_at": "2026-03-29T04:56:09.468609+00:00",
+  "scraped_at": "2026-03-30T05:05:49.103669+00:00",
   "unopposed_candidates": [
     {
       "state": "FL",

@@ -2,15 +2,15 @@
   "state": "DE",
   "state_name": "Delaware",
   "year": 2026,
-  "total": 5,
-  "total_races": 53,
+  "total": 3,
+  "total_races": 12,
   "total_races_by_party": {
-    "Democrat": 4,
-    "Republican": 2,
+    "Republican": 1,
+    "Democrat": 3,
     "Unknown": 1
   },
   "general": {
-    "total_races": 53,
+    "total_races": 12,
     "total_unopposed": 1,
     "unopposed_by_party": {
       "Unknown": 1
@@ -18,16 +18,15 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 4,
-      "Republican": 2
-    },
-    "total_unopposed": 4,
-    "unopposed_by_party": {
       "Democrat": 3,
       "Republican": 1
+    },
+    "total_unopposed": 2,
+    "unopposed_by_party": {
+      "Democrat": 2
     }
   },
-  "scraped_at": "2026-03-29T04:55:52.432158+00:00",
+  "scraped_at": "2026-03-30T05:04:57.610776+00:00",
   "unopposed_candidates": [
     {
       "state": "DE",
@@ -53,24 +52,6 @@
       "district": "District 15",
       "candidate": "Nisha Lodhavia",
       "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "DE",
-      "office": "State House",
-      "district": "District 20",
-      "candidate": "Ruby Schaeffer",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "DE",
-      "office": "State House",
-      "district": "District 33",
-      "candidate": "Matt Bucher",
-      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     }

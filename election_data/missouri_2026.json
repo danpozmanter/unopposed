@@ -5,7 +5,7 @@
   "total": 158,
   "total_races": 188,
   "total_races_by_party": {
-    "Democrat": 104,
+    "Democrat": 105,
     "Republican": 119,
     "Unknown": 1,
     "Other": 1
@@ -20,16 +20,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 104,
+      "Democrat": 105,
       "Republican": 119
     },
     "total_unopposed": 156,
     "unopposed_by_party": {
-      "Republican": 70,
-      "Democrat": 86
+      "Republican": 69,
+      "Democrat": 87
     }
   },
-  "scraped_at": "2026-03-29T05:00:07.547342+00:00",
+  "scraped_at": "2026-03-30T05:11:46.415427+00:00",
   "unopposed_candidates": [
     {
       "state": "MO",
@@ -862,15 +862,6 @@
     {
       "state": "MO",
       "office": "State House",
-      "district": "District 97",
-      "candidate": "David Robertson",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MO",
-      "office": "State House",
       "district": "District 98",
       "candidate": "Tim Bosch",
       "party": "Republican",
@@ -1342,6 +1333,15 @@
       "district": "District 145",
       "candidate": "Bryant Wolfin",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 146",
+      "candidate": "Mary Harriet Talbut",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
