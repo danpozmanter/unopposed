@@ -2,14 +2,14 @@
   "state": "WA",
   "state_name": "Washington",
   "year": 2026,
-  "total": 117,
+  "total": 119,
   "total_races": 132,
   "total_races_by_party": {
-    "Democrat": 92,
     "Unknown": 6,
-    "Republican": 56,
+    "Democrat": 91,
+    "Republican": 58,
     "Cascade": 1,
-    "Other": 1
+    "Other": 2
   },
   "general": {
     "total_races": 122,
@@ -20,22 +20,22 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 92,
+      "Democrat": 91,
       "Unknown": 6,
       "Cascade": 1,
-      "Republican": 56,
-      "Other": 1
+      "Republican": 58,
+      "Other": 2
     },
     "total_unopposed": 87,
     "unopposed_by_party": {
       "Unknown": 3,
       "Cascade": 1,
-      "Democrat": 68,
-      "Republican": 44,
-      "Other": 1
+      "Democrat": 66,
+      "Republican": 47,
+      "Other": 2
     }
   },
-  "scraped_at": "2026-03-30T05:18:35.040945+00:00",
+  "scraped_at": "2026-03-31T05:05:07.024412+00:00",
   "unopposed_candidates": [
     {
       "state": "WA",
@@ -123,6 +123,15 @@
       "office": "State Senate",
       "district": "District 7",
       "candidate": "Shelly Short",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Judith Warnick",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -373,6 +382,15 @@
     {
       "state": "WA",
       "office": "State House",
+      "district": "District 6",
+      "candidate": "Aaron Croft",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
       "district": "District 7",
       "candidate": "David Engell",
       "party": "Republican",
@@ -483,6 +501,15 @@
       "office": "State House",
       "district": "District 12",
       "candidate": "Brian Burnett",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Tom Dent",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -645,7 +672,7 @@
       "office": "State House",
       "district": "District 20",
       "candidate": "Ed Orcutt",
-      "party": "Democrat",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -879,15 +906,6 @@
       "office": "State House",
       "district": "District 36",
       "candidate": "Liz Berry",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WA",
-      "office": "State House",
-      "district": "District 37",
-      "candidate": "Sharon Tomiko Santos",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

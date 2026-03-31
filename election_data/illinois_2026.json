@@ -2,16 +2,17 @@
   "state": "IL",
   "state_name": "Illinois",
   "year": 2026,
-  "total": 218,
-  "total_races": 158,
+  "total": 231,
+  "total_races": 175,
   "total_races_by_party": {
-    "Democrat": 260,
-    "Republican": 218,
-    "Unknown": 1,
+    "Republican": 235,
+    "Unknown": 5,
+    "Democrat": 294,
+    "Working Class": 1,
     "Other": 1
   },
   "general": {
-    "total_races": 158,
+    "total_races": 175,
     "total_unopposed": 81,
     "unopposed_by_party": {
       "Democrat": 51,
@@ -20,17 +21,134 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 133,
-      "Republican": 112
+      "Democrat": 150,
+      "Republican": 129
     },
-    "total_unopposed": 202,
+    "total_unopposed": 215,
     "unopposed_by_party": {
-      "Democrat": 108,
-      "Republican": 94
+      "Republican": 100,
+      "Democrat": 115
     }
   },
-  "scraped_at": "2026-03-30T05:07:08.941275+00:00",
+  "scraped_at": "2026-03-31T04:56:41.366703+00:00",
   "unopposed_candidates": [
+    {
+      "state": "IL",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Mike Noack",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Delia Ramirez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Angel Oakley",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Patty Garcia",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Lupe Castillo",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "US House",
+      "district": "District 10",
+      "candidate": "Carl Lambrecht",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "US House",
+      "district": "District 11",
+      "candidate": "Bill Foster",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "US House",
+      "district": "District 12",
+      "candidate": "Julie Fortier",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "US House",
+      "district": "District 12",
+      "candidate": "Mike Bost",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "US House",
+      "district": "District 14",
+      "candidate": "Lauren Underwood",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "US House",
+      "district": "District 16",
+      "candidate": "Paul Nolley",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "US House",
+      "district": "District 16",
+      "candidate": "Darin LaHood",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IL",
+      "office": "US House",
+      "district": "District 17",
+      "candidate": "Eric Sorensen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "IL",
       "office": "State Senate",

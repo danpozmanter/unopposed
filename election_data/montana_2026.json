@@ -2,20 +2,20 @@
   "state": "MT",
   "state_name": "Montana",
   "year": 2026,
-  "total": 175,
+  "total": 173,
   "total_races": 128,
   "total_races_by_party": {
     "Republican": 117,
-    "Libertarian": 1,
-    "Unknown": 3,
+    "Libertarian": 3,
     "Democrat": 121,
+    "Unknown": 3,
     "Other": 8
   },
   "general": {
     "total_races": 128,
-    "total_unopposed": 6,
+    "total_unopposed": 4,
     "unopposed_by_party": {
-      "Unknown": 3,
+      "Unknown": 1,
       "Other": 3
     }
   },
@@ -35,7 +35,7 @@
       "Other": 5
     }
   },
-  "scraped_at": "2026-03-30T05:12:00.033981+00:00",
+  "scraped_at": "2026-03-31T04:59:55.663467+00:00",
   "unopposed_candidates": [
     {
       "state": "MT",
@@ -50,27 +50,9 @@
       "state": "MT",
       "office": "US House",
       "district": "District 1",
-      "candidate": "Kimberly Persico",
-      "party": "Unknown",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MT",
-      "office": "US House",
-      "district": "District 1",
       "candidate": "Nick Sheedy",
       "party": "Unknown",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MT",
-      "office": "US House",
-      "district": "District 2",
-      "candidate": "Michael Eisenhauer",
-      "party": "Unknown",
-      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {

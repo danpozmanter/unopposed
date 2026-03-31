@@ -5,7 +5,7 @@
   "total": 158,
   "total_races": 188,
   "total_races_by_party": {
-    "Democrat": 105,
+    "Democrat": 106,
     "Republican": 119,
     "Unknown": 1,
     "Other": 1
@@ -20,7 +20,7 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 105,
+      "Democrat": 106,
       "Republican": 119
     },
     "total_unopposed": 156,
@@ -29,7 +29,7 @@
       "Democrat": 87
     }
   },
-  "scraped_at": "2026-03-30T05:11:46.415427+00:00",
+  "scraped_at": "2026-03-31T04:59:40.437474+00:00",
   "unopposed_candidates": [
     {
       "state": "MO",
@@ -441,15 +441,6 @@
       "office": "State House",
       "district": "District 38",
       "candidate": "Martin Jacobs",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MO",
-      "office": "State House",
-      "district": "District 39",
-      "candidate": "Dustin Lloyd",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -1081,6 +1072,15 @@
       "district": "District 118",
       "candidate": "Amy DeClue",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 119",
+      "candidate": "Amy Thompson",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

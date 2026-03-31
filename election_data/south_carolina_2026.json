@@ -2,12 +2,12 @@
   "state": "SC",
   "state_name": "South Carolina",
   "year": 2026,
-  "total": 19,
+  "total": 20,
   "total_races": 133,
   "total_races_by_party": {
     "Unknown": 2,
     "Republican": 13,
-    "Democrat": 15,
+    "Democrat": 16,
     "Libertarian": 2
   },
   "general": {
@@ -19,16 +19,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 15,
+      "Democrat": 16,
       "Republican": 13
     },
-    "total_unopposed": 17,
+    "total_unopposed": 18,
     "unopposed_by_party": {
       "Republican": 7,
-      "Democrat": 10
+      "Democrat": 11
     }
   },
-  "scraped_at": "2026-03-30T05:15:53.918883+00:00",
+  "scraped_at": "2026-03-31T05:03:26.098196+00:00",
   "unopposed_candidates": [
     {
       "state": "SC",
@@ -107,6 +107,15 @@
       "office": "US House",
       "district": "District 7",
       "candidate": "John Vincent",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "Thomas Stewart",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

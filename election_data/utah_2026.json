@@ -2,35 +2,36 @@
   "state": "UT",
   "state_name": "Utah",
   "year": 2026,
-  "total": 147,
+  "total": 149,
   "total_races": 94,
   "total_races_by_party": {
     "Democrat": 113,
     "Republican": 132,
     "Unknown": 3,
-    "Other": 23
+    "Other": 29
   },
   "general": {
     "total_races": 93,
-    "total_unopposed": 3,
+    "total_unopposed": 5,
     "unopposed_by_party": {
-      "Unknown": 3
+      "Unknown": 3,
+      "Other": 2
     }
   },
   "primary": {
     "total_races_by_party": {
       "Democrat": 113,
       "Republican": 132,
-      "Other": 23
+      "Other": 27
     },
-    "total_unopposed": 144,
+    "total_unopposed": 146,
     "unopposed_by_party": {
       "Republican": 66,
       "Democrat": 58,
-      "Other": 20
+      "Other": 22
     }
   },
-  "scraped_at": "2026-03-30T05:17:38.525013+00:00",
+  "scraped_at": "2026-03-31T05:04:23.667895+00:00",
   "unopposed_candidates": [
     {
       "state": "UT",
@@ -102,6 +103,15 @@
       "candidate": "Julie Quinlan",
       "party": "Other",
       "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Josh Smith",
+      "party": "Other",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -183,6 +193,15 @@
       "candidate": "Kelly Smith",
       "party": "Republican",
       "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "UT",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Wayne Woodfield",
+      "party": "Other",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {

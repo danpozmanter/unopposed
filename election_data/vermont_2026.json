@@ -2,32 +2,32 @@
   "state": "VT",
   "state_name": "Vermont",
   "year": 2026,
-  "total": 56,
-  "total_races": 110,
+  "total": 66,
+  "total_races": 126,
   "total_races_by_party": {
-    "Republican": 20,
-    "Democrat": 38,
-    "Other": 4
+    "Republican": 29,
+    "Democrat": 46,
+    "Other": 6
   },
   "general": {
-    "total_races": 109,
-    "total_unopposed": 3,
+    "total_races": 125,
+    "total_unopposed": 5,
     "unopposed_by_party": {
-      "Other": 3
+      "Other": 5
     }
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 38,
-      "Republican": 20
+      "Democrat": 46,
+      "Republican": 29
     },
-    "total_unopposed": 53,
+    "total_unopposed": 61,
     "unopposed_by_party": {
-      "Democrat": 33,
-      "Republican": 20
+      "Democrat": 34,
+      "Republican": 27
     }
   },
-  "scraped_at": "2026-03-30T05:17:49.908612+00:00",
+  "scraped_at": "2026-03-31T05:04:39.232145+00:00",
   "unopposed_candidates": [
     {
       "state": "VT",
@@ -45,6 +45,96 @@
       "candidate": "Phil Scott",
       "party": "Republican",
       "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State Senate",
+      "district": "Addison District(2 seats)",
+      "candidate": "Steven Heffernan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State Senate",
+      "district": "Caledonia District",
+      "candidate": "Scott Beck",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State Senate",
+      "district": "Chittenden North District",
+      "candidate": "Chris Mattos",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State Senate",
+      "district": "Essex District",
+      "candidate": "Russ Ingalls",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State Senate",
+      "district": "Grand Isle District",
+      "candidate": "Patrick Brennan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State Senate",
+      "district": "Orange District",
+      "candidate": "Larry Hart Sr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State Senate",
+      "district": "Orleans District",
+      "candidate": "Gaston Bathalon",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State Senate",
+      "district": "Windsor District(3 seats)",
+      "candidate": "Jonathan Gleason",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State Senate",
+      "district": "Chittenden Central District(3 seats)",
+      "candidate": "Tanya Vyhovsky",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State Senate",
+      "district": "Rutland District(3 seats)",
+      "candidate": "David Wolk",
+      "party": "Other",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
