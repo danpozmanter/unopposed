@@ -6,8 +6,8 @@
   "total_races": 246,
   "total_races_by_party": {
     "Republican": 185,
-    "Democrat": 222,
-    "Unknown": 5
+    "Unknown": 5,
+    "Democrat": 222
   },
   "general": {
     "total_races": 233,
@@ -27,7 +27,7 @@
       "Democrat": 172
     }
   },
-  "scraped_at": "2026-03-31T05:02:54.771292+00:00",
+  "scraped_at": "2026-04-01T05:11:36.597992+00:00",
   "unopposed_candidates": [
     {
       "state": "PA",

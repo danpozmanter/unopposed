@@ -2,21 +2,21 @@
   "state": "AR",
   "state_name": "Arkansas",
   "year": 2026,
-  "total": 143,
+  "total": 146,
   "total_races": 123,
   "total_races_by_party": {
+    "Republican": 204,
+    "Democrat": 115,
     "Unknown": 3,
-    "Democrat": 114,
-    "Republican": 202,
     "Libertarian": 2,
     "Other": 4
   },
   "general": {
     "total_races": 123,
-    "total_unopposed": 73,
+    "total_unopposed": 76,
     "unopposed_by_party": {
-      "Republican": 58,
-      "Democrat": 15
+      "Republican": 60,
+      "Democrat": 16
     }
   },
   "primary": {
@@ -30,7 +30,7 @@
       "Republican": 79
     }
   },
-  "scraped_at": "2026-03-31T04:54:17.129553+00:00",
+  "scraped_at": "2026-04-01T05:03:16.161292+00:00",
   "unopposed_candidates": [
     {
       "state": "AR",
@@ -120,6 +120,15 @@
       "candidate": "Clarke Tucker",
       "party": "Democrat",
       "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AR",
+      "office": "State Senate",
+      "district": "District 15",
+      "candidate": "Tara Shephard",
+      "party": "Democrat",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
@@ -255,6 +264,15 @@
       "candidate": "Jason Nazarenko",
       "party": "Republican",
       "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AR",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Mike Bishop",
+      "party": "Republican",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
@@ -480,6 +498,15 @@
       "candidate": "Aaron Pilkington",
       "party": "Republican",
       "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AR",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "Tonya Fletcher",
+      "party": "Republican",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {

@@ -5,9 +5,9 @@
   "total": 303,
   "total_races": 252,
   "total_races_by_party": {
-    "Democrat": 222,
     "Republican": 202,
     "Unknown": 4,
+    "Democrat": 222,
     "Socialist Labor": 1,
     "Communist": 1
   },
@@ -31,7 +31,7 @@
       "Republican": 158
     }
   },
-  "scraped_at": "2026-03-31T04:55:55.362014+00:00",
+  "scraped_at": "2026-04-01T05:04:42.396622+00:00",
   "unopposed_candidates": [
     {
       "state": "GA",

@@ -2,40 +2,38 @@
   "state": "WA",
   "state_name": "Washington",
   "year": 2026,
-  "total": 119,
+  "total": 120,
   "total_races": 132,
   "total_races_by_party": {
     "Unknown": 6,
     "Democrat": 91,
-    "Republican": 58,
     "Cascade": 1,
+    "Republican": 59,
     "Other": 2
   },
   "general": {
     "total_races": 122,
-    "total_unopposed": 1,
-    "unopposed_by_party": {
-      "Democrat": 1
-    }
+    "total_unopposed": 0,
+    "unopposed_by_party": {}
   },
   "primary": {
     "total_races_by_party": {
       "Democrat": 91,
       "Unknown": 6,
       "Cascade": 1,
-      "Republican": 58,
+      "Republican": 59,
       "Other": 2
     },
-    "total_unopposed": 87,
+    "total_unopposed": 88,
     "unopposed_by_party": {
       "Unknown": 3,
       "Cascade": 1,
       "Democrat": 66,
-      "Republican": 47,
+      "Republican": 48,
       "Other": 2
     }
   },
-  "scraped_at": "2026-03-31T05:05:07.024412+00:00",
+  "scraped_at": "2026-04-01T05:13:51.392539+00:00",
   "unopposed_candidates": [
     {
       "state": "WA",
@@ -88,7 +86,16 @@
       "district": "District 7",
       "candidate": "Pramila Jayapal",
       "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WA",
+      "office": "US House",
+      "district": "District 7",
+      "candidate": "Nirav Sheth",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {

@@ -2,12 +2,12 @@
   "state": "MN",
   "state_name": "Minnesota",
   "year": 2026,
-  "total": 80,
+  "total": 81,
   "total_races": 210,
   "total_races_by_party": {
     "Republican": 51,
-    "Unknown": 4,
-    "Democrat": 57
+    "Democrat": 58,
+    "Unknown": 4
   },
   "general": {
     "total_races": 205,
@@ -18,16 +18,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 57,
+      "Democrat": 58,
       "Republican": 51
     },
-    "total_unopposed": 68,
+    "total_unopposed": 69,
     "unopposed_by_party": {
-      "Democrat": 40,
+      "Democrat": 41,
       "Republican": 37
     }
   },
-  "scraped_at": "2026-03-31T04:59:14.221908+00:00",
+  "scraped_at": "2026-04-01T05:07:57.745923+00:00",
   "unopposed_candidates": [
     {
       "state": "MN",
@@ -413,6 +413,15 @@
       "district": "District 54",
       "candidate": "Ben Bakeberg",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State Senate",
+      "district": "District 57",
+      "candidate": "Steven Schroer",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

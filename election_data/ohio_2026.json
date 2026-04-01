@@ -5,9 +5,9 @@
   "total": 192,
   "total_races": 131,
   "total_races_by_party": {
+    "Republican": 120,
     "Democrat": 127,
     "Unknown": 8,
-    "Republican": 120,
     "Other": 14
   },
   "general": {
@@ -33,7 +33,7 @@
       "Other": 13
     }
   },
-  "scraped_at": "2026-03-31T05:02:07.747537+00:00",
+  "scraped_at": "2026-04-01T05:10:45.244423+00:00",
   "unopposed_candidates": [
     {
       "state": "OH",

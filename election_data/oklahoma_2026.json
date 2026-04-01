@@ -2,16 +2,16 @@
   "state": "OK",
   "state_name": "Oklahoma",
   "year": 2026,
-  "total": 45,
+  "total": 52,
   "total_races": 132,
   "total_races_by_party": {
-    "Democrat": 24,
-    "Republican": 45,
-    "Unknown": 2,
+    "Democrat": 32,
+    "Republican": 50,
+    "Unknown": 3,
     "Other": 1
   },
   "general": {
-    "total_races": 127,
+    "total_races": 128,
     "total_unopposed": 3,
     "unopposed_by_party": {
       "Unknown": 2,
@@ -20,16 +20,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 24,
-      "Republican": 45
+      "Democrat": 32,
+      "Republican": 50
     },
-    "total_unopposed": 42,
+    "total_unopposed": 49,
     "unopposed_by_party": {
-      "Democrat": 17,
-      "Republican": 25
+      "Democrat": 25,
+      "Republican": 24
     }
   },
-  "scraped_at": "2026-03-31T05:02:23.947862+00:00",
+  "scraped_at": "2026-04-01T05:11:02.221924+00:00",
   "unopposed_candidates": [
     {
       "state": "OK",
@@ -89,16 +89,16 @@
       "state": "OK",
       "office": "State Senate",
       "district": "District 2",
-      "candidate": "Payton Pepin",
-      "party": "Republican",
+      "candidate": "Randy Cowling",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
       "state": "OK",
       "office": "State Senate",
-      "district": "District 4",
-      "candidate": "Kenny Smith",
+      "district": "District 6",
+      "candidate": "David Bullard",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -125,7 +125,16 @@
       "state": "OK",
       "office": "State Senate",
       "district": "District 10",
-      "candidate": "Jadan Terrazas",
+      "candidate": "Chayelynn Moore",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Todd Gollihare",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -151,9 +160,45 @@
     {
       "state": "OK",
       "office": "State Senate",
-      "district": "District 20",
-      "candidate": "Karmin Grider",
+      "district": "District 18",
+      "candidate": "Meredith McGinnis",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Jack Stewart",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Kenny Kemper",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Kristen Thompson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State Senate",
+      "district": "District 24",
+      "candidate": "Cody Stull",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -170,8 +215,8 @@
       "state": "OK",
       "office": "State Senate",
       "district": "District 32",
-      "candidate": "Curtis Erwin",
-      "party": "Republican",
+      "candidate": "Booker Newton",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -198,6 +243,24 @@
       "office": "State Senate",
       "district": "District 40",
       "candidate": "Carri Hicks",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State Senate",
+      "district": "District 42",
+      "candidate": "Christopher Jones",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OK",
+      "office": "State Senate",
+      "district": "District 44",
+      "candidate": "Michael Brooks",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
