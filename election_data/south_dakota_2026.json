@@ -2,12 +2,12 @@
   "state": "SD",
   "state_name": "South Dakota",
   "year": 2026,
-  "total": 28,
+  "total": 34,
   "total_races": 73,
   "total_races_by_party": {
     "Unknown": 1,
-    "Democrat": 4,
-    "Republican": 33
+    "Democrat": 25,
+    "Republican": 49
   },
   "general": {
     "total_races": 73,
@@ -18,16 +18,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 4,
-      "Republican": 33
+      "Democrat": 25,
+      "Republican": 49
     },
-    "total_unopposed": 27,
+    "total_unopposed": 32,
     "unopposed_by_party": {
-      "Democrat": 4,
-      "Republican": 23
+      "Democrat": 20,
+      "Republican": 13
     }
   },
-  "scraped_at": "2026-04-01T05:12:25.751843+00:00",
+  "scraped_at": "2026-04-02T04:59:23.448620+00:00",
   "unopposed_candidates": [
     {
       "state": "SD",
@@ -149,18 +149,18 @@
     {
       "state": "SD",
       "office": "State House",
-      "district": "District 2",
-      "candidate": "Dawn Hill",
-      "party": "Republican",
+      "district": "District 1",
+      "candidate": "Courtney Enfield",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
       "state": "SD",
       "office": "State House",
-      "district": "District 5",
-      "candidate": "Matt Roby",
-      "party": "Republican",
+      "district": "District 3",
+      "candidate": "Erin Rudner",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -168,8 +168,17 @@
       "state": "SD",
       "office": "State House",
       "district": "District 7",
-      "candidate": "Mellissa Heermann",
-      "party": "Republican",
+      "candidate": "Blake Stevens",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SD",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Amanda Potter",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -177,8 +186,8 @@
       "state": "SD",
       "office": "State House",
       "district": "District 11",
-      "candidate": "Keri Weems",
-      "party": "Republican",
+      "candidate": "Sonja Mentzer",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -186,8 +195,17 @@
       "state": "SD",
       "office": "State House",
       "district": "District 12",
-      "candidate": "Amber Arlint",
-      "party": "Republican",
+      "candidate": "Stephanie Arne",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SD",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Ali Horsted",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -195,16 +213,7 @@
       "state": "SD",
       "office": "State House",
       "district": "District 14",
-      "candidate": "Tyler Tordsen",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "SD",
-      "office": "State House",
-      "district": "District 15",
-      "candidate": "June CopperStad",
+      "candidate": "Erinn Williams",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -213,17 +222,8 @@
       "state": "SD",
       "office": "State House",
       "district": "District 16",
-      "candidate": "John Shubeck",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "SD",
-      "office": "State House",
-      "district": "District 21",
-      "candidate": "Jim Halverson",
-      "party": "Republican",
+      "candidate": "Tim Rhead",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -231,8 +231,8 @@
       "state": "SD",
       "office": "State House",
       "district": "District 22",
-      "candidate": "Lana Greenfield",
-      "party": "Republican",
+      "candidate": "Cully Williams",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -240,7 +240,34 @@
       "state": "SD",
       "office": "State House",
       "district": "District 26",
-      "candidate": "Angi Hanzlik",
+      "candidate": "Eric Emery",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SD",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Lewis GrassRope",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SD",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Carl J. Petersen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SD",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Jana Hunt",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -248,9 +275,18 @@
     {
       "state": "SD",
       "office": "State House",
+      "district": "District 30",
+      "candidate": "Bret Swanson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SD",
+      "office": "State House",
       "district": "District 31",
-      "candidate": "Mary Fitzgerald",
-      "party": "Republican",
+      "candidate": "Morgan Plucker",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -266,9 +302,18 @@
     {
       "state": "SD",
       "office": "State House",
-      "district": "District 33",
-      "candidate": "Jeff Marlette",
+      "district": "District 32",
+      "candidate": "Steve Duffy",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SD",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Kari Hall",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -277,6 +322,15 @@
       "office": "State House",
       "district": "District 34",
       "candidate": "Victor Dominquez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SD",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "Ken Jeakins",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

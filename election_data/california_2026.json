@@ -5,9 +5,9 @@
   "total": 209,
   "total_races": 153,
   "total_races_by_party": {
-    "Unknown": 27,
     "Republican": 142,
     "Democrat": 145,
+    "Unknown": 27,
     "Green/Rainbow": 1,
     "Libertarian": 4,
     "Other": 18
@@ -36,7 +36,7 @@
       "Other": 17
     }
   },
-  "scraped_at": "2026-04-01T05:03:27.245339+00:00",
+  "scraped_at": "2026-04-02T04:50:10.760636+00:00",
   "unopposed_candidates": [
     {
       "state": "CA",

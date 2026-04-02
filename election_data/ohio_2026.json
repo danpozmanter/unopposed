@@ -2,12 +2,12 @@
   "state": "OH",
   "state_name": "Ohio",
   "year": 2026,
-  "total": 192,
+  "total": 195,
   "total_races": 131,
   "total_races_by_party": {
-    "Republican": 120,
     "Democrat": 127,
     "Unknown": 8,
+    "Republican": 123,
     "Other": 14
   },
   "general": {
@@ -21,19 +21,19 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 127,
-      "Republican": 120,
+      "Republican": 123,
       "Unknown": 6,
       "Other": 13
     },
-    "total_unopposed": 187,
+    "total_unopposed": 190,
     "unopposed_by_party": {
-      "Republican": 88,
+      "Republican": 91,
       "Democrat": 83,
       "Unknown": 3,
       "Other": 13
     }
   },
-  "scraped_at": "2026-04-01T05:10:45.244423+00:00",
+  "scraped_at": "2026-04-02T04:57:51.674919+00:00",
   "unopposed_candidates": [
     {
       "state": "OH",
@@ -434,6 +434,15 @@
     {
       "state": "OH",
       "office": "State House",
+      "district": "District 3",
+      "candidate": "Bernadine Kennedy Kent",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
       "district": "District 4",
       "candidate": "Beryl Brown Piccolantonio",
       "party": "Democrat",
@@ -446,6 +455,15 @@
       "district": "District 5",
       "candidate": "Meredith Lawson\u2010Rowe",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Richard Cole",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -482,6 +500,15 @@
       "district": "District 8",
       "candidate": "Anita Somani",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "OH",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Kelly Hunter-Kalagidis",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

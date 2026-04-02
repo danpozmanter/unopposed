@@ -2,34 +2,35 @@
   "state": "MO",
   "state_name": "Missouri",
   "year": 2026,
-  "total": 158,
+  "total": 159,
   "total_races": 188,
   "total_races_by_party": {
     "Democrat": 106,
-    "Republican": 119,
+    "Republican": 120,
     "Unknown": 1,
     "Other": 1
   },
   "general": {
     "total_races": 181,
-    "total_unopposed": 2,
+    "total_unopposed": 1,
     "unopposed_by_party": {
-      "Unknown": 1,
-      "Other": 1
+      "Unknown": 1
     }
   },
   "primary": {
     "total_races_by_party": {
       "Democrat": 106,
-      "Republican": 119
+      "Republican": 120,
+      "Other": 1
     },
-    "total_unopposed": 156,
+    "total_unopposed": 158,
     "unopposed_by_party": {
-      "Republican": 69,
-      "Democrat": 87
+      "Republican": 70,
+      "Democrat": 87,
+      "Other": 1
     }
   },
-  "scraped_at": "2026-04-01T05:08:22.155323+00:00",
+  "scraped_at": "2026-04-02T04:55:19.330338+00:00",
   "unopposed_candidates": [
     {
       "state": "MO",
@@ -136,7 +137,16 @@
       "district": "District 30",
       "candidate": "Cecil Ince",
       "party": "Other",
-      "unopposed_in": "General",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State Senate",
+      "district": "District 32",
+      "candidate": "Ellen Nichols",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
