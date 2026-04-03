@@ -5,9 +5,9 @@
   "total": 231,
   "total_races": 175,
   "total_races_by_party": {
-    "Republican": 235,
-    "Unknown": 5,
     "Democrat": 294,
+    "Unknown": 5,
+    "Republican": 235,
     "Working Class": 1,
     "Other": 1
   },
@@ -30,7 +30,7 @@
       "Democrat": 115
     }
   },
-  "scraped_at": "2026-04-02T04:52:17.372829+00:00",
+  "scraped_at": "2026-04-03T04:53:53.342992+00:00",
   "unopposed_candidates": [
     {
       "state": "IL",

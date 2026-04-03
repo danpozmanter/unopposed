@@ -5,10 +5,10 @@
   "total": 173,
   "total_races": 128,
   "total_races_by_party": {
-    "Libertarian": 3,
-    "Unknown": 3,
     "Republican": 117,
     "Democrat": 121,
+    "Libertarian": 3,
+    "Unknown": 3,
     "Other": 8
   },
   "general": {
@@ -35,7 +35,7 @@
       "Other": 5
     }
   },
-  "scraped_at": "2026-04-02T04:55:34.748922+00:00",
+  "scraped_at": "2026-04-03T04:57:09.730629+00:00",
   "unopposed_candidates": [
     {
       "state": "MT",

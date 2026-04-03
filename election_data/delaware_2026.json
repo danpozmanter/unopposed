@@ -2,10 +2,10 @@
   "state": "DE",
   "state_name": "Delaware",
   "year": 2026,
-  "total": 5,
+  "total": 6,
   "total_races": 53,
   "total_races_by_party": {
-    "Democrat": 4,
+    "Democrat": 5,
     "Republican": 2,
     "Unknown": 1
   },
@@ -18,16 +18,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 4,
+      "Democrat": 5,
       "Republican": 2
     },
-    "total_unopposed": 4,
+    "total_unopposed": 5,
     "unopposed_by_party": {
-      "Democrat": 3,
+      "Democrat": 4,
       "Republican": 1
     }
   },
-  "scraped_at": "2026-04-02T04:51:00.640683+00:00",
+  "scraped_at": "2026-04-03T04:52:21.613830+00:00",
   "unopposed_candidates": [
     {
       "state": "DE",
@@ -52,6 +52,15 @@
       "office": "State Senate",
       "district": "District 15",
       "candidate": "Nisha Lodhavia",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Gregg Lindner",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

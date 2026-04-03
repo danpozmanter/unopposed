@@ -5,9 +5,9 @@
   "total": 78,
   "total_races": 70,
   "total_races_by_party": {
-    "Republican": 61,
-    "Unknown": 8,
     "Democrat": 68,
+    "Unknown": 8,
+    "Republican": 61,
     "Green/Rainbow": 1,
     "Other": 7
   },
@@ -35,7 +35,7 @@
       "Other": 4
     }
   },
-  "scraped_at": "2026-04-02T04:49:39.089001+00:00",
+  "scraped_at": "2026-04-03T04:50:56.303789+00:00",
   "unopposed_candidates": [
     {
       "state": "AZ",

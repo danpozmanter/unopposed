@@ -2,12 +2,12 @@
   "state": "SD",
   "state_name": "South Dakota",
   "year": 2026,
-  "total": 34,
+  "total": 36,
   "total_races": 73,
   "total_races_by_party": {
+    "Democrat": 26,
     "Unknown": 1,
-    "Democrat": 25,
-    "Republican": 49
+    "Republican": 50
   },
   "general": {
     "total_races": 73,
@@ -18,16 +18,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 25,
-      "Republican": 49
+      "Democrat": 26,
+      "Republican": 50
     },
-    "total_unopposed": 32,
+    "total_unopposed": 34,
     "unopposed_by_party": {
-      "Democrat": 20,
-      "Republican": 13
+      "Democrat": 21,
+      "Republican": 14
     }
   },
-  "scraped_at": "2026-04-02T04:59:23.448620+00:00",
+  "scraped_at": "2026-04-03T05:01:12.744862+00:00",
   "unopposed_candidates": [
     {
       "state": "SD",
@@ -167,6 +167,15 @@
     {
       "state": "SD",
       "office": "State House",
+      "district": "District 4",
+      "candidate": "Emelia Enquist",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SD",
+      "office": "State House",
       "district": "District 7",
       "candidate": "Blake Stevens",
       "party": "Democrat",
@@ -242,6 +251,15 @@
       "district": "District 26",
       "candidate": "Eric Emery",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SD",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Ron Frederick",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

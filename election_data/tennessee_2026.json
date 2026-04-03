@@ -2,13 +2,13 @@
   "state": "TN",
   "state_name": "Tennessee",
   "year": 2026,
-  "total": 150,
+  "total": 153,
   "total_races": 127,
   "total_races_by_party": {
     "Federalist": 1,
-    "Republican": 105,
     "Unknown": 10,
     "Democrat": 99,
+    "Republican": 105,
     "Other": 11
   },
   "general": {
@@ -24,19 +24,28 @@
       "Democrat": 99,
       "Republican": 105
     },
-    "total_unopposed": 141,
+    "total_unopposed": 144,
     "unopposed_by_party": {
-      "Republican": 68,
-      "Democrat": 73
+      "Republican": 70,
+      "Democrat": 74
     }
   },
-  "scraped_at": "2026-04-02T04:59:39.430051+00:00",
+  "scraped_at": "2026-04-03T05:01:26.019587+00:00",
   "unopposed_candidates": [
     {
       "state": "TN",
       "office": "US Senate",
       "district": "Statewide",
       "candidate": "Bill Hagerty",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Diana Harshbarger",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -56,6 +65,15 @@
       "district": "District 2",
       "candidate": "Tim Burchett",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Anna Golladay",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -84,6 +102,24 @@
       "candidate": "Jonathan Thorp",
       "party": "Unknown",
       "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "US House",
+      "district": "District 7",
+      "candidate": "Joshua Sales",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "TN",
+      "office": "US House",
+      "district": "District 7",
+      "candidate": "Matt Van Epps",
+      "party": "Republican",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -497,15 +533,6 @@
       "district": "District 25",
       "candidate": "Cameron Sexton",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "TN",
-      "office": "State House",
-      "district": "District 26",
-      "candidate": "Nathan Denton",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
