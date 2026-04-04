@@ -2,11 +2,11 @@
   "state": "WY",
   "state_name": "Wyoming",
   "year": 2026,
-  "total": 5,
+  "total": 6,
   "total_races": 80,
   "total_races_by_party": {
-    "Republican": 7,
     "Democrat": 1,
+    "Republican": 8,
     "Unknown": 1
   },
   "general": {
@@ -19,15 +19,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 1,
-      "Republican": 7
+      "Republican": 8
     },
-    "total_unopposed": 4,
+    "total_unopposed": 5,
     "unopposed_by_party": {
       "Democrat": 1,
-      "Republican": 3
+      "Republican": 4
     }
   },
-  "scraped_at": "2026-04-03T05:03:26.590375+00:00",
+  "scraped_at": "2026-04-04T04:53:01.873590+00:00",
   "unopposed_candidates": [
     {
       "state": "WY",
@@ -52,6 +52,15 @@
       "office": "State Senate",
       "district": "District 3",
       "candidate": "Cheri Steinmetz",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Robert Davis",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

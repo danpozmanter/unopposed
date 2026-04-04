@@ -2,7 +2,7 @@
   "state": "WI",
   "state_name": "Wisconsin",
   "year": 2026,
-  "total": 53,
+  "total": 52,
   "total_races": 125,
   "total_races_by_party": {
     "Republican": 37,
@@ -24,13 +24,13 @@
       "Democrat": 35,
       "Republican": 37
     },
-    "total_unopposed": 49,
+    "total_unopposed": 48,
     "unopposed_by_party": {
       "Democrat": 20,
-      "Republican": 29
+      "Republican": 28
     }
   },
-  "scraped_at": "2026-04-03T05:03:07.105908+00:00",
+  "scraped_at": "2026-04-04T04:52:44.506215+00:00",
   "unopposed_candidates": [
     {
       "state": "WI",
@@ -136,15 +136,6 @@
       "office": "State Senate",
       "district": "District 7",
       "candidate": "Red Arnold",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WI",
-      "office": "State Senate",
-      "district": "District 9",
-      "candidate": "Devin LeMahieu",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

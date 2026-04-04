@@ -2,12 +2,12 @@
   "state": "MO",
   "state_name": "Missouri",
   "year": 2026,
-  "total": 167,
+  "total": 172,
   "total_races": 188,
   "total_races_by_party": {
+    "Republican": 124,
+    "Democrat": 116,
     "Unknown": 8,
-    "Democrat": 106,
-    "Republican": 122,
     "Other": 1
   },
   "general": {
@@ -19,20 +19,20 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 106,
-      "Republican": 122,
+      "Democrat": 116,
+      "Republican": 124,
       "Unknown": 8,
       "Other": 1
     },
-    "total_unopposed": 166,
+    "total_unopposed": 171,
     "unopposed_by_party": {
       "Unknown": 7,
-      "Democrat": 87,
-      "Republican": 71,
+      "Democrat": 93,
+      "Republican": 70,
       "Other": 1
     }
   },
-  "scraped_at": "2026-04-03T04:56:56.250786+00:00",
+  "scraped_at": "2026-04-04T04:46:05.430191+00:00",
   "unopposed_candidates": [
     {
       "state": "MO",
@@ -128,17 +128,17 @@
       "state": "MO",
       "office": "State Senate",
       "district": "District 2",
-      "candidate": "Susan Shumway",
-      "party": "Democrat",
+      "candidate": "Nick Schroer",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
       "state": "MO",
       "office": "State Senate",
-      "district": "District 2",
-      "candidate": "Nick Schroer",
-      "party": "Republican",
+      "district": "District 6",
+      "candidate": "J. Don Salcedo",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -154,9 +154,45 @@
     {
       "state": "MO",
       "office": "State Senate",
-      "district": "District 10",
-      "candidate": "Travis Fitzwater",
+      "district": "District 12",
+      "candidate": "Judy McNeece",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Vernon Norman",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Virginia Staabs",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State Senate",
+      "district": "District 20",
+      "candidate": "Sean Falconer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Jeff Abney",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -174,6 +210,15 @@
       "office": "State Senate",
       "district": "District 26",
       "candidate": "Victoria Wors",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State Senate",
+      "district": "District 28",
+      "candidate": "Mike McCaffree",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -200,8 +245,8 @@
       "state": "MO",
       "office": "State Senate",
       "district": "District 32",
-      "candidate": "Ellen Nichols",
-      "party": "Republican",
+      "candidate": "Imma Curl",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
