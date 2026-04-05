@@ -1,39 +1,8 @@
 {
+  "error": true,
+  "message": "Scraping failed: only found 0 races",
   "state": "NH",
   "state_name": "New Hampshire",
   "year": 2026,
-  "total": 1,
-  "total_races": 28,
-  "total_races_by_party": {
-    "Democrat": 4,
-    "Unknown": 1,
-    "Republican": 3
-  },
-  "general": {
-    "total_races": 25,
-    "total_unopposed": 1,
-    "unopposed_by_party": {
-      "Unknown": 1
-    }
-  },
-  "primary": {
-    "total_races_by_party": {
-      "Democrat": 4,
-      "Republican": 3
-    },
-    "total_unopposed": 0,
-    "unopposed_by_party": {}
-  },
-  "scraped_at": "2026-04-04T04:47:06.942527+00:00",
-  "unopposed_candidates": [
-    {
-      "state": "NH",
-      "office": "US Senate",
-      "district": "Statewide",
-      "candidate": "Submit photo",
-      "party": "Unknown",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    }
-  ]
+  "scraped_at": "2026-04-05T04:59:26.014772+00:00"
 }
