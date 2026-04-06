@@ -1,8 +1,111 @@
 {
-  "error": true,
-  "message": "Scraping failed: only found 0 races",
   "state": "ND",
   "state_name": "North Dakota",
   "year": 2026,
-  "scraped_at": "2026-04-05T05:00:17.320244+00:00"
+  "total": 9,
+  "total_races": 47,
+  "total_races_by_party": {
+    "Democrat": 1,
+    "Republican": 10
+  },
+  "general": {
+    "total_races": 47,
+    "total_unopposed": 0,
+    "unopposed_by_party": {}
+  },
+  "primary": {
+    "total_races_by_party": {
+      "Democrat": 1,
+      "Republican": 10
+    },
+    "total_unopposed": 9,
+    "unopposed_by_party": {
+      "Democrat": 1,
+      "Republican": 8
+    }
+  },
+  "scraped_at": "2026-04-06T05:10:04.436193+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Tim Mathern",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Judy Lee",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Jonathan Sickler",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 31",
+      "candidate": "Donald Schaible",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 35",
+      "candidate": "Sean Cleary",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 37",
+      "candidate": "Dean Rummel",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 45",
+      "candidate": "Ronald Sorvaag",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "James Schmidt",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Eric Murphy",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
 }
