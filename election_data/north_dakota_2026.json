@@ -2,11 +2,11 @@
   "state": "ND",
   "state_name": "North Dakota",
   "year": 2026,
-  "total": 9,
+  "total": 10,
   "total_races": 47,
   "total_races_by_party": {
     "Democrat": 1,
-    "Republican": 10
+    "Republican": 11
   },
   "general": {
     "total_races": 47,
@@ -16,15 +16,15 @@
   "primary": {
     "total_races_by_party": {
       "Democrat": 1,
-      "Republican": 10
+      "Republican": 11
     },
-    "total_unopposed": 9,
+    "total_unopposed": 10,
     "unopposed_by_party": {
       "Democrat": 1,
-      "Republican": 8
+      "Republican": 9
     }
   },
-  "scraped_at": "2026-04-06T05:10:04.436193+00:00",
+  "scraped_at": "2026-04-07T05:01:12.669320+00:00",
   "unopposed_candidates": [
     {
       "state": "ND",
@@ -94,6 +94,15 @@
       "office": "State House",
       "district": "District 31",
       "candidate": "James Schmidt",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Jesus Aguirre",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

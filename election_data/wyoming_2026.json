@@ -2,11 +2,11 @@
   "state": "WY",
   "state_name": "Wyoming",
   "year": 2026,
-  "total": 6,
+  "total": 5,
   "total_races": 80,
   "total_races_by_party": {
-    "Democrat": 1,
     "Republican": 8,
+    "Democrat": 1,
     "Unknown": 1
   },
   "general": {
@@ -21,13 +21,13 @@
       "Democrat": 1,
       "Republican": 8
     },
-    "total_unopposed": 5,
+    "total_unopposed": 4,
     "unopposed_by_party": {
       "Democrat": 1,
-      "Republican": 4
+      "Republican": 3
     }
   },
-  "scraped_at": "2026-04-06T05:14:01.189219+00:00",
+  "scraped_at": "2026-04-07T05:05:23.722920+00:00",
   "unopposed_candidates": [
     {
       "state": "WY",
@@ -70,15 +70,6 @@
       "office": "State Senate",
       "district": "District 23",
       "candidate": "Abby Angelos",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "WY",
-      "office": "State House",
-      "district": "District 51",
-      "candidate": "Laurie Bratten",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

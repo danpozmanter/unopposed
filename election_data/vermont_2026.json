@@ -2,11 +2,11 @@
   "state": "VT",
   "state_name": "Vermont",
   "year": 2026,
-  "total": 65,
+  "total": 64,
   "total_races": 126,
   "total_races_by_party": {
-    "Democrat": 46,
     "Republican": 29,
+    "Democrat": 46,
     "Other": 6
   },
   "general": {
@@ -21,13 +21,13 @@
       "Democrat": 46,
       "Republican": 29
     },
-    "total_unopposed": 60,
+    "total_unopposed": 59,
     "unopposed_by_party": {
-      "Democrat": 33,
+      "Democrat": 32,
       "Republican": 27
     }
   },
-  "scraped_at": "2026-04-06T05:12:50.729985+00:00",
+  "scraped_at": "2026-04-07T05:04:05.923688+00:00",
   "unopposed_candidates": [
     {
       "state": "VT",
@@ -412,15 +412,6 @@
       "office": "State House",
       "district": "Chittenden-20 District(2 seats)",
       "candidate": "Gayle Pezzo",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "VT",
-      "office": "State House",
-      "district": "Chittenden-22 District(2 seats)",
-      "candidate": "Lori Houghton",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

@@ -2,13 +2,13 @@
   "state": "MO",
   "state_name": "Missouri",
   "year": 2026,
-  "total": 172,
+  "total": 249,
   "total_races": 188,
   "total_races_by_party": {
-    "Democrat": 116,
-    "Republican": 124,
+    "Republican": 158,
     "Unknown": 8,
-    "Other": 1
+    "Democrat": 182,
+    "Other": 12
   },
   "general": {
     "total_races": 181,
@@ -19,20 +19,20 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 116,
-      "Republican": 124,
+      "Democrat": 182,
+      "Republican": 158,
       "Unknown": 8,
-      "Other": 1
+      "Other": 12
     },
-    "total_unopposed": 171,
+    "total_unopposed": 248,
     "unopposed_by_party": {
       "Unknown": 7,
-      "Democrat": 93,
-      "Republican": 70,
-      "Other": 1
+      "Democrat": 139,
+      "Republican": 90,
+      "Other": 12
     }
   },
-  "scraped_at": "2026-04-06T05:07:52.322948+00:00",
+  "scraped_at": "2026-04-07T04:58:59.499253+00:00",
   "unopposed_candidates": [
     {
       "state": "MO",
@@ -263,8 +263,8 @@
       "state": "MO",
       "office": "State House",
       "district": "District 2",
-      "candidate": "Mazzie Christensen",
-      "party": "Republican",
+      "candidate": "Shelby Dreier",
+      "party": "Other",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -281,8 +281,62 @@
       "state": "MO",
       "office": "State House",
       "district": "District 4",
+      "candidate": "Tristan Sutton",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 4",
       "candidate": "Keith Gudehus",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "John Tomko",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Robert Johnson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "John Davison",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Adrian Cooper",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Amy Minich",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -292,6 +346,15 @@
       "district": "District 8",
       "candidate": "Josh Hurlbert",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Gena Puckett",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -316,6 +379,15 @@
     {
       "state": "MO",
       "office": "State House",
+      "district": "District 11",
+      "candidate": "Luke Rae",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
       "district": "District 12",
       "candidate": "Tracey Steele",
       "party": "Democrat",
@@ -325,9 +397,9 @@
     {
       "state": "MO",
       "office": "State House",
-      "district": "District 12",
-      "candidate": "Mike Jones",
-      "party": "Republican",
+      "district": "District 13",
+      "candidate": "Jacoby Wynkoop",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -337,6 +409,15 @@
       "district": "District 14",
       "candidate": "Ashley Aune",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Frank Pendleton",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -361,9 +442,9 @@
     {
       "state": "MO",
       "office": "State House",
-      "district": "District 17",
-      "candidate": "Susan Hoisington",
-      "party": "Democrat",
+      "district": "District 16",
+      "candidate": "Chris Brown",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -397,6 +478,15 @@
     {
       "state": "MO",
       "office": "State House",
+      "district": "District 19",
+      "candidate": "Karen Spalding",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
       "district": "District 20",
       "candidate": "Mike Steinmeyer",
       "party": "Republican",
@@ -408,6 +498,33 @@
       "office": "State House",
       "district": "District 21",
       "candidate": "Will Jobe",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Yolanda Young",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "Tony Van Trece",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Kevin Garner",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -442,9 +559,18 @@
     {
       "state": "MO",
       "office": "State House",
+      "district": "District 28",
+      "candidate": "Steven Hinton",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
       "district": "District 29",
-      "candidate": "Aaron Crossley",
-      "party": "Democrat",
+      "candidate": "Robert Bruette",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -532,6 +658,24 @@
     {
       "state": "MO",
       "office": "State House",
+      "district": "District 36",
+      "candidate": "Anthony Ealy",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Dave Thomas",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
       "district": "District 37",
       "candidate": "Karissa Varga",
       "party": "Democrat",
@@ -559,9 +703,54 @@
     {
       "state": "MO",
       "office": "State House",
+      "district": "District 38",
+      "candidate": "Alec Rodgers",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
       "district": "District 39",
       "candidate": "Mark Meirath",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Thomas McBeth",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Chad Perkins",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Sheri Jay",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Matthew Beger",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -577,9 +766,36 @@
     {
       "state": "MO",
       "office": "State House",
+      "district": "District 41",
+      "candidate": "Dalton Johnson",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 42",
+      "candidate": "Amy Pritchard",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
       "district": "District 42",
       "candidate": "Jeff Myers",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Rich Gold",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -622,6 +838,33 @@
     {
       "state": "MO",
       "office": "State House",
+      "district": "District 46",
+      "candidate": "David T. Smith",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "Adrian Plank",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Hope Tinker",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
       "district": "District 48",
       "candidate": "Tim Taylor",
       "party": "Republican",
@@ -640,8 +883,17 @@
     {
       "state": "MO",
       "office": "State House",
-      "district": "District 54",
-      "candidate": "Taigan Plummer",
+      "district": "District 49",
+      "candidate": "Jim Schulte",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 51",
+      "candidate": "Ron Fauss",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -649,9 +901,36 @@
     {
       "state": "MO",
       "office": "State House",
-      "district": "District 54",
-      "candidate": "Brandon Phelps",
+      "district": "District 52",
+      "candidate": "Rene Vance",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Beth Grubb",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Terry Thompson",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 54",
+      "candidate": "Taigan Plummer",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -667,8 +946,17 @@
     {
       "state": "MO",
       "office": "State House",
-      "district": "District 56",
-      "candidate": "Staci Czar",
+      "district": "District 55",
+      "candidate": "William Irwin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 57",
+      "candidate": "Michael Walbom",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -679,6 +967,15 @@
       "district": "District 57",
       "candidate": "Matthew Sergent",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 58",
+      "candidate": "Roger Korenberg",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -721,6 +1018,24 @@
     {
       "state": "MO",
       "office": "State House",
+      "district": "District 62",
+      "candidate": "Liz Davenport",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 62",
+      "candidate": "Sherri Gallick",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
       "district": "District 63",
       "candidate": "Donald Looney",
       "party": "Democrat",
@@ -740,8 +1055,17 @@
       "state": "MO",
       "office": "State House",
       "district": "District 64",
-      "candidate": "Deanna Self",
-      "party": "Republican",
+      "candidate": "Amber Teson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 65",
+      "candidate": "Dale Conoyer",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -757,17 +1081,17 @@
     {
       "state": "MO",
       "office": "State House",
-      "district": "District 67",
-      "candidate": "Tonya Rush",
-      "party": "Democrat",
+      "district": "District 66",
+      "candidate": "Laura Mitchell-Riley",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
       "state": "MO",
       "office": "State House",
-      "district": "District 68",
-      "candidate": "Kem Smith",
+      "district": "District 67",
+      "candidate": "Tonya Rush",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -829,9 +1153,18 @@
     {
       "state": "MO",
       "office": "State House",
+      "district": "District 73",
+      "candidate": "Joy Denise Dabney",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
       "district": "District 74",
-      "candidate": "Marla Smith",
-      "party": "Democrat",
+      "candidate": "Jack Howard",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -847,9 +1180,18 @@
     {
       "state": "MO",
       "office": "State House",
-      "district": "District 76",
-      "candidate": "Marlon Anderson",
+      "district": "District 77",
+      "candidate": "Kimberly-Ann Collins",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 77",
+      "candidate": "Michael Corey",
+      "party": "Other",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -866,8 +1208,89 @@
       "state": "MO",
       "office": "State House",
       "district": "District 79",
-      "candidate": "Rachel D'Souza",
+      "candidate": "Michael J. Hebron Sr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 80",
+      "candidate": "Elizabeth Fuchs",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 80",
+      "candidate": "Jennie Drag",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 83",
+      "candidate": "Andrew Bolin",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 84",
+      "candidate": "Del Taylor",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 84",
+      "candidate": "Robert Vroman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 85",
+      "candidate": "Jerron Sutton",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 86",
+      "candidate": "Jeff Hales",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 87",
+      "candidate": "Connie Steinmetz",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 87",
+      "candidate": "Dan Hyatt",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -883,9 +1306,9 @@
     {
       "state": "MO",
       "office": "State House",
-      "district": "District 89",
-      "candidate": "Luke Barber",
-      "party": "Democrat",
+      "district": "District 88",
+      "candidate": "Holly Jones",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -910,8 +1333,35 @@
     {
       "state": "MO",
       "office": "State House",
+      "district": "District 90",
+      "candidate": "Ryan Sheridan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
       "district": "District 91",
       "candidate": "Jo Doll",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 92",
+      "candidate": "Michael Burton",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 93",
+      "candidate": "Bridget Walsh Moore",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -973,8 +1423,26 @@
     {
       "state": "MO",
       "office": "State House",
+      "district": "District 96",
+      "candidate": "Shane Ferguson",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
       "district": "District 97",
       "candidate": "Dan Schaefer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 98",
+      "candidate": "Jaclyn Zimmermann",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -992,15 +1460,6 @@
       "state": "MO",
       "office": "State House",
       "district": "District 100",
-      "candidate": "Colin Lovett",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MO",
-      "office": "State House",
-      "district": "District 100",
       "candidate": "Philip Oehlerking",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -1009,8 +1468,35 @@
     {
       "state": "MO",
       "office": "State House",
+      "district": "District 100",
+      "candidate": "Ken Newhouse",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
       "district": "District 101",
-      "candidate": "Sherry Kopischke",
+      "candidate": "Ben Keathley",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 101",
+      "candidate": "Jeff Coleman",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 102",
+      "candidate": "David Rogers",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -1021,15 +1507,6 @@
       "district": "District 102",
       "candidate": "Richard West",
       "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MO",
-      "office": "State House",
-      "district": "District 103",
-      "candidate": "Lizz Callahan",
-      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -1091,6 +1568,15 @@
       "state": "MO",
       "office": "State House",
       "district": "District 107",
+      "candidate": "Gary Wester",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 107",
       "candidate": "Mark Matthiesen",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -1100,8 +1586,8 @@
       "state": "MO",
       "office": "State House",
       "district": "District 108",
-      "candidate": "Max Calfo",
-      "party": "Republican",
+      "candidate": "Stephen Scott",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -1110,6 +1596,33 @@
       "office": "State House",
       "district": "District 109",
       "candidate": "Trent Leslie",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 109",
+      "candidate": "John Simmons",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 111",
+      "candidate": "Cecelie Williams",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 112",
+      "candidate": "Dave Rekosh",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -1154,6 +1667,15 @@
       "state": "MO",
       "office": "State House",
       "district": "District 115",
+      "candidate": "David George",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 115",
       "candidate": "Bill Lucas",
       "party": "Republican",
       "unopposed_in": "Primary",
@@ -1171,27 +1693,18 @@
     {
       "state": "MO",
       "office": "State House",
-      "district": "District 116",
-      "candidate": "Jason Green",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MO",
-      "office": "State House",
-      "district": "District 117",
-      "candidate": "Justin Flowers",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MO",
-      "office": "State House",
       "district": "District 117",
       "candidate": "Becky Laubinger",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 118",
+      "candidate": "Sarah Puckett",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -1225,8 +1738,8 @@
     {
       "state": "MO",
       "office": "State House",
-      "district": "District 121",
-      "candidate": "Miguel Arellanes",
+      "district": "District 120",
+      "candidate": "Ray Bruno",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -1234,9 +1747,18 @@
     {
       "state": "MO",
       "office": "State House",
-      "district": "District 121",
-      "candidate": "Ben Rudy",
+      "district": "District 120",
+      "candidate": "John Hewkin",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 122",
+      "candidate": "Dan Victor",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -1270,6 +1792,15 @@
     {
       "state": "MO",
       "office": "State House",
+      "district": "District 124",
+      "candidate": "Tara Hallmark",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
       "district": "District 125",
       "candidate": "Lynda Jones",
       "party": "Democrat",
@@ -1282,6 +1813,42 @@
       "district": "District 125",
       "candidate": "Dane Diehl",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 126",
+      "candidate": "Melissa Perry",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 126",
+      "candidate": "Jim Kalberloh",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 127",
+      "candidate": "Marvin Manring",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 128",
+      "candidate": "Michael Martin",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -1315,9 +1882,9 @@
     {
       "state": "MO",
       "office": "State House",
-      "district": "District 131",
-      "candidate": "Ashley Cossins",
-      "party": "Democrat",
+      "district": "District 130",
+      "candidate": "Bishop Davidson",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -1325,8 +1892,8 @@
       "state": "MO",
       "office": "State House",
       "district": "District 131",
-      "candidate": "Iliya Matveyuk",
-      "party": "Republican",
+      "candidate": "Ashley Cossins",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -1414,9 +1981,27 @@
     {
       "state": "MO",
       "office": "State House",
-      "district": "District 139",
-      "candidate": "Sandy Karnes",
+      "district": "District 137",
+      "candidate": "Bryce Lockwood",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 137",
+      "candidate": "Darin Chappell",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 138",
+      "candidate": "Chris Daugherty",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -1425,6 +2010,42 @@
       "office": "State House",
       "district": "District 140",
       "candidate": "Julia Curran",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 141",
+      "candidate": "Darrel Swofford",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 141",
+      "candidate": "Melissa Schmidt",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 142",
+      "candidate": "Josh Ray",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 143",
+      "candidate": "Marsha Snodgrass",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -1450,18 +2071,9 @@
     {
       "state": "MO",
       "office": "State House",
-      "district": "District 144",
-      "candidate": "Tony Harbison",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "MO",
-      "office": "State House",
       "district": "District 145",
-      "candidate": "Bryant Wolfin",
-      "party": "Republican",
+      "candidate": "Carl Kinsky",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -1478,8 +2090,35 @@
       "state": "MO",
       "office": "State House",
       "district": "District 147",
+      "candidate": "Tim Palmer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 147",
       "candidate": "John Voss",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 147",
+      "candidate": "Greg Tlapek",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 148",
+      "candidate": "Casey Carlisle",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -1504,8 +2143,35 @@
     {
       "state": "MO",
       "office": "State House",
+      "district": "District 150",
+      "candidate": "Cameron Bunting Parker",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
       "district": "District 151",
-      "candidate": "Chenoa Burns",
+      "candidate": "Steven Jordan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 152",
+      "candidate": "Corretta Bishop",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 153",
+      "candidate": "Les Majors",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -1567,6 +2233,24 @@
     {
       "state": "MO",
       "office": "State House",
+      "district": "District 158",
+      "candidate": "Chris Foster",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 158",
+      "candidate": "Scott Cupps",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
       "district": "District 160",
       "candidate": "Angela Thomas",
       "party": "Democrat",
@@ -1576,9 +2260,18 @@
     {
       "state": "MO",
       "office": "State House",
-      "district": "District 162",
-      "candidate": "Walter Hayes",
-      "party": "Republican",
+      "district": "District 161",
+      "candidate": "Aaron Metzger",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MO",
+      "office": "State House",
+      "district": "District 163",
+      "candidate": "Brenna Barksdale",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     }

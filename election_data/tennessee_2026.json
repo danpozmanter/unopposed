@@ -5,8 +5,8 @@
   "total": 153,
   "total_races": 127,
   "total_races_by_party": {
-    "Unknown": 10,
     "Federalist": 1,
+    "Unknown": 10,
     "Republican": 105,
     "Democrat": 99,
     "Other": 11
@@ -30,7 +30,7 @@
       "Democrat": 74
     }
   },
-  "scraped_at": "2026-04-06T05:12:07.031509+00:00",
+  "scraped_at": "2026-04-07T05:03:13.845713+00:00",
   "unopposed_candidates": [
     {
       "state": "TN",

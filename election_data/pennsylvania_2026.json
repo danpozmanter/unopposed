@@ -2,18 +2,20 @@
   "state": "PA",
   "state_name": "Pennsylvania",
   "year": 2026,
-  "total": 335,
+  "total": 336,
   "total_races": 246,
   "total_races_by_party": {
     "Unknown": 5,
+    "Republican": 185,
     "Democrat": 222,
-    "Republican": 185
+    "American Independent": 1
   },
   "general": {
-    "total_races": 233,
-    "total_unopposed": 4,
+    "total_races": 234,
+    "total_unopposed": 5,
     "unopposed_by_party": {
-      "Unknown": 4
+      "Unknown": 4,
+      "American Independent": 1
     }
   },
   "primary": {
@@ -27,7 +29,7 @@
       "Democrat": 172
     }
   },
-  "scraped_at": "2026-04-06T05:11:03.527811+00:00",
+  "scraped_at": "2026-04-07T05:02:10.229352+00:00",
   "unopposed_candidates": [
     {
       "state": "PA",
@@ -144,6 +146,15 @@
       "candidate": "John Joyce",
       "party": "Republican",
       "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "PA",
+      "office": "US House",
+      "district": "District 14",
+      "candidate": "Adam Halfhill",
+      "party": "American Independent",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {

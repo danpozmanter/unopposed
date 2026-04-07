@@ -2,18 +2,18 @@
   "state": "VA",
   "state_name": "Virginia",
   "year": 2026,
-  "total": 7,
+  "total": 8,
   "total_races": 12,
   "total_races_by_party": {
-    "Democrat": 12,
     "Republican": 10,
-    "Unknown": 6
+    "Unknown": 7,
+    "Democrat": 12
   },
   "general": {
-    "total_races": 6,
-    "total_unopposed": 3,
+    "total_races": 7,
+    "total_unopposed": 4,
     "unopposed_by_party": {
-      "Unknown": 3
+      "Unknown": 4
     }
   },
   "primary": {
@@ -27,8 +27,17 @@
       "Democrat": 2
     }
   },
-  "scraped_at": "2026-04-06T05:13:02.921535+00:00",
+  "scraped_at": "2026-04-07T05:04:18.536764+00:00",
   "unopposed_candidates": [
+    {
+      "state": "VA",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Mark Moran",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
     {
       "state": "VA",
       "office": "US House",

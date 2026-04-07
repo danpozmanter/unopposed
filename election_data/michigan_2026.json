@@ -5,9 +5,9 @@
   "total": 53,
   "total_races": 163,
   "total_races_by_party": {
+    "Republican": 32,
     "Unknown": 5,
     "Democrat": 49,
-    "Republican": 32,
     "Other": 2
   },
   "general": {
@@ -29,7 +29,7 @@
       "Democrat": 29
     }
   },
-  "scraped_at": "2026-04-06T05:07:12.010400+00:00",
+  "scraped_at": "2026-04-07T04:58:14.032210+00:00",
   "unopposed_candidates": [
     {
       "state": "MI",

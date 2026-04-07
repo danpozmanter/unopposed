@@ -2,12 +2,12 @@
   "state": "WI",
   "state_name": "Wisconsin",
   "year": 2026,
-  "total": 52,
+  "total": 64,
   "total_races": 125,
   "total_races_by_party": {
-    "Republican": 37,
-    "Democrat": 35,
+    "Republican": 42,
     "Unknown": 4,
+    "Democrat": 42,
     "Common Sense": 1,
     "Other": 2
   },
@@ -21,16 +21,16 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 35,
-      "Republican": 37
+      "Democrat": 42,
+      "Republican": 42
     },
-    "total_unopposed": 48,
+    "total_unopposed": 60,
     "unopposed_by_party": {
-      "Democrat": 20,
-      "Republican": 28
+      "Democrat": 27,
+      "Republican": 33
     }
   },
-  "scraped_at": "2026-04-06T05:13:44.772966+00:00",
+  "scraped_at": "2026-04-07T05:05:06.051583+00:00",
   "unopposed_candidates": [
     {
       "state": "WI",
@@ -377,9 +377,27 @@
     {
       "state": "WI",
       "office": "State House",
+      "district": "District 35",
+      "candidate": "Calvin Callahan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
       "district": "District 37",
       "candidate": "LaToya Bates",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Mark Born",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -398,6 +416,24 @@
       "district": "District 43",
       "candidate": "Paul McGraw",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "Joan Fitzgerald",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Andrew Hysell",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -431,6 +467,15 @@
     {
       "state": "WI",
       "office": "State House",
+      "district": "District 55",
+      "candidate": "Nate Gustafson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
       "district": "District 57",
       "candidate": "Kevin Petersen",
       "party": "Republican",
@@ -440,9 +485,27 @@
     {
       "state": "WI",
       "office": "State House",
+      "district": "District 66",
+      "candidate": "Greta Neubauer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
       "district": "District 67",
       "candidate": "Indiana Thompson",
       "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 72",
+      "candidate": "Scott Krug",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -461,6 +524,15 @@
       "district": "District 74",
       "candidate": "Scott Harbridge",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 80",
+      "candidate": "Mike Bare",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -487,6 +559,42 @@
       "office": "State House",
       "district": "District 87",
       "candidate": "Brent Jacobson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 89",
+      "candidate": "Ryan Spaude",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 94",
+      "candidate": "Steve Doyle",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 96",
+      "candidate": "Tara Johnson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 97",
+      "candidate": "Cindi Duchow",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

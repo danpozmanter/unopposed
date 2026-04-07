@@ -2,35 +2,47 @@
   "state": "OK",
   "state_name": "Oklahoma",
   "year": 2026,
-  "total": 127,
+  "total": 126,
   "total_races": 132,
   "total_races_by_party": {
-    "Republican": 110,
     "Democrat": 69,
-    "Unknown": 3,
+    "Libertarian": 1,
+    "Republican": 110,
+    "Unknown": 7,
     "Other": 1
   },
   "general": {
-    "total_races": 128,
-    "total_unopposed": 3,
+    "total_races": 132,
+    "total_unopposed": 5,
     "unopposed_by_party": {
-      "Unknown": 2,
+      "Unknown": 4,
       "Other": 1
     }
   },
   "primary": {
     "total_races_by_party": {
       "Democrat": 69,
-      "Republican": 110
+      "Republican": 110,
+      "Libertarian": 1
     },
-    "total_unopposed": 124,
+    "total_unopposed": 121,
     "unopposed_by_party": {
-      "Democrat": 59,
+      "Libertarian": 1,
+      "Democrat": 55,
       "Republican": 65
     }
   },
-  "scraped_at": "2026-04-06T05:10:34.960728+00:00",
+  "scraped_at": "2026-04-07T05:01:41.851974+00:00",
   "unopposed_candidates": [
+    {
+      "state": "OK",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Submit photo",
+      "party": "Libertarian",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
     {
       "state": "OK",
       "office": "US House",
@@ -44,9 +56,9 @@
       "state": "OK",
       "office": "US House",
       "district": "District 2",
-      "candidate": "Erik Terwey",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
+      "candidate": "Ronnie Hopkins",
+      "party": "Unknown",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
@@ -61,28 +73,10 @@
     {
       "state": "OK",
       "office": "US House",
-      "district": "District 3",
-      "candidate": "Jules Roberson",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OK",
-      "office": "US House",
-      "district": "District 5",
-      "candidate": "Jena Nelson",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "OK",
-      "office": "Governor",
-      "district": "Statewide",
-      "candidate": "Cyndi Munson",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
+      "district": "District 4",
+      "candidate": "Rocco Bonacci",
+      "party": "Unknown",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
