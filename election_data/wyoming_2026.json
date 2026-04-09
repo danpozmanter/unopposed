@@ -1,8 +1,87 @@
 {
-  "error": true,
-  "message": "Scraping failed: only found 0 races",
   "state": "WY",
   "state_name": "Wyoming",
   "year": 2026,
-  "scraped_at": "2026-04-08T05:02:48.381060+00:00"
+  "total": 6,
+  "total_races": 80,
+  "total_races_by_party": {
+    "Republican": 8,
+    "Democrat": 1,
+    "Unknown": 1
+  },
+  "general": {
+    "total_races": 79,
+    "total_unopposed": 1,
+    "unopposed_by_party": {
+      "Unknown": 1
+    }
+  },
+  "primary": {
+    "total_races_by_party": {
+      "Democrat": 1,
+      "Republican": 8
+    },
+    "total_unopposed": 5,
+    "unopposed_by_party": {
+      "Democrat": 1,
+      "Republican": 4
+    }
+  },
+  "scraped_at": "2026-04-09T05:04:05.927190+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "WY",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "James Byrd",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Joseph Kibler",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "Cheri Steinmetz",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Robert Davis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Abby Angelos",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 51",
+      "candidate": "Laurie Bratten",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
 }
