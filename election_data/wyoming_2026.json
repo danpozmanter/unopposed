@@ -1,8 +1,93 @@
 {
-  "error": true,
-  "message": "Scraping failed: only found 0 races",
   "state": "WY",
   "state_name": "Wyoming",
   "year": 2026,
-  "scraped_at": "2026-04-12T05:10:10.617830+00:00"
+  "total": 7,
+  "total_races": 80,
+  "total_races_by_party": {
+    "Republican": 10,
+    "Democrat": 1
+  },
+  "general": {
+    "total_races": 78,
+    "total_unopposed": 0,
+    "unopposed_by_party": {}
+  },
+  "primary": {
+    "total_races_by_party": {
+      "Democrat": 1,
+      "Republican": 10
+    },
+    "total_unopposed": 7,
+    "unopposed_by_party": {
+      "Democrat": 1,
+      "Republican": 6
+    }
+  },
+  "scraped_at": "2026-04-13T05:22:26.048883+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "WY",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "James Byrd",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "Cheri Steinmetz",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Robert Davis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Abby Angelos",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Robert Ide",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Ann Lucas",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 51",
+      "candidate": "Laurie Bratten",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
 }
