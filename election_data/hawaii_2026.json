@@ -1,8 +1,156 @@
 {
-  "error": true,
-  "message": "Scraping failed: only found 0 races",
   "state": "HI",
   "state_name": "Hawaii",
   "year": 2026,
-  "scraped_at": "2026-04-14T05:03:03.676812+00:00"
+  "total": 14,
+  "total_races": 67,
+  "total_races_by_party": {
+    "Republican": 3,
+    "Democrat": 14
+  },
+  "general": {
+    "total_races": 64,
+    "total_unopposed": 0,
+    "unopposed_by_party": {}
+  },
+  "primary": {
+    "total_races_by_party": {
+      "Democrat": 14,
+      "Republican": 3
+    },
+    "total_unopposed": 14,
+    "unopposed_by_party": {
+      "Republican": 2,
+      "Democrat": 12
+    }
+  },
+  "scraped_at": "2026-04-15T05:04:27.065116+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "HI",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Maxwell Frazier",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Jill Tokuda",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State Senate",
+      "district": "District 2",
+      "candidate": "Joy San Buenaventura",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State Senate",
+      "district": "District 5",
+      "candidate": "Troy Hashimoto",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Ronald Kouchi",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Stanley Chang",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Les Ihara Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Carol Fukunaga",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Donna Kim",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State Senate",
+      "district": "District 15",
+      "candidate": "Glenn Wakai",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Donovan Dela Cruz",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State Senate",
+      "district": "District 20",
+      "candidate": "Kurt Fevella",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Mike Gabbard",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "HI",
+      "office": "State Senate",
+      "district": "District 25",
+      "candidate": "Chris Lee",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
 }
