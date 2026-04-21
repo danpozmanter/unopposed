@@ -1,8 +1,38 @@
 {
-  "error": true,
-  "message": "Scraping failed: only found 0 races",
   "state": "AK",
   "state_name": "Alaska",
   "year": 2026,
-  "scraped_at": "2026-04-20T05:08:28.054869+00:00"
+  "total": 1,
+  "total_races": 51,
+  "total_races_by_party": {
+    "Unknown": 1,
+    "Democrat": 1
+  },
+  "general": {
+    "total_races": 50,
+    "total_unopposed": 0,
+    "unopposed_by_party": {}
+  },
+  "primary": {
+    "total_races_by_party": {
+      "Unknown": 1,
+      "Democrat": 1
+    },
+    "total_unopposed": 1,
+    "unopposed_by_party": {
+      "Democrat": 1
+    }
+  },
+  "scraped_at": "2026-04-21T05:03:57.887214+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Cliff Groh",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
 }
