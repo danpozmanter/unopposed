@@ -1,59 +1,8 @@
 {
+  "error": true,
+  "message": "Scraping failed: only found 0 races",
   "state": "NH",
   "state_name": "New Hampshire",
   "year": 2026,
-  "total": 3,
-  "total_races": 28,
-  "total_races_by_party": {
-    "Democrat": 4,
-    "Unknown": 2,
-    "Republican": 3
-  },
-  "general": {
-    "total_races": 26,
-    "total_unopposed": 2,
-    "unopposed_by_party": {
-      "Unknown": 2
-    }
-  },
-  "primary": {
-    "total_races_by_party": {
-      "Democrat": 4,
-      "Republican": 3
-    },
-    "total_unopposed": 1,
-    "unopposed_by_party": {
-      "Democrat": 1
-    }
-  },
-  "scraped_at": "2026-04-21T05:10:43.113408+00:00",
-  "unopposed_candidates": [
-    {
-      "state": "NH",
-      "office": "US Senate",
-      "district": "Statewide",
-      "candidate": "Submit photo",
-      "party": "Unknown",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NH",
-      "office": "Governor",
-      "district": "Statewide",
-      "candidate": "Jonathan Kiper",
-      "party": "Unknown",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NH",
-      "office": "Governor",
-      "district": "Statewide",
-      "candidate": "Cinde Warmington",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    }
-  ]
+  "scraped_at": "2026-04-22T05:07:15.386085+00:00"
 }
