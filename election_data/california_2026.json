@@ -1,8 +1,1923 @@
 {
-  "error": true,
-  "message": "Scraping failed: only found 0 races",
   "state": "CA",
   "state_name": "California",
   "year": 2026,
-  "scraped_at": "2026-04-23T05:05:50.324851+00:00"
+  "total": 209,
+  "total_races": 153,
+  "total_races_by_party": {
+    "Unknown": 27,
+    "Republican": 142,
+    "Democrat": 145,
+    "Green/Rainbow": 1,
+    "Libertarian": 4,
+    "Other": 18
+  },
+  "general": {
+    "total_races": 100,
+    "total_unopposed": 0,
+    "unopposed_by_party": {}
+  },
+  "primary": {
+    "total_races_by_party": {
+      "Democrat": 145,
+      "Republican": 142,
+      "Unknown": 27,
+      "Green/Rainbow": 1,
+      "Libertarian": 4,
+      "Other": 18
+    },
+    "total_unopposed": 209,
+    "unopposed_by_party": {
+      "Republican": 96,
+      "Green/Rainbow": 1,
+      "Unknown": 18,
+      "Democrat": 73,
+      "Libertarian": 4,
+      "Other": 17
+    }
+  },
+  "scraped_at": "2026-04-24T05:07:53.838848+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "James Gallagher",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Chris Richardson",
+      "party": "Green/Rainbow",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Thomas Roach",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 5",
+      "candidate": "Tom McClintock",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 6",
+      "candidate": "Kevin Kiley",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 6",
+      "candidate": "Michael Stansfield",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 8",
+      "candidate": "Rudy Recile",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 9",
+      "candidate": "Josh Harder",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 11",
+      "candidate": "Nathan Deer",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 14",
+      "candidate": "Suzanne Chenault",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 15",
+      "candidate": "Jim Garrity",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 15",
+      "candidate": "Charles Hoelter",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 16",
+      "candidate": "Sam Liccardo",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 16",
+      "candidate": "Jotham Stein",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 17",
+      "candidate": "Joe Dehn",
+      "party": "Libertarian",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 18",
+      "candidate": "Chris Demers",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 18",
+      "candidate": "Shane Lewis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 19",
+      "candidate": "Lars Mapstead",
+      "party": "Libertarian",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 20",
+      "candidate": "Vince Fong",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 20",
+      "candidate": "Sandra Van Scotter",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 21",
+      "candidate": "Lance Kruse",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 22",
+      "candidate": "David G. Valadao",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 23",
+      "candidate": "Jay Obernolte",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 24",
+      "candidate": "Helena Pasquarella",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 24",
+      "candidate": "Bob Smith",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 25",
+      "candidate": "Raul Ruiz",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 27",
+      "candidate": "Jason Gibbs",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 28",
+      "candidate": "April Verlato",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 29",
+      "candidate": "Rudy Melendez",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 30",
+      "candidate": "John Armenian",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 31",
+      "candidate": "Gil Cisneros",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 32",
+      "candidate": "Douglas Smith",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 32",
+      "candidate": "Larry Thompson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 33",
+      "candidate": "Ling Ling Shi",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 34",
+      "candidate": "Loren Colin",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 34",
+      "candidate": "Calvin Lee",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 35",
+      "candidate": "Norma Torres",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 35",
+      "candidate": "Mike Cargile",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 36",
+      "candidate": "Claire Anderson",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 37",
+      "candidate": "Baltazar Fedalizo",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 38",
+      "candidate": "Pedro Casas",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 39",
+      "candidate": "Mark Takano",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 39",
+      "candidate": "Steve Manos",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 40",
+      "candidate": "Nina Linh",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 41",
+      "candidate": "Mitch Clemmons",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 42",
+      "candidate": "Robert Garcia",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 42",
+      "candidate": "Larisa Vermeulen",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 43",
+      "candidate": "Cristian Morales",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 44",
+      "candidate": "Nanette Barrag\u00e1n",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 44",
+      "candidate": "Genevieve Angel",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 45",
+      "candidate": "Derek Tran",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 46",
+      "candidate": "David Pan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 47",
+      "candidate": "Derrick Michael Reid",
+      "party": "Libertarian",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 48",
+      "candidate": "Luis Reyna",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 49",
+      "candidate": "Mike Levin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 50",
+      "candidate": "Steve Cohen",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 50",
+      "candidate": "Lucinda Jahn",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 50",
+      "candidate": "Joseph Shea",
+      "party": "Libertarian",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 51",
+      "candidate": "Ricardo Cabrera",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "US House",
+      "district": "District 52",
+      "candidate": "Jeff Belle",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "Jaron Brandon",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Roger Niello",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Angelique Ashby",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Susan Mason",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Linda Roberts",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Linda Price",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "William Brown Jr.",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Darin DuPont",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Guillermo Gonzalez",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Steve Padilla",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Art Hodges",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 20",
+      "candidate": "Tony Rodriguez",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Susan Rubio",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Mike Netter",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "R. R. Jimenez",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 28",
+      "candidate": "Lola Smallwood-Cuevas",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 28",
+      "candidate": "Joe Lisuzzo",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 28",
+      "candidate": "Daphne Bradford",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 30",
+      "candidate": "Bob Archuleta",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 30",
+      "candidate": "Araceli Martinez",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 32",
+      "candidate": "Tiffanie Tate",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 32",
+      "candidate": "Kelly Seyarto",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 34",
+      "candidate": "Avelino Valencia",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 34",
+      "candidate": "Rhonda Shader",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 36",
+      "candidate": "Tony Strickland",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 38",
+      "candidate": "Catherine Blakespear",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State Senate",
+      "district": "District 38",
+      "candidate": "Laura Bassett",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Dianna James",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Chris Rogers",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Michael Greer",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Cecilia Aguiar-Curry",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Neva Parker",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Joe Patterson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Josh Hoover",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Sanaz Motamedi",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "David Tangipa",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "Stephanie Nguyen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "Vinaya Singh",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Lori Wilson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Eryn Cervantes",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Rhodesia Ransom",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Eliza Dy",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Buffy Wicks",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Borgar Solnordal",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Mark Rendon",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Anamarie Avila Farias",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Arthur Webb",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Rebecca Bauer-Kahan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Joseph Rubay",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Chirag Kathrani",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Matt Haney",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Ned Nuerge",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Michael Goldstein",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Catherine Stefani",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Philip Wing",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Liz Ortega",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Patricia Muga",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Diane Papan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Jabra Muhawieh",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Juan Alanis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "Marc Berman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Alex Lee",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Max Hsia",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Yang Shao",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Ash Kalra",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Himat Bainiwal",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Patrick Ahrens",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Tim Gorsulowsky",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Mike Murphy",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Gail Pellerin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Carol Pefley",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 29",
+      "candidate": "Robert Rivas",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "Shannon Kessler",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "Jim Polsgrove",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "David Couch",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Hipolito Cerros",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Alexandra Macedo",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Randall Putz",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "Saul Ayon",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Jeff Gonzalez",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Gregg Hart",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Sari Domingues",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Juan Carrillo",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Paul Marsh",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Pilar Schiavo",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "John Harabedian",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Adam Vena",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 42",
+      "candidate": "Deborah Klein Lopez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Celeste Rodriguez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Ricardo Benitez",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Nick Schultz",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 45",
+      "candidate": "James Ramos",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 45",
+      "candidate": "Greg Abdouch",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "Jesse Gabriel",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "Tracey Schroeder",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "Greg Wallis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Blanca Rubio",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Dan Tran",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 49",
+      "candidate": "Mike Fong",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 49",
+      "candidate": "Long Liu",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 50",
+      "candidate": "Robert Garcia",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 50",
+      "candidate": "Victoria Mageno",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 50",
+      "candidate": "Roberto Moreno Jr.",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 51",
+      "candidate": "Dick Lucas",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 52",
+      "candidate": "Jessica Caloza",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 52",
+      "candidate": "Andrea Lee Anderson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Michelle Rodriguez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Rafaela Romero",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 54",
+      "candidate": "Mark Gonzalez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 55",
+      "candidate": "Keith Cascio",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 55",
+      "candidate": "William Campbell",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 56",
+      "candidate": "Lisa Calderon",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 56",
+      "candidate": "Jessica Martinez",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 57",
+      "candidate": "Sade Elhawary",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 57",
+      "candidate": "Constance Menzies",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 58",
+      "candidate": "Clarissa Cervantes",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 58",
+      "candidate": "Leticia Castillo",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 59",
+      "candidate": "Phillip Chen",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 59",
+      "candidate": "Victor Hernandez",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 60",
+      "candidate": "Corey Jackson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 61",
+      "candidate": "Tina McKinnor",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 62",
+      "candidate": "Jose Solache",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 62",
+      "candidate": "Paul Irving Jones",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 63",
+      "candidate": "Natasha Johnson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 64",
+      "candidate": "Blanca Pacheco",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 64",
+      "candidate": "Raul Ortiz Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 65",
+      "candidate": "Lydia A. Guti\u00e9rrez",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 68",
+      "candidate": "Mayra Ruiz",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 70",
+      "candidate": "Tri Ta",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 71",
+      "candidate": "JJ Galvez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 71",
+      "candidate": "Kate Sanchez",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 72",
+      "candidate": "Chris Kluwe",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 72",
+      "candidate": "Frank Wagoner",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 73",
+      "candidate": "Cottie Petrie-Norris",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 73",
+      "candidate": "Urson Russell",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 74",
+      "candidate": "Sergio Farias",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 74",
+      "candidate": "Laurie Davies",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 75",
+      "candidate": "Gerald Boursiquot",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 75",
+      "candidate": "Carl DeMaio",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 76",
+      "candidate": "Darshana Patel",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 76",
+      "candidate": "Carrie Espinoza Villanueva",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 77",
+      "candidate": "Tasha Boerner Horvath",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 77",
+      "candidate": "Trinity Hannaway",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 78",
+      "candidate": "Christopher Ward",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 78",
+      "candidate": "Payton Galvez",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 78",
+      "candidate": "Antonio Salguero",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 79",
+      "candidate": "LaShae Sharp-Collins",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 79",
+      "candidate": "Andrew Lawson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "CA",
+      "office": "State House",
+      "district": "District 80",
+      "candidate": "Alejandro Galicia",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
 }

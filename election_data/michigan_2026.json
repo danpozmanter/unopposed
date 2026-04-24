@@ -1,8 +1,755 @@
 {
-  "error": true,
-  "message": "Scraping failed: only found 0 races",
   "state": "MI",
   "state_name": "Michigan",
   "year": 2026,
-  "scraped_at": "2026-04-23T05:08:47.065422+00:00"
+  "total": 80,
+  "total_races": 163,
+  "total_races_by_party": {
+    "Unknown": 5,
+    "Republican": 64,
+    "Democrat": 77,
+    "Other": 2
+  },
+  "general": {
+    "total_races": 153,
+    "total_unopposed": 5,
+    "unopposed_by_party": {
+      "Unknown": 3,
+      "Other": 2
+    }
+  },
+  "primary": {
+    "total_races_by_party": {
+      "Democrat": 77,
+      "Republican": 64
+    },
+    "total_unopposed": 75,
+    "unopposed_by_party": {
+      "Republican": 39,
+      "Democrat": 36
+    }
+  },
+  "scraped_at": "2026-04-24T05:11:57.449369+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "MI",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Zebulon Featherly",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "John Moolenaar",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Hillary Scholten",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "US House",
+      "district": "District 5",
+      "candidate": "Christian Vukasovich",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "US House",
+      "district": "District 5",
+      "candidate": "Tim Walberg",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "US House",
+      "district": "District 6",
+      "candidate": "Heather Smiley",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "US House",
+      "district": "District 7",
+      "candidate": "Tom Barrett",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "US House",
+      "district": "District 8",
+      "candidate": "Kristen McDonald Rivet",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "US House",
+      "district": "District 9",
+      "candidate": "Lisa McClain",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "US House",
+      "district": "District 12",
+      "candidate": "James Hooper",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "US House",
+      "district": "District 13",
+      "candidate": "Maurice Morton",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Mike Duggan",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Patrick O'Connell",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 2",
+      "candidate": "Harry Sawicki",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "Mark Ashley Price",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "Darrin Camilleri",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "Marcie Grzywacz",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 5",
+      "candidate": "Matt Koleszar",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 5",
+      "candidate": "Estelle Oliansky",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Joi Pokerwinski",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "Anthony Paesano",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Michael Webber",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Michelle Nard",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Johnnie Townsend",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Kevin Hertel",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Ryan Berman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Sue Shink",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 15",
+      "candidate": "Jason Rogers",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Deandre Barnes",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Joseph Bellino",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Jonathan Lindsey",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Anthony Pennock",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Thomas Albert",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Julie Rogers",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Shaun Young",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 20",
+      "candidate": "Dale Murney",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Sarah Anthony",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Josh Burns",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Robert Hower",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Mike Murphy",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 25",
+      "candidate": "April Osentoski",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "John Cherry",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "Bill Bain",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 28",
+      "candidate": "Julie DeRose",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Brady Middleton",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 30",
+      "candidate": "Mark Huizenga",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 33",
+      "candidate": "Stan Opal",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 34",
+      "candidate": "Tyler Landgraf",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 36",
+      "candidate": "Mark Yonkman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 36",
+      "candidate": "Michele Hoitenga",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 37",
+      "candidate": "John Damoose",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Philippe Cicchini",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State Senate",
+      "district": "District 38",
+      "candidate": "Sara Cambensy",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Joanna Whaley",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Hussein Berry",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Roslyn Ogburn",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Ezekiel Chojnacki",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Gerik Nasstrom",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Brad Paquette",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Zachary Shinabargar",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Jessica Swartz",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Jim Haadsma",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 54",
+      "candidate": "Roman Gaskey",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 56",
+      "candidate": "Ashok Baddi",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 68",
+      "candidate": "Deanna Martin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 71",
+      "candidate": "Stephen Schlaack",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 74",
+      "candidate": "Erin Schor",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 78",
+      "candidate": "Rachel Gross",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 78",
+      "candidate": "Kaleb Hudson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 84",
+      "candidate": "Drew Robbins",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 90",
+      "candidate": "Andrew Jackson Willis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 91",
+      "candidate": "Frank LaFata",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 92",
+      "candidate": "J. Aaron Bailey",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 94",
+      "candidate": "Amos O'Neal",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 95",
+      "candidate": "Bill G. Schuette",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 97",
+      "candidate": "Jack Bader",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 100",
+      "candidate": "Tracy Ruell",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 101",
+      "candidate": "Jaxon Deur",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 107",
+      "candidate": "Melissa Perron",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MI",
+      "office": "State House",
+      "district": "District 110",
+      "candidate": "Brian Irizarry",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
 }
