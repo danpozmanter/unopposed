@@ -1,8 +1,620 @@
 {
-  "error": true,
-  "message": "Scraping failed: only found 0 races",
   "state": "WI",
   "state_name": "Wisconsin",
   "year": 2026,
-  "scraped_at": "2026-04-25T05:02:14.611311+00:00"
+  "total": 65,
+  "total_races": 125,
+  "total_races_by_party": {
+    "Republican": 45,
+    "Democrat": 42,
+    "Unknown": 3,
+    "Common Sense": 1,
+    "Other": 3
+  },
+  "general": {
+    "total_races": 119,
+    "total_unopposed": 3,
+    "unopposed_by_party": {
+      "Other": 3
+    }
+  },
+  "primary": {
+    "total_races_by_party": {
+      "Democrat": 42,
+      "Republican": 45
+    },
+    "total_unopposed": 62,
+    "unopposed_by_party": {
+      "Democrat": 26,
+      "Republican": 36
+    }
+  },
+  "scraped_at": "2026-04-26T05:19:56.344583+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "WI",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Mark Pocan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Erik Olsen",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Derrick Van Orden",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Purnima Nath",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "US House",
+      "district": "District 5",
+      "candidate": "Scott Fitzgerald",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Sean Grorich",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Andr\u00e9 Jacque",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "Tim Carpenter",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State Senate",
+      "district": "District 5",
+      "candidate": "Mike Roberts",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "Red Arnold",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Sasha Ripley",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "John Jagler",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State Senate",
+      "district": "District 15",
+      "candidate": "Mark Spreitzer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Howard Marklein",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Emily Tseffos",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Rachael Cabral-Guevara",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Trevor Jung",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Van Wanggaard",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Richard Pulcher",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State Senate",
+      "district": "District 25",
+      "candidate": "Charly Ray",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "Dianne Hesselbein",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Gillian Battino",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State Senate",
+      "district": "District 31",
+      "candidate": "Jeff Smith",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State Senate",
+      "district": "District 31",
+      "candidate": "Jesse James",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State Senate",
+      "district": "District 33",
+      "candidate": "Mike Van Someren",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State Senate",
+      "district": "District 33",
+      "candidate": "Chris Kapenga",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Mark Becker",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State Senate",
+      "district": "District 15",
+      "candidate": "Christopher Dean",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Joel Kitchens",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Ron Tusler",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "David Steffen",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Lee Whiting",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Sylvia Ortiz-Velez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Adam Neylon",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Yasmine Outlaw",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Joe Sheehan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Amanda Nedweski",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Robin Vos",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "Calvin Callahan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "LaToya Bates",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Mark Born",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Julie Helmer",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Paul McGraw",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "Joan Fitzgerald",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Andrew Hysell",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 49",
+      "candidate": "Travis Tranel",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 51",
+      "candidate": "Todd Novak",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 52",
+      "candidate": "Reive Pullen",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 55",
+      "candidate": "Nate Gustafson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 57",
+      "candidate": "Kevin Petersen",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 58",
+      "candidate": "Chris Bossert",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 66",
+      "candidate": "Greta Neubauer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 67",
+      "candidate": "Indiana Thompson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 72",
+      "candidate": "Scott Krug",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 73",
+      "candidate": "Angela Stroud",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 74",
+      "candidate": "Scott Harbridge",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 80",
+      "candidate": "Mike Bare",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 82",
+      "candidate": "Enrique Camacho",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 84",
+      "candidate": "Nik Rettinger",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 87",
+      "candidate": "Brent Jacobson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 89",
+      "candidate": "Ryan Spaude",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 94",
+      "candidate": "Steve Doyle",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 96",
+      "candidate": "Tara Johnson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 97",
+      "candidate": "Cindi Duchow",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WI",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "David Schupbach",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    }
+  ]
 }
