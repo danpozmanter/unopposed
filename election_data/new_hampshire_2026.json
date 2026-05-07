@@ -1,68 +1,8 @@
 {
+  "error": true,
+  "message": "Scraping failed: only found 0 races",
   "state": "NH",
   "state_name": "New Hampshire",
   "year": 2026,
-  "total": 4,
-  "total_races": 28,
-  "total_races_by_party": {
-    "Unknown": 3,
-    "Republican": 3,
-    "Democrat": 4
-  },
-  "general": {
-    "total_races": 27,
-    "total_unopposed": 3,
-    "unopposed_by_party": {
-      "Unknown": 3
-    }
-  },
-  "primary": {
-    "total_races_by_party": {
-      "Democrat": 4,
-      "Republican": 3
-    },
-    "total_unopposed": 1,
-    "unopposed_by_party": {
-      "Democrat": 1
-    }
-  },
-  "scraped_at": "2026-05-06T05:17:06.007466+00:00",
-  "unopposed_candidates": [
-    {
-      "state": "NH",
-      "office": "US Senate",
-      "district": "Statewide",
-      "candidate": "Submit photo",
-      "party": "Unknown",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NH",
-      "office": "US House",
-      "district": "District 2",
-      "candidate": "Robbie Mahrou",
-      "party": "Unknown",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NH",
-      "office": "Governor",
-      "district": "Statewide",
-      "candidate": "Jonathan Kiper",
-      "party": "Unknown",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NH",
-      "office": "Governor",
-      "district": "Statewide",
-      "candidate": "Cinde Warmington",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    }
-  ]
+  "scraped_at": "2026-05-07T05:18:06.498676+00:00"
 }
