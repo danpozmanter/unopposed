@@ -1,8 +1,1598 @@
 {
-  "error": true,
-  "message": "Scraping failed: only found 0 races",
   "state": "MT",
   "state_name": "Montana",
   "year": 2026,
-  "scraped_at": "2026-05-11T05:29:23.285862+00:00"
+  "total": 173,
+  "total_races": 128,
+  "total_races_by_party": {
+    "Unknown": 3,
+    "Republican": 117,
+    "Libertarian": 3,
+    "Democrat": 121,
+    "Other": 8
+  },
+  "general": {
+    "total_races": 128,
+    "total_unopposed": 4,
+    "unopposed_by_party": {
+      "Unknown": 1,
+      "Other": 3
+    }
+  },
+  "primary": {
+    "total_races_by_party": {
+      "Democrat": 121,
+      "Republican": 117,
+      "Libertarian": 1,
+      "Unknown": 2,
+      "Other": 5
+    },
+    "total_unopposed": 169,
+    "unopposed_by_party": {
+      "Unknown": 1,
+      "Republican": 70,
+      "Democrat": 93,
+      "Other": 5
+    }
+  },
+  "scraped_at": "2026-05-12T05:25:07.845857+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "MT",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Seth Bodnar",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Nick Sheedy",
+      "party": "Unknown",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Troy Downing",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Jonathan Jameson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "Kyle Waterman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "Amy Regier",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Patrick Fitzpatrick",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Mark Noland",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Christopher Paul Buckles",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Noy Holland",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Margaret Mitchell",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Blake Borst",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Stan Taylor",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Deanna Daigrepont",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Lyle Hedin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "Daniel Zolnikov",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Joanna Oblander",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 25",
+      "candidate": "Julie Hippler",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 28",
+      "candidate": "Kelly Hale",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 28",
+      "candidate": "Forrest Mandeville",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Scott Rosenzweig",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Jason Gunderson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 31",
+      "candidate": "Richard Aungier",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 32",
+      "candidate": "Neal Ganser",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 34",
+      "candidate": "Carl Anderson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 41",
+      "candidate": "Dru Koester",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 42",
+      "candidate": "Mary Ann Dunwell",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 43",
+      "candidate": "Stephen Leuchtman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 48",
+      "candidate": "Andrea Olsen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 49",
+      "candidate": "Willis Curdy",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 49",
+      "candidate": "Brad Tschida",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State Senate",
+      "district": "District 50",
+      "candidate": "Shane Morigeau",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 1",
+      "candidate": "Michelle Bianco",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Jane Maahs",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Tom Millett",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 3",
+      "candidate": "Debo Powers",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Paula Koch",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Luca Welle",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Braxton Mitchell",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Darren Fix",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Madison Evans",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Calvin Lime",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Lukas Schubert",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Kate McLaughlin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Steven Kelly",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "Catherine Allen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "Terry Falk",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Maeve Kintzler",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Ed Byrne",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Cindy Bruckner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 12",
+      "candidate": "Tracy Sharp",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Dalton Bradford",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Colleen Hinds",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Paul Fielder",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 15",
+      "candidate": "Ralph Foster",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Lona Running Wolf",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 17",
+      "candidate": "Chris Bechtold",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Jane Weber",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 21",
+      "candidate": "Lela Graham",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Neal Miller",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Dave Von Eschen",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "Rebecca Bogden-Richards",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Pam Carroll",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Steve Fitzpatrick",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Jerry Ferderer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Steve Gist",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Paul Jefferson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 26",
+      "candidate": "Russ Miner",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Paul Tuss",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Jordan Ophus",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "Jason Boeshore",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "Morgan Thiel",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Mike Fox",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Tristan Veverka",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Jasmine Erickson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "Natalie Parker",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 35",
+      "candidate": "Gary Parry",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Benjamin Keyes",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Tracey Miller Karcher",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Shane Klakken",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Greg Oblander",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Melissa Smith",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Kerri Seekins-Crowe",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Gabriel Bradshaw",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 41",
+      "candidate": "Jade Sooktis",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 42",
+      "candidate": "Sidney Fitzpatrick",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 42",
+      "candidate": "Jeremiah Jabs",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Rudolf Haden",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Larry Brewster",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Mike Eaton",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Katie Zolnikov",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 45",
+      "candidate": "Denise Baum",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 45",
+      "candidate": "Bryce Walston",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "Kimberly Welzenbach",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 47",
+      "candidate": "James Reavis",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Tucker Colvin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 48",
+      "candidate": "Curtis Schomer",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 49",
+      "candidate": "Rebecca Noell",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 50",
+      "candidate": "Mark Peters",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 50",
+      "candidate": "Stewart Harris",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 51",
+      "candidate": "Precious McKenzie",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 52",
+      "candidate": "Elizabeth Heald",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Matthew Hankins",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 54",
+      "candidate": "Janine Coole",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 54",
+      "candidate": "Lee Deming",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 55",
+      "candidate": "Richard Gessling",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 56",
+      "candidate": "Fiona Nave",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 57",
+      "candidate": "Bob Crank",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 58",
+      "candidate": "Jamie Isaly",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 58",
+      "candidate": "Joshua Congleton",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 59",
+      "candidate": "Katie Fire Thunder",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 59",
+      "candidate": "Marc Greendorfer",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 60",
+      "candidate": "Alanah Griffith",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 60",
+      "candidate": "Greg Leman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 61",
+      "candidate": "Eric Jacobs",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 62",
+      "candidate": "Josh Seckinger",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 62",
+      "candidate": "Esther Fishbaugh",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 63",
+      "candidate": "Peter Strand",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 63",
+      "candidate": "Lawrence Moore",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 64",
+      "candidate": "Daniel Martinez",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 65",
+      "candidate": "Brian Close",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 65",
+      "candidate": "Joe Flynn",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 66",
+      "candidate": "Eric Matthews",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 66",
+      "candidate": "Owen Lang",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 67",
+      "candidate": "Logan Henke",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 68",
+      "candidate": "Jocelyn Kent",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 70",
+      "candidate": "Shannon Maness",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 71",
+      "candidate": "Scott DeMarois",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 71",
+      "candidate": "Suzzann Nordwick",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 72",
+      "candidate": "Donavon Hawk",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 72",
+      "candidate": "Michael Saul",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 73",
+      "candidate": "Jennifer Lynch",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 73",
+      "candidate": "Gerry Kennedy",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 74",
+      "candidate": "Marc Lee",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 74",
+      "candidate": "Trenin Bayless",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 75",
+      "candidate": "Patrick Sullivan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 75",
+      "candidate": "Mark Reinschmidt",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 75",
+      "candidate": "Greg DeVries",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 77",
+      "candidate": "Deborah Hansen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 78",
+      "candidate": "Mark White",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 78",
+      "candidate": "Randyn Gregg",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 79",
+      "candidate": "Luke Muszkiewicz",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 79",
+      "candidate": "Chiko Olson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 80",
+      "candidate": "Katie Fruits",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 81",
+      "candidate": "John Looney Sr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 82",
+      "candidate": "Pete Elverum",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 82",
+      "candidate": "Clinton McKay",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 83",
+      "candidate": "Aaron Leas",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 85",
+      "candidate": "Laura Jackson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 86",
+      "candidate": "Archie Thomas",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 87",
+      "candidate": "Bill Jones",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 87",
+      "candidate": "Terry Nelson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 88",
+      "candidate": "Evan Schroedel",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 88",
+      "candidate": "Greg Overstreet",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 89",
+      "candidate": "Mark Thane",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 89",
+      "candidate": "Lyn Hellegaard",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 91",
+      "candidate": "Charles Headley",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 93",
+      "candidate": "Roy Handley",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 94",
+      "candidate": "Greg Woodward",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 95",
+      "candidate": "Zooey Zephyr",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 96",
+      "candidate": "Bob Carter",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 97",
+      "candidate": "Melody Cunningham",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 97",
+      "candidate": "Michael Hagestad",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 98",
+      "candidate": "Jonathan Karlen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 98",
+      "candidate": "Bryan Muzzana",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 99",
+      "candidate": "Tom France",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 99",
+      "candidate": "Ryan Darling",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 100",
+      "candidate": "SJ Howell",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 100",
+      "candidate": "Michael Bowles",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 100",
+      "candidate": "J.C. Windmueller",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Jason Wilson",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 76",
+      "candidate": "Shayne Morgan",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MT",
+      "office": "State House",
+      "district": "District 90",
+      "candidate": "Kelley Durbin-Williams",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    }
+  ]
 }
