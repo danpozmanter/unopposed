@@ -1,8 +1,177 @@
 {
-  "error": true,
-  "message": "Scraping failed: only found 0 races",
   "state": "DE",
   "state_name": "Delaware",
   "year": 2026,
-  "scraped_at": "2026-05-13T05:23:35.397767+00:00"
+  "total": 16,
+  "total_races": 53,
+  "total_races_by_party": {
+    "Republican": 4,
+    "Democrat": 14,
+    "Unknown": 1
+  },
+  "general": {
+    "total_races": 53,
+    "total_unopposed": 1,
+    "unopposed_by_party": {
+      "Unknown": 1
+    }
+  },
+  "primary": {
+    "total_races_by_party": {
+      "Democrat": 14,
+      "Republican": 4
+    },
+    "total_unopposed": 15,
+    "unopposed_by_party": {
+      "Democrat": 12,
+      "Republican": 3
+    }
+  },
+  "scraped_at": "2026-05-14T05:24:05.333762+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "DE",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "Submit photo",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Dan Cruce",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State Senate",
+      "district": "District 5",
+      "candidate": "Raymond Seigfried",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "Spiros Mantzavinos",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Mara Gorman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "Jack Walsh",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Nicole Poore",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Marie Pinkney",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Kyra Hoffner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State Senate",
+      "district": "District 15",
+      "candidate": "Nisha Lodhavia",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "Brian Pettyjohn",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State Senate",
+      "district": "District 20",
+      "candidate": "Gerald Hocker",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Gregg Lindner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Rae Krantz",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 20",
+      "candidate": "Ruby Schaeffer",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "DE",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Matt Bucher",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
 }

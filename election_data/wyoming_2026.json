@@ -1,8 +1,138 @@
 {
-  "error": true,
-  "message": "Scraping failed: only found 0 races",
   "state": "WY",
   "state_name": "Wyoming",
   "year": 2026,
-  "scraped_at": "2026-05-13T05:30:50.242978+00:00"
+  "total": 12,
+  "total_races": 80,
+  "total_races_by_party": {
+    "Democrat": 3,
+    "Republican": 13
+  },
+  "general": {
+    "total_races": 78,
+    "total_unopposed": 0,
+    "unopposed_by_party": {}
+  },
+  "primary": {
+    "total_races_by_party": {
+      "Democrat": 3,
+      "Republican": 13
+    },
+    "total_unopposed": 12,
+    "unopposed_by_party": {
+      "Democrat": 3,
+      "Republican": 9
+    }
+  },
+  "scraped_at": "2026-05-14T05:33:54.738576+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "WY",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "James Byrd",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "Cheri Steinmetz",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Robert Davis",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Mike Gierau",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Abby Angelos",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Robert Ide",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State Senate",
+      "district": "District 31",
+      "candidate": "Daniel Singh",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Landon Brown",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Mike Yin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 43",
+      "candidate": "Ann Lucas",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Lee Filer",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "WY",
+      "office": "State House",
+      "district": "District 51",
+      "candidate": "Laurie Bratten",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
 }

@@ -1,8 +1,386 @@
 {
-  "error": true,
-  "message": "Scraping failed: only found 0 races",
   "state": "AK",
   "state_name": "Alaska",
   "year": 2026,
-  "scraped_at": "2026-05-13T05:22:33.111162+00:00"
+  "total": 39,
+  "total_races": 51,
+  "total_races_by_party": {
+    "Unknown": 1,
+    "Republican": 20,
+    "Other": 11,
+    "Democrat": 10
+  },
+  "general": {
+    "total_races": 50,
+    "total_unopposed": 0,
+    "unopposed_by_party": {}
+  },
+  "primary": {
+    "total_races_by_party": {
+      "Unknown": 1,
+      "Republican": 20,
+      "Other": 11,
+      "Democrat": 10
+    },
+    "total_unopposed": 39,
+    "unopposed_by_party": {
+      "Republican": 19,
+      "Other": 10,
+      "Democrat": 10
+    }
+  },
+  "scraped_at": "2026-05-14T05:22:33.139522+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District A",
+      "candidate": "Bert Stedman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District C",
+      "candidate": "Louise Stutes",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District E",
+      "candidate": "Catherine Giessel",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District E",
+      "candidate": "Leo Schafer",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District G",
+      "candidate": "Elvi Gray-Jackson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District G",
+      "candidate": "Nick Danger",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District M",
+      "candidate": "Cathy Tilton",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State Senate",
+      "district": "District S",
+      "candidate": "Darren Deacon",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 2",
+      "candidate": "Rebecca Himschoot",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 4",
+      "candidate": "Sara Hannan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Katherine Simpler",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 5",
+      "candidate": "Sheldon Prout",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 6",
+      "candidate": "Brent Johnson",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Daniel Cooper",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 9",
+      "candidate": "Ky Holland",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 10",
+      "candidate": "Charles Kopp",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Julie Coulombe",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 13",
+      "candidate": "Lisa Keller",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 14",
+      "candidate": "Alyse Galvin",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 16",
+      "candidate": "Carolyn Hall",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Cliff Groh",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 22",
+      "candidate": "Ted Eischeid",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "Nick Capozzi",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "Ruby Jones",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 24",
+      "candidate": "Dan Saddler",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "DeLena Johnson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 27",
+      "candidate": "Jubilee Underwood",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 28",
+      "candidate": "Elexie Moore",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 29",
+      "candidate": "Garret Nelson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 30",
+      "candidate": "Kevin McCabe",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 31",
+      "candidate": "Maxine Dibert",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Glenn Prax",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 33",
+      "candidate": "Pepper McFarland",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 34",
+      "candidate": "Joy Cottle",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Becky Schwanke",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 37",
+      "candidate": "Bryce Edgmon",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 38",
+      "candidate": "Joseph Amik",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 39",
+      "candidate": "Neal Foster",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "AK",
+      "office": "State House",
+      "district": "District 40",
+      "candidate": "Robyn Frier",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
 }
