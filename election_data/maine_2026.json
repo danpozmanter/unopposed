@@ -2,20 +2,22 @@
   "state": "ME",
   "state_name": "Maine",
   "year": 2026,
-  "total": 318,
+  "total": 301,
   "total_races": 190,
   "total_races_by_party": {
+    "Republican": 295,
     "Unknown": 2,
-    "Democrat": 175,
-    "Republican": 158,
-    "Other": 24
+    "Democrat": 336,
+    "Other": 33
   },
   "general": {
-    "total_races": 188,
-    "total_unopposed": 24,
+    "total_races": 190,
+    "total_unopposed": 51,
     "unopposed_by_party": {
+      "Democrat": 31,
+      "Republican": 13,
       "Unknown": 1,
-      "Other": 23
+      "Other": 6
     }
   },
   "primary": {
@@ -31,7 +33,7 @@
       "Other": 1
     }
   },
-  "scraped_at": "2026-06-09T05:33:20.790260+00:00",
+  "scraped_at": "2026-06-10T05:42:38.547952+00:00",
   "unopposed_candidates": [
     {
       "state": "ME",
@@ -48,7 +50,7 @@
       "district": "District 1",
       "candidate": "Chellie Pingree",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -57,7 +59,7 @@
       "district": "District 2",
       "candidate": "Paul LePage",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -111,7 +113,7 @@
       "district": "District 3",
       "candidate": "Stanley Short",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -120,7 +122,7 @@
       "district": "District 4",
       "candidate": "Lisa Kalp",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -390,7 +392,7 @@
       "district": "District 24",
       "candidate": "Denise Tepler",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -399,7 +401,7 @@
       "district": "District 25",
       "candidate": "Teresa Pierce",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -408,7 +410,7 @@
       "district": "District 26",
       "candidate": "Timothy Nangle",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -417,7 +419,7 @@
       "district": "District 27",
       "candidate": "Jill Duson",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -426,7 +428,7 @@
       "district": "District 28",
       "candidate": "Rachel Talbot Ross",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -453,7 +455,7 @@
       "district": "District 30",
       "candidate": "Harry White",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -525,14 +527,23 @@
       "district": "District 35",
       "candidate": "Julie N. Rakic",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
       "state": "ME",
       "office": "State Senate",
-      "district": "District 13",
-      "candidate": "Edwin Mitchell",
+      "district": "District 6",
+      "candidate": "Aaron Dana",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ME",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Eryne Soule",
       "party": "Other",
       "unopposed_in": "General",
       "source": "Ballotpedia"
@@ -570,7 +581,7 @@
       "district": "District 3",
       "candidate": "David McCrea",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -579,7 +590,7 @@
       "district": "District 4",
       "candidate": "Timothy Guerrette",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -642,7 +653,7 @@
       "district": "District 8",
       "candidate": "Tracy Quint",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -669,7 +680,7 @@
       "district": "District 10",
       "candidate": "Genevieve Lemire",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -840,7 +851,7 @@
       "district": "District 21",
       "candidate": "Ambureen Rana",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -867,7 +878,7 @@
       "district": "District 23",
       "candidate": "Brian Ames",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -876,7 +887,7 @@
       "district": "District 24",
       "candidate": "Sean Faircloth",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -957,7 +968,7 @@
       "district": "District 29",
       "candidate": "Nancy McDowell",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -1002,7 +1013,7 @@
       "district": "District 32",
       "candidate": "Shawn Lancaster",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -1101,7 +1112,7 @@
       "district": "District 38",
       "candidate": "Benjamin Hymes",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -1146,7 +1157,7 @@
       "district": "District 41",
       "candidate": "Cory Raymond",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -1227,7 +1238,7 @@
       "district": "District 49",
       "candidate": "Trent Vellella",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -1317,7 +1328,7 @@
       "district": "District 55",
       "candidate": "Charles Hippler IV",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -1362,7 +1373,7 @@
       "district": "District 59",
       "candidate": "John Reny",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -1479,7 +1490,7 @@
       "district": "District 66",
       "candidate": "Michael D. Perkins",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -1587,7 +1598,7 @@
       "district": "District 73",
       "candidate": "Daniel Simonds",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -1767,7 +1778,7 @@
       "district": "District 85",
       "candidate": "Paul Welch",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -1911,7 +1922,7 @@
       "district": "District 95",
       "candidate": "Bret Martel",
       "party": "Republican",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -1956,7 +1967,7 @@
       "district": "District 98",
       "candidate": "Kilton Webb",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -2037,7 +2048,7 @@
       "district": "District 103",
       "candidate": "Karin Orenstein",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -2163,7 +2174,7 @@
       "district": "District 111",
       "candidate": "Amy Kuhn",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -2190,7 +2201,7 @@
       "district": "District 113",
       "candidate": "Grayson Lookner",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -2199,7 +2210,7 @@
       "district": "District 114",
       "candidate": "April Fournier",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -2208,7 +2219,7 @@
       "district": "District 115",
       "candidate": "Andrew Zarro",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -2217,7 +2228,7 @@
       "district": "District 116",
       "candidate": "Samuel Zager",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -2226,7 +2237,7 @@
       "district": "District 117",
       "candidate": "Matthew Moonen",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -2235,7 +2246,7 @@
       "district": "District 118",
       "candidate": "Yusuf Yusuf",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -2298,7 +2309,7 @@
       "district": "District 122",
       "candidate": "Matthew Beck",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -2343,7 +2354,7 @@
       "district": "District 125",
       "candidate": "Kelly Noonan Murphy",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -2370,7 +2381,7 @@
       "district": "District 127",
       "candidate": "Morgan Rielly",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -2388,7 +2399,7 @@
       "district": "District 129",
       "candidate": "Marshall Archer",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -2415,7 +2426,7 @@
       "district": "District 132",
       "candidate": "Ryan Fecteau",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -2622,7 +2633,7 @@
       "district": "District 147",
       "candidate": "Holly Sargent",
       "party": "Democrat",
-      "unopposed_in": "Primary",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -2700,62 +2711,8 @@
     {
       "state": "ME",
       "office": "State House",
-      "district": "District 12",
-      "candidate": "Roy Gott",
-      "party": "Other",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ME",
-      "office": "State House",
-      "district": "District 15",
-      "candidate": "Clifford Noyes",
-      "party": "Other",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ME",
-      "office": "State House",
-      "district": "District 16",
-      "candidate": "Gary Runnells",
-      "party": "Other",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ME",
-      "office": "State House",
-      "district": "District 26",
-      "candidate": "Adam Shaw",
-      "party": "Other",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ME",
-      "office": "State House",
       "district": "District 44",
       "candidate": "Shawn Saindon",
-      "party": "Other",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ME",
-      "office": "State House",
-      "district": "District 45",
-      "candidate": "Clinton Collamore Sr.",
-      "party": "Other",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ME",
-      "office": "State House",
-      "district": "District 46",
-      "candidate": "Kristine Poland",
       "party": "Other",
       "unopposed_in": "General",
       "source": "Ballotpedia"
@@ -2772,15 +2729,6 @@
     {
       "state": "ME",
       "office": "State House",
-      "district": "District 68",
-      "candidate": "Zachary Lejonhud",
-      "party": "Other",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ME",
-      "office": "State House",
       "district": "District 80",
       "candidate": "Azalea Cormier",
       "party": "Other",
@@ -2790,107 +2738,8 @@
     {
       "state": "ME",
       "office": "State House",
-      "district": "District 92",
-      "candidate": "Scott Girardin",
-      "party": "Other",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ME",
-      "office": "State House",
-      "district": "District 104",
-      "candidate": "L. Pfeifle",
-      "party": "Other",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ME",
-      "office": "State House",
-      "district": "District 124",
-      "candidate": "Mary Lindstrom",
-      "party": "Other",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ME",
-      "office": "State House",
-      "district": "District 128",
-      "candidate": "Lawrence McWilliams",
-      "party": "Other",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ME",
-      "office": "State House",
-      "district": "District 130",
-      "candidate": "Todd Davis",
-      "party": "Other",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ME",
-      "office": "State House",
-      "district": "District 131",
-      "candidate": "Kenneth Blow",
-      "party": "Other",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ME",
-      "office": "State House",
-      "district": "District 133",
-      "candidate": "Marc Lessard",
-      "party": "Other",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ME",
-      "office": "State House",
-      "district": "District 134",
-      "candidate": "Allen Daggett",
-      "party": "Other",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ME",
-      "office": "State House",
       "district": "District 135",
       "candidate": "Scott Craig",
-      "party": "Other",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ME",
-      "office": "State House",
-      "district": "District 141",
-      "candidate": "David Mongeau",
-      "party": "Other",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ME",
-      "office": "State House",
-      "district": "District 144",
-      "candidate": "Corinna Cole",
-      "party": "Other",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ME",
-      "office": "State House",
-      "district": "District 148",
-      "candidate": "Noah Cobb",
       "party": "Other",
       "unopposed_in": "General",
       "source": "Ballotpedia"

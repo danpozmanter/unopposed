@@ -2,21 +2,20 @@
   "state": "NV",
   "state_name": "Nevada",
   "year": 2026,
-  "total": 63,
+  "total": 62,
   "total_races": 58,
   "total_races_by_party": {
     "No Political": 4,
+    "Unknown": 2,
+    "Democrat": 87,
     "Republican": 73,
-    "Unknown": 1,
-    "Democrat": 84,
     "Independent American": 3,
     "Other": 12
   },
   "general": {
     "total_races": 58,
-    "total_unopposed": 24,
+    "total_unopposed": 23,
     "unopposed_by_party": {
-      "Independent American": 1,
       "Democrat": 10,
       "Republican": 9,
       "Other": 4
@@ -33,17 +32,8 @@
       "Republican": 27
     }
   },
-  "scraped_at": "2026-06-09T05:35:33.395059+00:00",
+  "scraped_at": "2026-06-10T05:44:49.464724+00:00",
   "unopposed_candidates": [
-    {
-      "state": "NV",
-      "office": "US House",
-      "district": "District 2",
-      "candidate": "Lynn Chapman",
-      "party": "Independent American",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
     {
       "state": "NV",
       "office": "US House",
@@ -51,6 +41,42 @@
       "candidate": "Steven Horsford",
       "party": "Democrat",
       "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Fabian Donate",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Ira Hansen",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State Senate",
+      "district": "District 16",
+      "candidate": "Chrystal Roll",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "NV",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Al Rojas",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -78,15 +104,6 @@
       "candidate": "Maria Thompson",
       "party": "Republican",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NV",
-      "office": "State Senate",
-      "district": "District 10",
-      "candidate": "Fabian Donate",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -128,24 +145,6 @@
     {
       "state": "NV",
       "office": "State Senate",
-      "district": "District 14",
-      "candidate": "Ira Hansen",
-      "party": "Republican",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NV",
-      "office": "State Senate",
-      "district": "District 16",
-      "candidate": "Chrystal Roll",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NV",
-      "office": "State Senate",
       "district": "District 17",
       "candidate": "Lynne Ballatore",
       "party": "Democrat",
@@ -177,15 +176,6 @@
       "candidate": "Danielle Gallant",
       "party": "Republican",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "NV",
-      "office": "State Senate",
-      "district": "District 21",
-      "candidate": "Al Rojas",
-      "party": "Republican",
-      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {

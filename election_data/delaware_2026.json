@@ -5,9 +5,9 @@
   "total": 16,
   "total_races": 53,
   "total_races_by_party": {
-    "Unknown": 1,
+    "Democrat": 15,
     "Republican": 4,
-    "Democrat": 14
+    "Unknown": 1
   },
   "general": {
     "total_races": 53,
@@ -18,7 +18,7 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 14,
+      "Democrat": 15,
       "Republican": 4
     },
     "total_unopposed": 15,
@@ -27,7 +27,7 @@
       "Republican": 3
     }
   },
-  "scraped_at": "2026-06-09T05:30:29.366135+00:00",
+  "scraped_at": "2026-06-10T05:39:51.947285+00:00",
   "unopposed_candidates": [
     {
       "state": "DE",
@@ -158,8 +158,8 @@
     {
       "state": "DE",
       "office": "State House",
-      "district": "District 20",
-      "candidate": "Ruby Schaeffer",
+      "district": "District 9",
+      "candidate": "Ayanna Khan-Flowers",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"

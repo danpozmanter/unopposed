@@ -2,20 +2,20 @@
   "state": "MN",
   "state_name": "Minnesota",
   "year": 2026,
-  "total": 330,
+  "total": 333,
   "total_races": 210,
   "total_races_by_party": {
     "Democrat": 210,
-    "Republican": 188,
     "Unknown": 3,
-    "Other": 3
+    "Republican": 188,
+    "Other": 5
   },
   "general": {
     "total_races": 204,
-    "total_unopposed": 4,
+    "total_unopposed": 6,
     "unopposed_by_party": {
       "Unknown": 1,
-      "Other": 3
+      "Other": 5
     }
   },
   "primary": {
@@ -23,13 +23,13 @@
       "Democrat": 210,
       "Republican": 188
     },
-    "total_unopposed": 234,
+    "total_unopposed": 235,
     "unopposed_by_party": {
-      "Democrat": 168,
+      "Democrat": 169,
       "Republican": 158
     }
   },
-  "scraped_at": "2026-06-09T05:34:24.612769+00:00",
+  "scraped_at": "2026-06-10T05:43:43.939006+00:00",
   "unopposed_candidates": [
     {
       "state": "MN",
@@ -207,6 +207,15 @@
       "office": "State Senate",
       "district": "District 10",
       "candidate": "Tara Killen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Mary Carlson",
       "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -999,6 +1008,24 @@
       "office": "State Senate",
       "district": "District 2",
       "candidate": "Calvin Larson Jr.",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Monique Doward",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MN",
+      "office": "State Senate",
+      "district": "District 39",
+      "candidate": "Ngone Saliou Niang",
       "party": "Other",
       "unopposed_in": "General",
       "source": "Ballotpedia"

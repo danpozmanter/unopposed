@@ -5,9 +5,9 @@
   "total": 14,
   "total_races": 13,
   "total_races_by_party": {
+    "Unknown": 12,
     "Republican": 12,
     "Democrat": 25,
-    "Unknown": 12,
     "Socialist Workers": 2,
     "Green/Rainbow": 2,
     "Libertarian": 1,
@@ -29,7 +29,7 @@
       "Republican": 9
     }
   },
-  "scraped_at": "2026-06-09T05:36:01.419334+00:00",
+  "scraped_at": "2026-06-10T05:45:18.389281+00:00",
   "unopposed_candidates": [
     {
       "state": "NJ",

@@ -2,27 +2,25 @@
   "state": "SC",
   "state_name": "South Carolina",
   "year": 2026,
-  "total": 178,
+  "total": 179,
   "total_races": 133,
   "total_races_by_party": {
-    "Unknown": 3,
-    "Republican": 189,
+    "Democrat": 256,
     "Constitution": 1,
-    "Democrat": 233,
-    "Libertarian": 3,
+    "Unknown": 4,
+    "Republican": 209,
     "Alliance": 2,
+    "Libertarian": 3,
     "Workers": 1,
     "Forward": 1,
     "Other": 6
   },
   "general": {
     "total_races": 133,
-    "total_unopposed": 50,
+    "total_unopposed": 24,
     "unopposed_by_party": {
-      "Workers": 1,
-      "Alliance": 1,
-      "Democrat": 35,
-      "Republican": 13
+      "Democrat": 23,
+      "Republican": 1
     }
   },
   "primary": {
@@ -36,17 +34,8 @@
       "Democrat": 95
     }
   },
-  "scraped_at": "2026-06-09T05:38:40.009851+00:00",
+  "scraped_at": "2026-06-10T05:47:57.828050+00:00",
   "unopposed_candidates": [
-    {
-      "state": "SC",
-      "office": "US House",
-      "district": "District 2",
-      "candidate": "Dayna Alane Smith",
-      "party": "Workers",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
     {
       "state": "SC",
       "office": "US House",
@@ -72,15 +61,6 @@
       "candidate": "Wes Climer",
       "party": "Republican",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "SC",
-      "office": "US House",
-      "district": "District 6",
-      "candidate": "Joseph Oddo",
-      "party": "Alliance",
-      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
@@ -125,7 +105,7 @@
       "district": "District 3",
       "candidate": "Claiborne Linvill",
       "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -152,7 +132,7 @@
       "district": "District 6",
       "candidate": "Jennifer Bachner",
       "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -206,7 +186,7 @@
       "district": "District 11",
       "candidate": "Jessica Beasley",
       "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -233,7 +213,7 @@
       "district": "District 13",
       "candidate": "C. Rauch Wise",
       "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -242,7 +222,7 @@
       "district": "District 14",
       "candidate": "Michanna Tate",
       "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -359,7 +339,7 @@
       "district": "District 21",
       "candidate": "Dexter Reaves",
       "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -368,7 +348,7 @@
       "district": "District 22",
       "candidate": "Josh Kendrick",
       "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -386,7 +366,7 @@
       "district": "District 24",
       "candidate": "Bruce Bannister",
       "party": "Republican",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -395,7 +375,7 @@
       "district": "District 26",
       "candidate": "Jenny Desch",
       "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -494,7 +474,7 @@
       "district": "District 33",
       "candidate": "Clemson Turregano",
       "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -557,7 +537,7 @@
       "district": "District 38",
       "candidate": "Tammy Hahn",
       "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -566,7 +546,7 @@
       "district": "District 39",
       "candidate": "Sherman Lott",
       "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -575,7 +555,7 @@
       "district": "District 40",
       "candidate": "Engle Thompson",
       "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -647,7 +627,7 @@
       "district": "District 45",
       "candidate": "Nicole Ventour",
       "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -674,7 +654,7 @@
       "district": "District 47",
       "candidate": "Tommy Pope",
       "party": "Republican",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -809,7 +789,7 @@
       "district": "District 60",
       "candidate": "Phillip Lowe",
       "party": "Republican",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -836,7 +816,7 @@
       "district": "District 63",
       "candidate": "Jay Jordan",
       "party": "Republican",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -845,7 +825,7 @@
       "district": "District 64",
       "candidate": "Fawn Pedalino",
       "party": "Republican",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -854,7 +834,7 @@
       "district": "District 65",
       "candidate": "Tanisha Baskin",
       "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -962,7 +942,7 @@
       "district": "District 73",
       "candidate": "Allen Robertson",
       "party": "Republican",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -1331,7 +1311,7 @@
       "district": "District 101",
       "candidate": "Arnie Borowsky",
       "party": "Republican",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -1340,7 +1320,7 @@
       "district": "District 102",
       "candidate": "Harriet Holman",
       "party": "Republican",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -1475,7 +1455,7 @@
       "district": "District 112",
       "candidate": "Jenna Arsenault",
       "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -1511,7 +1491,7 @@
       "district": "District 116",
       "candidate": "James Teeple",
       "party": "Republican",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -1574,7 +1554,7 @@
       "district": "District 121",
       "candidate": "Shelley Yuhas",
       "party": "Republican",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -1583,7 +1563,7 @@
       "district": "District 122",
       "candidate": "Bill Hager",
       "party": "Republican",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -1592,7 +1572,7 @@
       "district": "District 123",
       "candidate": "Jeff Bradley",
       "party": "Republican",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -1616,8 +1596,8 @@
     {
       "state": "SC",
       "office": "State House",
-      "district": "District 5",
-      "candidate": "David Jones",
+      "district": "District 25",
+      "candidate": "Wendell Jones",
       "party": "Democrat",
       "unopposed_in": "General",
       "source": "Ballotpedia"
@@ -1625,8 +1605,8 @@
     {
       "state": "SC",
       "office": "State House",
-      "district": "District 10",
-      "candidate": "Thomas Stewart",
+      "district": "District 49",
+      "candidate": "John King",
       "party": "Democrat",
       "unopposed_in": "General",
       "source": "Ballotpedia"
@@ -1634,8 +1614,35 @@
     {
       "state": "SC",
       "office": "State House",
-      "district": "District 115",
-      "candidate": "Nick Uricchio",
+      "district": "District 51",
+      "candidate": "J. David Weeks",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 52",
+      "candidate": "Malcolm Taylor",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 54",
+      "candidate": "Jason Luck",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 103",
+      "candidate": "Carl Anderson",
       "party": "Democrat",
       "unopposed_in": "General",
       "source": "Ballotpedia"

@@ -5,8 +5,8 @@
   "total": 251,
   "total_races": 188,
   "total_races_by_party": {
-    "Unknown": 8,
     "Democrat": 183,
+    "Unknown": 8,
     "Republican": 159,
     "Other": 12
   },
@@ -32,7 +32,7 @@
       "Other": 12
     }
   },
-  "scraped_at": "2026-06-09T05:34:53.098680+00:00",
+  "scraped_at": "2026-06-10T05:44:10.655517+00:00",
   "unopposed_candidates": [
     {
       "state": "MO",

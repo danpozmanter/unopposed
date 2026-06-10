@@ -2,20 +2,20 @@
   "state": "MI",
   "state_name": "Michigan",
   "year": 2026,
-  "total": 202,
+  "total": 201,
   "total_races": 163,
   "total_races_by_party": {
-    "Democrat": 163,
     "Unknown": 4,
     "Republican": 163,
+    "Democrat": 163,
     "Green/Rainbow": 2,
     "Other": 4
   },
   "general": {
     "total_races": 154,
-    "total_unopposed": 9,
+    "total_unopposed": 8,
     "unopposed_by_party": {
-      "Unknown": 3,
+      "Unknown": 2,
       "Green/Rainbow": 2,
       "Other": 4
     }
@@ -31,17 +31,8 @@
       "Democrat": 82
     }
   },
-  "scraped_at": "2026-06-09T05:34:07.792394+00:00",
+  "scraped_at": "2026-06-10T05:43:30.419191+00:00",
   "unopposed_candidates": [
-    {
-      "state": "MI",
-      "office": "US Senate",
-      "district": "Statewide",
-      "candidate": "Douglas P. Marsh",
-      "party": "Unknown",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
     {
       "state": "MI",
       "office": "US Senate",

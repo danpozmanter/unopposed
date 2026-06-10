@@ -5,9 +5,9 @@
   "total": 179,
   "total_races": 132,
   "total_races_by_party": {
-    "Independent": 6,
-    "Democrat": 120,
     "Republican": 99,
+    "Democrat": 120,
+    "Independent": 6,
     "Cascade": 2,
     "Unknown": 3,
     "Trump Republican": 1,
@@ -48,7 +48,7 @@
       "Other": 20
     }
   },
-  "scraped_at": "2026-06-09T05:40:20.919939+00:00",
+  "scraped_at": "2026-06-10T05:49:56.218761+00:00",
   "unopposed_candidates": [
     {
       "state": "WA",

@@ -5,10 +5,10 @@
   "total": 166,
   "total_races": 169,
   "total_races_by_party": {
-    "Democrat": 122,
     "Republican": 128,
-    "Unknown": 13,
+    "Democrat": 122,
     "Libertarian": 2,
+    "Unknown": 13,
     "Constitution": 1,
     "Other": 13
   },
@@ -34,7 +34,7 @@
       "Unknown": 1
     }
   },
-  "scraped_at": "2026-06-09T05:30:46.286926+00:00",
+  "scraped_at": "2026-06-10T05:40:08.357741+00:00",
   "unopposed_candidates": [
     {
       "state": "FL",
