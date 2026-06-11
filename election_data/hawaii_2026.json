@@ -2,13 +2,13 @@
   "state": "HI",
   "state_name": "Hawaii",
   "year": 2026,
-  "total": 73,
+  "total": 69,
   "total_races": 67,
   "total_races_by_party": {
-    "Democrat": 63,
+    "Republican": 37,
+    "Democrat": 64,
     "Unknown": 3,
-    "Republican": 34,
-    "Other": 6
+    "Other": 8
   },
   "general": {
     "total_races": 64,
@@ -17,19 +17,19 @@
   },
   "primary": {
     "total_races_by_party": {
-      "Democrat": 63,
-      "Republican": 34,
+      "Democrat": 64,
+      "Republican": 37,
       "Unknown": 3,
-      "Other": 6
+      "Other": 8
     },
-    "total_unopposed": 73,
+    "total_unopposed": 69,
     "unopposed_by_party": {
-      "Republican": 27,
-      "Democrat": 40,
-      "Other": 6
+      "Republican": 29,
+      "Other": 8,
+      "Democrat": 32
     }
   },
-  "scraped_at": "2026-06-10T05:40:40.963564+00:00",
+  "scraped_at": "2026-06-11T05:44:02.389323+00:00",
   "unopposed_candidates": [
     {
       "state": "HI",
@@ -53,8 +53,8 @@
       "state": "HI",
       "office": "State Senate",
       "district": "District 2",
-      "candidate": "Joy San Buenaventura",
-      "party": "Democrat",
+      "candidate": "Fred Fogel",
+      "party": "Other",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -88,18 +88,9 @@
     {
       "state": "HI",
       "office": "State Senate",
-      "district": "District 10",
-      "candidate": "Les Ihara Jr.",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "HI",
-      "office": "State Senate",
-      "district": "District 11",
-      "candidate": "Carol Fukunaga",
-      "party": "Democrat",
+      "district": "District 9",
+      "candidate": "David Croswell",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -107,17 +98,8 @@
       "state": "HI",
       "office": "State Senate",
       "district": "District 13",
-      "candidate": "James Logue",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "HI",
-      "office": "State Senate",
-      "district": "District 14",
-      "candidate": "Donna Kim",
-      "party": "Democrat",
+      "candidate": "Wallyn Kanoelani Christian",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -133,17 +115,8 @@
     {
       "state": "HI",
       "office": "State Senate",
-      "district": "District 17",
-      "candidate": "Donovan Dela Cruz",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "HI",
-      "office": "State Senate",
-      "district": "District 20",
-      "candidate": "Kurt Fevella",
+      "district": "District 25",
+      "candidate": "Ku Lono Cuadra",
       "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
@@ -151,18 +124,9 @@
     {
       "state": "HI",
       "office": "State Senate",
-      "district": "District 21",
-      "candidate": "Mike Gabbard",
-      "party": "Democrat",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "HI",
-      "office": "State Senate",
       "district": "District 25",
-      "candidate": "Chris Lee",
-      "party": "Democrat",
+      "candidate": "Kai Williams",
+      "party": "Other",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

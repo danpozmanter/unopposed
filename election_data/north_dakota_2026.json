@@ -2,18 +2,18 @@
   "state": "ND",
   "state_name": "North Dakota",
   "year": 2026,
-  "total": 40,
+  "total": 41,
   "total_races": 48,
   "total_races_by_party": {
-    "Republican": 72,
-    "Democrat": 78
+    "Republican": 78,
+    "Democrat": 79
   },
   "general": {
     "total_races": 48,
-    "total_unopposed": 13,
+    "total_unopposed": 12,
     "unopposed_by_party": {
       "Republican": 6,
-      "Democrat": 7
+      "Democrat": 6
     }
   },
   "primary": {
@@ -27,7 +27,7 @@
       "Democrat": 21
     }
   },
-  "scraped_at": "2026-06-10T05:46:21.515041+00:00",
+  "scraped_at": "2026-06-11T05:50:00.287347+00:00",
   "unopposed_candidates": [
     {
       "state": "ND",
@@ -59,10 +59,10 @@
     {
       "state": "ND",
       "office": "State Senate",
-      "district": "District 13",
-      "candidate": "Landis Larson",
+      "district": "District 9",
+      "candidate": "Jayme Davis",
       "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "General",
       "source": "Ballotpedia"
     },
     {
@@ -152,6 +152,15 @@
       "district": "District 11",
       "candidate": "Christine O'Riley",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State Senate",
+      "district": "District 13",
+      "candidate": "Landis Larson",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
@@ -338,15 +347,6 @@
     {
       "state": "ND",
       "office": "State House",
-      "district": "District 11",
-      "candidate": "Doug Sharbono",
-      "party": "Republican",
-      "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "ND",
-      "office": "State House",
       "district": "District 15",
       "candidate": "Frances Drury",
       "party": "Democrat",
@@ -356,19 +356,28 @@
     {
       "state": "ND",
       "office": "State House",
-      "district": "District 17",
-      "candidate": "Don Aandal",
+      "district": "District 25",
+      "candidate": "Alisa Mitskog",
       "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "ND",
+      "office": "State House",
+      "district": "District 11",
+      "candidate": "Doug Sharbono",
+      "party": "Republican",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
       "state": "ND",
       "office": "State House",
-      "district": "District 25",
-      "candidate": "Alisa Mitskog",
+      "district": "District 17",
+      "candidate": "Don Aandal",
       "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -386,7 +395,7 @@
       "district": "District 39",
       "candidate": "Sandy Baertsch",
       "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     }
   ]

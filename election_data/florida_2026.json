@@ -2,15 +2,15 @@
   "state": "FL",
   "state_name": "Florida",
   "year": 2026,
-  "total": 166,
+  "total": 167,
   "total_races": 169,
   "total_races_by_party": {
-    "Republican": 128,
     "Democrat": 122,
-    "Libertarian": 2,
+    "Republican": 128,
     "Unknown": 13,
+    "Libertarian": 2,
     "Constitution": 1,
-    "Other": 13
+    "Other": 14
   },
   "general": {
     "total_races": 154,
@@ -25,16 +25,18 @@
     "total_races_by_party": {
       "Democrat": 122,
       "Republican": 128,
-      "Unknown": 1
+      "Unknown": 1,
+      "Other": 1
     },
-    "total_unopposed": 146,
+    "total_unopposed": 147,
     "unopposed_by_party": {
       "Democrat": 66,
       "Republican": 79,
-      "Unknown": 1
+      "Unknown": 1,
+      "Other": 1
     }
   },
-  "scraped_at": "2026-06-10T05:40:08.357741+00:00",
+  "scraped_at": "2026-06-11T05:43:31.390250+00:00",
   "unopposed_candidates": [
     {
       "state": "FL",
@@ -546,6 +548,15 @@
       "district": "District 19",
       "candidate": "Sam Greco",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "FL",
+      "office": "State House",
+      "district": "District 19",
+      "candidate": "Seth Haskin",
+      "party": "Other",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

@@ -2,21 +2,21 @@
   "state": "IA",
   "state_name": "Iowa",
   "year": 2026,
-  "total": 171,
+  "total": 170,
   "total_races": 131,
   "total_races_by_party": {
-    "Democrat": 216,
     "Republican": 196,
+    "Democrat": 216,
     "Unknown": 5,
     "Libertarian": 2,
-    "Other": 2
+    "Other": 5
   },
   "general": {
     "total_races": 131,
-    "total_unopposed": 50,
+    "total_unopposed": 48,
     "unopposed_by_party": {
-      "Republican": 21,
-      "Democrat": 29
+      "Republican": 20,
+      "Democrat": 28
     }
   },
   "primary": {
@@ -30,7 +30,7 @@
       "Democrat": 90
     }
   },
-  "scraped_at": "2026-06-10T05:41:46.648798+00:00",
+  "scraped_at": "2026-06-11T05:45:12.181309+00:00",
   "unopposed_candidates": [
     {
       "state": "IA",
@@ -350,15 +350,6 @@
     {
       "state": "IA",
       "office": "State House",
-      "district": "District 4",
-      "candidate": "Skyler Wheeler",
-      "party": "Republican",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "IA",
-      "office": "State House",
       "district": "District 5",
       "candidate": "Keith Glienke",
       "party": "Republican",
@@ -642,15 +633,6 @@
       "candidate": "Helena Hayes",
       "party": "Republican",
       "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "IA",
-      "office": "State House",
-      "district": "District 89",
-      "candidate": "Elinor Levin",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -1496,6 +1478,15 @@
       "district": "District 87",
       "candidate": "Jeff Shipley",
       "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "IA",
+      "office": "State House",
+      "district": "District 89",
+      "candidate": "Elinor Levin",
+      "party": "Democrat",
       "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },

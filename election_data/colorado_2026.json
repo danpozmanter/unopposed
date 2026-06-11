@@ -5,15 +5,15 @@
   "total": 115,
   "total_races": 92,
   "total_races_by_party": {
-    "Colorado Forward": 1,
-    "Unity": 4,
+    "Republican": 82,
     "Unknown": 7,
     "Democrat": 87,
-    "Republican": 82,
+    "Colorado Forward": 1,
+    "Unity": 4,
     "Libertarian": 3,
     "No Labels": 1,
-    "Approval Voting": 1,
     "American Constitution": 1,
+    "Approval Voting": 1,
     "Other": 9
   },
   "general": {
@@ -36,7 +36,7 @@
       "Democrat": 51
     }
   },
-  "scraped_at": "2026-06-10T05:39:21.923322+00:00",
+  "scraped_at": "2026-06-11T05:42:43.765937+00:00",
   "unopposed_candidates": [
     {
       "state": "CO",

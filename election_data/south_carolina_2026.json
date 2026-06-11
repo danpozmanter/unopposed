@@ -2,15 +2,15 @@
   "state": "SC",
   "state_name": "South Carolina",
   "year": 2026,
-  "total": 179,
+  "total": 181,
   "total_races": 133,
   "total_races_by_party": {
-    "Democrat": 256,
-    "Constitution": 1,
+    "Republican": 212,
     "Unknown": 4,
-    "Republican": 209,
-    "Alliance": 2,
+    "Constitution": 1,
+    "Democrat": 259,
     "Libertarian": 3,
+    "Alliance": 2,
     "Workers": 1,
     "Forward": 1,
     "Other": 6
@@ -34,7 +34,7 @@
       "Democrat": 95
     }
   },
-  "scraped_at": "2026-06-10T05:47:57.828050+00:00",
+  "scraped_at": "2026-06-11T05:51:35.946689+00:00",
   "unopposed_candidates": [
     {
       "state": "SC",
@@ -79,6 +79,222 @@
       "candidate": "Russell Fry",
       "party": "Republican",
       "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 8",
+      "candidate": "Demetrius Carson",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 23",
+      "candidate": "Chandra Dillard",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 25",
+      "candidate": "Wendell Jones",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 36",
+      "candidate": "Virginia McLean",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 44",
+      "candidate": "Katie Crosby",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 49",
+      "candidate": "John King",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 51",
+      "candidate": "J. David Weeks",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 52",
+      "candidate": "Malcolm Taylor",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 54",
+      "candidate": "Jason Luck",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 55",
+      "candidate": "Jackie Hayes",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 59",
+      "candidate": "Terry Alexander",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 62",
+      "candidate": "Robert Williams",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 76",
+      "candidate": "Leon Howard",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 77",
+      "candidate": "Kambrell Garvin",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 79",
+      "candidate": "Hamilton Grant",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 90",
+      "candidate": "Justin Bamberg",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 94",
+      "candidate": "Gil Gatch",
+      "party": "Republican",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 95",
+      "candidate": "Gilda Cobb-Hunter",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 96",
+      "candidate": "Vivian Elston",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 99",
+      "candidate": "Samuel Price",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 103",
+      "candidate": "Carl Anderson",
+      "party": "Democrat",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 109",
+      "candidate": "Tiffany Spann-Wilder",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 111",
+      "candidate": "Wendell Gilliard",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "SC",
+      "office": "State House",
+      "district": "District 113",
+      "candidate": "Courtney Waters",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -151,15 +367,6 @@
       "candidate": "Lee Gilreath",
       "party": "Republican",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "SC",
-      "office": "State House",
-      "district": "District 8",
-      "candidate": "Demetrius Carson",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -354,15 +561,6 @@
     {
       "state": "SC",
       "office": "State House",
-      "district": "District 23",
-      "candidate": "Chandra Dillard",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "SC",
-      "office": "State House",
       "district": "District 24",
       "candidate": "Bruce Bannister",
       "party": "Republican",
@@ -516,15 +714,6 @@
     {
       "state": "SC",
       "office": "State House",
-      "district": "District 36",
-      "candidate": "Virginia McLean",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "SC",
-      "office": "State House",
       "district": "District 37",
       "candidate": "Seth Sauer-Hart",
       "party": "Democrat",
@@ -610,15 +799,6 @@
       "candidate": "Randy Ligon",
       "party": "Republican",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "SC",
-      "office": "State House",
-      "district": "District 44",
-      "candidate": "Katie Crosby",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -714,15 +894,6 @@
     {
       "state": "SC",
       "office": "State House",
-      "district": "District 55",
-      "candidate": "Jackie Hayes",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "SC",
-      "office": "State House",
       "district": "District 56",
       "candidate": "Jacqualyn Meadow",
       "party": "Democrat",
@@ -777,15 +948,6 @@
     {
       "state": "SC",
       "office": "State House",
-      "district": "District 59",
-      "candidate": "Terry Alexander",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "SC",
-      "office": "State House",
       "district": "District 60",
       "candidate": "Phillip Lowe",
       "party": "Republican",
@@ -799,15 +961,6 @@
       "candidate": "Carla Schuessler",
       "party": "Republican",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "SC",
-      "office": "State House",
-      "district": "District 62",
-      "candidate": "Robert Williams",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -984,24 +1137,6 @@
     {
       "state": "SC",
       "office": "State House",
-      "district": "District 76",
-      "candidate": "Leon Howard",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "SC",
-      "office": "State House",
-      "district": "District 77",
-      "candidate": "Kambrell Garvin",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "SC",
-      "office": "State House",
       "district": "District 78",
       "candidate": "Beth Bernstein",
       "party": "Democrat",
@@ -1149,7 +1284,7 @@
       "district": "District 88",
       "candidate": "Jeremy Jones",
       "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -1173,19 +1308,10 @@
     {
       "state": "SC",
       "office": "State House",
-      "district": "District 90",
-      "candidate": "Justin Bamberg",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "SC",
-      "office": "State House",
       "district": "District 91",
       "candidate": "Lonnie Hosey",
       "party": "Democrat",
-      "unopposed_in": "Primary & General",
+      "unopposed_in": "Primary",
       "source": "Ballotpedia"
     },
     {
@@ -1222,33 +1348,6 @@
       "candidate": "Alex Morris",
       "party": "Republican",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "SC",
-      "office": "State House",
-      "district": "District 94",
-      "candidate": "Gil Gatch",
-      "party": "Republican",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "SC",
-      "office": "State House",
-      "district": "District 95",
-      "candidate": "Gilda Cobb-Hunter",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "SC",
-      "office": "State House",
-      "district": "District 96",
-      "candidate": "Vivian Elston",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -1416,15 +1515,6 @@
     {
       "state": "SC",
       "office": "State House",
-      "district": "District 109",
-      "candidate": "Tiffany Spann-Wilder",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "SC",
-      "office": "State House",
       "district": "District 110",
       "candidate": "K.J. Atwood",
       "party": "Democrat",
@@ -1443,28 +1533,10 @@
     {
       "state": "SC",
       "office": "State House",
-      "district": "District 111",
-      "candidate": "Wendell Gilliard",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "SC",
-      "office": "State House",
       "district": "District 112",
       "candidate": "Jenna Arsenault",
       "party": "Democrat",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "SC",
-      "office": "State House",
-      "district": "District 113",
-      "candidate": "Courtney Waters",
-      "party": "Democrat",
-      "unopposed_in": "Primary & General",
       "source": "Ballotpedia"
     },
     {
@@ -1591,60 +1663,6 @@
       "candidate": "Shannon Erickson",
       "party": "Republican",
       "unopposed_in": "Primary",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "SC",
-      "office": "State House",
-      "district": "District 25",
-      "candidate": "Wendell Jones",
-      "party": "Democrat",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "SC",
-      "office": "State House",
-      "district": "District 49",
-      "candidate": "John King",
-      "party": "Democrat",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "SC",
-      "office": "State House",
-      "district": "District 51",
-      "candidate": "J. David Weeks",
-      "party": "Democrat",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "SC",
-      "office": "State House",
-      "district": "District 52",
-      "candidate": "Malcolm Taylor",
-      "party": "Democrat",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "SC",
-      "office": "State House",
-      "district": "District 54",
-      "candidate": "Jason Luck",
-      "party": "Democrat",
-      "unopposed_in": "General",
-      "source": "Ballotpedia"
-    },
-    {
-      "state": "SC",
-      "office": "State House",
-      "district": "District 103",
-      "candidate": "Carl Anderson",
-      "party": "Democrat",
-      "unopposed_in": "General",
       "source": "Ballotpedia"
     }
   ]
