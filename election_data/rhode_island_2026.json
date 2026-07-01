@@ -1,8 +1,494 @@
 {
-  "error": true,
-  "message": "Scraping failed: only found 0 races",
   "state": "RI",
   "state_name": "Rhode Island",
   "year": 2026,
-  "scraped_at": "2026-06-30T05:35:35.012248+00:00"
+  "total": 51,
+  "total_races": 117,
+  "total_races_by_party": {
+    "Republican": 14,
+    "Democrat": 45,
+    "Unknown": 4,
+    "Other": 4
+  },
+  "general": {
+    "total_races": 117,
+    "total_unopposed": 5,
+    "unopposed_by_party": {
+      "Unknown": 2,
+      "Other": 3
+    }
+  },
+  "primary": {
+    "total_races_by_party": {
+      "Democrat": 45,
+      "Republican": 14
+    },
+    "total_unopposed": 46,
+    "unopposed_by_party": {
+      "Democrat": 35,
+      "Republican": 11
+    }
+  },
+  "scraped_at": "2026-07-01T05:46:58.105702+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "RI",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Wilfred Curioso",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Gabe Amo",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "US House",
+      "district": "District 1",
+      "candidate": "Kellie Keenan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Armando Anzoli",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 1",
+      "candidate": "Jake Bissaillon",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 2",
+      "candidate": "Ana Quezada",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "Sam Zurier",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 4",
+      "candidate": "Stefano Famiglietti",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 5",
+      "candidate": "William Connell",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 6",
+      "candidate": "Tiara Mack",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 7",
+      "candidate": "Frank Ciccone",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 8",
+      "candidate": "Adam Carreiro",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 9",
+      "candidate": "John Burke",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 10",
+      "candidate": "Walter Felag",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 11",
+      "candidate": "Linda Ujifusa",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 12",
+      "candidate": "Louis DiPalma",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Valarie Lawson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Nelly Burdette",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 17",
+      "candidate": "Thomas Paolino",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 18",
+      "candidate": "Robert Britto",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 20",
+      "candidate": "Brian Thompson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 21",
+      "candidate": "Gordon Rogers",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 22",
+      "candidate": "David Tikoian",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 23",
+      "candidate": "Jessica de la Cruz",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 24",
+      "candidate": "Melissa Murray",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 25",
+      "candidate": "Andrew Dimitri",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 26",
+      "candidate": "Todd Patalano",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 27",
+      "candidate": "Hanna Gallo",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 28",
+      "candidate": "Lammis Vargas",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 29",
+      "candidate": "Peter Appollonio Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 30",
+      "candidate": "Mark McKenney",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 31",
+      "candidate": "Matthew LaMountain",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 32",
+      "candidate": "Pamela Lauria",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 33",
+      "candidate": "Leonidas Raptakis",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 33",
+      "candidate": "James Pierson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 34",
+      "candidate": "Samantha Wilcox",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 34",
+      "candidate": "Elaine Morgan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 35",
+      "candidate": "Bridget Valverde",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 37",
+      "candidate": "V. Susan Sosnowski",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 38",
+      "candidate": "Victoria Gu",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 38",
+      "candidate": "Westin Place",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 3",
+      "candidate": "Peder Schaefer",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 14",
+      "candidate": "Brian Coogan",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State Senate",
+      "district": "District 19",
+      "candidate": "James Purcell",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State House",
+      "district": "District 7",
+      "candidate": "Amy Santiago",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State House",
+      "district": "District 18",
+      "candidate": "Jessica Gomes",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State House",
+      "district": "District 32",
+      "candidate": "Kevin Hoyle",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State House",
+      "district": "District 46",
+      "candidate": "Mary Ann Shallcross-Smith",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Suzy Alba",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State House",
+      "district": "District 53",
+      "candidate": "Paul Santucci",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "RI",
+      "office": "State House",
+      "district": "District 67",
+      "candidate": "Nicole Jellinek",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    }
+  ]
 }
