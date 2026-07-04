@@ -1,8 +1,2116 @@
 {
-  "error": true,
-  "message": "Scraping failed: only found 0 races",
   "state": "MA",
   "state_name": "Massachusetts",
   "year": 2026,
-  "scraped_at": "2026-07-03T07:25:59.398255+00:00"
+  "total": 231,
+  "total_races": 211,
+  "total_races_by_party": {
+    "Democrat": 199,
+    "Unknown": 7,
+    "Republican": 65,
+    "American Independent": 1,
+    "Other": 16
+  },
+  "general": {
+    "total_races": 207,
+    "total_unopposed": 21,
+    "unopposed_by_party": {
+      "Democrat": 1,
+      "Unknown": 4,
+      "Other": 16
+    }
+  },
+  "primary": {
+    "total_races_by_party": {
+      "Democrat": 199,
+      "Republican": 65
+    },
+    "total_unopposed": 211,
+    "unopposed_by_party": {
+      "Republican": 58,
+      "Democrat": 153
+    }
+  },
+  "scraped_at": "2026-07-04T06:52:55.209740+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "MA",
+      "office": "US Senate",
+      "district": "Statewide",
+      "candidate": "John Deaton",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "US House",
+      "district": "District 2",
+      "candidate": "Jim McGovern",
+      "party": "Democrat",
+      "unopposed_in": "Primary & General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Kevin Ades",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Lori Trahan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "US House",
+      "district": "District 3",
+      "candidate": "Gary Grossi",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "US House",
+      "district": "District 4",
+      "candidate": "Thomas Stalcup",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "US House",
+      "district": "District 5",
+      "candidate": "Derek Fleming",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "US House",
+      "district": "District 6",
+      "candidate": "Micah Jones",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "US House",
+      "district": "District 7",
+      "candidate": "Kelechi Linardon",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "US House",
+      "district": "District 7",
+      "candidate": "Ayanna Pressley",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "US House",
+      "district": "District 8",
+      "candidate": "Robert Burke",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Andrea James",
+      "party": "Unknown",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "1st Bristol and Plymouth District",
+      "candidate": "Michael Rodrigues",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "1st Essex District",
+      "candidate": "Pavel Payano",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "1st Essex and Middlesex District",
+      "candidate": "Bruce Tarr",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "1st Middlesex District",
+      "candidate": "Vanna Howard",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "1st Middlesex District",
+      "candidate": "Sam Meas",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "1st Plymouth and Norfolk District",
+      "candidate": "Patrick O'Connor",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "1st Worcester District",
+      "candidate": "Robyn Kennedy",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "2nd Bristol and Plymouth District",
+      "candidate": "Mark Montigny",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "2nd Bristol and Plymouth District",
+      "candidate": "Robert McConnell",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "2nd Essex District",
+      "candidate": "Joan Lovely",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "2nd Essex and Middlesex District",
+      "candidate": "Barry Finegold",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "2nd Essex and Middlesex District",
+      "candidate": "Ted Semesnyei",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "2nd Plymouth and Norfolk District",
+      "candidate": "Michael Brady",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "2nd Suffolk District",
+      "candidate": "Liz Miranda",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "2nd Worcester District",
+      "candidate": "Michael Moore",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "3rd Bristol and Plymouth District",
+      "candidate": "Marc Pacheco",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "3rd Bristol and Plymouth District",
+      "candidate": "Kelly Dooner",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "3rd Essex District",
+      "candidate": "Brendan Crighton",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "3rd Middlesex District",
+      "candidate": "Mike Barrett",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "3rd Suffolk District",
+      "candidate": "Lydia Edwards",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "4th Middlesex District",
+      "candidate": "Cindy Friedman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Berkshire, Hampden, Franklin, and Hampshire District",
+      "candidate": "Paul Mark",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Bristol and Norfolk District",
+      "candidate": "Paul Feeney",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Cape and Islands District",
+      "candidate": "Julian Andre Cyr",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Hampden, Hampshire, and Worcester District",
+      "candidate": "Jacob Oliveira",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Hampden District",
+      "candidate": "Adam Gomez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Hampden and Hampshire District",
+      "candidate": "John Velis",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Hampshire, Franklin and Worcester District",
+      "candidate": "Jo Comerford",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Middlesex and Norfolk District",
+      "candidate": "Karen Spilka",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Middlesex and Suffolk District",
+      "candidate": "Sal DiDomenico",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Middlesex and Worcester District",
+      "candidate": "James Eldridge",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Middlesex and Worcester District",
+      "candidate": "Joseph Shea",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Norfolk, Worcester, and Middlesex District",
+      "candidate": "Becca Rausch",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Norfolk and Middlesex District",
+      "candidate": "Cynthia Stone Creem",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Norfolk and Plymouth District",
+      "candidate": "John Keenan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Plymouth and Barnstable District",
+      "candidate": "Dylan Fernandes",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Plymouth and Barnstable District",
+      "candidate": "Kari MacRae",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Worcester and Hampden District",
+      "candidate": "Anthony Allard",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Worcester and Hampden District",
+      "candidate": "Ryan Fattman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Worcester and Hampshire District",
+      "candidate": "Shannon Teabo",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Worcester and Hampshire District",
+      "candidate": "Peter Durant",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Worcester and Middlesex District",
+      "candidate": "John J. Cronin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "1st Middlesex District",
+      "candidate": "Joseph Espinola III",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Norfolk and Plymouth District",
+      "candidate": "Alexander Mendez",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Suffolk and Middlesex District",
+      "candidate": "Brandon Charles Wood",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State Senate",
+      "district": "Worcester and Middlesex District",
+      "candidate": "Ming Zhang",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "1st Bristol District",
+      "candidate": "Michael Chaisson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "1st Hampden District",
+      "candidate": "Todd Smola",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "1st Hampshire District",
+      "candidate": "Lindsay Sabadosa",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "1st Middlesex District",
+      "candidate": "Margaret Scarsdale",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "1st Norfolk District",
+      "candidate": "Bruce Ayers",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "1st Plymouth District",
+      "candidate": "Michelle Badger",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "1st Plymouth District",
+      "candidate": "David Golden",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "1st Suffolk District",
+      "candidate": "Adrian Madaro",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "1st Worcester District",
+      "candidate": "Krista Ferrante",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "1st Worcester District",
+      "candidate": "Stephanie Mulroy",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "2nd Barnstable District",
+      "candidate": "Kip Diggs",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "2nd Berkshire District",
+      "candidate": "Tricia Farley-Bouvier",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "2nd Bristol District",
+      "candidate": "James Hawkins",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "2nd Essex District",
+      "candidate": "Kristin Kassner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "2nd Essex District",
+      "candidate": "Daniel Kelly",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "2nd Hampden District",
+      "candidate": "Brian Michael Ashe",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "2nd Hampden District",
+      "candidate": "Peter Warren",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "2nd Hampshire District",
+      "candidate": "Homar Gomez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "2nd Middlesex District",
+      "candidate": "James Arciero",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "2nd Norfolk District",
+      "candidate": "Tackey Chan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "2nd Norfolk District",
+      "candidate": "Sharon Cintolo",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "2nd Plymouth District",
+      "candidate": "Sarah Hewins",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "2nd Suffolk District",
+      "candidate": "Daniel Joseph Ryan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "2nd Worcester District",
+      "candidate": "Michael Nicholson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "3rd Barnstable District",
+      "candidate": "Jack Richardson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "3rd Barnstable District",
+      "candidate": "David Vieira",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "3rd Berkshire District",
+      "candidate": "Leigh Davis",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "3rd Bristol District",
+      "candidate": "Lawrence Quintal",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "3rd Essex District",
+      "candidate": "Andy Vargas",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "3rd Hampden District",
+      "candidate": "Thomas Hendrickson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "3rd Hampden District",
+      "candidate": "Nicholas Boldyga",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "3rd Hampshire District",
+      "candidate": "Mindy Domb",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "3rd Middlesex District",
+      "candidate": "Kate Hogan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "3rd Norfolk District",
+      "candidate": "Ronald Mariano",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "3rd Plymouth District",
+      "candidate": "Joan Meschino",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "3rd Suffolk District",
+      "candidate": "Aaron Michlewitz",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "3rd Worcester District",
+      "candidate": "Michael Kushmerek",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "4th Barnstable District",
+      "candidate": "Hadley Luddy",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "4th Bristol District",
+      "candidate": "Steven Howitt",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "4th Essex District",
+      "candidate": "Estela Reyes",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "4th Hampden District",
+      "candidate": "Colby Hoffman",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "4th Hampden District",
+      "candidate": "Kelly Pease",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "4th Middlesex District",
+      "candidate": "Danielle Gregoire",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "4th Norfolk District",
+      "candidate": "James Murphy",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "4th Suffolk District",
+      "candidate": "David Biele",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "4th Worcester District",
+      "candidate": "Natalie Higgins",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "4th Worcester District",
+      "candidate": "Josh Bowdridge",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "5th Barnstable District",
+      "candidate": "Steven Xiarhos",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "5th Bristol District",
+      "candidate": "Jamison Souza",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "5th Bristol District",
+      "candidate": "Justin Thurber",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "5th Essex District",
+      "candidate": "Christina Delisio",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "5th Middlesex District",
+      "candidate": "David Linsky",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "5th Middlesex District",
+      "candidate": "Luisa Cestari",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "5th Norfolk District",
+      "candidate": "Mark Cusack",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "5th Plymouth District",
+      "candidate": "Lori Childs",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "5th Plymouth District",
+      "candidate": "David DeCoste",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "5th Suffolk District",
+      "candidate": "Christopher Worrell",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "5th Worcester District",
+      "candidate": "Donald Berthiaume Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "6th Bristol District",
+      "candidate": "Carole Fiola",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "6th Bristol District",
+      "candidate": "Robert Anctil",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "6th Essex District",
+      "candidate": "Hannah Bowen",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "6th Hampden District",
+      "candidate": "Michael Finn",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "6th Middlesex District",
+      "candidate": "Priscila Sousa",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "6th Plymouth District",
+      "candidate": "Jessica Rushing",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "6th Plymouth District",
+      "candidate": "Kenneth Sweezey",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "6th Suffolk District",
+      "candidate": "Russell Holmes",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "6th Worcester District",
+      "candidate": "Jeanne Renaud Costello",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "6th Worcester District",
+      "candidate": "John J. Marsi Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "7th Bristol District",
+      "candidate": "Alan Silvia",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "7th Bristol District",
+      "candidate": "Talos Farris",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "7th Essex District",
+      "candidate": "Manny Cruz",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "7th Hampden District",
+      "candidate": "Aaron Saunders",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "7th Middlesex District",
+      "candidate": "Jack Patrick Lewis",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "7th Plymouth District",
+      "candidate": "Rosemary Aahanna-Hill",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "7th Plymouth District",
+      "candidate": "Alyson Sullivan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "7th Suffolk District",
+      "candidate": "Chynah Tyler",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "7th Worcester District",
+      "candidate": "Nick Lazzaro",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "7th Worcester District",
+      "candidate": "Paul Frost",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "8th Bristol District",
+      "candidate": "Steven Ouellette",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "8th Essex District",
+      "candidate": "Jenny Armini",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "8th Hampden District",
+      "candidate": "Shirley Arriaga",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "8th Middlesex District",
+      "candidate": "James Arena-DeRosa",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "8th Norfolk District",
+      "candidate": "Edward Philips",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "8th Plymouth District",
+      "candidate": "Dennis Gallagher",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "8th Plymouth District",
+      "candidate": "John Norris",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "8th Suffolk District",
+      "candidate": "Jay Livingstone",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "8th Worcester District",
+      "candidate": "Michael Soter",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "9th Essex District",
+      "candidate": "Donald Wong",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "9th Hampden District",
+      "candidate": "Orlando Ramos",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "9th Middlesex District",
+      "candidate": "Thomas Stanley",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "9th Norfolk District",
+      "candidate": "Thomas Melville",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "9th Norfolk District",
+      "candidate": "Marcus Vaughn",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "9th Plymouth District",
+      "candidate": "Bridget Plouffe",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "9th Plymouth District",
+      "candidate": "Lawrence Novak",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "9th Suffolk District",
+      "candidate": "John Moran",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "9th Worcester District",
+      "candidate": "David Muradian Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "10th Bristol District",
+      "candidate": "Mark Sylvia",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "10th Essex District",
+      "candidate": "Dan Cahill",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "10th Hampden District",
+      "candidate": "Carlos Gonzalez",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "10th Norfolk District",
+      "candidate": "Jeffrey Roy",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "10th Suffolk District",
+      "candidate": "Bill MacGregor",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "10th Worcester District",
+      "candidate": "Brian Murray",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "11th Bristol District",
+      "candidate": "Christopher Hendricks",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "11th Essex District",
+      "candidate": "Sean Reid",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "11th Middlesex District",
+      "candidate": "Amy Sangiolo",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "11th Norfolk District",
+      "candidate": "Paul McMurtry",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "11th Plymouth District",
+      "candidate": "Rita Mendes",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "11th Suffolk District",
+      "candidate": "Judith Garc\u00eda",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "11th Worcester District",
+      "candidate": "Hannah Kane",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "12th Bristol District",
+      "candidate": "Norman Orrall",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "12th Essex District",
+      "candidate": "Thomas Walsh",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "12th Middlesex District",
+      "candidate": "Greg Schwartz",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "12th Norfolk District",
+      "candidate": "John Rogers",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "12th Plymouth District",
+      "candidate": "Kathleen LaNatra",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "12th Plymouth District",
+      "candidate": "Eric Meschino",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "12th Suffolk District",
+      "candidate": "Brandy Fluker Oakley",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "12th Worcester District",
+      "candidate": "Meghan Kilcoyne",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "12th Worcester District",
+      "candidate": "Lisa Mair",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "13th Bristol District",
+      "candidate": "Antonio Cabral",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "13th Essex District",
+      "candidate": "Sally Kerans",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "13th Middlesex District",
+      "candidate": "Ravi Simon",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "13th Norfolk District",
+      "candidate": "Joshua Tarsky",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "13th Suffolk District",
+      "candidate": "Daniel Hunt",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "13th Worcester District",
+      "candidate": "John Mahoney",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "14th Bristol District",
+      "candidate": "Adam Scanlon",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "14th Essex District",
+      "candidate": "Adrianne Ramos",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "14th Middlesex District",
+      "candidate": "Simon Cataldo",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "14th Norfolk District",
+      "candidate": "Alice Peisch",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "14th Suffolk District",
+      "candidate": "Rob Consalvo",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "15th Essex District",
+      "candidate": "Ryan Hamilton",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "15th Essex District",
+      "candidate": "Ronald Heiseler III",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "15th Middlesex District",
+      "candidate": "Michelle Ciccolo",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "15th Norfolk District",
+      "candidate": "Tommy Vitolo",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "16th Middlesex District",
+      "candidate": "Karla Miller",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "16th Suffolk District",
+      "candidate": "Jessica Giannino",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "16th Worcester District",
+      "candidate": "Daniel M. Donahue",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "17th Essex District",
+      "candidate": "Frank Moran",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "17th Suffolk District",
+      "candidate": "Kevin Honan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "17th Worcester District",
+      "candidate": "David LeBoeuf",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "18th Essex District",
+      "candidate": "Christopher Shepley",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "18th Suffolk District",
+      "candidate": "Michael Moran",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "18th Worcester District",
+      "candidate": "Jenifer Heck",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "18th Worcester District",
+      "candidate": "Joseph McKenna",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "19th Middlesex District",
+      "candidate": "David Allen Robertson",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "19th Worcester District",
+      "candidate": "Kate Donaghue",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "20th Middlesex District",
+      "candidate": "Joseph Markey",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "20th Middlesex District",
+      "candidate": "Trevor Currier",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "21st Middlesex District",
+      "candidate": "Kenneth Gordon",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "22nd Middlesex District",
+      "candidate": "Daniel Darris-O'Connor",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "22nd Middlesex District",
+      "candidate": "Marc Lombardo",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "23rd Middlesex District",
+      "candidate": "Sean Garballey",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "28th Middlesex District",
+      "candidate": "Joseph McGonagle Jr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "29th Middlesex District",
+      "candidate": "Steven Owens",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "31st Middlesex District",
+      "candidate": "Michael Day",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "31st Middlesex District",
+      "candidate": "Stephen Ternullo",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "33rd Middlesex District",
+      "candidate": "Steven Ultrino",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "35th Middlesex District",
+      "candidate": "Paul Donato Sr.",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "35th Middlesex District",
+      "candidate": "James Seibel",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "36th Middlesex District",
+      "candidate": "Colleen Garry",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "37th Middlesex District",
+      "candidate": "Danillo Sena",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "Barnstable, Dukes, and Nantucket District",
+      "candidate": "Thomas Moakley",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "1st Barnstable District",
+      "candidate": "Joe Glynn",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "1st Franklin District",
+      "candidate": "Amy Lavallee",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "2nd Bristol District",
+      "candidate": "Andrew Nelson",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "2nd Franklin District",
+      "candidate": "Susannah Whipps",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "2nd Worcester District",
+      "candidate": "John Reilly Jr.",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "3rd Hampden District",
+      "candidate": "Jason Perron",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "4th Suffolk District",
+      "candidate": "Charles Delaney",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "5th Essex District",
+      "candidate": "Gilbert Frieden",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "5th Hampden District",
+      "candidate": "Jose Candelario Gonzalez",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "5th Norfolk District",
+      "candidate": "Stephen Foley",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "7th Worcester District",
+      "candidate": "Terry Burke Dotson",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "MA",
+      "office": "State House",
+      "district": "10th Suffolk District",
+      "candidate": "Devin Kreinbring",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    }
+  ]
 }
