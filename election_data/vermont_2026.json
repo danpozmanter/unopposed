@@ -1,8 +1,1070 @@
 {
-  "error": true,
-  "message": "Scraping failed: only found 0 races",
   "state": "VT",
   "state_name": "Vermont",
   "year": 2026,
-  "scraped_at": "2026-07-08T06:37:08.091375+00:00"
+  "total": 115,
+  "total_races": 126,
+  "total_races_by_party": {
+    "Republican": 88,
+    "Democrat": 104,
+    "Other": 9
+  },
+  "general": {
+    "total_races": 125,
+    "total_unopposed": 7,
+    "unopposed_by_party": {
+      "Other": 7
+    }
+  },
+  "primary": {
+    "total_races_by_party": {
+      "Democrat": 104,
+      "Republican": 88,
+      "Other": 1
+    },
+    "total_unopposed": 108,
+    "unopposed_by_party": {
+      "Republican": 57,
+      "Other": 1,
+      "Democrat": 50
+    }
+  },
+  "scraped_at": "2026-07-10T07:48:13.515447+00:00",
+  "unopposed_candidates": [
+    {
+      "state": "VT",
+      "office": "Governor",
+      "district": "Statewide",
+      "candidate": "Phil Scott",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State Senate",
+      "district": "Bennington District(2 seats)",
+      "candidate": "Rachel Shaw",
+      "party": "Other",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State Senate",
+      "district": "Caledonia District",
+      "candidate": "David Roth",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State Senate",
+      "district": "Caledonia District",
+      "candidate": "Scott Beck",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State Senate",
+      "district": "Chittenden North District",
+      "candidate": "Irene Wrenner",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State Senate",
+      "district": "Essex District",
+      "candidate": "Russ Ingalls",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State Senate",
+      "district": "Grand Isle District",
+      "candidate": "Kim Gleason",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State Senate",
+      "district": "Grand Isle District",
+      "candidate": "Patrick Brennan",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State Senate",
+      "district": "Lamoille District",
+      "candidate": "Richard Westman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State Senate",
+      "district": "Orleans District",
+      "candidate": "Gaston Bathalon",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State Senate",
+      "district": "Orleans District",
+      "candidate": "John Morley, III",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State Senate",
+      "district": "Rutland District(3 seats)",
+      "candidate": "David Wolk",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Addison-2 District",
+      "candidate": "Tanya Byker",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Addison-2 District",
+      "candidate": "Annie Wilson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Addison-5 District",
+      "candidate": "Jubilee McGill",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Addison-5 District",
+      "candidate": "Del Thompson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Addison-Rutland District",
+      "candidate": "Jonathan Hescock",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Addison-Rutland District",
+      "candidate": "Jim Casey",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Bennington-1 District",
+      "candidate": "Jonathan Cooper",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Bennington-1 District",
+      "candidate": "Charles Jewett",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Bennington-2 District(2 seats)",
+      "candidate": "Anthony Cook",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Bennington-3 District",
+      "candidate": "David Durfee",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Bennington-3 District",
+      "candidate": "Victor Harwood Jr.",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Bennington-4 District(2 seats)",
+      "candidate": "Al Clayton",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Bennington-5 District(2 seats)",
+      "candidate": "Mary Morrissey",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Bennington-Rutland District",
+      "candidate": "Mike Rice",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Bennington-Rutland District",
+      "candidate": "Sandy Pinsonault",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Caledonia-Washington District",
+      "candidate": "Eric Bach",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Caledonia-Washington District",
+      "candidate": "Greg Burtt",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Caledonia-1 District",
+      "candidate": "David Tucker",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Caledonia-1 District",
+      "candidate": "Debra Powers",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Caledonia-2 District",
+      "candidate": "Audrey Grant",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Caledonia-2 District",
+      "candidate": "Michael Southworth",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Caledonia-3 District(2 seats)",
+      "candidate": "Dennis LaBounty",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Chittenden-1 District",
+      "candidate": "Jana Brown",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Chittenden-5 District",
+      "candidate": "Chea Waters Evans",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Chittenden-6 District",
+      "candidate": "Kate Lalley",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Chittenden-6 District",
+      "candidate": "Deb Mayfield",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Chittenden-7 District",
+      "candidate": "Shawn Sweeney",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Chittenden-8 District",
+      "candidate": "Bridget Burkhardt",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Chittenden-8 District",
+      "candidate": "Mitchel Cypes",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Chittenden-9 District",
+      "candidate": "Emilie Krasnow",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Chittenden-10 District",
+      "candidate": "Kate Nugent",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Chittenden-11 District",
+      "candidate": "Brian Minier",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Chittenden-12 District",
+      "candidate": "Martin LaLonde",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Chittenden-17 District",
+      "candidate": "Abbey Duke",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Chittenden-19 District(2 seats)",
+      "candidate": "Alex Thibault",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Chittenden-20 District(2 seats)",
+      "candidate": "Doug Wood",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Chittenden-24 District",
+      "candidate": "Alyssa Black",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Chittenden-24 District",
+      "candidate": "Stephanie Mack",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Chittenden-25 District",
+      "candidate": "Julia Andrews",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Chittenden-25 District",
+      "candidate": "Brenda Steady",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Essex-Caledonia District",
+      "candidate": "John Kascenska",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Franklin-3 District",
+      "candidate": "Suzanne Kenyon",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Franklin-3 District",
+      "candidate": "Joe Luneau",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Franklin-6 District",
+      "candidate": "James Gregoire",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Franklin-7 District",
+      "candidate": "Allen Demar",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Franklin-8 District",
+      "candidate": "Zach Scheffler",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Franklin-8 District",
+      "candidate": "Jack Brigham",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Lamoille-Washington District(2 seats)",
+      "candidate": "Susanna Burnham",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Orange-Caledonia District",
+      "candidate": "Tom Otterman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Orange-1 District",
+      "candidate": "Michael Tagliavia",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Orange-2 District",
+      "candidate": "Nicholas DiLorenzo",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Orange-3 District",
+      "candidate": "Fran Covey",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Orleans-1 District",
+      "candidate": "Richard Nelson",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Orleans-2 District",
+      "candidate": "Xavier Stevens",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Orleans-2 District",
+      "candidate": "Woodman Page",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Orleans-3 District",
+      "candidate": "Ken Wells",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Orleans-4 District",
+      "candidate": "Leanne Harple",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Rutland-Bennington District",
+      "candidate": "Jessica Van Oort",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Rutland-Bennington District",
+      "candidate": "Chris Pritchard",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Rutland-Windsor District",
+      "candidate": "Phoebe Tucker",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Rutland-Windsor District",
+      "candidate": "Kevin Winter",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Rutland-1 District",
+      "candidate": "Patricia McCoy",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Rutland-3 District",
+      "candidate": "Chris Brown",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Rutland-4 District",
+      "candidate": "Anna Tadio",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Rutland-4 District",
+      "candidate": "Christopher Howland",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Rutland-5 District",
+      "candidate": "Eric Maguire",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Rutland-6 District",
+      "candidate": "Mary Howard",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Rutland-7 District",
+      "candidate": "Chris Keyser",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Rutland-8 District",
+      "candidate": "Genevieve Duchesneau",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Rutland-8 District",
+      "candidate": "Alicia Malay",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Rutland-9 District",
+      "candidate": "Jeff Haylon",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Rutland-9 District",
+      "candidate": "Aida Nielsen",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Rutland-10 District",
+      "candidate": "William Canfield",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Rutland-11 District",
+      "candidate": "Valorie Taylor",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Washington-3 District(2 seats)",
+      "candidate": "Michael Boutin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Washington-5 District",
+      "candidate": "Elanor Chapin",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Washington-6 District",
+      "candidate": "Marc Mihaly",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Windham-Windsor-Bennigton District",
+      "candidate": "Christopher Morrow",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Windham-Windsor-Bennigton District",
+      "candidate": "E. Stuart Coleman",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Windham-1 District",
+      "candidate": "Zon Eastes",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Windham-1 District",
+      "candidate": "Nancy Gassett",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Windham-4 District",
+      "candidate": "Mike Mrowicki",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Windham-4 District",
+      "candidate": "Lynne Wilkins",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Windham-5 District",
+      "candidate": "Emily Long",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Windham-6 District",
+      "candidate": "Emily Carris-Duncan",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Windham-7 District",
+      "candidate": "Emilie Kornheiser",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Windham-7 District",
+      "candidate": "Aaron Smith",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Windham-8 District",
+      "candidate": "Bill Harvey",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Windham-9 District",
+      "candidate": "Ian Goodnow",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Windsor-Addison District",
+      "candidate": "Kirk White",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Windsor-Addison District",
+      "candidate": "Michael White",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Windsor-Windham District",
+      "candidate": "Will Hoser",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Windsor-Windham District",
+      "candidate": "Thomas Charlton",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Windsor-2 District",
+      "candidate": "Mark Yuengling",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Windsor-2 District",
+      "candidate": "VL Coffin",
+      "party": "Republican",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Windsor-4 District",
+      "candidate": "Michael Hoyt",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Windsor-5 District",
+      "candidate": "Charlie Kimbell",
+      "party": "Democrat",
+      "unopposed_in": "Primary",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Chittenden-21 District(2 seats)",
+      "candidate": "Chloe Tomlinson",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Lamoille-1 District",
+      "candidate": "Jed Lipsky",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Washington-1 District(2 seats)",
+      "candidate": "Anne Donahue",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Washington-2 District(2 seats)",
+      "candidate": "John Burns",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Washington-Chittenden District(2 seats)",
+      "candidate": "James Haddad",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    },
+    {
+      "state": "VT",
+      "office": "State House",
+      "district": "Windham-2 District",
+      "candidate": "Laura Sibilia",
+      "party": "Other",
+      "unopposed_in": "General",
+      "source": "Ballotpedia"
+    }
+  ]
 }
